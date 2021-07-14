@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Carvedilol	Insulin aspart	0
+05-09	Female	Carvedilol	Insulin aspart	0
+10-14	Female	Carvedilol	Insulin aspart	0
+15-19	Female	Carvedilol	Insulin aspart	0
+20-24	Female	Carvedilol	Insulin aspart	0
+25-29	Female	Carvedilol	Insulin aspart	6.48971380362126e-05
+30-34	Female	Carvedilol	Insulin aspart	7.36214385629095e-05
+35-39	Female	Carvedilol	Insulin aspart	0.000170053566873565
+40-44	Female	Carvedilol	Insulin aspart	0.00040908161178155
+45-49	Female	Carvedilol	Insulin aspart	0.000390015600624025
+50-54	Female	Carvedilol	Insulin aspart	0.000369378520639025
+55-59	Female	Carvedilol	Insulin aspart	0.000787263820853744
+60-64	Female	Carvedilol	Insulin aspart	0.000925411808254673
+65-69	Female	Carvedilol	Insulin aspart	0.00190412186379928
+70-74	Female	Carvedilol	Insulin aspart	0.00142630744849445
+75-79	Female	Carvedilol	Insulin aspart	0.00132216835610401
+80-84	Female	Carvedilol	Insulin aspart	0.00150920615756112
+85-89	Female	Carvedilol	Insulin aspart	0.00221238938053097
+>90	Female	Carvedilol	Insulin aspart	0

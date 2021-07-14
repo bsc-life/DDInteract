@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Rabies virus inactivated antigen, B	0	0	0.0135832654170062	2
+05-09	Female	Rabies virus inactivated antigen, B	0	0	0.0444691495275153	4
+10-14	Female	Rabies virus inactivated antigen, B	0	0	0.0122684333210649	1
+15-19	Female	Rabies virus inactivated antigen, B	0	0	0.0576590428598885	6
+20-24	Female	Rabies virus inactivated antigen, B	0	0	0.0451297480255735	6
+25-29	Female	Rabies virus inactivated antigen, B	0	0	0.0324485690181063	5
+30-34	Female	Rabies virus inactivated antigen, B	0	0	0.0441728631377457	6
+35-39	Female	Rabies virus inactivated antigen, B	0	0	0.00850267834367826	1
+40-44	Female	Rabies virus inactivated antigen, B	0	0	0.0204540805890775	2
+45-49	Female	Rabies virus inactivated antigen, B	0	0	0.0487519500780031	5
+50-54	Female	Rabies virus inactivated antigen, B	0	0	0.073875704127805	8
+55-59	Female	Rabies virus inactivated antigen, B	0	0	0	0
+60-64	Female	Rabies virus inactivated antigen, B	0	0	0.00925411808254673	1
+65-69	Female	Rabies virus inactivated antigen, B	0	0	0.0112007168458781	1
+70-74	Female	Rabies virus inactivated antigen, B	0	0	0.0158478605388273	1
+75-79	Female	Rabies virus inactivated antigen, B	0	0	0	0
+80-84	Female	Rabies virus inactivated antigen, B	0	0	0	0
+85-89	Female	Rabies virus inactivated antigen, B	0	0	0	0
+>90	Female	Rabies virus inactivated antigen, B	0	0	0	0

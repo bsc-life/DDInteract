@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Isosorbide mononitrate	0	0.0373343289154377	0.0373343289154377	2
+05-09	Female	Isosorbide mononitrate	0	0	0	0
+10-14	Female	Isosorbide mononitrate	0	0	0	0
+15-19	Female	Isosorbide mononitrate	0	0	0	0
+20-24	Female	Isosorbide mononitrate	0	0	0	0
+25-29	Female	Isosorbide mononitrate	0	0	0	0
+30-34	Female	Isosorbide mononitrate	0	0	0	0
+35-39	Female	Isosorbide mononitrate	0	0	0	0
+40-44	Female	Isosorbide mononitrate	0	0.0464828013634955	0.0464828013634955	3
+45-49	Female	Isosorbide mononitrate	0	0.125086865879083	0.125086865879083	9
+50-54	Female	Isosorbide mononitrate	0	0.286142526229732	0.2997683608121	22
+55-59	Female	Isosorbide mononitrate	0	0.313873195229127	0.313873195229127	20
+60-64	Female	Isosorbide mononitrate	0	0.446907400786557	0.464783696818019	26
+65-69	Female	Isosorbide mononitrate	0	1.05465004793864	1.03068072866731	43
+70-74	Female	Isosorbide mononitrate	0	1.39837398373984	1.39837398373984	43
+75-79	Female	Isosorbide mononitrate	0	1.46299483648881	1.46299483648881	34
+80-84	Female	Isosorbide mononitrate	0	1.63398692810458	1.63398692810458	25
+85-89	Female	Isosorbide mononitrate	0	0.963855421686747	0.963855421686747	8
+>90	Female	Isosorbide mononitrate	0	1.77514792899408	1.77514792899408	6

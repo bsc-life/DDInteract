@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Male	Coenzyme M	0	0.0011	0.0011	2
+10-14	Male	Coenzyme M	0	8e-04	8e-04	2
+15-19	Male	Coenzyme M	0	0.0011	0.0011	3
+20-24	Male	Coenzyme M	0	0.0027	0.0027	8
+25-29	Male	Coenzyme M	0	0.0022	0.0022	8
+30-34	Male	Coenzyme M	0	0.0011	0.0011	5
+35-39	Male	Coenzyme M	0	9e-04	9e-04	5
+40-44	Male	Coenzyme M	0	0.0011	0.0011	6
+45-49	Male	Coenzyme M	0	0.001	0.0012	6
+50-54	Male	Coenzyme M	0	0.0037	0.004	18
+55-59	Male	Coenzyme M	0	0.0061	0.0066	28
+60-64	Male	Coenzyme M	0	0.009	0.0092	38
+65-69	Male	Coenzyme M	0	0.0061	0.0064	24
+70-74	Male	Coenzyme M	0	0.0148	0.0154	52
+75-79	Male	Coenzyme M	0	0.0144	0.0144	41
+80-84	Male	Coenzyme M	0	0.0193	0.0198	44
+85-89	Male	Coenzyme M	0	0.0244	0.025	37
+>90	Male	Coenzyme M	0	0.0397	0.0397	27

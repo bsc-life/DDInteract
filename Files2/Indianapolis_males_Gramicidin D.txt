@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Gramicidin D	0	0	0	0
+05-09	Male	Gramicidin D	0	0	0	0
+10-14	Male	Gramicidin D	0	0	0.0116945386504502	1
+15-19	Male	Gramicidin D	0	0	0	0
+20-24	Male	Gramicidin D	0	0	0	0
+25-29	Male	Gramicidin D	0	0	0	0
+30-34	Male	Gramicidin D	0	0	0.0130753138075314	1
+35-39	Male	Gramicidin D	0	0	0	0
+40-44	Male	Gramicidin D	0	0	0	0
+45-49	Male	Gramicidin D	0	0	0.0137760022041604	1
+50-54	Male	Gramicidin D	0	0	0	0
+55-59	Male	Gramicidin D	0	0	0	0
+60-64	Male	Gramicidin D	0	0	0	0
+65-69	Male	Gramicidin D	0	0	0	0
+70-74	Male	Gramicidin D	0	0	0	0
+75-79	Male	Gramicidin D	0	0	0	0
+80-84	Male	Gramicidin D	0	0	0	0
+85-89	Male	Gramicidin D	0	0	0	0
+>90	Male	Gramicidin D	0	0	0	0

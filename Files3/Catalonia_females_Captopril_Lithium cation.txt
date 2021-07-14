@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Captopril	Lithium cation	0
+05-09	Female	Captopril	Lithium cation	0
+10-14	Female	Captopril	Lithium cation	0
+15-19	Female	Captopril	Lithium cation	3.33895390574133e-06
+20-24	Female	Captopril	Lithium cation	0
+25-29	Female	Captopril	Lithium cation	2.22172850477672e-06
+30-34	Female	Captopril	Lithium cation	0
+35-39	Female	Captopril	Lithium cation	0
+40-44	Female	Captopril	Lithium cation	1.75817065859315e-06
+45-49	Female	Captopril	Lithium cation	5.66916992014029e-06
+50-54	Female	Captopril	Lithium cation	3.97580326135142e-06
+55-59	Female	Captopril	Lithium cation	4.19976607302973e-06
+60-64	Female	Captopril	Lithium cation	4.3594259507908e-06
+65-69	Female	Captopril	Lithium cation	4.74777448071217e-06
+70-74	Female	Captopril	Lithium cation	1.27753731686503e-05
+75-79	Female	Captopril	Lithium cation	1.39919630164434e-05
+80-84	Female	Captopril	Lithium cation	1.57117089940107e-05
+85-89	Female	Captopril	Lithium cation	1.18664783852096e-05
+>90	Female	Captopril	Lithium cation	6.58041930431807e-06

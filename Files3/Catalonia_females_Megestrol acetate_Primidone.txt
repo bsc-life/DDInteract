@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Megestrol acetate	Primidone	0
+05-09	Female	Megestrol acetate	Primidone	0
+10-14	Female	Megestrol acetate	Primidone	0
+15-19	Female	Megestrol acetate	Primidone	0
+20-24	Female	Megestrol acetate	Primidone	0
+25-29	Female	Megestrol acetate	Primidone	0
+30-34	Female	Megestrol acetate	Primidone	1.8376711560973e-06
+35-39	Female	Megestrol acetate	Primidone	1.70016559612906e-06
+40-44	Female	Megestrol acetate	Primidone	1.75817065859315e-06
+45-49	Female	Megestrol acetate	Primidone	0
+50-54	Female	Megestrol acetate	Primidone	0
+55-59	Female	Megestrol acetate	Primidone	0
+60-64	Female	Megestrol acetate	Primidone	4.3594259507908e-06
+65-69	Female	Megestrol acetate	Primidone	0
+70-74	Female	Megestrol acetate	Primidone	0
+75-79	Female	Megestrol acetate	Primidone	8.39517780986601e-06
+80-84	Female	Megestrol acetate	Primidone	6.28468359760428e-06
+85-89	Female	Megestrol acetate	Primidone	0
+>90	Female	Megestrol acetate	Primidone	1.31608386086361e-05

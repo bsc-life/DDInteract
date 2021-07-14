@@ -1,0 +1,313 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Insulin lispro	Esmolol	0.5	Inf	Moderate	1 (1/0)		#B32020	47.6644423260248	1
+Insulin lispro	Doxycycline	0.804	-3.021	Moderate	9 (4/5)		#5F92C1	428.979980934223	1
+Insulin lispro	Atenolol	1	Inf	Moderate	3 (3/0)		#B32020	142.993326978074	1
+Insulin lispro	Demeclocycline	1	Inf	Moderate	1 (1/0)		#B32020	47.6644423260248	1
+Insulin lispro	Acetylsalicylic acid	0.938	-1.233	Moderate	74 (49/25)		#ABCBE2	3527.16873212583	0.0229512735230225
+Insulin lispro	Carvedilol	1	-1.726	Moderate	24 (14/10)		#96BBD9	1143.94661582459	1
+Insulin lispro	Bismuth subsalicylate	1	Inf	Moderate	1 (1/0)	The salicylate increase the effect of insulin	#B32020	47.6644423260248	1
+Insulin glargine	Doxycycline	0.795	-1.813	Moderate	7 (4/3)		#93B8D7	333.651096282174	1
+Insulin glargine	Metoprolol	0.822	-1.564	Moderate	28 (17/11)		#9DC0DC	1334.60438512869	1
+Insulin glargine	Atenolol	0.011	Inf	Moderate	1 (1/0)		#B32020	47.6644423260248	1
+Insulin glargine	Timolol	1	-2.417	Moderate	2 (1/1)		#79A5CC	95.3288846520496	1
+Insulin glargine	Labetalol	1	Inf	Moderate	1 (1/0)		#B32020	47.6644423260248	1
+Insulin glargine	Demeclocycline	1	Inf	Moderate	1 (1/0)		#B32020	47.6644423260248	1
+Insulin glargine	Acetylsalicylic acid	0.916	-1.692	Moderate	51 (30/21)		#97BCD9	2430.88655862726	0.195464340735133
+Insulin glargine	Minocycline	1	Inf	Moderate	1 (1/0)		#B32020	47.6644423260248	1
+Insulin glargine	Carvedilol	1	-1.813	Moderate	14 (8/6)		#93B8D7	667.302192564347	1
+Cyclosporine	Atorvastatin	1	Inf	Major	1 (1/0)	Possible myopathy and rhabdomyolysis	#B32020	47.6644423260248	1
+Oxytocin	Phenylephrine	0.333	Inf	Moderate	1 (1/0)	Possible marked increase of arterial pressure	#B32020	47.6644423260248	1
+Pravastatin	Colchicine	0.533	-2.417	Major	2 (1/1)	Increased risk of rhabdomyolysis with this combination	#79A5CC	95.3288846520496	1
+Valsartan	Triamterene	1	Inf	Major	1 (1/0)	Increased risk of hyperkaliemia	#B32020	47.6644423260248	1
+Lorazepam	Phenytoin	1	Inf	Moderate	1 (1/0)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#B32020	47.6644423260248	1
+Esmolol	Lidocaine	0.925	1.241	Moderate	12 (9/3)	The beta-blocker increases the effect and toxicity of lidocaine	#F5B2B2	571.973307912297	0.237080503380555
+Esmolol	Epinephrine	0.778	-4.834	Moderate	3 (1/2)	Hypertension, then bradycardia	#1E61A5	142.993326978074	1
+Tramadol	Citalopram	0.776	Inf	Major	4 (4/0)	Increased risk of serotonin syndrome	#B32020	190.657769304099	1
+Tramadol	Fluoxetine	0.61	Inf	Major	5 (5/0)	Increased risk of serotonin syndrome	#B32020	238.322211630124	1
+Tramadol	Escitalopram	0.668	-1.074	Major	13 (9/4)	Increased risk of serotonin syndrome	#B1CFE5	619.637750238322	1
+Fluconazole	Warfarin	1	Inf	Major	2 (2/0)	Increases the anticoagulant effect	#B32020	95.3288846520496	1
+Fluconazole	Midazolam	0.667	Inf	Major	1 (1/0)	Increases the effect of the benzodiazepine	#B32020	47.6644423260248	1
+Fluconazole	Fentanyl	0.541	Inf	Major	3 (3/0)	The imidazole increases levels/toxicity of fentanyl	#B32020	142.993326978074	1
+Fluconazole	Tolterodine	1	Inf	Moderate	1 (1/0)	Increases the effect and toxicity of tolterodine	#B32020	47.6644423260248	1
+Fluconazole	Atorvastatin	0.878	-6.042	Major	7 (2/5)	Increased risk of myopathy/rhabdomyolysis	#1E61A5	333.651096282174	1
+Succinylcholine	Piperacillin	0.569	1.241	Moderate	8 (6/2)	The agent increases the effect of the muscle relaxant	#F5B2B2	381.315538608198	1
+Succinylcholine	Gentamicin	0.5	Inf	Major	1 (1/0)	The agent increases the effect of muscle relaxant	#B32020	47.6644423260248	1
+Succinylcholine	Clindamycin	0.417	Inf	Moderate	3 (3/0)	The agent increases the effect of muscle relaxant	#B32020	142.993326978074	1
+Succinylcholine	Metoclopramide	1	-1.208	Moderate	3 (2/1)	The agent increases the effect of succinylcholine	#ACCCE3	142.993326978074	1
+Azithromycin	Warfarin	0.96	-1.934	Moderate	18 (10/8)	Increases the anticoagulant effect	#8CB4D5	857.959961868446	1
+Torasemide	Gentamicin	1	Inf	Major	4 (4/0)	Increased ototoxicity	#B32020	190.657769304099	1
+Torasemide	Ibuprofen	0.032	Inf	Moderate	1 (1/0)	The NSAID decreases the diuretic and antihypertensive effect of the loop diuretic	#B32020	47.6644423260248	1
+Citalopram	Metoprolol	0.967	-1.208	Moderate	18 (12/6)	The SSRI increases the effect of the beta-blocker	#ACCCE3	857.959961868446	1
+Citalopram	Oxycodone	0.677	Inf	Moderate	3 (3/0)	Increased risk of serotonin syndrome	#B32020	142.993326978074	1
+Citalopram	Carvedilol	1	-1.208	Moderate	6 (4/2)	The SSRI increases the effect of the beta-blocker	#ACCCE3	285.986653956149	1
+Moxifloxacin	Calcium	0.81	Inf	Moderate	3 (3/0)	Formation of non-absorbable complexes	#B32020	142.993326978074	1
+Moxifloxacin	Iron	1	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	47.6644423260248	1
+Butalbital	Metronidazole	0.067	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of metronidazole	#B32020	47.6644423260248	1
+Ranolazine	Diltiazem	1	Inf	Major	1 (1/0)	Increased levels of ranolazine - risk of toxicity	#B32020	47.6644423260248	1
+Mesalazine	Azathioprine	1	Inf	Moderate	1 (1/0)	The 5-ASA derivative increases the toxicity of thiopurine	#B32020	47.6644423260248	1
+Phenytoin	Warfarin	0.011	Inf	Moderate	1 (1/0)	Increased hydantoin levels and risk of bleeding	#B32020	47.6644423260248	1
+Phenytoin	Furosemide	0.944	-2.417	Minor	4 (2/2)	The hydantoin decreases the effect of furosemide	#79A5CC	190.657769304099	1
+Phenytoin	Quetiapine	1	Inf	Major	1 (1/0)	Phenytoin decreases the effect of quetiapine	#B32020	47.6644423260248	1
+Doxycycline	Piperacillin	0.92	-1.208	Moderate	12 (8/4)	Possible antagonism of action	#ACCCE3	571.973307912297	1
+Doxycycline	Aztreonam	1	Inf	None	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Doxycycline	Digoxin	0.944	Inf	Moderate	3 (3/0)	The tetracycline increases the effect of digoxin in 10% of patients	#B32020	142.993326978074	1
+Doxycycline	Ampicillin	0.679	Inf	Moderate	5 (5/0)	Possible antagonism of action	#B32020	238.322211630124	1
+Doxycycline	Methotrexate	1	Inf	Moderate	1 (1/0)	The tetracycline increases methotrexate toxicity	#B32020	47.6644423260248	1
+Doxycycline	Warfarin	0.805	-1.208	Moderate	9 (6/3)	The tetracycline increases the anticoagulant effect	#ACCCE3	428.979980934223	1
+Doxycycline	Clavulanic acid	0.58	-1.208	None	9 (6/3)	Possible antagonism of action	#ACCCE3	428.979980934223	1
+Doxycycline	Primidone	0.5	Inf	Moderate	1 (1/0)	The anticonvulsant decreases the effect of doxycycline	#B32020	47.6644423260248	1
+Doxycycline	Amoxicillin	0.615	-1.381	Moderate	11 (7/4)	Possible antagonism of action	#A5C6DF	524.308865586273	1
+Doxycycline	Calcium	0.924	2.069	Moderate	12 (10/2)	Formation of non-absorbable complexes	#E38D8D	571.973307912297	1
+Doxycycline	Magnesium oxide	0.583	-1.813	Moderate	7 (4/3)	Formation of non-absorbable complexes	#93B8D7	333.651096282174	1
+Doxycycline	Iron	0.417	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	47.6644423260248	1
+Doxycycline	Tazobactam	0.92	-1.208	None	12 (8/4)	Possible antagonism of action	#ACCCE3	571.973307912297	1
+Metoprolol	Lidocaine	0.814	1.123	Moderate	78 (57/21)	The beta-blocker increases the effect and toxicity of lidocaine	#F7B7B7	3717.82650142993	1
+Metoprolol	Indomethacin	1	-2.417	Moderate	2 (1/1)	Risk of inhibition of renal prostaglandins	#79A5CC	95.3288846520496	1
+Metoprolol	Diltiazem	0.848	1.738	Major	52 (42/10)	Increased risk of bradycardia	#EB9C9C	2478.55100095329	1
+Metoprolol	Fluoxetine	0.868	2.689	Moderate	15 (13/2)	The SSRI increases the effect of the beta-blocker	#D77272	714.966634890372	1
+Metoprolol	Clonidine	0.834	3.724	Major	10 (9/1)	Increased hypertension when clonidine stopped	#C34444	476.644423260248	1
+Metoprolol	Verapamil	0.835	2.069	Major	6 (5/1)	Increased effect of both drugs	#E38D8D	285.986653956149	1
+Metoprolol	Epinephrine	0.809	1.172	Moderate	23 (17/6)	Hypertension, then bradycardia	#F6B6B6	1096.28217349857	1
+Metoprolol	Paroxetine	1	Inf	Moderate	3 (3/0)	The SSRI increases the effect of the beta-blocker	#B32020	142.993326978074	1
+Metoprolol	Primidone	1	Inf	Moderate	3 (3/0)	The barbiturate decreases the effect of metabolized beta-blocker	#B32020	142.993326978074	1
+Metoprolol	Salmeterol	0.896	2.689	Moderate	15 (13/2)	Antagonism	#D77272	714.966634890372	1
+Metoprolol	Formoterol	1	1.241	Moderate	4 (3/1)	Antagonism	#F5B2B2	190.657769304099	1
+Metoprolol	Salbutamol	0.864	1.202	Moderate	82 (61/21)	Antagonism	#F5B4B4	3908.48427073403	1
+Metoprolol	Ibuprofen	1	Inf	Moderate	1 (1/0)	Risk of inhibition of renal prostaglandins	#B32020	47.6644423260248	1
+Metoprolol	Glipizide	0.67	-3.625	Moderate	5 (2/3)	The beta-blocker decreases the symptoms of hypoglycemia	#457EB6	238.322211630124	1
+Metoprolol	Sertraline	0.887	1.069	Moderate	43 (31/12)	The SSRI increases the effect of the beta-blocker	#F8BABA	2049.57102001907	1
+Metoprolol	Phenobarbital	1	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of metabolized beta-blocker	#B32020	47.6644423260248	1
+Metoprolol	Escitalopram	0.905	3.517	Minor	19 (17/2)	The SSRI increases the effect of the beta-blocker	#C74D4D	905.624404194471	1
+Metoprolol	Hydralazine	0.945	1.005	Minor	48 (34/14)	Increased effect of both drugs	#F9BCBC	2287.89323164919	1
+Ropinirole	Ciprofloxacin	0.75	-2.417	Moderate	2 (1/1)	The quinolone increases the effect and toxicity of ropinirole	#79A5CC	95.3288846520496	1
+Lidocaine	Atenolol	0.871	2.482	Moderate	7 (6/1)	The beta-blocker increases the effect and toxicity of lidocaine	#DC7B7B	333.651096282174	1
+Lidocaine	Timolol	0.875	Inf	Moderate	4 (4/0)	The beta-blocker increases the effect and toxicity of lidocaine	#B32020	190.657769304099	1
+Lidocaine	Propranolol	0.5	Inf	Moderate	1 (1/0)	The beta-blocker increases the effect and toxicity of lidocaine	#B32020	47.6644423260248	1
+Lidocaine	Labetalol	1	-1.208	Moderate	9 (6/3)	The beta-blocker increases the effect and toxicity of lidocaine	#ACCCE3	428.979980934223	1
+Lidocaine	Carvedilol	0.841	-1.422	Moderate	27 (17/10)	The beta-blocker increases the effect and toxicity of lidocaine	#A3C5DF	1286.93994280267	1
+Valproic acid	Risperidone	1	-1.208	Moderate	3 (2/1)	Risperidone increases the effect and toxicity of valproic acid	#ACCCE3	142.993326978074	0.331402349171074
+Valproic acid	Acetylsalicylic acid	0.893	-1.45	Moderate	8 (5/3)	The salicylate increases the effect of valproic acid	#A2C4DE	381.315538608198	1
+Acetaminophen	Warfarin	0.866	-1.841	Minor	37 (21/16)	Acetaminophen increases the anticoagulant effect	#91B7D7	1763.58436606292	1
+Piperacillin	Warfarin	1	-3.625	Moderate	10 (4/6)	The IV penicillin increases the anticoagulant effect	#457EB6	476.644423260248	1
+Piperacillin	Rocuronium	0.625	-1.074	Moderate	13 (9/4)	The agent increases the effect of the muscle relaxant	#B1CFE5	619.637750238322	1
+Amitriptyline	Salbutamol	0.866	Inf	Moderate	1 (1/0)	The tricyclic increases the sympathomimetic effect	#B32020	47.6644423260248	1
+Indomethacin	Losartan	1	Inf	Moderate	1 (1/0)	Indomethacin decreases the effect of losartan	#B32020	47.6644423260248	1
+Indomethacin	Warfarin	1	Inf	Major	1 (1/0)	The NSAID increases the anticoagulant effect	#B32020	47.6644423260248	1
+Indomethacin	Furosemide	1	Inf	Moderate	1 (1/0)	The NSAID decreases the diuretic and antihypertensive effects of the loop diuretic	#B32020	47.6644423260248	1
+Indomethacin	Carvedilol	0.583	-2.417	Moderate	2 (1/1)	Risk of inhibition of renal prostaglandins	#79A5CC	95.3288846520496	1
+Olanzapine	Donepezil	1	-2.417	Moderate	4 (2/2)	Possible antagonism of action	#79A5CC	190.657769304099	1
+Olanzapine	Rivastigmine	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Atenolol	Diltiazem	1	Inf	Major	1 (1/0)	Increased risk of bradycardia	#B32020	47.6644423260248	1
+Atenolol	Clonidine	1	Inf	Major	1 (1/0)	Increased hypertension when clonidine stopped	#B32020	47.6644423260248	1
+Atenolol	Epinephrine	0.75	Inf	Moderate	2 (2/0)	Hypertension, then bradycardia	#B32020	95.3288846520496	1
+Atenolol	Salmeterol	1	Inf	Moderate	1 (1/0)	Antagonism	#B32020	47.6644423260248	1
+Atenolol	Salbutamol	0.874	-1.813	Moderate	7 (4/3)	Antagonism	#93B8D7	333.651096282174	1
+Atenolol	Glipizide	1	-2.417	Moderate	2 (1/1)	The beta-blocker decreases the symptoms of hypoglycemia	#79A5CC	95.3288846520496	1
+Atenolol	Insulin aspart	1	Inf	Moderate	1 (1/0)	The beta-blocker decreases the symptoms of hypoglycemia	#B32020	47.6644423260248	1
+Omeprazole	Alprazolam	0.516	-2.417	Moderate	4 (2/2)	Omeprazole increases the effect of benzodiazepine	#79A5CC	190.657769304099	1
+Omeprazole	Methotrexate	1	Inf	Major	1 (1/0)	Omeprazole increases the levels of methotrexate	#B32020	47.6644423260248	1
+Omeprazole	Midazolam	0.255	-2.417	Moderate	2 (1/1)	Omeprazole increases the effect of benzodiazepine	#79A5CC	95.3288846520496	1
+Diltiazem	Amlodipine	1	Inf	Moderate	4 (4/0)	Increases the effect and toxicity of amlodipine	#B32020	190.657769304099	1
+Diltiazem	Buspirone	0.758	Inf	Moderate	4 (4/0)	The calcium channel blocker increases the effect and toxicity of buspirone	#B32020	190.657769304099	1
+Diltiazem	Simvastatin	1	2.069	Major	6 (5/1)	Increases the effect and toxicity of simvastatin	#E38D8D	285.986653956149	1
+Diltiazem	Midazolam	0.677	-1.208	Moderate	3 (2/1)	The calcium channel blocker increases the effect and toxicity of the benzodiazepine	#ACCCE3	142.993326978074	1
+Diltiazem	Atorvastatin	0.93	1.82	Moderate	27 (22/5)	Increases the effect and toxicity of atorvastatin	#E89898	1286.93994280267	1
+Diltiazem	Amiodarone	0.872	2.069	Major	6 (5/1)	Increased risk of cardiotoxicity and arrhythmias	#E38D8D	285.986653956149	1
+Diltiazem	Cilostazol	1	Inf	Major	1 (1/0)	Increases the effect of cilostazol	#B32020	47.6644423260248	1
+Methylergometrine	Phenylephrine	0.5	Inf	Major	1 (1/0)	Possible marked increase of arterial pressure	#B32020	47.6644423260248	1
+Sucralfate	Levothyroxine	1	-1.208	Minor	3 (2/1)	Sucralfate decreases the effect of levothyroxine	#ACCCE3	142.993326978074	1
+Mirtazapine	Clonidine	1	Inf	Moderate	1 (1/0)	Possible hypertensive crisis	#B32020	47.6644423260248	1
+Mirtazapine	Donepezil	1	1.034	Moderate	14 (10/4)	Possible antagonism of action	#F9BCBC	667.302192564347	1
+Timolol	Clonidine	1	Inf	Major	1 (1/0)	Increased hypertension when clonidine stopped	#B32020	47.6644423260248	1
+Timolol	Epinephrine	1	Inf	Major	1 (1/0)	Hypertension, then bradycardia	#B32020	47.6644423260248	1
+Timolol	Salmeterol	1	Inf	Major	1 (1/0)	Antagonism	#B32020	47.6644423260248	1
+Timolol	Salbutamol	1	Inf	Major	5 (5/0)	Antagonism	#B32020	238.322211630124	1
+Timolol	Glipizide	1	Inf	Moderate	1 (1/0)	The beta-blocker decreases the symptoms of hypoglycemia	#B32020	47.6644423260248	1
+Triamterene	Losartan	1	Inf	Major	2 (2/0)	Increased risk of hyperkaliemia	#B32020	95.3288846520496	1
+Triamterene	Lisinopril	1	-2.417	Major	2 (1/1)	Increased risk of hyperkaliemia	#79A5CC	95.3288846520496	1
+Phenylephrine	Doxepin	1	Inf	Major	1 (1/0)	The tricyclic increases the sympathomimetic effect	#B32020	47.6644423260248	1
+Digoxin	Alprazolam	1	Inf	Moderate	2 (2/0)	The benzodiazepine increases the effect of digoxin	#B32020	95.3288846520496	1
+Digoxin	Spironolactone	1	-2.417	Minor	2 (1/1)	Increased digoxin levels and decreased effect in presence of spironolactone	#79A5CC	95.3288846520496	1
+Digoxin	Levothyroxine	0.918	4.551	Moderate	12 (11/1)	The thyroid hormones decreases the effect of digoxin	#B32020	571.973307912297	1
+Digoxin	Verapamil	1	Inf	Moderate	2 (2/0)	Verapamil increases the effect of digoxin	#B32020	95.3288846520496	1
+Digoxin	Furosemide	0.922	3.31	Moderate	27 (24/3)	Possible electrolyte variations and arrhythmias	#CB5555	1286.93994280267	0.370181698688797
+Digoxin	Amiodarone	1	Inf	Major	2 (2/0)	Amiodarone increases the effect of digoxin	#B32020	95.3288846520496	1
+Digoxin	Carvedilol	0.84	-3.021	Moderate	9 (4/5)	Carvedilol increases levels/effect of digoxin	#5F92C1	428.979980934223	1
+Ampicillin	Methotrexate	1	Inf	Major	1 (1/0)	The penicillin increases the effect and toxicity of methotrexate	#B32020	47.6644423260248	1
+Ampicillin	Warfarin	1	1.655	Moderate	5 (4/1)	The IV penicillin increases the anticoagulant effect	#EC9F9F	238.322211630124	1
+Ampicillin	Minocycline	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Spironolactone	Losartan	0.917	1.103	Major	11 (8/3)	Increased risk of hyperkaliemia	#F7B9B9	524.308865586273	1
+Spironolactone	Lisinopril	1	-14.502	Major	7 (1/6)	Increased risk of hyperkaliemia	#1E61A5	333.651096282174	1
+Spironolactone	Irbesartan	1	Inf	Major	1 (1/0)	Increased risk of hyperkaliemia	#B32020	47.6644423260248	1
+Spironolactone	Cholestyramine	1	Inf	Moderate	1 (1/0)	Increased risk of acidosis and hyperkaliemia	#B32020	47.6644423260248	1
+Hyoscyamine	Haloperidol	1	Inf	Moderate	3 (3/0)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#B32020	142.993326978074	1
+Allopurinol	Warfarin	1	-3.223	Moderate	7 (3/4)	Allopurinol increases the anticoagulant effect	#568BBD	333.651096282174	1
+Levothyroxine	Raloxifene	1	Inf	Moderate	3 (3/0)	Raloxifene decreases absorption of levothyroxine	#B32020	142.993326978074	1
+Levothyroxine	Warfarin	0.894	-1.074	Moderate	26 (18/8)	Thyroid hormones increase the anticoagulant effect	#B1CFE5	1239.27550047664	1
+Levothyroxine	Calcium	0.908	3.972	Moderate	53 (48/5)	Calcium decreases absorption of levothyroxine	#BE3939	2526.21544327931	1
+Levothyroxine	Cholestyramine	1	Inf	Moderate	1 (1/0)	The resin decreases the absorption of thyroid hormones	#B32020	47.6644423260248	1
+Levothyroxine	Iron	0.876	2.896	Moderate	8 (7/1)	Iron decreases absorption of levothyroxine	#D36868	381.315538608198	1
+Prazosin	Carvedilol	0.034	Inf	Moderate	1 (1/0)	Risk of hypotension at the beginning of therapy	#B32020	47.6644423260248	1
+Ketorolac	Acetylsalicylic acid	0.615	-1.208	Major	9 (6/3)	ASA increases toxicity of ketorolac	#ACCCE3	428.979980934223	1
+Fluoxetine	Oxycodone	1	Inf	Moderate	1 (1/0)	Increased risk of serotonin syndrome	#B32020	47.6644423260248	1
+Fluoxetine	Dextromethorphan	1	Inf	Major	2 (2/0)	Combination associated with possible serotoninergic syndrome	#B32020	95.3288846520496	1
+Fluoxetine	Warfarin	1	1.655	Moderate	5 (4/1)	The SSRI increases the effect of anticoagulant	#EC9F9F	238.322211630124	1
+Fluoxetine	Carvedilol	1	Inf	Moderate	4 (4/0)	The SSRI increases the effect of the beta-blocker	#B32020	190.657769304099	1
+Celecoxib	Warfarin	1	Inf	Moderate	1 (1/0)	Increases the anticoagulant effect	#B32020	47.6644423260248	1
+Buspirone	Verapamil	1	Inf	Moderate	1 (1/0)	The calcium channel blocker increases the effect and toxicity of buspirone	#B32020	47.6644423260248	1
+Oxycodone	Paroxetine	0.5	Inf	Moderate	1 (1/0)	Increased risk of serotonin syndrome	#B32020	47.6644423260248	1
+Oxycodone	Sertraline	0.431	Inf	Moderate	3 (3/0)	Increased risk of serotonin syndrome	#B32020	142.993326978074	1
+Oxycodone	Escitalopram	1	-2.417	Moderate	2 (1/1)	Increased risk of serotonin syndrome	#79A5CC	95.3288846520496	1
+Haloperidol	Scopolamine	1	-4.834	Moderate	3 (1/2)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#1E61A5	142.993326978074	1
+Dextromethorphan	Quinidine	1	Inf	Major	1 (1/0)	Quinidine increases the toxicity of dextromethorphan	#B32020	47.6644423260248	1
+Dextromethorphan	Memantine	0.758	1.241	Minor	4 (3/1)	Increased risk of CNS adverse effects	#F5B2B2	190.657769304099	1
+Ciprofloxacin	Warfarin	0.548	Inf	Major	2 (2/0)	The quinolone increases the anticoagulant effect	#B32020	95.3288846520496	1
+Ciprofloxacin	Tizanidine	0.125	Inf	Major	1 (1/0)	Increases the effect/toxicity of tizanidine	#B32020	47.6644423260248	1
+Ciprofloxacin	Calcium	0.681	Inf	Moderate	7 (7/0)	Formation of non-absorbable complexes	#B32020	333.651096282174	1
+Ciprofloxacin	Magnesium oxide	0.857	-2.417	Moderate	2 (1/1)	Formation of non-absorbable complexes	#79A5CC	95.3288846520496	1
+Ciprofloxacin	Bismuth subsalicylate	1	Inf	None	1 (1/0)	Formation of non-absorbable complexes	#B32020	47.6644423260248	1
+Nortriptyline	Donepezil	0.75	-2.417	Moderate	2 (1/1)	Possible antagonism of action	#79A5CC	95.3288846520496	1
+Hydroxyzine	Donepezil	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Methotrexate	Acetylsalicylic acid	0.505	-2.417	Major	2 (1/1)	The salicylate increases the effect and toxicity of methotrexate	#79A5CC	95.3288846520496	1
+Carbamazepine	Simvastatin	1	Inf	Moderate	1 (1/0)	Decreases the effect of the statin	#B32020	47.6644423260248	1
+Carbamazepine	Warfarin	0.516	Inf	Moderate	2 (2/0)	Decreases the anticoagulant effect	#B32020	95.3288846520496	1
+Propranolol	Epinephrine	1	Inf	Major	2 (2/0)	Hypertension, then bradycardia	#B32020	95.3288846520496	1
+Propranolol	Escitalopram	1	Inf	None	1 (1/0)	The SSRI increases the effect of the beta-blocker	#B32020	47.6644423260248	1
+Propranolol	Hydralazine	1	Inf	Minor	2 (2/0)	Increased effect of both drugs	#B32020	95.3288846520496	1
+Atropine	Donepezil	1	1.241	Moderate	4 (3/1)	Possible antagonism of action	#F5B2B2	190.657769304099	1
+Clonidine	Labetalol	1	1.241	Major	4 (3/1)	Increased hypertension when clonidine stopped	#F5B2B2	190.657769304099	1
+Clonidine	Bisoprolol	1	Inf	Major	1 (1/0)	Increased hypertension when clonidine stopped	#B32020	47.6644423260248	1
+Clonidine	Carvedilol	0.866	Inf	Major	6 (6/0)	Increased hypertension when clonidine stopped	#B32020	285.986653956149	1
+Labetalol	Epinephrine	1	-2.417	Major	4 (2/2)	Hypertension, then bradycardia	#79A5CC	190.657769304099	1
+Labetalol	Salmeterol	1	Inf	Major	1 (1/0)	Antagonism	#B32020	47.6644423260248	1
+Labetalol	Salbutamol	0.75	-1.813	Major	7 (4/3)	Antagonism	#93B8D7	333.651096282174	1
+Demeclocycline	Warfarin	1	Inf	Moderate	2 (2/0)	The tetracycline increases the anticoagulant effect	#B32020	95.3288846520496	1
+Demeclocycline	Clavulanic acid	0.05	Inf	None	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Demeclocycline	Amoxicillin	0.05	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Demeclocycline	Insulin detemir	0.043	Inf	Moderate	1 (1/0)	The tetracycline increases the anticoagulant effect	#B32020	47.6644423260248	1
+Demeclocycline	Magnesium oxide	1	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	47.6644423260248	1
+Triamcinolone	Warfarin	1	Inf	Moderate	1 (1/0)	The corticosteroid alters the anticoagulant effect	#B32020	47.6644423260248	1
+Triamcinolone	Acetylsalicylic acid	0.797	-1.813	Moderate	7 (4/3)	The corticosteroid decreases the effect of salicylates	#93B8D7	333.651096282174	1
+Triamcinolone	Neostigmine	1	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of anticholinesterases	#B32020	47.6644423260248	1
+Alendronic acid	Calcium	1	Inf	Moderate	5 (5/0)	Formation of non-absorbable complexes	#B32020	238.322211630124	1
+Prednisone	Warfarin	0.875	-1.611	Moderate	15 (9/6)	The corticosteroid alters the anticoagulant effect	#9ABEDB	714.966634890372	1
+Prednisone	Primidone	0.505	-2.417	Moderate	2 (1/1)	The barbiturate decreases the effect of the corticosteroid	#79A5CC	95.3288846520496	1
+Prednisone	Acetylsalicylic acid	0.828	-1.124	Moderate	63 (43/20)	The corticosteroid decreases the effect of salicylates	#AFCEE4	3002.85986653956	1
+Prednisone	Neostigmine	0.5	Inf	Moderate	2 (2/0)	The corticosteroid decreases the effect of anticholinesterases	#B32020	95.3288846520496	1
+Trazodone	Galantamine	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Trazodone	Warfarin	0.912	-1.611	Minor	10 (6/4)	Trazodone decreases the anticoagulant effect	#9ABEDB	476.644423260248	1
+Trazodone	Donepezil	0.942	-1.692	Moderate	17 (10/7)	Possible antagonism of action	#97BCD9	810.295519542421	1
+Trazodone	Rivastigmine	0.974	Inf	Moderate	3 (3/0)	Possible antagonism of action	#B32020	142.993326978074	1
+Verapamil	Midazolam	1	-1.45	Moderate	16 (10/6)	The calcium channel blocker increases the effect and toxicity of benzodiazepine	#A2C4DE	762.631077216397	7.54639753740185e-09
+Verapamil	Atorvastatin	1	-2.9	Moderate	11 (5/6)	Verapamil increases the effect and toxicity of the statin	#6395C3	524.308865586273	1
+Verapamil	Carvedilol	1	-1.208	Major	3 (2/1)	Increased effect of both drugs	#ACCCE3	142.993326978074	1
+Verapamil	Phenobarbital	1	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of the calcium channel blocker	#B32020	47.6644423260248	1
+Epinephrine	Carvedilol	0.889	-1.208	Major	9 (6/3)	Hypertension, then bradycardia	#ACCCE3	428.979980934223	1
+Warfarin	Paroxetine	1	Inf	Moderate	1 (1/0)	The SSRI increases the effect of the anticoagulant	#B32020	47.6644423260248	1
+Warfarin	Methimazole	1	Inf	Moderate	1 (1/0)	The antithyroid agent causes variations in the anticoagulant effect	#B32020	47.6644423260248	1
+Warfarin	Meloxicam	1	Inf	Major	1 (1/0)	Meloxicam increases the anticoagulant effect	#B32020	47.6644423260248	1
+Warfarin	Ranitidine	0.505	-2.417	Moderate	2 (1/1)	The anti-H2 increases the anticoagulant effect	#79A5CC	95.3288846520496	1
+Warfarin	Acetylsalicylic acid	0.971	-1.156	Major	34 (23/11)	The salicylate increases the effect of anticoagulant	#AECDE3	1620.59103908484	1
+Warfarin	Ibuprofen	1	Inf	Major	1 (1/0)	The NSAID increases the anticoagulant effect	#B32020	47.6644423260248	1
+Warfarin	Amiodarone	0.838	-1.611	Major	5 (3/2)	Increases the anticoagulant effect	#9ABEDB	238.322211630124	1
+Warfarin	Ceftriaxone	0.949	-2.175	Moderate	19 (10/9)	The cephalosporin increases the anticoagulant effect	#82ACD0	905.624404194471	1
+Warfarin	Dexamethasone	0.511	-1.208	Moderate	3 (2/1)	The corticosteroid alters the anticoagulant effect	#ACCCE3	142.993326978074	1
+Tobramycin	Rocuronium	1	Inf	Major	2 (2/0)	The agent increases the effect of the muscle relaxant	#B32020	95.3288846520496	1
+Tobramycin	Cefuroxime	1	Inf	Moderate	2 (2/0)	Increased risk of nephrotoxicity	#B32020	95.3288846520496	1
+Tobramycin	Ceftriaxone	1	Inf	Moderate	1 (1/0)	Increased risk of nephrotoxicity	#B32020	47.6644423260248	1
+Tobramycin	Cefazolin	0.643	Inf	Moderate	4 (4/0)	Increased risk of nephrotoxicity	#B32020	190.657769304099	1
+Fludrocortisone	Acetylsalicylic acid	1	-2.417	Moderate	2 (1/1)	The corticosteroid decreases the effect of salicylates	#79A5CC	95.3288846520496	1
+Furosemide	Gentamicin	1	1.655	Major	15 (12/3)	Increased ototoxicity	#EC9F9F	714.966634890372	1
+Furosemide	Ibuprofen	1	-3.625	Moderate	5 (2/3)	The NSAID decreases the diuretic and antihypertensive effects of the loop diuretic	#457EB6	238.322211630124	1
+Tizanidine	Donepezil	0.391	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Tizanidine	Rivastigmine	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Tizanidine	Captopril	1	Inf	Major	1 (1/0)	Tizanidine increases the risk of hypotension with the ACE inhibitor	#B32020	47.6644423260248	1
+Paroxetine	Carvedilol	1	Inf	Moderate	2 (2/0)	The SSRI increases the effect of the beta-blocker	#B32020	95.3288846520496	1
+Rocuronium	Gentamicin	0.5	Inf	Major	1 (1/0)	The agent increases the effect of muscle relaxant	#B32020	47.6644423260248	1
+Rocuronium	Clindamycin	0.619	1.862	Moderate	11 (9/2)	The agent increases the effect of muscle relaxant	#E89696	524.308865586273	0.046414620863779
+Meclizine	Donepezil	1	-2.417	Moderate	2 (1/1)	Possible antagonism of action	#79A5CC	95.3288846520496	1
+Hydrocortisone	Acetylsalicylic acid	0.955	-2.659	Moderate	21 (10/11)	The corticosteroid decreases the effect of salicylates	#6E9DC7	1000.95328884652	1
+Hydrocortisone	Neostigmine	1	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of anticholinesterases	#B32020	47.6644423260248	1
+Gentamicin	Ceftriaxone	1	1.655	Moderate	10 (8/2)	Increased risk of nephrotoxicity	#EC9F9F	476.644423260248	1
+Gentamicin	Cefazolin	0.817	2.069	Moderate	6 (5/1)	Increased risk of nephrotoxicity	#E38D8D	285.986653956149	1
+Dicyclomine	Donepezil	0.511	Inf	Moderate	2 (2/0)	Possible antagonism of action	#B32020	95.3288846520496	1
+Fentanyl	Amiodarone	0.735	1.241	Major	12 (9/3)	Possible bradycardia, hypotension	#F5B2B2	571.973307912297	1
+Acetazolamide	Acetylsalicylic acid	1	1.241	Major	4 (3/1)	The salicylate at high dose increases the effect of the carbonic anhydrase inhibitors	#F5B2B2	190.657769304099	1
+Donepezil	Cyclobenzaprine	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Donepezil	Glycopyrronium	0.5	Inf	None	2 (2/0)	Possible antagonism of action	#B32020	95.3288846520496	1
+Donepezil	Tolterodine	1	1.655	Moderate	5 (4/1)	Possible antagonism of action	#EC9F9F	238.322211630124	1
+Donepezil	Oxybutynin	1	Inf	Moderate	5 (5/0)	Possible antagonism of action	#B32020	238.322211630124	1
+Donepezil	Diphenhydramine	1	-2.417	Moderate	2 (1/1)	Possible antagonism of action	#79A5CC	95.3288846520496	1
+Donepezil	Diphenoxylate	1	-2.417	Moderate	2 (1/1)	Possible antagonism of action	#79A5CC	95.3288846520496	1
+Donepezil	Sertraline	0.793	1.517	Minor	14 (11/3)	Possible antagonism of action	#EFA6A6	667.302192564347	1
+Donepezil	Quetiapine	0.819	2.896	Moderate	8 (7/1)	Possible antagonism of action	#D36868	381.315538608198	1
+Amantadine	Hydrochlorothiazide	1	Inf	Minor	1 (1/0)	The diuretic increases the adverse effects of amantadine	#B32020	47.6644423260248	1
+Cyclobenzaprine	Rivastigmine	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Salmeterol	Carvedilol	1	1.241	Major	4 (3/1)	Antagonism	#F5B2B2	190.657769304099	1
+Acetylsalicylic acid	Methylprednisolone	0.95	1.005	Moderate	24 (17/7)	The corticosteroid decreases the effect of salicylates	#F9BCBC	1143.94661582459	1
+Acetylsalicylic acid	Ibuprofen	1	1.241	Major	4 (3/1)	Ibuprofen reduces ASA cardioprotective effects	#F5B2B2	190.657769304099	1
+Acetylsalicylic acid	Glipizide	0.89	-1.208	Moderate	9 (6/3)	The salicylate increases the effect of sulfonylurea	#ACCCE3	428.979980934223	1
+Acetylsalicylic acid	Heparin	0.983	-1.018	Moderate	307 (216/91)	Association of ASA/heparin increases risk of bleeding	#B4D1E6	14632.9837940896	1.69251542343624e-37
+Acetylsalicylic acid	Dexamethasone	0.693	-1.381	Moderate	22 (14/8)	The corticosteroid decreases the effect of salicylates	#A5C6DF	1048.61773117255	1
+Acetylsalicylic acid	Insulin aspart	1	-2.417	Moderate	2 (1/1)	The salicylate increases the effect of insulin	#79A5CC	95.3288846520496	1
+Acetylsalicylic acid	Insulin detemir	1	-1.611	Moderate	5 (3/2)	The salicylate increases the effect of insulin	#9ABEDB	238.322211630124	1
+Formoterol	Carvedilol	1	-2.417	Major	2 (1/1)	Antagonism	#79A5CC	95.3288846520496	1
+Rivastigmine	Diphenhydramine	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	47.6644423260248	1
+Rivastigmine	Quetiapine	1	Inf	Moderate	3 (3/0)	Possible antagonism of action	#B32020	142.993326978074	1
+Salbutamol	Carvedilol	0.911	-1.511	Major	26 (16/10)	Antagonism	#9FC1DD	1239.27550047664	1
+Minocycline	Calcium	1	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	47.6644423260248	1
+Memantine	Ketamine	0.065	Inf	Minor	1 (1/0)	Increased risk of CNS adverse effects with this association	#B32020	47.6644423260248	1
+Memantine	Sodium bicarbonate	1	-1.208	Minor	3 (2/1)	Possible increased levels of memantine	#ACCCE3	142.993326978074	1
+Ibuprofen	Carvedilol	0.812	1.241	Moderate	4 (3/1)	Risk of inhibition of renal prostaglandins	#F5B2B2	190.657769304099	1
+Melatonin	Nifedipine	0.516	-2.417	None	2 (1/1)	Melatonin can possibly decrease the effect of nifedipine	#79A5CC	95.3288846520496	1
+Glipizide	Carvedilol	1	-1.208	Moderate	3 (2/1)	The beta-blocker decreases the symptoms of hypoglycemia	#ACCCE3	142.993326978074	1
+Atorvastatin	Colchicine	0.879	-2.417	Major	8 (4/4)	Increased risk of rhadbomyolysis with this combination	#79A5CC	381.315538608198	1
+Sertraline	Carvedilol	0.878	-1.45	Moderate	8 (5/3)	The SSRI increases the effect of the beta-blocker	#A2C4DE	381.315538608198	1
+Carvedilol	Escitalopram	0.885	2.896	None	8 (7/1)	The SSRI increases the effect of the beta-blocker	#D36868	381.315538608198	1
+Carvedilol	Insulin detemir	1	Inf	Moderate	1 (1/0)	The beta-blocker decreases the symptoms of hypoglycemia	#B32020	47.6644423260248	1
+Levofloxacin	Calcium	0.167	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	47.6644423260248	1
+Dexamethasone	Neostigmine	1	3.31	Moderate	9 (8/1)	The corticosteroid decreases the effect of anticholinesterases	#CB5555	428.979980934223	0.0041092096210536
+Dexamethasone	Bismuth subsalicylate	1	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of salicylates	#B32020	47.6644423260248	1
+Tolevamer	Calcium	1	Inf	Major	2 (2/0)	Risk of alkalosis in renal impairment	#B32020	95.3288846520496	1
+Insulin glargine	Propranolol	1	-Inf	Moderate	1 (0/1)		#1E61A5	47.6644423260248	1
+Esmolol	Salbutamol	0.5	-Inf	Moderate	1 (0/1)	Antagonism	#1E61A5	47.6644423260248	1
+Tramadol	Paroxetine	1	-Inf	Major	1 (0/1)	Risk of serotoninergic syndrome	#1E61A5	47.6644423260248	1
+Fluconazole	Simvastatin	1	-Inf	Major	1 (0/1)	Increased risk of myopathy/rhabdomyolysis	#1E61A5	47.6644423260248	1
+Fluconazole	Diazepam	0.3	-Inf	Moderate	1 (0/1)	Increases the effect of the benzodiazepine	#1E61A5	47.6644423260248	1
+Midodrine	Hydrocortisone	0.544	-Inf	None	1 (0/1)	Increased arterial pressure	#1E61A5	47.6644423260248	1
+Midodrine	Dopamine	1	-Inf	Moderate	1 (0/1)	Increased arterial pressure	#1E61A5	47.6644423260248	1
+Citalopram	Warfarin	1	-Inf	Moderate	1 (0/1)	The SSRI increases the effect of anticoagulant	#1E61A5	47.6644423260248	1
+Moxifloxacin	Sucralfate	1	-Inf	Moderate	1 (0/1)	Formation of non-absorbable complexes	#1E61A5	47.6644423260248	1
+Moxifloxacin	Warfarin	1	-Inf	Major	2 (0/2)	Moxifloxacin increases the anticoagulant effect	#1E61A5	95.3288846520496	1
+Lovastatin	Diltiazem	1	-Inf	Major	1 (0/1)	Diltiazem increases the effect and toxicity of the statin	#1E61A5	47.6644423260248	1
+Pregabalin	Pioglitazone	0.022	-Inf	Moderate	1 (0/1)	Increased risk of edema	#1E61A5	47.6644423260248	1
+Ranolazine	Simvastatin	1	-Inf	Major	1 (0/1)	Ranolazine increases the statin level	#1E61A5	47.6644423260248	1
+Phenytoin	Trimethoprim	1	-Inf	Moderate	1 (0/1)	Trimethoprim increases the effect of hydantoin	#1E61A5	47.6644423260248	1
+Phenytoin	Prednisone	1	-Inf	Moderate	1 (0/1)	The enzyme inducer decreases the effect of the corticosteroid	#1E61A5	47.6644423260248	1
+Morphine	Naltrexone	1	-Inf	Major	1 (0/1)	Naltrexone may precipitate a withdrawal syndrome in opioid-dependent individuals	#1E61A5	47.6644423260248	1
+Acetaminophen	Imatinib	1	-Inf	Moderate	1 (0/1)	Increased hepatic toxicity of both agents	#1E61A5	47.6644423260248	1
+Indomethacin	Labetalol	1	-Inf	Moderate	1 (0/1)	Risk of inhibition of renal prostaglandins	#1E61A5	47.6644423260248	1
+Atenolol	Ampicillin	0.505	-Inf	Moderate	2 (0/2)	Ampicillin decreases bioavailability of atenolol	#1E61A5	95.3288846520496	1
+Atenolol	Prazosin	0.754	-Inf	Moderate	2 (0/2)	Risk of hypotension at the beginning of therapy	#1E61A5	95.3288846520496	1
+Atenolol	Formoterol	1	-Inf	Moderate	1 (0/1)	Antagonism	#1E61A5	47.6644423260248	1
+Atenolol	Ibuprofen	1	-Inf	Moderate	1 (0/1)	Risk of inhibition of renal prostaglandins	#1E61A5	47.6644423260248	1
+Ketorolac	Warfarin	0.643	-Inf	Major	1 (0/1)	The NSAID increases the anticoagulant effect	#1E61A5	47.6644423260248	1
+Fluoxetine	Risperidone	1	-Inf	Moderate	1 (0/1)	The SSRI increases the effect and toxicity of risperidone	#1E61A5	47.6644423260248	1
+Duloxetine	Ciprofloxacin	1	-Inf	Major	1 (0/1)	Ciprofloxacin increases the effect/toxicity of duloxetine	#1E61A5	47.6644423260248	1
+Haloperidol	Glycopyrronium	1	-Inf	Moderate	2 (0/2)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#1E61A5	95.3288846520496	1
+Ciprofloxacin	Iron	1	-Inf	Moderate	1 (0/1)	Formation of non-absorbable complexes	#1E61A5	47.6644423260248	1
+Propranolol	Sertraline	1	-Inf	Moderate	1 (0/1)	The SSRI increases the effect of the beta-blocker	#1E61A5	47.6644423260248	1
+Imatinib	Atorvastatin	1	-Inf	Moderate	1 (0/1)	Increases the effect and toxicity of atorvastatin	#1E61A5	47.6644423260248	1
+Prednisone	Bismuth subsalicylate	1	-Inf	None	1 (0/1)	The corticosteroid decreases the effect of salicylates	#1E61A5	47.6644423260248	1
+Simvastatin	Fenofibrate	1	-Inf	Major	1 (0/1)	Increased risk of myopathy/rhabdomyolysis	#1E61A5	47.6644423260248	1
+Warfarin	Hydrocortisone	1	-Inf	Moderate	1 (0/1)	The corticosteroid alters the anticoagulant effect	#1E61A5	47.6644423260248	1
+Warfarin	Cefoxitin	1	-Inf	Moderate	1 (0/1)	The cephalosporin increases the anticoagulant effect	#1E61A5	47.6644423260248	1
+Tobramycin	Furosemide	1	-Inf	Major	2 (0/2)	Increased ototoxicity	#1E61A5	95.3288846520496	1
+Mycophenolate mofetil	Tacrolimus	1	-Inf	None	2 (0/2)	Increased mycophenolic acid levels	#1E61A5	95.3288846520496	0.000425502317760221
+Risperidone	Donepezil	1	-Inf	Moderate	1 (0/1)	Possible antagonism of action	#1E61A5	47.6644423260248	1
+Scopolamine	Donepezil	0.152	-Inf	Moderate	1 (0/1)	Possible antagonism of action	#1E61A5	47.6644423260248	1
+Tacrolimus	Metronidazole	1	-Inf	Moderate	1 (0/1)	Metronidazole increases the levels/toxicity of tacrolimus	#1E61A5	47.6644423260248	1
+Fenofibrate	Atorvastatin	1	-Inf	Major	1 (0/1)	Increased risk of myopathy/rhabdomyolysis	#1E61A5	47.6644423260248	1
+Promethazine	Levofloxacin	1	-Inf	Moderate	1 (0/1)	Increased risk of cardiotoxicity and arrhythmias	#1E61A5	47.6644423260248	1
+Carvedilol	Insulin aspart	1	-Inf	Moderate	1 (0/1)	The beta-blocker decreases the symptoms of hypoglycemia	#1E61A5	47.6644423260248	1
+Levofloxacin	Magnesium oxide	0.313	-Inf	Moderate	1 (0/1)	Formation of non-absorbable complexes	#1E61A5	47.6644423260248	1

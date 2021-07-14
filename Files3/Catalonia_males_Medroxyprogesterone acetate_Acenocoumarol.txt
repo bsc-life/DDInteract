@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+05-09	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+10-14	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+15-19	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+20-24	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+25-29	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+30-34	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+35-39	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+40-44	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+45-49	Male	Medroxyprogesterone acetate	Acenocoumarol	2.03608347127799e-06
+50-54	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+55-59	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+60-64	Male	Medroxyprogesterone acetate	Acenocoumarol	2.4292363452625e-06
+65-69	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+70-74	Male	Medroxyprogesterone acetate	Acenocoumarol	2.95483825215408e-06
+75-79	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+80-84	Male	Medroxyprogesterone acetate	Acenocoumarol	8.99697251874744e-06
+85-89	Male	Medroxyprogesterone acetate	Acenocoumarol	0
+>90	Male	Medroxyprogesterone acetate	Acenocoumarol	1.46996134001676e-05

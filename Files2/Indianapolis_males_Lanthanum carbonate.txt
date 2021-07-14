@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Lanthanum carbonate	0	0	0	0
+05-09	Male	Lanthanum carbonate	0	0	0	0
+10-14	Male	Lanthanum carbonate	0	0	0	0
+15-19	Male	Lanthanum carbonate	0	0	0	0
+20-24	Male	Lanthanum carbonate	0	0	0	0
+25-29	Male	Lanthanum carbonate	0	0.012721027859051	0.012721027859051	1
+30-34	Male	Lanthanum carbonate	0	0	0.0130753138075314	1
+35-39	Male	Lanthanum carbonate	0	0	0	0
+40-44	Male	Lanthanum carbonate	0	0.0592943966795138	0.0592943966795138	4
+45-49	Male	Lanthanum carbonate	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Lanthanum carbonate	0	0.0620886626102074	0.0620886626102074	5
+55-59	Male	Lanthanum carbonate	0	0.0225580870742161	0.0225580870742161	2
+60-64	Male	Lanthanum carbonate	0	0.0609533097647202	0.0609533097647202	5
+65-69	Male	Lanthanum carbonate	0	0.0150285542530809	0.0150285542530809	1
+70-74	Male	Lanthanum carbonate	0	0.0427350427350427	0.0427350427350427	2
+75-79	Male	Lanthanum carbonate	0	0.0313185092389602	0.0313185092389602	1
+80-84	Male	Lanthanum carbonate	0	0.0495294700346706	0.0495294700346706	1
+85-89	Male	Lanthanum carbonate	0	0	0	0
+>90	Male	Lanthanum carbonate	0	0	0	0

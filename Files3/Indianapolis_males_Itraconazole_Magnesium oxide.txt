@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Itraconazole	Magnesium oxide	0
+05-09	Male	Itraconazole	Magnesium oxide	0
+10-14	Male	Itraconazole	Magnesium oxide	0
+15-19	Male	Itraconazole	Magnesium oxide	0.00013933398355859
+20-24	Male	Itraconazole	Magnesium oxide	0.000146434324205594
+25-29	Male	Itraconazole	Magnesium oxide	0
+30-34	Male	Itraconazole	Magnesium oxide	0
+35-39	Male	Itraconazole	Magnesium oxide	0
+40-44	Male	Itraconazole	Magnesium oxide	0
+45-49	Male	Itraconazole	Magnesium oxide	0
+50-54	Male	Itraconazole	Magnesium oxide	0
+55-59	Male	Itraconazole	Magnesium oxide	0
+60-64	Male	Itraconazole	Magnesium oxide	0
+65-69	Male	Itraconazole	Magnesium oxide	0
+70-74	Male	Itraconazole	Magnesium oxide	0
+75-79	Male	Itraconazole	Magnesium oxide	0
+80-84	Male	Itraconazole	Magnesium oxide	0
+85-89	Male	Itraconazole	Magnesium oxide	0
+>90	Male	Itraconazole	Magnesium oxide	0

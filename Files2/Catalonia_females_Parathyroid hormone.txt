@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Parathyroid hormone	0	6e-04	6e-04	1
+10-14	NA	NA	0	0	0	0
+15-19	Female	Parathyroid hormone	0	0	3e-04	1
+20-24	Female	Parathyroid hormone	0	0	3e-04	1
+25-29	Female	Parathyroid hormone	0	2e-04	2e-04	1
+30-34	Female	Parathyroid hormone	0	4e-04	4e-04	2
+35-39	Female	Parathyroid hormone	0	7e-04	0.001	6
+40-44	Female	Parathyroid hormone	0	0.0011	0.0011	6
+45-49	Female	Parathyroid hormone	0	6e-04	9e-04	5
+50-54	Female	Parathyroid hormone	0	0.0066	0.0085	43
+55-59	Female	Parathyroid hormone	0	0.0199	0.0229	109
+60-64	Female	Parathyroid hormone	0	0.041	0.0482	221
+65-69	Female	Parathyroid hormone	0	0.0769	0.0888	374
+70-74	Female	Parathyroid hormone	0	0.1303	0.1474	577
+75-79	Female	Parathyroid hormone	0	0.1922	0.206	736
+80-84	Female	Parathyroid hormone	0	0.1744	0.1926	613
+85-89	Female	Parathyroid hormone	0	0.1076	0.121	306
+>90	Female	Parathyroid hormone	0	0.0533	0.0579	88

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Gliclazide	0
+05-09	Female	Acetylsalicylic acid	Gliclazide	0
+10-14	Female	Acetylsalicylic acid	Gliclazide	0
+15-19	Female	Acetylsalicylic acid	Gliclazide	0
+20-24	Female	Acetylsalicylic acid	Gliclazide	0
+25-29	Female	Acetylsalicylic acid	Gliclazide	0.000166861338227933
+30-34	Female	Acetylsalicylic acid	Gliclazide	0.000168236877523553
+35-39	Female	Acetylsalicylic acid	Gliclazide	0.000334616028107746
+40-44	Female	Acetylsalicylic acid	Gliclazide	0.00123954136969321
+45-49	Female	Acetylsalicylic acid	Gliclazide	0.00250173731758165
+50-54	Female	Acetylsalicylic acid	Gliclazide	0.00436026706635781
+55-59	Female	Acetylsalicylic acid	Gliclazide	0.0069052102950408
+60-64	Female	Acetylsalicylic acid	Gliclazide	0.00893814801573114
+65-69	Female	Acetylsalicylic acid	Gliclazide	0.0098274209012464
+70-74	Female	Acetylsalicylic acid	Gliclazide	0.0100813008130081
+75-79	Female	Acetylsalicylic acid	Gliclazide	0.0103270223752151
+80-84	Female	Acetylsalicylic acid	Gliclazide	0.00980392156862745
+85-89	Female	Acetylsalicylic acid	Gliclazide	0.0180722891566265
+>90	Female	Acetylsalicylic acid	Gliclazide	0

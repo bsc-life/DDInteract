@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Sodium phosphate, monobasic	0	0.801412659603369	0.930453681064928	137
+05-09	Female	Sodium phosphate, monobasic	0	1.07837687604225	1.18954974986103	107
+10-14	Female	Sodium phosphate, monobasic	0	0.883327199116673	0.969206232364127	79
+15-19	Female	Sodium phosphate, monobasic	0	0.509321545262349	0.528541226215645	55
+20-24	Female	Sodium phosphate, monobasic	0	0.458819104926664	0.466340729597593	62
+25-29	Female	Sodium phosphate, monobasic	0	0.389382828217276	0.421831397235382	65
+30-34	Female	Sodium phosphate, monobasic	0	0.581609364646985	0.588971508503276	80
+35-39	Female	Sodium phosphate, monobasic	0	0.756738372587365	0.773743729274722	91
+40-44	Female	Sodium phosphate, monobasic	0	0.930660666803027	0.930660666803027	91
+45-49	Female	Sodium phosphate, monobasic	0	1.19929797191888	1.19929797191888	123
+50-54	Female	Sodium phosphate, monobasic	0	1.19124572906086	1.20048019207683	130
+55-59	Female	Sodium phosphate, monobasic	0	1.34709587123863	1.34709587123863	154
+60-64	Female	Sodium phosphate, monobasic	0	1.73977419951879	1.74902831760133	189
+65-69	Female	Sodium phosphate, monobasic	0	1.80331541218638	1.80331541218638	161
+70-74	Female	Sodium phosphate, monobasic	0	2.04437400950872	2.04437400950872	129
+75-79	Female	Sodium phosphate, monobasic	0	2.53415601586602	2.55619215513442	116
+80-84	Female	Sodium phosphate, monobasic	0	2.62601871415635	2.65620283730758	88
+85-89	Female	Sodium phosphate, monobasic	0	3.80530973451327	3.80530973451327	86
+>90	Female	Sodium phosphate, monobasic	0	3.50404312668464	3.50404312668464	52

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Guar gum	0	6e-04	6e-04	1
+10-14	Female	Guar gum	0	8e-04	8e-04	2
+15-19	Female	Guar gum	0	0.0033	0.0093	28
+20-24	Female	Guar gum	0	0.0067	0.0126	45
+25-29	Female	Guar gum	0	0.0084	0.0142	64
+30-34	Female	Guar gum	0	0.0105	0.0173	94
+35-39	Female	Guar gum	0	0.0151	0.0223	131
+40-44	Female	Guar gum	0	0.0204	0.0292	166
+45-49	Female	Guar gum	0	0.0246	0.034	180
+50-54	Female	Guar gum	0	0.0316	0.0402	202
+55-59	Female	Guar gum	0	0.0441	0.0529	252
+60-64	Female	Guar gum	0	0.0462	0.0519	238
+65-69	Female	Guar gum	0	0.0487	0.0539	227
+70-74	Female	Guar gum	0	0.0511	0.0583	228
+75-79	Female	Guar gum	0	0.0562	0.0574	205
+80-84	Female	Guar gum	0	0.0409	0.0431	137
+85-89	Female	Guar gum	0	0.0336	0.0352	89
+>90	Female	Guar gum	0	0.027	0.0276	42

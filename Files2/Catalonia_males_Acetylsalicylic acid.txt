@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Acetylsalicylic acid	0.0298	0.0739	0.0985	76
+05-09	Male	Acetylsalicylic acid	0.04	0.1086	0.1323	235
+10-14	Male	Acetylsalicylic acid	0.0381	0.1532	0.1879	493
+15-19	Male	Acetylsalicylic acid	0.0666	0.4999	0.5746	1639
+20-24	Male	Acetylsalicylic acid	0.0817	0.6168	0.6959	2086
+25-29	Male	Acetylsalicylic acid	0.0903	0.6276	0.7231	2690
+30-34	Male	Acetylsalicylic acid	0.1377	0.771	0.8804	4170
+35-39	Male	Acetylsalicylic acid	0.2501	1.1595	1.2854	6970
+40-44	Male	Acetylsalicylic acid	0.5095	2.0987	2.2841	12234
+45-49	Male	Acetylsalicylic acid	1.0909	4.2615	4.5132	22166
+50-54	Male	Acetylsalicylic acid	2.1439	7.9242	8.2939	37691
+55-59	Male	Acetylsalicylic acid	3.5721	12.8483	13.3242	56753
+60-64	Male	Acetylsalicylic acid	5.5343	18.625	19.173	78926
+65-69	Male	Acetylsalicylic acid	7.5155	24.5079	25.077	94702
+70-74	Male	Acetylsalicylic acid	8.7014	29.1731	29.783	100794
+75-79	Male	Acetylsalicylic acid	10.0744	33.5479	34.2322	97548
+80-84	Male	Acetylsalicylic acid	11.1221	37.3428	38.0041	84482
+85-89	Male	Acetylsalicylic acid	10.6232	39.0763	39.7747	58779
+>90	Male	Acetylsalicylic acid	10.9733	42.2776	43.0081	29258

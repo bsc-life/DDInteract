@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Clobetasol propionate	0	0	0.0299454991914715	5
+05-09	Male	Clobetasol propionate	0	0	0.150799235950538	15
+10-14	Male	Clobetasol propionate	0	0	0.315752543562156	27
+15-19	Male	Clobetasol propionate	0	0	0.250801170405462	18
+20-24	Male	Clobetasol propionate	0	0	0.453946405037341	31
+25-29	Male	Clobetasol propionate	0	0	0.445235975066785	35
+30-34	Male	Clobetasol propionate	0	0	0.483786610878661	37
+35-39	Male	Clobetasol propionate	0	0	0.615815255423373	44
+40-44	Male	Clobetasol propionate	0	0	0.711532760154165	48
+45-49	Male	Clobetasol propionate	0	0	0.702576112412178	51
+50-54	Male	Clobetasol propionate	0	0	0.84440581149882	68
+55-59	Male	Clobetasol propionate	0	0	0.789533047597564	70
+60-64	Male	Clobetasol propionate	0	0	1.06058758990613	87
+65-69	Male	Clobetasol propionate	0	0	0.946798917944094	63
+70-74	Male	Clobetasol propionate	0	0	0.918803418803419	43
+75-79	Male	Clobetasol propionate	0	0	0.939555277168807	30
+80-84	Male	Clobetasol propionate	0	0	1.04011887072808	21
+85-89	Male	Clobetasol propionate	0	0	1.45631067961165	18
+>90	Male	Clobetasol propionate	0	0	0.814332247557003	5

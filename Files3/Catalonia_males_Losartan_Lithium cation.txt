@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Losartan	Lithium cation	0
+05-09	Male	Losartan	Lithium cation	0
+10-14	Male	Losartan	Lithium cation	0
+15-19	Male	Losartan	Lithium cation	0
+20-24	Male	Losartan	Lithium cation	3.33592423448879e-06
+25-29	Male	Losartan	Lithium cation	5.37599724748941e-06
+30-34	Male	Losartan	Lithium cation	1.26675815475562e-05
+35-39	Male	Losartan	Lithium cation	7.37703859851021e-06
+40-44	Male	Losartan	Lithium cation	1.8670126863512e-05
+45-49	Male	Losartan	Lithium cation	3.86855859542818e-05
+50-54	Male	Losartan	Lithium cation	5.94132610398641e-05
+55-59	Male	Losartan	Lithium cation	8.45189463304691e-05
+60-64	Male	Losartan	Lithium cation	7.53063267031376e-05
+65-69	Male	Losartan	Lithium cation	8.47356644467688e-05
+70-74	Male	Losartan	Lithium cation	7.6825794556006e-05
+75-79	Male	Losartan	Lithium cation	5.26389668725435e-05
+80-84	Male	Losartan	Lithium cation	5.39818351124846e-05
+85-89	Male	Losartan	Lithium cation	2.70672621464339e-05
+>90	Male	Losartan	Lithium cation	2.93992268003352e-05

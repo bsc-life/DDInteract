@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Estrone sulfate	0	0	0	0
+05-09	Female	Estrone sulfate	0	0	0	0
+10-14	Female	Estrone sulfate	0	0	0	0
+15-19	Female	Estrone sulfate	0	0	0	0
+20-24	Female	Estrone sulfate	0	0	0	0
+25-29	Female	Estrone sulfate	0	0	0	0
+30-34	Female	Estrone sulfate	0	0	0	0
+35-39	Female	Estrone sulfate	0	0	0	0
+40-44	Female	Estrone sulfate	0	0	0	0
+45-49	Female	Estrone sulfate	0	0	0	0
+50-54	Female	Estrone sulfate	0	0.0277033890479269	0.0277033890479269	3
+55-59	Female	Estrone sulfate	0	0.0349895031490553	0.0437368789363191	5
+60-64	Female	Estrone sulfate	0	0.0185082361650935	0.0277623542476402	3
+65-69	Female	Estrone sulfate	0	0.0336021505376344	0.0336021505376344	3
+70-74	Female	Estrone sulfate	0	0.0158478605388273	0.0316957210776545	2
+75-79	Female	Estrone sulfate	0	0	0	0
+80-84	Female	Estrone sulfate	0	0	0	0
+85-89	Female	Estrone sulfate	0	0	0	0
+>90	Female	Estrone sulfate	0	0.0673854447439353	0.0673854447439353	1

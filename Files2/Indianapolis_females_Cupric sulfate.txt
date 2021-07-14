@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Cupric sulfate	0	0	0	0
+05-09	Female	Cupric sulfate	0	0	0	0
+10-14	Female	Cupric sulfate	0	0	0	0
+15-19	Female	Cupric sulfate	0	0	0	0
+20-24	Female	Cupric sulfate	0	0	0	0
+25-29	Female	Cupric sulfate	0	0	0	0
+30-34	Female	Cupric sulfate	0	0	0	0
+35-39	Female	Cupric sulfate	0	0.00850267834367826	0.00850267834367826	1
+40-44	Female	Cupric sulfate	0	0	0	0
+45-49	Female	Cupric sulfate	0	0	0	0
+50-54	Female	Cupric sulfate	0	0	0	0
+55-59	Female	Cupric sulfate	0	0.00874737578726382	0.00874737578726382	1
+60-64	Female	Cupric sulfate	0	0.00925411808254673	0.00925411808254673	1
+65-69	Female	Cupric sulfate	0	0	0	0
+70-74	Female	Cupric sulfate	0	0	0	0
+75-79	Female	Cupric sulfate	0	0	0	0
+80-84	Female	Cupric sulfate	0	0	0	0
+85-89	Female	Cupric sulfate	0	0	0	0
+>90	Female	Cupric sulfate	0	0	0	0

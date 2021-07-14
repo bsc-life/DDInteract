@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Valproic acid	Nimodipine	0
+05-09	Male	Valproic acid	Nimodipine	0
+10-14	Male	Valproic acid	Nimodipine	0
+15-19	Male	Valproic acid	Nimodipine	3.50585653333894e-06
+20-24	Male	Valproic acid	Nimodipine	0
+25-29	Male	Valproic acid	Nimodipine	2.6879986237447e-06
+30-34	Male	Valproic acid	Nimodipine	2.11126359125937e-06
+35-39	Male	Valproic acid	Nimodipine	1.10655578977653e-05
+40-44	Male	Valproic acid	Nimodipine	3.73402537270241e-06
+45-49	Male	Valproic acid	Nimodipine	6.10825041383397e-06
+50-54	Male	Valproic acid	Nimodipine	1.1002455748123e-05
+55-59	Male	Valproic acid	Nimodipine	1.64342395642579e-05
+60-64	Male	Valproic acid	Nimodipine	1.21461817263125e-05
+65-69	Male	Valproic acid	Nimodipine	1.85359265977307e-05
+70-74	Male	Valproic acid	Nimodipine	1.77290295129245e-05
+75-79	Male	Valproic acid	Nimodipine	2.80741156653565e-05
+80-84	Male	Valproic acid	Nimodipine	3.59878900749898e-05
+85-89	Male	Valproic acid	Nimodipine	4.06008932196508e-05
+>90	Male	Valproic acid	Nimodipine	1.46996134001676e-05

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Spironolactone	Candesartan cilexetil	0
+05-09	Female	Spironolactone	Candesartan cilexetil	0
+10-14	Female	Spironolactone	Candesartan cilexetil	0
+15-19	Female	Spironolactone	Candesartan cilexetil	0
+20-24	Female	Spironolactone	Candesartan cilexetil	0
+25-29	Female	Spironolactone	Candesartan cilexetil	0
+30-34	Female	Spironolactone	Candesartan cilexetil	0
+35-39	Female	Spironolactone	Candesartan cilexetil	0
+40-44	Female	Spironolactone	Candesartan cilexetil	0
+45-49	Female	Spironolactone	Candesartan cilexetil	0
+50-54	Female	Spironolactone	Candesartan cilexetil	0
+55-59	Female	Spironolactone	Candesartan cilexetil	0
+60-64	Female	Spironolactone	Candesartan cilexetil	0.000185082361650935
+65-69	Female	Spironolactone	Candesartan cilexetil	0
+70-74	Female	Spironolactone	Candesartan cilexetil	0
+75-79	Female	Spironolactone	Candesartan cilexetil	0.000220361392684002
+80-84	Female	Spironolactone	Candesartan cilexetil	0
+85-89	Female	Spironolactone	Candesartan cilexetil	0
+>90	Female	Spironolactone	Candesartan cilexetil	0

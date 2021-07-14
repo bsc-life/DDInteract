@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Clobetasol propionate	0	0	0.0679163270850312	10
+05-09	Female	Clobetasol propionate	0	0	0.266814897165092	24
+10-14	Female	Clobetasol propionate	0	0	0.503005766163661	41
+15-19	Female	Clobetasol propionate	0	0	0.509321545262349	53
+20-24	Female	Clobetasol propionate	0	0	0.518992102294096	69
+25-29	Female	Clobetasol propionate	0	0	0.707378804594717	109
+30-34	Female	Clobetasol propionate	0	0	0.677317234778768	92
+35-39	Female	Clobetasol propionate	0	0	0.935294617804608	110
+40-44	Female	Clobetasol propionate	0	0	1.16588259357742	114
+45-49	Female	Clobetasol propionate	0	0	1.17979719188768	121
+50-54	Female	Clobetasol propionate	0	0	1.50521747160403	163
+55-59	Female	Clobetasol propionate	0	0	1.56578026592022	179
+60-64	Female	Clobetasol propionate	0	0	1.48065889320748	160
+65-69	Female	Clobetasol propionate	0	0	1.54569892473118	138
+70-74	Female	Clobetasol propionate	0	0	1.66402535657686	105
+75-79	Female	Clobetasol propionate	0	0	1.27809607756721	58
+80-84	Female	Clobetasol propionate	0	0	1.08662843344401	36
+85-89	Female	Clobetasol propionate	0	0	1.10619469026549	25
+>90	Female	Clobetasol propionate	0	0	1.07816711590297	16

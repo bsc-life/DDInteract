@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Ursodeoxycholic acid	0.0013	0.0143	0.0156	12
+05-09	Male	Ursodeoxycholic acid	0.0011	0.0146	0.0169	30
+10-14	Male	Ursodeoxycholic acid	0	0.0191	0.0236	62
+15-19	Male	Ursodeoxycholic acid	0.0021	0.0161	0.0207	59
+20-24	Male	Ursodeoxycholic acid	0.0017	0.021	0.0294	88
+25-29	Male	Ursodeoxycholic acid	0.0024	0.0271	0.036	134
+30-34	Male	Ursodeoxycholic acid	0.003	0.0336	0.0502	238
+35-39	Male	Ursodeoxycholic acid	0.0046	0.0531	0.0745	404
+40-44	Male	Ursodeoxycholic acid	0.006	0.0853	0.1118	599
+45-49	Male	Ursodeoxycholic acid	0.0138	0.1181	0.1486	730
+50-54	Male	Ursodeoxycholic acid	0.0198	0.1675	0.1998	908
+55-59	Male	Ursodeoxycholic acid	0.0254	0.2125	0.2399	1022
+60-64	Male	Ursodeoxycholic acid	0.0245	0.2653	0.2898	1193
+65-69	Male	Ursodeoxycholic acid	0.0302	0.331	0.3495	1320
+70-74	Male	Ursodeoxycholic acid	0.026	0.3776	0.3974	1345
+75-79	Male	Ursodeoxycholic acid	0.0228	0.4208	0.439	1251
+80-84	Male	Ursodeoxycholic acid	0.0189	0.4746	0.4971	1105
+85-89	Male	Ursodeoxycholic acid	0.0108	0.5353	0.5488	811
+>90	Male	Ursodeoxycholic acid	0.0103	0.5527	0.5792	394

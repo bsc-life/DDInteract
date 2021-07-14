@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Ibuprofen	Lithium cation	2.78998395759224e-05
+05-09	Female	Ibuprofen	Lithium cation	0
+10-14	Female	Ibuprofen	Lithium cation	2.01845676869293e-05
+15-19	Female	Ibuprofen	Lithium cation	3.67284929631546e-05
+20-24	Female	Ibuprofen	Lithium cation	0.000125627789983836
+25-29	Female	Ibuprofen	Lithium cation	0.00015552099533437
+30-34	Female	Ibuprofen	Lithium cation	0.00025176094838533
+35-39	Female	Ibuprofen	Lithium cation	0.000402939246282588
+40-44	Female	Ibuprofen	Lithium cation	0.000527451197577944
+45-49	Female	Ibuprofen	Lithium cation	0.000648175094202707
+50-54	Female	Ibuprofen	Lithium cation	0.000685826062583119
+55-59	Female	Ibuprofen	Lithium cation	0.000571168185932044
+60-64	Female	Ibuprofen	Lithium cation	0.000525310827070291
+65-69	Female	Ibuprofen	Lithium cation	0.000410682492581602
+70-74	Female	Ibuprofen	Lithium cation	0.000296388657512686
+75-79	Female	Ibuprofen	Lithium cation	0.000184693911817052
+80-84	Female	Ibuprofen	Lithium cation	9.74125957628663e-05
+85-89	Female	Ibuprofen	Lithium cation	4.74659135408385e-05
+>90	Female	Ibuprofen	Lithium cation	3.94825158259084e-05

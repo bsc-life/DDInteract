@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Tenoxicam	Alendronic acid	0
+05-09	Female	Tenoxicam	Alendronic acid	0
+10-14	Female	Tenoxicam	Alendronic acid	0
+15-19	Female	Tenoxicam	Alendronic acid	0
+20-24	Female	Tenoxicam	Alendronic acid	0
+25-29	Female	Tenoxicam	Alendronic acid	0
+30-34	Female	Tenoxicam	Alendronic acid	0
+35-39	Female	Tenoxicam	Alendronic acid	0
+40-44	Female	Tenoxicam	Alendronic acid	0
+45-49	Female	Tenoxicam	Alendronic acid	0
+50-54	Female	Tenoxicam	Alendronic acid	7.95160652270283e-06
+55-59	Female	Tenoxicam	Alendronic acid	1.67990642921189e-05
+60-64	Female	Tenoxicam	Alendronic acid	3.48754076063264e-05
+65-69	Female	Tenoxicam	Alendronic acid	3.32344213649852e-05
+70-74	Female	Tenoxicam	Alendronic acid	4.08811941396808e-05
+75-79	Female	Tenoxicam	Alendronic acid	3.35807112394641e-05
+80-84	Female	Tenoxicam	Alendronic acid	3.45657597868235e-05
+85-89	Female	Tenoxicam	Alendronic acid	3.1643942360559e-05
+>90	Female	Tenoxicam	Alendronic acid	0

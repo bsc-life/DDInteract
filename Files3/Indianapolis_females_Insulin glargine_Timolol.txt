@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Timolol	0
+05-09	Female	Insulin glargine	Timolol	0
+10-14	Female	Insulin glargine	Timolol	0
+15-19	Female	Insulin glargine	Timolol	0
+20-24	Female	Insulin glargine	Timolol	0
+25-29	Female	Insulin glargine	Timolol	0
+30-34	Female	Insulin glargine	Timolol	0
+35-39	Female	Insulin glargine	Timolol	0
+40-44	Female	Insulin glargine	Timolol	0.000204540805890775
+45-49	Female	Insulin glargine	Timolol	0
+50-54	Female	Insulin glargine	Timolol	9.23446301597562e-05
+55-59	Female	Insulin glargine	Timolol	8.74737578726382e-05
+60-64	Female	Insulin glargine	Timolol	0.000185082361650935
+65-69	Female	Insulin glargine	Timolol	0.000112007168458781
+70-74	Female	Insulin glargine	Timolol	0.000158478605388273
+75-79	Female	Insulin glargine	Timolol	0.000661084178052005
+80-84	Female	Insulin glargine	Timolol	0
+85-89	Female	Insulin glargine	Timolol	0
+>90	Female	Insulin glargine	Timolol	0

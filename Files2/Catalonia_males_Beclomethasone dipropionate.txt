@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Beclomethasone dipropionate	0	0.0972	0.0998	77
+05-09	Male	Beclomethasone dipropionate	0	0.0923	0.099	176
+10-14	Male	Beclomethasone dipropionate	0	0.1471	0.1612	423
+15-19	Male	Beclomethasone dipropionate	0	0.542	0.5886	1679
+20-24	Male	Beclomethasone dipropionate	0	0.5851	0.6392	1916
+25-29	Male	Beclomethasone dipropionate	0	0.5954	0.6397	2380
+30-34	Male	Beclomethasone dipropionate	0	0.6764	0.7254	3436
+35-39	Male	Beclomethasone dipropionate	0	0.7766	0.8319	4511
+40-44	Male	Beclomethasone dipropionate	0	0.8424	0.9036	4840
+45-49	Male	Beclomethasone dipropionate	0	0.8503	0.9063	4451
+50-54	Male	Beclomethasone dipropionate	0	0.9132	0.9658	4389
+55-59	Male	Beclomethasone dipropionate	0	1.0612	1.1168	4757
+60-64	Male	Beclomethasone dipropionate	0	1.3171	1.3749	5660
+65-69	Male	Beclomethasone dipropionate	0	1.6637	1.7352	6553
+70-74	Male	Beclomethasone dipropionate	0	1.926	1.9998	6768
+75-79	Male	Beclomethasone dipropionate	0	2.2021	2.2793	6495
+80-84	Male	Beclomethasone dipropionate	0	2.5529	2.6402	5869
+85-89	Male	Beclomethasone dipropionate	0	2.6729	2.7419	4052
+>90	Male	Beclomethasone dipropionate	0	2.9208	2.9811	2028

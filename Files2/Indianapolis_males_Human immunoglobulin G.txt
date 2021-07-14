@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Human immunoglobulin G	0	0	0.167694795472241	28
+05-09	Male	Human immunoglobulin G	0	0	0.150799235950538	15
+10-14	Male	Human immunoglobulin G	0	0	0.128639925154953	11
+15-19	Male	Human immunoglobulin G	0	0	0.13933398355859	10
+20-24	Male	Human immunoglobulin G	0	0	0.0585737296822375	4
+25-29	Male	Human immunoglobulin G	0	0	0.038163083577153	3
+30-34	Male	Human immunoglobulin G	0	0	0.0392259414225941	3
+35-39	Male	Human immunoglobulin G	0	0	0.0279916025192442	2
+40-44	Male	Human immunoglobulin G	0	0	0.0741179958493922	5
+45-49	Male	Human immunoglobulin G	0	0	0.0275520044083207	2
+50-54	Male	Human immunoglobulin G	0	0	0.0496709300881659	4
+55-59	Male	Human immunoglobulin G	0	0	0.124069478908189	11
+60-64	Male	Human immunoglobulin G	0	0	0.182859929294161	15
+65-69	Male	Human immunoglobulin G	0	0	0.195371205290051	13
+70-74	Male	Human immunoglobulin G	0	0	0.299145299145299	14
+75-79	Male	Human immunoglobulin G	0	0	0.532414657062324	17
+80-84	Male	Human immunoglobulin G	0	0	0.148588410104012	3
+85-89	Male	Human immunoglobulin G	0	0	0.161812297734628	2
+>90	Male	Human immunoglobulin G	0	0	0.162866449511401	1

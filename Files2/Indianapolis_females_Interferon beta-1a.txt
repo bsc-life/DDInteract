@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Interferon beta-1a	0	0	0	0
+05-09	Female	Interferon beta-1a	0	0	0	0
+10-14	Female	Interferon beta-1a	0	0	0	0
+15-19	Female	Interferon beta-1a	0	0	0	0
+20-24	Female	Interferon beta-1a	0	0	0	0
+25-29	Female	Interferon beta-1a	0	0.00648971380362126	0.00648971380362126	1
+30-34	Female	Interferon beta-1a	0	0.0294485754251638	0.0441728631377457	6
+35-39	Female	Interferon beta-1a	0	0.0255080350310348	0.0425133917183913	5
+40-44	Female	Interferon beta-1a	0	0.0204540805890775	0.040908161178155	4
+45-49	Female	Interferon beta-1a	0	0.0585023400936037	0.0975039001560062	10
+50-54	Female	Interferon beta-1a	0	0.0646412411118293	0.0923446301597562	10
+55-59	Female	Interferon beta-1a	0	0.0349895031490553	0.11371588523443	13
+60-64	Female	Interferon beta-1a	0	0.0370164723301869	0.0647788265778271	7
+65-69	Female	Interferon beta-1a	0	0.0560035842293907	0.0672043010752688	6
+70-74	Female	Interferon beta-1a	0	0.0158478605388273	0.0475435816164818	3
+75-79	Female	Interferon beta-1a	0	0	0.0220361392684002	1
+80-84	Female	Interferon beta-1a	0	0	0	0
+85-89	Female	Interferon beta-1a	0	0	0	0
+>90	Female	Interferon beta-1a	0	0	0	0

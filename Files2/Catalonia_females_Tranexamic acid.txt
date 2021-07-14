@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Tranexamic acid	0	0.0056	0.0153	11
+05-09	Female	Tranexamic acid	0	0.0219	0.0402	68
+10-14	Female	Tranexamic acid	0	0.26	0.5103	1264
+15-19	Female	Tranexamic acid	0	0.4254	0.8224	2463
+20-24	Female	Tranexamic acid	0	0.4308	0.8437	3022
+25-29	Female	Tranexamic acid	0	0.4446	0.8618	3879
+30-34	Female	Tranexamic acid	0	0.6336	1.1609	6317
+35-39	Female	Tranexamic acid	0	1.0432	1.7903	10530
+40-44	Female	Tranexamic acid	0	1.8974	3.0093	17116
+45-49	Female	Tranexamic acid	0	2.9221	4.4191	23385
+50-54	Female	Tranexamic acid	0	2.175	3.0898	15543
+55-59	Female	Tranexamic acid	0	0.5714	0.7662	3649
+60-64	Female	Tranexamic acid	0	0.378	0.458	2101
+65-69	Female	Tranexamic acid	0	0.5365	0.6343	2672
+70-74	Female	Tranexamic acid	0	0.6904	0.779	3049
+75-79	Female	Tranexamic acid	0	0.8907	0.9976	3565
+80-84	Female	Tranexamic acid	0	1.0671	1.1862	3775
+85-89	Female	Tranexamic acid	0	0.9497	1.051	2657
+>90	Female	Tranexamic acid	0	1.1864	1.2674	1926

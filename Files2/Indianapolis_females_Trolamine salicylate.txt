@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Trolamine salicylate	0	0	0	0
+05-09	Female	Trolamine salicylate	0	0	0	0
+10-14	Female	Trolamine salicylate	0	0	0.0245368666421298	2
+15-19	Female	Trolamine salicylate	0	0	0.00960984047664809	1
+20-24	Female	Trolamine salicylate	0	0	0.00752162467092892	1
+25-29	Female	Trolamine salicylate	0	0	0.00648971380362126	1
+30-34	Female	Trolamine salicylate	0	0	0.0220864315688729	3
+35-39	Female	Trolamine salicylate	0	0	0.0255080350310348	3
+40-44	Female	Trolamine salicylate	0	0	0	0
+45-49	Female	Trolamine salicylate	0	0	0.0390015600624025	4
+50-54	Female	Trolamine salicylate	0	0	0.0277033890479269	3
+55-59	Female	Trolamine salicylate	0	0	0.0262421273617915	3
+60-64	Female	Trolamine salicylate	0	0	0.0277623542476402	3
+65-69	Female	Trolamine salicylate	0	0	0.0896057347670251	8
+70-74	Female	Trolamine salicylate	0	0	0.0950871632329636	6
+75-79	Female	Trolamine salicylate	0	0	0.264433671220802	12
+80-84	Female	Trolamine salicylate	0	0	0.332025354663447	11
+85-89	Female	Trolamine salicylate	0	0	0.265486725663717	6
+>90	Female	Trolamine salicylate	0	0	0.471698113207547	7

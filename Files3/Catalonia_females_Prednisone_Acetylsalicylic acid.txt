@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Prednisone	Acetylsalicylic acid	0
+05-09	Female	Prednisone	Acetylsalicylic acid	0
+10-14	Female	Prednisone	Acetylsalicylic acid	2.01845676869293e-05
+15-19	Female	Prednisone	Acetylsalicylic acid	9.01517554550159e-05
+20-24	Female	Prednisone	Acetylsalicylic acid	0.000139586433315373
+25-29	Female	Prednisone	Acetylsalicylic acid	0.000255498778049322
+30-34	Female	Prednisone	Acetylsalicylic acid	0.000422664365902379
+35-39	Female	Prednisone	Acetylsalicylic acid	0.000712369384778077
+40-44	Female	Prednisone	Acetylsalicylic acid	0.000812274844270034
+45-49	Female	Prednisone	Acetylsalicylic acid	0.000990215012717838
+50-54	Female	Prednisone	Acetylsalicylic acid	0.00137761583005827
+55-59	Female	Prednisone	Acetylsalicylic acid	0.00207258455704017
+60-64	Female	Prednisone	Acetylsalicylic acid	0.00311263012886463
+65-69	Female	Prednisone	Acetylsalicylic acid	0.00464094955489614
+70-74	Female	Prednisone	Acetylsalicylic acid	0.00636469091262156
+75-79	Female	Prednisone	Acetylsalicylic acid	0.00903880810862241
+80-84	Female	Prednisone	Acetylsalicylic acid	0.0135560625200324
+85-89	Female	Prednisone	Acetylsalicylic acid	0.0178630054625355
+>90	Female	Prednisone	Acetylsalicylic acid	0.0297237539976047

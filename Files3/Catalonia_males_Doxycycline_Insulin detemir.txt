@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Doxycycline	Insulin detemir	0
+05-09	Male	Doxycycline	Insulin detemir	0
+10-14	Male	Doxycycline	Insulin detemir	0
+15-19	Male	Doxycycline	Insulin detemir	0
+20-24	Male	Doxycycline	Insulin detemir	1.33436969379551e-05
+25-29	Male	Doxycycline	Insulin detemir	2.6879986237447e-06
+30-34	Male	Doxycycline	Insulin detemir	0
+35-39	Male	Doxycycline	Insulin detemir	0
+40-44	Male	Doxycycline	Insulin detemir	3.73402537270241e-06
+45-49	Male	Doxycycline	Insulin detemir	4.07216694255598e-06
+50-54	Male	Doxycycline	Insulin detemir	1.32029468977476e-05
+55-59	Male	Doxycycline	Insulin detemir	0
+60-64	Male	Doxycycline	Insulin detemir	4.85847269052501e-06
+65-69	Male	Doxycycline	Insulin detemir	1.05919580558461e-05
+70-74	Male	Doxycycline	Insulin detemir	2.95483825215408e-06
+75-79	Male	Doxycycline	Insulin detemir	2.10555867490174e-05
+80-84	Male	Doxycycline	Insulin detemir	8.99697251874744e-06
+85-89	Male	Doxycycline	Insulin detemir	2.70672621464339e-05
+>90	Male	Doxycycline	Insulin detemir	0

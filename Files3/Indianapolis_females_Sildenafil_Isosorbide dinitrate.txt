@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Sildenafil	Isosorbide dinitrate	0
+05-09	Female	Sildenafil	Isosorbide dinitrate	0
+10-14	Female	Sildenafil	Isosorbide dinitrate	0
+15-19	Female	Sildenafil	Isosorbide dinitrate	0
+20-24	Female	Sildenafil	Isosorbide dinitrate	0
+25-29	Female	Sildenafil	Isosorbide dinitrate	0
+30-34	Female	Sildenafil	Isosorbide dinitrate	0
+35-39	Female	Sildenafil	Isosorbide dinitrate	0
+40-44	Female	Sildenafil	Isosorbide dinitrate	0
+45-49	Female	Sildenafil	Isosorbide dinitrate	0
+50-54	Female	Sildenafil	Isosorbide dinitrate	0
+55-59	Female	Sildenafil	Isosorbide dinitrate	0
+60-64	Female	Sildenafil	Isosorbide dinitrate	0
+65-69	Female	Sildenafil	Isosorbide dinitrate	0
+70-74	Female	Sildenafil	Isosorbide dinitrate	0
+75-79	Female	Sildenafil	Isosorbide dinitrate	0
+80-84	Female	Sildenafil	Isosorbide dinitrate	0
+85-89	Female	Sildenafil	Isosorbide dinitrate	0
+>90	Female	Sildenafil	Isosorbide dinitrate	0

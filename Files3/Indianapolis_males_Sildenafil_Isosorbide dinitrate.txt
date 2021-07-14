@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Sildenafil	Isosorbide dinitrate	0
+05-09	Male	Sildenafil	Isosorbide dinitrate	0
+10-14	Male	Sildenafil	Isosorbide dinitrate	0
+15-19	Male	Sildenafil	Isosorbide dinitrate	0
+20-24	Male	Sildenafil	Isosorbide dinitrate	0
+25-29	Male	Sildenafil	Isosorbide dinitrate	0
+30-34	Male	Sildenafil	Isosorbide dinitrate	0
+35-39	Male	Sildenafil	Isosorbide dinitrate	0
+40-44	Male	Sildenafil	Isosorbide dinitrate	0
+45-49	Male	Sildenafil	Isosorbide dinitrate	0
+50-54	Male	Sildenafil	Isosorbide dinitrate	0
+55-59	Male	Sildenafil	Isosorbide dinitrate	0.000112790435371081
+60-64	Male	Sildenafil	Isosorbide dinitrate	0
+65-69	Male	Sildenafil	Isosorbide dinitrate	0
+70-74	Male	Sildenafil	Isosorbide dinitrate	0
+75-79	Male	Sildenafil	Isosorbide dinitrate	0
+80-84	Male	Sildenafil	Isosorbide dinitrate	0
+85-89	Male	Sildenafil	Isosorbide dinitrate	0
+>90	Male	Sildenafil	Isosorbide dinitrate	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Mycophenolate mofetil	Iron	0
+05-09	Female	Mycophenolate mofetil	Iron	0
+10-14	Female	Mycophenolate mofetil	Iron	0
+15-19	Female	Mycophenolate mofetil	Iron	0
+20-24	Female	Mycophenolate mofetil	Iron	0
+25-29	Female	Mycophenolate mofetil	Iron	6.48971380362126e-05
+30-34	Female	Mycophenolate mofetil	Iron	7.36214385629095e-05
+35-39	Female	Mycophenolate mofetil	Iron	0
+40-44	Female	Mycophenolate mofetil	Iron	0
+45-49	Female	Mycophenolate mofetil	Iron	0
+50-54	Female	Mycophenolate mofetil	Iron	9.23446301597562e-05
+55-59	Female	Mycophenolate mofetil	Iron	0
+60-64	Female	Mycophenolate mofetil	Iron	0
+65-69	Female	Mycophenolate mofetil	Iron	0.000224014336917563
+70-74	Female	Mycophenolate mofetil	Iron	0
+75-79	Female	Mycophenolate mofetil	Iron	0.000220361392684002
+80-84	Female	Mycophenolate mofetil	Iron	0
+85-89	Female	Mycophenolate mofetil	Iron	0
+>90	Female	Mycophenolate mofetil	Iron	0

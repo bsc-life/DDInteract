@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Dimethyl sulfoxide	0	0	0	0
+05-09	Male	Dimethyl sulfoxide	0	0	0	0
+10-14	Male	Dimethyl sulfoxide	0	0	0	0
+15-19	Male	Dimethyl sulfoxide	0	0	0	0
+20-24	Male	Dimethyl sulfoxide	0	0	0	0
+25-29	Male	Dimethyl sulfoxide	0	0	0	0
+30-34	Male	Dimethyl sulfoxide	0	0	0	0
+35-39	Male	Dimethyl sulfoxide	0	0	0	0
+40-44	Male	Dimethyl sulfoxide	0	0.0148235991698784	0.0148235991698784	1
+45-49	Male	Dimethyl sulfoxide	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Dimethyl sulfoxide	0	0.0124177325220415	0.0124177325220415	1
+55-59	Male	Dimethyl sulfoxide	0	0	0	0
+60-64	Male	Dimethyl sulfoxide	0	0	0	0
+65-69	Male	Dimethyl sulfoxide	0	0	0	0
+70-74	Male	Dimethyl sulfoxide	0	0	0	0
+75-79	Male	Dimethyl sulfoxide	0	0	0	0
+80-84	Male	Dimethyl sulfoxide	0	0	0	0
+85-89	Male	Dimethyl sulfoxide	0	0	0	0
+>90	Male	Dimethyl sulfoxide	0	0	0	0

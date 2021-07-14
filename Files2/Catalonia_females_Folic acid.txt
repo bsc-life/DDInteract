@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Folic acid	0	0.0628	0.0753	54
+05-09	Female	Folic acid	0	0.0869	0.0993	168
+10-14	Female	Folic acid	4e-04	0.1667	0.2253	558
+15-19	Female	Folic acid	7e-04	0.8528	1.4544	4356
+20-24	Female	Folic acid	6e-04	1.7465	3.2161	11520
+25-29	Female	Folic acid	0.0022	2.7501	5.1562	23208
+30-34	Female	Folic acid	0.0029	3.6384	6.4146	34906
+35-39	Female	Folic acid	0.0071	3.3352	5.289	31109
+40-44	Female	Folic acid	0.0065	2.059	2.8187	16032
+45-49	Female	Folic acid	0.0076	1.4437	1.6854	8919
+50-54	Female	Folic acid	0.0072	1.379	1.5259	7676
+55-59	Female	Folic acid	0.0107	1.3462	1.4527	6918
+60-64	Female	Folic acid	0.014	1.3538	1.4417	6614
+65-69	Female	Folic acid	0.0121	1.4609	1.5388	6482
+70-74	Female	Folic acid	0.0156	1.6623	1.7451	6830
+75-79	Female	Folic acid	0.0179	2.1662	2.2619	8083
+80-84	Female	Folic acid	0.027	3.2435	3.3614	10697
+85-89	Female	Folic acid	0.036	4.4642	4.6208	11682
+>90	Female	Folic acid	0.0526	7.0167	7.2135	10962

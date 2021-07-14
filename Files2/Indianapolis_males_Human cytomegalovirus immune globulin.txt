@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Human cytomegalovirus immune globulin	0	0.0059890998382943	0.0059890998382943	1
+05-09	Male	Human cytomegalovirus immune globulin	0	0	0	0
+10-14	Male	Human cytomegalovirus immune globulin	0	0.0116945386504502	0.0116945386504502	1
+15-19	Male	Human cytomegalovirus immune globulin	0	0	0	0
+20-24	Male	Human cytomegalovirus immune globulin	0	0	0	0
+25-29	Male	Human cytomegalovirus immune globulin	0	0	0	0
+30-34	Male	Human cytomegalovirus immune globulin	0	0	0	0
+35-39	Male	Human cytomegalovirus immune globulin	0	0	0	0
+40-44	Male	Human cytomegalovirus immune globulin	0	0.0148235991698784	0.0148235991698784	1
+45-49	Male	Human cytomegalovirus immune globulin	0	0	0	0
+50-54	Male	Human cytomegalovirus immune globulin	0	0	0	0
+55-59	Male	Human cytomegalovirus immune globulin	0	0	0	0
+60-64	Male	Human cytomegalovirus immune globulin	0	0	0	0
+65-69	Male	Human cytomegalovirus immune globulin	0	0	0	0
+70-74	Male	Human cytomegalovirus immune globulin	0	0	0	0
+75-79	Male	Human cytomegalovirus immune globulin	0	0	0	0
+80-84	Male	Human cytomegalovirus immune globulin	0	0	0	0
+85-89	Male	Human cytomegalovirus immune globulin	0	0	0	0
+>90	Male	Human cytomegalovirus immune globulin	0	0	0	0

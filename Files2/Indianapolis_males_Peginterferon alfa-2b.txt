@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Peginterferon alfa-2b	0	0	0	0
+05-09	Male	Peginterferon alfa-2b	0	0	0	0
+10-14	Male	Peginterferon alfa-2b	0	0	0	0
+15-19	Male	Peginterferon alfa-2b	0	0	0	0
+20-24	Male	Peginterferon alfa-2b	0	0	0	0
+25-29	Male	Peginterferon alfa-2b	0	0	0	0
+30-34	Male	Peginterferon alfa-2b	0	0	0	0
+35-39	Male	Peginterferon alfa-2b	0	0	0	0
+40-44	Male	Peginterferon alfa-2b	0	0	0	0
+45-49	Male	Peginterferon alfa-2b	0	0	0	0
+50-54	Male	Peginterferon alfa-2b	0	0	0	0
+55-59	Male	Peginterferon alfa-2b	0	0.0112790435371081	0.0112790435371081	1
+60-64	Male	Peginterferon alfa-2b	0	0	0	0
+65-69	Male	Peginterferon alfa-2b	0	0.0150285542530809	0.0150285542530809	1
+70-74	Male	Peginterferon alfa-2b	0	0	0	0
+75-79	Male	Peginterferon alfa-2b	0	0	0	0
+80-84	Male	Peginterferon alfa-2b	0	0	0	0
+85-89	Male	Peginterferon alfa-2b	0	0	0	0
+>90	Male	Peginterferon alfa-2b	0	0	0	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Male	Eslicarbazepine acetate	0	0.0011	0.0011	2
+10-14	Male	Eslicarbazepine acetate	0	0.0053	0.0065	17
+15-19	Male	Eslicarbazepine acetate	0	0.0273	0.033	94
+20-24	Male	Eslicarbazepine acetate	0	0.0444	0.05	150
+25-29	Male	Eslicarbazepine acetate	0	0.0355	0.0427	159
+30-34	Male	Eslicarbazepine acetate	0	0.034	0.0397	188
+35-39	Male	Eslicarbazepine acetate	0	0.0382	0.0426	231
+40-44	Male	Eslicarbazepine acetate	0	0.0442	0.05	268
+45-49	Male	Eslicarbazepine acetate	0	0.0436	0.0493	242
+50-54	Male	Eslicarbazepine acetate	0	0.0495	0.0535	243
+55-59	Male	Eslicarbazepine acetate	0	0.0409	0.0437	186
+60-64	Male	Eslicarbazepine acetate	0	0.0411	0.0435	179
+65-69	Male	Eslicarbazepine acetate	0	0.0426	0.0455	172
+70-74	Male	Eslicarbazepine acetate	0	0.0414	0.0437	148
+75-79	Male	Eslicarbazepine acetate	0	0.0428	0.0456	130
+80-84	Male	Eslicarbazepine acetate	0	0.0387	0.04	89
+85-89	Male	Eslicarbazepine acetate	0	0.0244	0.0277	41
+>90	Male	Eslicarbazepine acetate	0	0.0235	0.0265	18

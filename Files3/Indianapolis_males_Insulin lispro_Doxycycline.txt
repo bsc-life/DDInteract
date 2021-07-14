@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin lispro	Doxycycline	0
+05-09	Male	Insulin lispro	Doxycycline	0
+10-14	Male	Insulin lispro	Doxycycline	0
+15-19	Male	Insulin lispro	Doxycycline	0
+20-24	Male	Insulin lispro	Doxycycline	0
+25-29	Male	Insulin lispro	Doxycycline	0.00050884111436204
+30-34	Male	Insulin lispro	Doxycycline	0.000392259414225941
+35-39	Male	Insulin lispro	Doxycycline	0.000839748075577327
+40-44	Male	Insulin lispro	Doxycycline	0.000889415950192707
+45-49	Male	Insulin lispro	Doxycycline	0.00179088028654085
+50-54	Male	Insulin lispro	Doxycycline	0.00322861045573078
+55-59	Male	Insulin lispro	Doxycycline	0.00417324610872998
+60-64	Male	Insulin lispro	Doxycycline	0.0045105449225893
+65-69	Male	Insulin lispro	Doxycycline	0.0034565674782086
+70-74	Male	Insulin lispro	Doxycycline	0.00555555555555556
+75-79	Male	Insulin lispro	Doxycycline	0.00532414657062324
+80-84	Male	Insulin lispro	Doxycycline	0.00693412580485389
+85-89	Male	Insulin lispro	Doxycycline	0.00647249190938511
+>90	Male	Insulin lispro	Doxycycline	0

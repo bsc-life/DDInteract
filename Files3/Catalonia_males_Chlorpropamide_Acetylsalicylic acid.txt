@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Chlorpropamide	Acetylsalicylic acid	0
+05-09	Male	Chlorpropamide	Acetylsalicylic acid	0
+10-14	Male	Chlorpropamide	Acetylsalicylic acid	0
+15-19	Male	Chlorpropamide	Acetylsalicylic acid	0
+20-24	Male	Chlorpropamide	Acetylsalicylic acid	0
+25-29	Male	Chlorpropamide	Acetylsalicylic acid	0
+30-34	Male	Chlorpropamide	Acetylsalicylic acid	0
+35-39	Male	Chlorpropamide	Acetylsalicylic acid	0
+40-44	Male	Chlorpropamide	Acetylsalicylic acid	0
+45-49	Male	Chlorpropamide	Acetylsalicylic acid	2.03608347127799e-06
+50-54	Male	Chlorpropamide	Acetylsalicylic acid	2.2004911496246e-06
+55-59	Male	Chlorpropamide	Acetylsalicylic acid	0
+60-64	Male	Chlorpropamide	Acetylsalicylic acid	7.28770903578751e-06
+65-69	Male	Chlorpropamide	Acetylsalicylic acid	1.05919580558461e-05
+70-74	Male	Chlorpropamide	Acetylsalicylic acid	1.47741912607704e-05
+75-79	Male	Chlorpropamide	Acetylsalicylic acid	5.26389668725435e-05
+80-84	Male	Chlorpropamide	Acetylsalicylic acid	6.74772938906058e-05
+85-89	Male	Chlorpropamide	Acetylsalicylic acid	4.73677087562593e-05
+>90	Male	Chlorpropamide	Acetylsalicylic acid	2.93992268003352e-05

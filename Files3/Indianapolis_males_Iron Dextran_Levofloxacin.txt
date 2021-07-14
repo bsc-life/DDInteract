@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Iron Dextran	Levofloxacin	0
+05-09	Male	Iron Dextran	Levofloxacin	0
+10-14	Male	Iron Dextran	Levofloxacin	0
+15-19	Male	Iron Dextran	Levofloxacin	0
+20-24	Male	Iron Dextran	Levofloxacin	0
+25-29	Male	Iron Dextran	Levofloxacin	0
+30-34	Male	Iron Dextran	Levofloxacin	0
+35-39	Male	Iron Dextran	Levofloxacin	0
+40-44	Male	Iron Dextran	Levofloxacin	0
+45-49	Male	Iron Dextran	Levofloxacin	0
+50-54	Male	Iron Dextran	Levofloxacin	0
+55-59	Male	Iron Dextran	Levofloxacin	0
+60-64	Male	Iron Dextran	Levofloxacin	0
+65-69	Male	Iron Dextran	Levofloxacin	0
+70-74	Male	Iron Dextran	Levofloxacin	0
+75-79	Male	Iron Dextran	Levofloxacin	0
+80-84	Male	Iron Dextran	Levofloxacin	0.000495294700346706
+85-89	Male	Iron Dextran	Levofloxacin	0
+>90	Male	Iron Dextran	Levofloxacin	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Vitamin A	0	0.0014	0.0042	3
+05-09	Female	Vitamin A	0	0.0083	0.016	27
+10-14	Female	Vitamin A	0	0.0206	0.0371	92
+15-19	Female	Vitamin A	0	0.1095	0.1683	504
+20-24	Female	Vitamin A	0	0.1253	0.1865	668
+25-29	Female	Vitamin A	0	0.1397	0.1953	879
+30-34	Female	Vitamin A	0	0.1724	0.2332	1269
+35-39	Female	Vitamin A	0	0.1967	0.2688	1581
+40-44	Female	Vitamin A	0	0.2245	0.292	1661
+45-49	Female	Vitamin A	0	0.261	0.3264	1727
+50-54	Female	Vitamin A	0	0.3346	0.4095	2060
+55-59	Female	Vitamin A	0	0.4382	0.5229	2490
+60-64	Female	Vitamin A	0	0.5955	0.6853	3144
+65-69	Female	Vitamin A	0	0.7172	0.7988	3365
+70-74	Female	Vitamin A	0	0.7223	0.7923	3101
+75-79	Female	Vitamin A	0	0.7044	0.7586	2711
+80-84	Female	Vitamin A	0	0.6376	0.6847	2179
+85-89	Female	Vitamin A	0	0.4521	0.4885	1235
+>90	Female	Vitamin A	0	0.354	0.3764	572

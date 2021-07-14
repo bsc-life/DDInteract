@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Tuberculin Purified Protein Derivative	0	0.0419236988680601	0.0479127987063544	8
+05-09	Male	Tuberculin Purified Protein Derivative	0	0.0402131295868101	0.0703729767769177	7
+10-14	Male	Tuberculin Purified Protein Derivative	0	0.046778154601801	0.0584726932522512	5
+15-19	Male	Tuberculin Purified Protein Derivative	0	0.181134178626167	0.668803121081232	48
+20-24	Male	Tuberculin Purified Protein Derivative	0	0.146434324205594	0.571093864401816	39
+25-29	Male	Tuberculin Purified Protein Derivative	0	0.12721027859051	0.457957002925836	36
+30-34	Male	Tuberculin Purified Protein Derivative	0	0.196129707112971	0.366108786610879	28
+35-39	Male	Tuberculin Purified Protein Derivative	0	0.153953813855843	0.391882435269419	28
+40-44	Male	Tuberculin Purified Protein Derivative	0	0.133412392528906	0.311295582567447	21
+45-49	Male	Tuberculin Purified Protein Derivative	0	0.192864030858245	0.330624052899848	24
+50-54	Male	Tuberculin Purified Protein Derivative	0	0.186265987830622	0.298025580528995	24
+55-59	Male	Tuberculin Purified Protein Derivative	0	0.203022783667945	0.40604556733589	36
+60-64	Male	Tuberculin Purified Protein Derivative	0	0.12190661952944	0.256003901011825	21
+65-69	Male	Tuberculin Purified Protein Derivative	0	0.225428313796213	0.450856627592426	30
+70-74	Male	Tuberculin Purified Protein Derivative	0	0.192307692307692	0.299145299145299	14
+75-79	Male	Tuberculin Purified Protein Derivative	0	0.0626370184779205	0.125274036955841	4
+80-84	Male	Tuberculin Purified Protein Derivative	0	0.346706290242694	0.445765230312036	9
+85-89	Male	Tuberculin Purified Protein Derivative	0	0.161812297734628	0.647249190938511	8
+>90	Male	Tuberculin Purified Protein Derivative	0	0.325732899022801	1.1400651465798	7

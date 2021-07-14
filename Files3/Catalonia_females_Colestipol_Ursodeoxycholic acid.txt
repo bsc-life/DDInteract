@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Colestipol	Ursodeoxycholic acid	0
+05-09	Female	Colestipol	Ursodeoxycholic acid	0
+10-14	Female	Colestipol	Ursodeoxycholic acid	0
+15-19	Female	Colestipol	Ursodeoxycholic acid	0
+20-24	Female	Colestipol	Ursodeoxycholic acid	0
+25-29	Female	Colestipol	Ursodeoxycholic acid	2.22172850477672e-06
+30-34	Female	Colestipol	Ursodeoxycholic acid	1.8376711560973e-06
+35-39	Female	Colestipol	Ursodeoxycholic acid	1.70016559612906e-06
+40-44	Female	Colestipol	Ursodeoxycholic acid	5.27451197577944e-06
+45-49	Female	Colestipol	Ursodeoxycholic acid	3.77944661342686e-06
+50-54	Female	Colestipol	Ursodeoxycholic acid	1.391531141473e-05
+55-59	Female	Colestipol	Ursodeoxycholic acid	1.04994151825743e-05
+60-64	Female	Colestipol	Ursodeoxycholic acid	1.30782778523724e-05
+65-69	Female	Colestipol	Ursodeoxycholic acid	1.89910979228487e-05
+70-74	Female	Colestipol	Ursodeoxycholic acid	2.04405970698404e-05
+75-79	Female	Colestipol	Ursodeoxycholic acid	8.39517780986601e-06
+80-84	Female	Colestipol	Ursodeoxycholic acid	6.28468359760428e-06
+85-89	Female	Colestipol	Ursodeoxycholic acid	0
+>90	Female	Colestipol	Ursodeoxycholic acid	6.58041930431807e-06

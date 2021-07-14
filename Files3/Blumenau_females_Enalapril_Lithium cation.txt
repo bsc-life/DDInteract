@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Enalapril	Lithium cation	0
+05-09	Female	Enalapril	Lithium cation	0
+10-14	Female	Enalapril	Lithium cation	0
+15-19	Female	Enalapril	Lithium cation	0
+20-24	Female	Enalapril	Lithium cation	0
+25-29	Female	Enalapril	Lithium cation	0
+30-34	Female	Enalapril	Lithium cation	0
+35-39	Female	Enalapril	Lithium cation	0.000836540070269366
+40-44	Female	Enalapril	Lithium cation	0.000154942671211652
+45-49	Female	Enalapril	Lithium cation	0.000555941626129256
+50-54	Female	Enalapril	Lithium cation	0.00163510014988418
+55-59	Female	Enalapril	Lithium cation	0.000941619585687382
+60-64	Female	Enalapril	Lithium cation	0.00125134072220236
+65-69	Female	Enalapril	Lithium cation	0.000479386385426654
+70-74	Female	Enalapril	Lithium cation	0
+75-79	Female	Enalapril	Lithium cation	0
+80-84	Female	Enalapril	Lithium cation	0
+85-89	Female	Enalapril	Lithium cation	0
+>90	Female	Enalapril	Lithium cation	0

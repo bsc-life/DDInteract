@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	Male	Tetanus immune globulin	0	7e-04	0.0011	3
+20-24	Male	Tetanus immune globulin	0	7e-04	0.002	6
+25-29	Male	Tetanus immune globulin	0	0.0016	0.003	11
+30-34	Male	Tetanus immune globulin	0	0.0021	0.0044	21
+35-39	Male	Tetanus immune globulin	0	0.0015	0.0022	12
+40-44	Male	Tetanus immune globulin	0	0.0032	0.0047	25
+45-49	Male	Tetanus immune globulin	0	0.0029	0.0051	25
+50-54	Male	Tetanus immune globulin	0	0.002	0.0026	12
+55-59	Male	Tetanus immune globulin	0	0.0016	0.0023	10
+60-64	Male	Tetanus immune globulin	0	0.001	0.0019	8
+65-69	Male	Tetanus immune globulin	0	0.0034	0.004	15
+70-74	Male	Tetanus immune globulin	0	0.0018	0.0021	7
+75-79	Male	Tetanus immune globulin	0	0.0025	0.0032	9
+80-84	Male	Tetanus immune globulin	0	0.0027	0.0027	6
+85-89	Male	Tetanus immune globulin	0	7e-04	7e-04	1
+>90	Male	Tetanus immune globulin	0	0.0059	0.0059	4

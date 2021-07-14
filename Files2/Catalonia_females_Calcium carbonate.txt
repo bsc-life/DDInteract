@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Calcium carbonate	0	0.0056	0.0084	6
+05-09	Female	Calcium carbonate	0	0.0118	0.0207	35
+10-14	Female	Calcium carbonate	0	0.0339	0.048	119
+15-19	Female	Calcium carbonate	0	0.0464	0.0618	185
+20-24	Female	Calcium carbonate	0	0.0782	0.0955	342
+25-29	Female	Calcium carbonate	0	0.1226	0.1615	727
+30-34	Female	Calcium carbonate	0	0.1737	0.2231	1214
+35-39	Female	Calcium carbonate	0	0.2033	0.2508	1475
+40-44	Female	Calcium carbonate	0	0.2043	0.2337	1329
+45-49	Female	Calcium carbonate	0	0.2761	0.311	1646
+50-54	Female	Calcium carbonate	0	0.4515	0.5182	2607
+55-59	Female	Calcium carbonate	0	0.6934	0.7728	3680
+60-64	Female	Calcium carbonate	0	0.9497	1.038	4762
+65-69	Female	Calcium carbonate	0	1.1661	1.238	5215
+70-74	Female	Calcium carbonate	0	1.2367	1.311	5131
+75-79	Female	Calcium carbonate	0	1.3986	1.4756	5273
+80-84	Female	Calcium carbonate	0	1.4084	1.4631	4656
+85-89	Female	Calcium carbonate	0	1.2606	1.3085	3308
+>90	Female	Calcium carbonate	0	1.1055	1.1384	1730

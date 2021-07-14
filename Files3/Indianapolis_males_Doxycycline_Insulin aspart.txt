@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Doxycycline	Insulin aspart	0
+05-09	Male	Doxycycline	Insulin aspart	0
+10-14	Male	Doxycycline	Insulin aspart	0
+15-19	Male	Doxycycline	Insulin aspart	0
+20-24	Male	Doxycycline	Insulin aspart	0
+25-29	Male	Doxycycline	Insulin aspart	0
+30-34	Male	Doxycycline	Insulin aspart	0.000130753138075314
+35-39	Male	Doxycycline	Insulin aspart	0.000139958012596221
+40-44	Male	Doxycycline	Insulin aspart	0
+45-49	Male	Doxycycline	Insulin aspart	0.000137760022041604
+50-54	Male	Doxycycline	Insulin aspart	0.000496709300881659
+55-59	Male	Doxycycline	Insulin aspart	0.000338371306113242
+60-64	Male	Doxycycline	Insulin aspart	0.000243813239058881
+65-69	Male	Doxycycline	Insulin aspart	0.000601142170123234
+70-74	Male	Doxycycline	Insulin aspart	0.00106837606837607
+75-79	Male	Doxycycline	Insulin aspart	0.000939555277168807
+80-84	Male	Doxycycline	Insulin aspart	0
+85-89	Male	Doxycycline	Insulin aspart	0
+>90	Male	Doxycycline	Insulin aspart	0

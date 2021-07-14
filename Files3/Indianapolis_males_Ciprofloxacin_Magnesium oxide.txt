@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Ciprofloxacin	Magnesium oxide	5.9890998382943e-05
+05-09	Male	Ciprofloxacin	Magnesium oxide	0
+10-14	Male	Ciprofloxacin	Magnesium oxide	0.000233890773009005
+15-19	Male	Ciprofloxacin	Magnesium oxide	0.00013933398355859
+20-24	Male	Ciprofloxacin	Magnesium oxide	0.000146434324205594
+25-29	Male	Ciprofloxacin	Magnesium oxide	0.00012721027859051
+30-34	Male	Ciprofloxacin	Magnesium oxide	0
+35-39	Male	Ciprofloxacin	Magnesium oxide	0.000139958012596221
+40-44	Male	Ciprofloxacin	Magnesium oxide	0
+45-49	Male	Ciprofloxacin	Magnesium oxide	0.000413280066124811
+50-54	Male	Ciprofloxacin	Magnesium oxide	0.000372531975661244
+55-59	Male	Ciprofloxacin	Magnesium oxide	0.00146627565982405
+60-64	Male	Ciprofloxacin	Magnesium oxide	0.000853346336706083
+65-69	Male	Ciprofloxacin	Magnesium oxide	0.00120228434024647
+70-74	Male	Ciprofloxacin	Magnesium oxide	0.0014957264957265
+75-79	Male	Ciprofloxacin	Magnesium oxide	0.00250548073911682
+80-84	Male	Ciprofloxacin	Magnesium oxide	0.000990589400693413
+85-89	Male	Ciprofloxacin	Magnesium oxide	0.000809061488673139
+>90	Male	Ciprofloxacin	Magnesium oxide	0

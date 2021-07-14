@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Insulin aspart	0.0013	0.0441	0.0531	41
+05-09	Male	Insulin aspart	0.0011	0.1199	0.1339	238
+10-14	Male	Insulin aspart	4e-04	0.2492	0.2725	715
+15-19	Male	Insulin aspart	0.0081	0.3159	0.3432	979
+20-24	Male	Insulin aspart	0.009	0.3349	0.3706	1111
+25-29	Male	Insulin aspart	0.0099	0.3629	0.4099	1525
+30-34	Male	Insulin aspart	0.0184	0.4193	0.4607	2182
+35-39	Male	Insulin aspart	0.0389	0.4826	0.5252	2848
+40-44	Male	Insulin aspart	0.0827	0.531	0.5771	3091
+45-49	Male	Insulin aspart	0.1659	0.6542	0.6996	3436
+50-54	Male	Insulin aspart	0.2993	0.8283	0.8776	3988
+55-59	Male	Insulin aspart	0.4362	1.0546	1.1002	4686
+60-64	Male	Insulin aspart	0.5976	1.2904	1.3361	5500
+65-69	Male	Insulin aspart	0.7263	1.5327	1.5782	5960
+70-74	Male	Insulin aspart	0.7884	1.6441	1.6884	5714
+75-79	Male	Insulin aspart	0.7678	1.6665	1.7094	4871
+80-84	Male	Insulin aspart	0.6811	1.5524	1.597	3550
+85-89	Male	Insulin aspart	0.515	1.2444	1.2843	1898
+>90	Male	Insulin aspart	0.3601	0.9422	0.9702	660

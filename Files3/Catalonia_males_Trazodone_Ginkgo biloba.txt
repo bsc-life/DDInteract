@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Trazodone	Ginkgo biloba	0
+05-09	Male	Trazodone	Ginkgo biloba	0
+10-14	Male	Trazodone	Ginkgo biloba	0
+15-19	Male	Trazodone	Ginkgo biloba	0
+20-24	Male	Trazodone	Ginkgo biloba	0
+25-29	Male	Trazodone	Ginkgo biloba	0
+30-34	Male	Trazodone	Ginkgo biloba	0
+35-39	Male	Trazodone	Ginkgo biloba	5.53277894888265e-06
+40-44	Male	Trazodone	Ginkgo biloba	5.60103805905361e-06
+45-49	Male	Trazodone	Ginkgo biloba	8.14433388511195e-06
+50-54	Male	Trazodone	Ginkgo biloba	8.80196459849838e-06
+55-59	Male	Trazodone	Ginkgo biloba	1.17387425458985e-05
+60-64	Male	Trazodone	Ginkgo biloba	1.70046544168375e-05
+65-69	Male	Trazodone	Ginkgo biloba	3.97198427094229e-05
+70-74	Male	Trazodone	Ginkgo biloba	5.31870885387734e-05
+75-79	Male	Trazodone	Ginkgo biloba	0.000101768669286917
+80-84	Male	Trazodone	Ginkgo biloba	0.00015744701907808
+85-89	Male	Trazodone	Ginkgo biloba	0.000250372174854513
+>90	Male	Trazodone	Ginkgo biloba	0.000249893427802849

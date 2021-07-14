@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Carvedilol	0
+05-09	Female	Insulin glargine	Carvedilol	0
+10-14	Female	Insulin glargine	Carvedilol	0
+15-19	Female	Insulin glargine	Carvedilol	0
+20-24	Female	Insulin glargine	Carvedilol	7.52162467092892e-05
+25-29	Female	Insulin glargine	Carvedilol	0.00025958855214485
+30-34	Female	Insulin glargine	Carvedilol	0.000515350069940367
+35-39	Female	Insulin glargine	Carvedilol	0.00110534818467817
+40-44	Female	Insulin glargine	Carvedilol	0.0024544896706893
+45-49	Female	Insulin glargine	Carvedilol	0.00282761310452418
+50-54	Female	Insulin glargine	Carvedilol	0.00323206205559147
+55-59	Female	Insulin glargine	Carvedilol	0.0048110566829951
+60-64	Female	Insulin glargine	Carvedilol	0.00657042383860818
+65-69	Female	Insulin glargine	Carvedilol	0.0084005376344086
+70-74	Female	Insulin glargine	Carvedilol	0.0101426307448494
+75-79	Female	Insulin glargine	Carvedilol	0.0110180696342001
+80-84	Female	Insulin glargine	Carvedilol	0.00905523694536674
+85-89	Female	Insulin glargine	Carvedilol	0.00663716814159292
+>90	Female	Insulin glargine	Carvedilol	0

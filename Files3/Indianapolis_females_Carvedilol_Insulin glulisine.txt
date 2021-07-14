@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Carvedilol	Insulin glulisine	0
+05-09	Female	Carvedilol	Insulin glulisine	0
+10-14	Female	Carvedilol	Insulin glulisine	0
+15-19	Female	Carvedilol	Insulin glulisine	0
+20-24	Female	Carvedilol	Insulin glulisine	0
+25-29	Female	Carvedilol	Insulin glulisine	0
+30-34	Female	Carvedilol	Insulin glulisine	0
+35-39	Female	Carvedilol	Insulin glulisine	0.000255080350310348
+40-44	Female	Carvedilol	Insulin glulisine	0.000306811208836163
+45-49	Female	Carvedilol	Insulin glulisine	0
+50-54	Female	Carvedilol	Insulin glulisine	0.000184689260319512
+55-59	Female	Carvedilol	Insulin glulisine	8.74737578726382e-05
+60-64	Female	Carvedilol	Insulin glulisine	0
+65-69	Female	Carvedilol	Insulin glulisine	0.000112007168458781
+70-74	Female	Carvedilol	Insulin glulisine	0
+75-79	Female	Carvedilol	Insulin glulisine	0.000220361392684002
+80-84	Female	Carvedilol	Insulin glulisine	0
+85-89	Female	Carvedilol	Insulin glulisine	0
+>90	Female	Carvedilol	Insulin glulisine	0

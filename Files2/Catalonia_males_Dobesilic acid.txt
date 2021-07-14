@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Male	Dobesilic acid	0	0.0017	0.0023	4
+10-14	Male	Dobesilic acid	0	8e-04	0.0015	4
+15-19	Male	Dobesilic acid	0	0.0074	0.0112	32
+20-24	Male	Dobesilic acid	0	0.0103	0.023	69
+25-29	Male	Dobesilic acid	0	0.0156	0.0288	107
+30-34	Male	Dobesilic acid	0	0.0287	0.0507	240
+35-39	Male	Dobesilic acid	0	0.0334	0.054	293
+40-44	Male	Dobesilic acid	0	0.0463	0.0696	373
+45-49	Male	Dobesilic acid	0	0.058	0.077	378
+50-54	Male	Dobesilic acid	0	0.081	0.1017	462
+55-59	Male	Dobesilic acid	0	0.1179	0.142	605
+60-64	Male	Dobesilic acid	0	0.1766	0.1987	818
+65-69	Male	Dobesilic acid	0	0.259	0.277	1046
+70-74	Male	Dobesilic acid	0	0.3259	0.346	1171
+75-79	Male	Dobesilic acid	0	0.4288	0.4506	1284
+80-84	Male	Dobesilic acid	0	0.4863	0.5043	1121
+85-89	Male	Dobesilic acid	0	0.4683	0.4872	720
+>90	Male	Dobesilic acid	0	0.4586	0.4689	319

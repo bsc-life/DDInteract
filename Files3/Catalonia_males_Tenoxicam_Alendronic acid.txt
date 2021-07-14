@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Tenoxicam	Alendronic acid	0
+05-09	Male	Tenoxicam	Alendronic acid	0
+10-14	Male	Tenoxicam	Alendronic acid	0
+15-19	Male	Tenoxicam	Alendronic acid	0
+20-24	Male	Tenoxicam	Alendronic acid	0
+25-29	Male	Tenoxicam	Alendronic acid	0
+30-34	Male	Tenoxicam	Alendronic acid	0
+35-39	Male	Tenoxicam	Alendronic acid	0
+40-44	Male	Tenoxicam	Alendronic acid	0
+45-49	Male	Tenoxicam	Alendronic acid	0
+50-54	Male	Tenoxicam	Alendronic acid	0
+55-59	Male	Tenoxicam	Alendronic acid	0
+60-64	Male	Tenoxicam	Alendronic acid	0
+65-69	Male	Tenoxicam	Alendronic acid	2.64798951396152e-06
+70-74	Male	Tenoxicam	Alendronic acid	5.90967650430815e-06
+75-79	Male	Tenoxicam	Alendronic acid	1.05277933745087e-05
+80-84	Male	Tenoxicam	Alendronic acid	0
+85-89	Male	Tenoxicam	Alendronic acid	6.76681553660847e-06
+>90	Male	Tenoxicam	Alendronic acid	1.46996134001676e-05

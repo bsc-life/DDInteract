@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Interferon beta-1a	0	0	0	0
+05-09	Male	Interferon beta-1a	0	0	0	0
+10-14	Male	Interferon beta-1a	0	0	0	0
+15-19	Male	Interferon beta-1a	0	0.013933398355859	0.027866796711718	2
+20-24	Male	Interferon beta-1a	0	0	0.0146434324205594	1
+25-29	Male	Interferon beta-1a	0	0.025442055718102	0.038163083577153	3
+30-34	Male	Interferon beta-1a	0	0	0.0130753138075314	1
+35-39	Male	Interferon beta-1a	0	0	0.0139958012596221	1
+40-44	Male	Interferon beta-1a	0	0	0	0
+45-49	Male	Interferon beta-1a	0	0.0275520044083207	0.0688800110208018	5
+50-54	Male	Interferon beta-1a	0	0	0.0124177325220415	1
+55-59	Male	Interferon beta-1a	0	0.0112790435371081	0.0112790435371081	1
+60-64	Male	Interferon beta-1a	0	0	0	0
+65-69	Male	Interferon beta-1a	0	0	0.0150285542530809	1
+70-74	Male	Interferon beta-1a	0	0.0213675213675214	0.0213675213675214	1
+75-79	Male	Interferon beta-1a	0	0	0	0
+80-84	Male	Interferon beta-1a	0	0	0	0
+85-89	Male	Interferon beta-1a	0	0	0	0
+>90	Male	Interferon beta-1a	0	0	0	0

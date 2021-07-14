@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Glipizide	0
+05-09	Female	Acetylsalicylic acid	Glipizide	0
+10-14	Female	Acetylsalicylic acid	Glipizide	0
+15-19	Female	Acetylsalicylic acid	Glipizide	0
+20-24	Female	Acetylsalicylic acid	Glipizide	0
+25-29	Female	Acetylsalicylic acid	Glipizide	0
+30-34	Female	Acetylsalicylic acid	Glipizide	1.8376711560973e-06
+35-39	Female	Acetylsalicylic acid	Glipizide	1.70016559612906e-06
+40-44	Female	Acetylsalicylic acid	Glipizide	7.03268263437259e-06
+45-49	Female	Acetylsalicylic acid	Glipizide	9.44861653356715e-06
+50-54	Female	Acetylsalicylic acid	Glipizide	4.57217375055413e-05
+55-59	Female	Acetylsalicylic acid	Glipizide	7.55957893145352e-05
+60-64	Female	Acetylsalicylic acid	Glipizide	0.000141681343400701
+65-69	Female	Acetylsalicylic acid	Glipizide	0.000282492581602374
+70-74	Female	Acetylsalicylic acid	Glipizide	0.000403701792129348
+75-79	Female	Acetylsalicylic acid	Glipizide	0.000554081735451157
+80-84	Female	Acetylsalicylic acid	Glipizide	0.000653607094150845
+85-89	Female	Acetylsalicylic acid	Glipizide	0.000826697994169604
+>90	Female	Acetylsalicylic acid	Glipizide	0.00105286708869089

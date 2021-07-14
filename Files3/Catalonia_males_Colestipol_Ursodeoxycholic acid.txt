@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Colestipol	Ursodeoxycholic acid	0
+05-09	Male	Colestipol	Ursodeoxycholic acid	0
+10-14	Male	Colestipol	Ursodeoxycholic acid	0
+15-19	Male	Colestipol	Ursodeoxycholic acid	0
+20-24	Male	Colestipol	Ursodeoxycholic acid	0
+25-29	Male	Colestipol	Ursodeoxycholic acid	0
+30-34	Male	Colestipol	Ursodeoxycholic acid	0
+35-39	Male	Colestipol	Ursodeoxycholic acid	1.84425964962755e-06
+40-44	Male	Colestipol	Ursodeoxycholic acid	5.60103805905361e-06
+45-49	Male	Colestipol	Ursodeoxycholic acid	6.10825041383397e-06
+50-54	Male	Colestipol	Ursodeoxycholic acid	8.80196459849838e-06
+55-59	Male	Colestipol	Ursodeoxycholic acid	4.69549701835939e-06
+60-64	Male	Colestipol	Ursodeoxycholic acid	4.85847269052501e-06
+65-69	Male	Colestipol	Ursodeoxycholic acid	2.64798951396152e-06
+70-74	Male	Colestipol	Ursodeoxycholic acid	5.90967650430815e-06
+75-79	Male	Colestipol	Ursodeoxycholic acid	7.01852891633914e-06
+80-84	Male	Colestipol	Ursodeoxycholic acid	4.49848625937372e-06
+85-89	Male	Colestipol	Ursodeoxycholic acid	0
+>90	Male	Colestipol	Ursodeoxycholic acid	0

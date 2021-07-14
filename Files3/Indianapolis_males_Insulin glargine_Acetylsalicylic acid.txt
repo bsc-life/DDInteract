@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Acetylsalicylic acid	0
+05-09	Male	Insulin glargine	Acetylsalicylic acid	0
+10-14	Male	Insulin glargine	Acetylsalicylic acid	0
+15-19	Male	Insulin glargine	Acetylsalicylic acid	0.00013933398355859
+20-24	Male	Insulin glargine	Acetylsalicylic acid	0.000439302972616781
+25-29	Male	Insulin glargine	Acetylsalicylic acid	0.00050884111436204
+30-34	Male	Insulin glargine	Acetylsalicylic acid	0.00104602510460251
+35-39	Male	Insulin glargine	Acetylsalicylic acid	0.00307907627711687
+40-44	Male	Insulin glargine	Acetylsalicylic acid	0.00622591165134895
+45-49	Male	Insulin glargine	Acetylsalicylic acid	0.0125361620057859
+50-54	Male	Insulin glargine	Acetylsalicylic acid	0.020365081336148
+55-59	Male	Insulin glargine	Acetylsalicylic acid	0.0208662305436499
+60-64	Male	Insulin glargine	Acetylsalicylic acid	0.0236498841887114
+65-69	Male	Insulin glargine	Acetylsalicylic acid	0.0281033964532612
+70-74	Male	Insulin glargine	Acetylsalicylic acid	0.0333333333333333
+75-79	Male	Insulin glargine	Acetylsalicylic acid	0.030692139054181
+80-84	Male	Insulin glargine	Acetylsalicylic acid	0.0346706290242694
+85-89	Male	Insulin glargine	Acetylsalicylic acid	0.0186084142394822
+>90	Male	Insulin glargine	Acetylsalicylic acid	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Inotuzumab ozogamicin	0	0	0	0
+05-09	Female	Inotuzumab ozogamicin	0	0	0	0
+10-14	Female	Inotuzumab ozogamicin	0	0.0122684333210649	0.0122684333210649	1
+15-19	Female	Inotuzumab ozogamicin	0	0	0	0
+20-24	Female	Inotuzumab ozogamicin	0	0	0	0
+25-29	Female	Inotuzumab ozogamicin	0	0	0	0
+30-34	Female	Inotuzumab ozogamicin	0	0	0	0
+35-39	Female	Inotuzumab ozogamicin	0	0	0	0
+40-44	Female	Inotuzumab ozogamicin	0	0	0	0
+45-49	Female	Inotuzumab ozogamicin	0	0	0	0
+50-54	Female	Inotuzumab ozogamicin	0	0	0	0
+55-59	Female	Inotuzumab ozogamicin	0	0	0	0
+60-64	Female	Inotuzumab ozogamicin	0	0	0	0
+65-69	Female	Inotuzumab ozogamicin	0	0	0	0
+70-74	Female	Inotuzumab ozogamicin	0	0	0	0
+75-79	Female	Inotuzumab ozogamicin	0	0	0	0
+80-84	Female	Inotuzumab ozogamicin	0	0	0	0
+85-89	Female	Inotuzumab ozogamicin	0	0	0	0
+>90	Female	Inotuzumab ozogamicin	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Ketorolac	Acetylsalicylic acid	0.000539018985446487
+05-09	Male	Ketorolac	Acetylsalicylic acid	0.000301598471901076
+10-14	Male	Ketorolac	Acetylsalicylic acid	0.000701672319027014
+15-19	Male	Ketorolac	Acetylsalicylic acid	0.00111467186846872
+20-24	Male	Ketorolac	Acetylsalicylic acid	0.00190364621467272
+25-29	Male	Ketorolac	Acetylsalicylic acid	0.00305304668617224
+30-34	Male	Ketorolac	Acetylsalicylic acid	0.00523012552301255
+35-39	Male	Ketorolac	Acetylsalicylic acid	0.00671798460461861
+40-44	Male	Ketorolac	Acetylsalicylic acid	0.00726356359324044
+45-49	Male	Ketorolac	Acetylsalicylic acid	0.0107452817192451
+50-54	Male	Ketorolac	Acetylsalicylic acid	0.0147771017012294
+55-59	Male	Ketorolac	Acetylsalicylic acid	0.0145499661628694
+60-64	Male	Ketorolac	Acetylsalicylic acid	0.014384981104474
+65-69	Male	Ketorolac	Acetylsalicylic acid	0.0120228434024647
+70-74	Male	Ketorolac	Acetylsalicylic acid	0.0106837606837607
+75-79	Male	Ketorolac	Acetylsalicylic acid	0.00751644221735045
+80-84	Male	Ketorolac	Acetylsalicylic acid	0.00643883110450718
+85-89	Male	Ketorolac	Acetylsalicylic acid	0.0040453074433657
+>90	Male	Ketorolac	Acetylsalicylic acid	0

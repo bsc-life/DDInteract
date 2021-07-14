@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Hydrochlorothiazide	Lithium cation	0
+05-09	Male	Hydrochlorothiazide	Lithium cation	0
+10-14	Male	Hydrochlorothiazide	Lithium cation	0
+15-19	Male	Hydrochlorothiazide	Lithium cation	3.50585653333894e-06
+20-24	Male	Hydrochlorothiazide	Lithium cation	3.33592423448879e-06
+25-29	Male	Hydrochlorothiazide	Lithium cation	2.6879986237447e-06
+30-34	Male	Hydrochlorothiazide	Lithium cation	8.44505436503748e-06
+35-39	Male	Hydrochlorothiazide	Lithium cation	2.21311157955306e-05
+40-44	Male	Hydrochlorothiazide	Lithium cation	2.61381776089169e-05
+45-49	Male	Hydrochlorothiazide	Lithium cation	3.66495024830038e-05
+50-54	Male	Hydrochlorothiazide	Lithium cation	6.82152256383625e-05
+55-59	Male	Hydrochlorothiazide	Lithium cation	6.80847067662112e-05
+60-64	Male	Hydrochlorothiazide	Lithium cation	0.000111744871882075
+65-69	Male	Hydrochlorothiazide	Lithium cation	9.53276225026149e-05
+70-74	Male	Hydrochlorothiazide	Lithium cation	9.45548240689305e-05
+75-79	Male	Hydrochlorothiazide	Lithium cation	3.86019090398652e-05
+80-84	Male	Hydrochlorothiazide	Lithium cation	4.49848625937372e-05
+85-89	Male	Hydrochlorothiazide	Lithium cation	3.38340776830424e-05
+>90	Male	Hydrochlorothiazide	Lithium cation	1.46996134001676e-05

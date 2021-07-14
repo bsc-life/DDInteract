@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Tuberculin Purified Protein Derivative	0	0.0339581635425156	0.0475414289595219	7
+05-09	Female	Tuberculin Purified Protein Derivative	0	0.0111172873818788	0.0444691495275153	4
+10-14	Female	Tuberculin Purified Protein Derivative	0	0.0858790332474543	0.134952766531714	11
+15-19	Female	Tuberculin Purified Protein Derivative	0	0.297905054776091	1.24927926196425	130
+20-24	Female	Tuberculin Purified Protein Derivative	0	0.436254230913877	1.72245204964272	229
+25-29	Female	Tuberculin Purified Protein Derivative	0	0.201181127912259	0.648971380362126	100
+30-34	Female	Tuberculin Purified Protein Derivative	0	0.176691452550983	0.471177206802621	64
+35-39	Female	Tuberculin Purified Protein Derivative	0	0.178556245217243	0.637700875775869	75
+40-44	Female	Tuberculin Purified Protein Derivative	0	0.204540805890775	0.582941296788709	57
+45-49	Female	Tuberculin Purified Protein Derivative	0	0.204758190327613	0.487519500780031	50
+50-54	Female	Tuberculin Purified Protein Derivative	0	0.249330501431342	0.554067780958537	60
+55-59	Female	Tuberculin Purified Protein Derivative	0	0.227431770468859	0.48110566829951	55
+60-64	Female	Tuberculin Purified Protein Derivative	0	0.157320007403294	0.42568943179715	46
+65-69	Female	Tuberculin Purified Protein Derivative	0	0.30241935483871	0.616039426523297	55
+70-74	Female	Tuberculin Purified Protein Derivative	0	0.110935023771791	0.380348652931854	24
+75-79	Female	Tuberculin Purified Protein Derivative	0	0.198325253415602	0.352578228294403	16
+80-84	Female	Tuberculin Purified Protein Derivative	0	0.271657108361002	0.452761847268337	15
+85-89	Female	Tuberculin Purified Protein Derivative	0	0.398230088495575	0.707964601769911	16
+>90	Female	Tuberculin Purified Protein Derivative	0	0.539083557951483	0.741239892183288	11

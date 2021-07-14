@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Doxycycline	Insulin aspart	0
+05-09	Female	Doxycycline	Insulin aspart	0
+10-14	Female	Doxycycline	Insulin aspart	0
+15-19	Female	Doxycycline	Insulin aspart	0
+20-24	Female	Doxycycline	Insulin aspart	0.000150432493418578
+25-29	Female	Doxycycline	Insulin aspart	0.000129794276072425
+30-34	Female	Doxycycline	Insulin aspart	7.36214385629095e-05
+35-39	Female	Doxycycline	Insulin aspart	0.000255080350310348
+40-44	Female	Doxycycline	Insulin aspart	0.000204540805890775
+45-49	Female	Doxycycline	Insulin aspart	0.000390015600624025
+50-54	Female	Doxycycline	Insulin aspart	0.000184689260319512
+55-59	Female	Doxycycline	Insulin aspart	0.000174947515745276
+60-64	Female	Doxycycline	Insulin aspart	0.000462705904127337
+65-69	Female	Doxycycline	Insulin aspart	0.00112007168458781
+70-74	Female	Doxycycline	Insulin aspart	0.00063391442155309
+75-79	Female	Doxycycline	Insulin aspart	0.000440722785368004
+80-84	Female	Doxycycline	Insulin aspart	0.000603682463024449
+85-89	Female	Doxycycline	Insulin aspart	0.000442477876106195
+>90	Female	Doxycycline	Insulin aspart	0

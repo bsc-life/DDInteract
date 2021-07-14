@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Diclofenac	Lithium cation	0
+05-09	Male	Diclofenac	Lithium cation	0
+10-14	Male	Diclofenac	Lithium cation	0
+15-19	Male	Diclofenac	Lithium cation	0
+20-24	Male	Diclofenac	Lithium cation	0
+25-29	Male	Diclofenac	Lithium cation	0.000239980801535877
+30-34	Male	Diclofenac	Lithium cation	0.000252908447142135
+35-39	Male	Diclofenac	Lithium cation	0
+40-44	Male	Diclofenac	Lithium cation	0.00101962783583992
+45-49	Male	Diclofenac	Lithium cation	0.000448833034111311
+50-54	Male	Diclofenac	Lithium cation	0
+55-59	Male	Diclofenac	Lithium cation	0
+60-64	Male	Diclofenac	Lithium cation	0
+65-69	Male	Diclofenac	Lithium cation	0
+70-74	Male	Diclofenac	Lithium cation	0
+75-79	Male	Diclofenac	Lithium cation	0
+80-84	Male	Diclofenac	Lithium cation	0
+85-89	Male	Diclofenac	Lithium cation	0
+>90	Male	Diclofenac	Lithium cation	0

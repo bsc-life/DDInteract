@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Silver sulfadiazine	0	0	0.0747079597935344	11
+05-09	Female	Silver sulfadiazine	0	0	0.0555864369093941	5
+10-14	Female	Silver sulfadiazine	0	0	0.134952766531714	11
+15-19	Female	Silver sulfadiazine	0	0	0.105708245243129	11
+20-24	Female	Silver sulfadiazine	0	0	0.0827378713802181	11
+25-29	Female	Silver sulfadiazine	0	0	0.0778765656434551	12
+30-34	Female	Silver sulfadiazine	0	0	0.191415740263565	26
+35-39	Female	Silver sulfadiazine	0	0	0.0850267834367826	10
+40-44	Female	Silver sulfadiazine	0	0	0.184086725301698	18
+45-49	Female	Silver sulfadiazine	0	0	0.263260530421217	27
+50-54	Female	Silver sulfadiazine	0	0	0.212392649367439	23
+55-59	Female	Silver sulfadiazine	0	0	0.358642407277817	41
+60-64	Female	Silver sulfadiazine	0	0	0.259115306311309	28
+65-69	Female	Silver sulfadiazine	0	0	0.30241935483871	27
+70-74	Female	Silver sulfadiazine	0	0	0.3486529318542	22
+75-79	Female	Silver sulfadiazine	0	0	0.154252974878801	7
+80-84	Female	Silver sulfadiazine	0	0	0.513130093570782	17
+85-89	Female	Silver sulfadiazine	0	0	0.221238938053097	5
+>90	Female	Silver sulfadiazine	0	0	0.404312668463612	6

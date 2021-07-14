@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Benzoyl peroxide	0	0	0.0059890998382943	1
+05-09	Male	Benzoyl peroxide	0	0	0.0100532823967025	1
+10-14	Male	Benzoyl peroxide	0	0	0.50286516196936	43
+15-19	Male	Benzoyl peroxide	0	0	1.6302076076355	117
+20-24	Male	Benzoyl peroxide	0	0	0.541806999560697	37
+25-29	Male	Benzoyl peroxide	0	0	0.203536445744816	16
+30-34	Male	Benzoyl peroxide	0	0	0.169979079497908	13
+35-39	Male	Benzoyl peroxide	0	0	0.19594121763471	14
+40-44	Male	Benzoyl peroxide	0	0	0.118588793359028	8
+45-49	Male	Benzoyl peroxide	0	0	0.0551040088166414	4
+50-54	Male	Benzoyl peroxide	0	0	0.0745063951322489	6
+55-59	Male	Benzoyl peroxide	0	0	0.0451161741484322	4
+60-64	Male	Benzoyl peroxide	0	0	0.012190661952944	1
+65-69	Male	Benzoyl peroxide	0	0	0	0
+70-74	Male	Benzoyl peroxide	0	0	0	0
+75-79	Male	Benzoyl peroxide	0	0	0.0313185092389602	1
+80-84	Male	Benzoyl peroxide	0	0	0	0
+85-89	Male	Benzoyl peroxide	0	0	0	0
+>90	Male	Benzoyl peroxide	0	0	0	0

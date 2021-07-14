@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Sodium acetate	0	0.0119781996765886	0.0119781996765886	2
+05-09	Male	Sodium acetate	0	0	0	0
+10-14	Male	Sodium acetate	0	0	0	0
+15-19	Male	Sodium acetate	0	0.013933398355859	0.013933398355859	1
+20-24	Male	Sodium acetate	0	0	0	0
+25-29	Male	Sodium acetate	0	0	0	0
+30-34	Male	Sodium acetate	0	0.0130753138075314	0.0130753138075314	1
+35-39	Male	Sodium acetate	0	0	0	0
+40-44	Male	Sodium acetate	0	0.0148235991698784	0.0148235991698784	1
+45-49	Male	Sodium acetate	0	0	0	0
+50-54	Male	Sodium acetate	0	0.0124177325220415	0.0124177325220415	1
+55-59	Male	Sodium acetate	0	0.0338371306113242	0.0338371306113242	3
+60-64	Male	Sodium acetate	0	0	0	0
+65-69	Male	Sodium acetate	0	0	0	0
+70-74	Male	Sodium acetate	0	0	0	0
+75-79	Male	Sodium acetate	0	0.0313185092389602	0.0313185092389602	1
+80-84	Male	Sodium acetate	0	0.0495294700346706	0.0495294700346706	1
+85-89	Male	Sodium acetate	0	0.0809061488673139	0.0809061488673139	1
+>90	Male	Sodium acetate	0	0	0	0

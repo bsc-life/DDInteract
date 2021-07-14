@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Hydrocortisone acetate	0	0	0	0
+05-09	Male	Hydrocortisone acetate	0	0	0	0
+10-14	Male	Hydrocortisone acetate	0	0	0	0
+15-19	Male	Hydrocortisone acetate	0	0	0	0
+20-24	Male	Hydrocortisone acetate	0	0	0	0
+25-29	Male	Hydrocortisone acetate	0	0	0.012721027859051	1
+30-34	Male	Hydrocortisone acetate	0	0	0.0130753138075314	1
+35-39	Male	Hydrocortisone acetate	0	0	0.0279916025192442	2
+40-44	Male	Hydrocortisone acetate	0	0	0	0
+45-49	Male	Hydrocortisone acetate	0	0	0	0
+50-54	Male	Hydrocortisone acetate	0	0	0.0124177325220415	1
+55-59	Male	Hydrocortisone acetate	0	0	0.0112790435371081	1
+60-64	Male	Hydrocortisone acetate	0	0	0	0
+65-69	Male	Hydrocortisone acetate	0	0	0.0150285542530809	1
+70-74	Male	Hydrocortisone acetate	0	0	0	0
+75-79	Male	Hydrocortisone acetate	0	0	0	0
+80-84	Male	Hydrocortisone acetate	0	0	0	0
+85-89	Male	Hydrocortisone acetate	0	0	0	0
+>90	Male	Hydrocortisone acetate	0	0	0	0

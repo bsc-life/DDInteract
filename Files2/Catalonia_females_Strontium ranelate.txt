@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Strontium ranelate	0	6e-04	6e-04	1
+10-14	NA	NA	0	0	0	0
+15-19	Female	Strontium ranelate	0	0.004	0.0057	17
+20-24	Female	Strontium ranelate	0	0.0056	0.0073	26
+25-29	Female	Strontium ranelate	0	0.0062	0.0078	35
+30-34	Female	Strontium ranelate	0	0.0077	0.0103	56
+35-39	Female	Strontium ranelate	0	0.0126	0.0201	118
+40-44	Female	Strontium ranelate	0	0.0236	0.0316	180
+45-49	Female	Strontium ranelate	0	0.0741	0.1039	550
+50-54	Female	Strontium ranelate	0	0.2896	0.3882	1953
+55-59	Female	Strontium ranelate	0	0.656	0.8154	3883
+60-64	Female	Strontium ranelate	0	1.1045	1.2825	5884
+65-69	Female	Strontium ranelate	0	1.4096	1.5682	6606
+70-74	Female	Strontium ranelate	0	1.451	1.5663	6130
+75-79	Female	Strontium ranelate	0	1.4862	1.608	5746
+80-84	Female	Strontium ranelate	0	1.2893	1.366	4347
+85-89	Female	Strontium ranelate	0	0.8639	0.9102	2301
+>90	Female	Strontium ranelate	0	0.5245	0.562	854

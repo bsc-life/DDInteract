@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Lithium cation	Etoricoxib	0
+05-09	Female	Lithium cation	Etoricoxib	0
+10-14	Female	Lithium cation	Etoricoxib	0
+15-19	Female	Lithium cation	Etoricoxib	0
+20-24	Female	Lithium cation	Etoricoxib	2.79172866630746e-06
+25-29	Female	Lithium cation	Etoricoxib	0
+30-34	Female	Lithium cation	Etoricoxib	1.8376711560973e-06
+35-39	Female	Lithium cation	Etoricoxib	3.40033119225813e-06
+40-44	Female	Lithium cation	Etoricoxib	7.03268263437259e-06
+45-49	Female	Lithium cation	Etoricoxib	1.13383398402806e-05
+50-54	Female	Lithium cation	Etoricoxib	2.18669179374328e-05
+55-59	Female	Lithium cation	Etoricoxib	1.46991812556041e-05
+60-64	Female	Lithium cation	Etoricoxib	2.39768427293494e-05
+65-69	Female	Lithium cation	Etoricoxib	3.08605341246291e-05
+70-74	Female	Lithium cation	Etoricoxib	2.81058209710306e-05
+75-79	Female	Lithium cation	Etoricoxib	1.6790355619732e-05
+80-84	Female	Lithium cation	Etoricoxib	3.14234179880214e-06
+85-89	Female	Lithium cation	Etoricoxib	0
+>90	Female	Lithium cation	Etoricoxib	0

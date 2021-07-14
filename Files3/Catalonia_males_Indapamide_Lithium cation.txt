@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Indapamide	Lithium cation	0
+05-09	Male	Indapamide	Lithium cation	0
+10-14	Male	Indapamide	Lithium cation	0
+15-19	Male	Indapamide	Lithium cation	0
+20-24	Male	Indapamide	Lithium cation	0
+25-29	Male	Indapamide	Lithium cation	0
+30-34	Male	Indapamide	Lithium cation	0
+35-39	Male	Indapamide	Lithium cation	3.6885192992551e-06
+40-44	Male	Indapamide	Lithium cation	3.73402537270241e-06
+45-49	Male	Indapamide	Lithium cation	6.10825041383397e-06
+50-54	Male	Indapamide	Lithium cation	4.40098229924919e-06
+55-59	Male	Indapamide	Lithium cation	1.17387425458985e-05
+60-64	Male	Indapamide	Lithium cation	1.4575418071575e-05
+65-69	Male	Indapamide	Lithium cation	2.11839161116922e-05
+70-74	Male	Indapamide	Lithium cation	1.18193530086163e-05
+75-79	Male	Indapamide	Lithium cation	1.40370578326783e-05
+80-84	Male	Indapamide	Lithium cation	2.24924312968686e-05
+85-89	Male	Indapamide	Lithium cation	1.35336310732169e-05
+>90	Male	Indapamide	Lithium cation	0

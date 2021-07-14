@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Typhoid vaccine	0	0	0.0407497962510187	6
+05-09	Female	Typhoid vaccine	0	0	0.0444691495275153	4
+10-14	Female	Typhoid vaccine	0	0	0.0122684333210649	1
+15-19	Female	Typhoid vaccine	0	0	0.0864885642898328	9
+20-24	Female	Typhoid vaccine	0	0	0.0376081233546446	5
+25-29	Female	Typhoid vaccine	0	0	0.0843662794470764	13
+30-34	Female	Typhoid vaccine	0	0	0.0957078701317824	13
+35-39	Female	Typhoid vaccine	0	0	0.0425133917183913	5
+40-44	Female	Typhoid vaccine	0	0	0.040908161178155	4
+45-49	Female	Typhoid vaccine	0	0	0.0487519500780031	5
+50-54	Female	Typhoid vaccine	0	0	0.0646412411118293	7
+55-59	Female	Typhoid vaccine	0	0	0.0699790062981106	8
+60-64	Female	Typhoid vaccine	0	0	0.0925411808254673	10
+65-69	Female	Typhoid vaccine	0	0	0.0336021505376344	3
+70-74	Female	Typhoid vaccine	0	0	0.0158478605388273	1
+75-79	Female	Typhoid vaccine	0	0	0.0220361392684002	1
+80-84	Female	Typhoid vaccine	0	0	0.0603682463024449	2
+85-89	Female	Typhoid vaccine	0	0	0.0442477876106195	1
+>90	Female	Typhoid vaccine	0	0	0	0

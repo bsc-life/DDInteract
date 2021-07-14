@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Atenolol	Insulin glulisine	0
+05-09	Female	Atenolol	Insulin glulisine	0
+10-14	Female	Atenolol	Insulin glulisine	0
+15-19	Female	Atenolol	Insulin glulisine	0
+20-24	Female	Atenolol	Insulin glulisine	0
+25-29	Female	Atenolol	Insulin glulisine	0
+30-34	Female	Atenolol	Insulin glulisine	0
+35-39	Female	Atenolol	Insulin glulisine	1.70016559612906e-06
+40-44	Female	Atenolol	Insulin glulisine	1.75817065859315e-06
+45-49	Female	Atenolol	Insulin glulisine	0
+50-54	Female	Atenolol	Insulin glulisine	7.95160652270283e-06
+55-59	Female	Atenolol	Insulin glulisine	8.39953214605947e-06
+60-64	Female	Atenolol	Insulin glulisine	2.39768427293494e-05
+65-69	Female	Atenolol	Insulin glulisine	2.8486646884273e-05
+70-74	Female	Atenolol	Insulin glulisine	3.83261195059508e-05
+75-79	Female	Atenolol	Insulin glulisine	3.07823186361754e-05
+80-84	Female	Atenolol	Insulin glulisine	2.1996392591615e-05
+85-89	Female	Atenolol	Insulin glulisine	2.76884495654891e-05
+>90	Female	Atenolol	Insulin glulisine	3.29020965215904e-05

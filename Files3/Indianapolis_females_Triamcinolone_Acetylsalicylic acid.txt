@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Triamcinolone	Acetylsalicylic acid	0
+05-09	Female	Triamcinolone	Acetylsalicylic acid	0
+10-14	Female	Triamcinolone	Acetylsalicylic acid	0
+15-19	Female	Triamcinolone	Acetylsalicylic acid	9.60984047664809e-05
+20-24	Female	Triamcinolone	Acetylsalicylic acid	0
+25-29	Female	Triamcinolone	Acetylsalicylic acid	6.48971380362126e-05
+30-34	Female	Triamcinolone	Acetylsalicylic acid	7.36214385629095e-05
+35-39	Female	Triamcinolone	Acetylsalicylic acid	8.50267834367826e-05
+40-44	Female	Triamcinolone	Acetylsalicylic acid	0.00040908161178155
+45-49	Female	Triamcinolone	Acetylsalicylic acid	0.000585023400936037
+50-54	Female	Triamcinolone	Acetylsalicylic acid	0.00101579093175732
+55-59	Female	Triamcinolone	Acetylsalicylic acid	0.00104968509447166
+60-64	Female	Triamcinolone	Acetylsalicylic acid	0.00175828243568388
+65-69	Female	Triamcinolone	Acetylsalicylic acid	0.00235215053763441
+70-74	Female	Triamcinolone	Acetylsalicylic acid	0.00269413629160063
+75-79	Female	Triamcinolone	Acetylsalicylic acid	0.00220361392684002
+80-84	Female	Triamcinolone	Acetylsalicylic acid	0.00332025354663447
+85-89	Female	Triamcinolone	Acetylsalicylic acid	0.00132743362831858
+>90	Female	Triamcinolone	Acetylsalicylic acid	0

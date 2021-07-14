@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Prednisone	Acetylsalicylic acid	1.29594111243585e-05
+05-09	Male	Prednisone	Acetylsalicylic acid	1.68830511049957e-05
+10-14	Male	Prednisone	Acetylsalicylic acid	0
+15-19	Male	Prednisone	Acetylsalicylic acid	4.55761349334063e-05
+20-24	Male	Prednisone	Acetylsalicylic acid	8.67340300967084e-05
+25-29	Male	Prednisone	Acetylsalicylic acid	0.000112895942197278
+30-34	Male	Prednisone	Acetylsalicylic acid	0.000194236250395862
+35-39	Male	Prednisone	Acetylsalicylic acid	0.000348565073779607
+40-44	Male	Prednisone	Acetylsalicylic acid	0.000627316262614004
+45-49	Male	Prednisone	Acetylsalicylic acid	0.00120739749846785
+50-54	Male	Prednisone	Acetylsalicylic acid	0.00226430539296371
+55-59	Male	Prednisone	Acetylsalicylic acid	0.00399352021411466
+60-64	Male	Prednisone	Acetylsalicylic acid	0.00672898467637713
+65-69	Male	Prednisone	Acetylsalicylic acid	0.0100385282474281
+70-74	Male	Prednisone	Acetylsalicylic acid	0.0133942817970144
+75-79	Male	Prednisone	Acetylsalicylic acid	0.017756878158338
+80-84	Male	Prednisone	Acetylsalicylic acid	0.0232526754747028
+85-89	Male	Prednisone	Acetylsalicylic acid	0.0263635133306266
+>90	Male	Prednisone	Acetylsalicylic acid	0.0356759617222067

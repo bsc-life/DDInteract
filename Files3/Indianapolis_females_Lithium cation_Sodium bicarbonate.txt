@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Lithium cation	Sodium bicarbonate	0
+05-09	Female	Lithium cation	Sodium bicarbonate	0
+10-14	Female	Lithium cation	Sodium bicarbonate	0
+15-19	Female	Lithium cation	Sodium bicarbonate	0
+20-24	Female	Lithium cation	Sodium bicarbonate	0
+25-29	Female	Lithium cation	Sodium bicarbonate	0
+30-34	Female	Lithium cation	Sodium bicarbonate	0
+35-39	Female	Lithium cation	Sodium bicarbonate	0
+40-44	Female	Lithium cation	Sodium bicarbonate	0.000102270402945388
+45-49	Female	Lithium cation	Sodium bicarbonate	0
+50-54	Female	Lithium cation	Sodium bicarbonate	0
+55-59	Female	Lithium cation	Sodium bicarbonate	8.74737578726382e-05
+60-64	Female	Lithium cation	Sodium bicarbonate	9.25411808254673e-05
+65-69	Female	Lithium cation	Sodium bicarbonate	0
+70-74	Female	Lithium cation	Sodium bicarbonate	0
+75-79	Female	Lithium cation	Sodium bicarbonate	0
+80-84	Female	Lithium cation	Sodium bicarbonate	0
+85-89	Female	Lithium cation	Sodium bicarbonate	0
+>90	Female	Lithium cation	Sodium bicarbonate	0

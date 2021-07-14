@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Collagenase clostridium histolyticum	0	0	0.299454991914715	50
+05-09	Male	Collagenase clostridium histolyticum	0	0	0.16085251834724	16
+10-14	Male	Collagenase clostridium histolyticum	0	0	0.128639925154953	11
+15-19	Male	Collagenase clostridium histolyticum	0	0	0.111467186846872	8
+20-24	Male	Collagenase clostridium histolyticum	0	0	0.0585737296822375	4
+25-29	Male	Collagenase clostridium histolyticum	0	0	0.0890471950133571	7
+30-34	Male	Collagenase clostridium histolyticum	0	0	0.117677824267782	9
+35-39	Male	Collagenase clostridium histolyticum	0	0	0.181945416375087	13
+40-44	Male	Collagenase clostridium histolyticum	0	0	0.222353987548177	15
+45-49	Male	Collagenase clostridium histolyticum	0	0	0.261744041879047	19
+50-54	Male	Collagenase clostridium histolyticum	0	0	0.372531975661244	30
+55-59	Male	Collagenase clostridium histolyticum	0	0	0.518836002706971	46
+60-64	Male	Collagenase clostridium histolyticum	0	0	0.597342435694258	49
+65-69	Male	Collagenase clostridium histolyticum	0	0	0.646227832882477	43
+70-74	Male	Collagenase clostridium histolyticum	0	0	0.534188034188034	25
+75-79	Male	Collagenase clostridium histolyticum	0	0	0.720325712496085	23
+80-84	Male	Collagenase clostridium histolyticum	0	0	0.693412580485389	14
+85-89	Male	Collagenase clostridium histolyticum	0	0	1.13268608414239	14
+>90	Male	Collagenase clostridium histolyticum	0	0	2.28013029315961	14

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Propranolol	0
+05-09	Female	Insulin glargine	Propranolol	0
+10-14	Female	Insulin glargine	Propranolol	0
+15-19	Female	Insulin glargine	Propranolol	9.60984047664809e-05
+20-24	Female	Insulin glargine	Propranolol	0
+25-29	Female	Insulin glargine	Propranolol	6.48971380362126e-05
+30-34	Female	Insulin glargine	Propranolol	0.000147242877125819
+35-39	Female	Insulin glargine	Propranolol	8.50267834367826e-05
+40-44	Female	Insulin glargine	Propranolol	0.00040908161178155
+45-49	Female	Insulin glargine	Propranolol	0.000195007800312012
+50-54	Female	Insulin glargine	Propranolol	0.000184689260319512
+55-59	Female	Insulin glargine	Propranolol	0.000874737578726382
+60-64	Female	Insulin glargine	Propranolol	0.000832870627429206
+65-69	Female	Insulin glargine	Propranolol	0.000448028673835125
+70-74	Female	Insulin glargine	Propranolol	0.00110935023771791
+75-79	Female	Insulin glargine	Propranolol	0.000440722785368004
+80-84	Female	Insulin glargine	Propranolol	0.000603682463024449
+85-89	Female	Insulin glargine	Propranolol	0
+>90	Female	Insulin glargine	Propranolol	0

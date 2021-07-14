@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Eplerenone	Lithium cation	0
+05-09	Male	Eplerenone	Lithium cation	0
+10-14	Male	Eplerenone	Lithium cation	0
+15-19	Male	Eplerenone	Lithium cation	3.50585653333894e-06
+20-24	Male	Eplerenone	Lithium cation	0
+25-29	Male	Eplerenone	Lithium cation	0
+30-34	Male	Eplerenone	Lithium cation	0
+35-39	Male	Eplerenone	Lithium cation	0
+40-44	Male	Eplerenone	Lithium cation	0
+45-49	Male	Eplerenone	Lithium cation	0
+50-54	Male	Eplerenone	Lithium cation	0
+55-59	Male	Eplerenone	Lithium cation	1.17387425458985e-05
+60-64	Male	Eplerenone	Lithium cation	7.28770903578751e-06
+65-69	Male	Eplerenone	Lithium cation	7.94396854188457e-06
+70-74	Male	Eplerenone	Lithium cation	8.86451475646223e-06
+75-79	Male	Eplerenone	Lithium cation	3.50926445816957e-06
+80-84	Male	Eplerenone	Lithium cation	4.49848625937372e-06
+85-89	Male	Eplerenone	Lithium cation	0
+>90	Male	Eplerenone	Lithium cation	0

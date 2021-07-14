@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Mycophenolic acid	0	0.0091	0.013	10
+05-09	Male	Mycophenolic acid	0	0.0214	0.0225	40
+10-14	Male	Mycophenolic acid	0	0.0335	0.0366	96
+15-19	Male	Mycophenolic acid	0	0.0456	0.0487	139
+20-24	Male	Mycophenolic acid	0	0.0537	0.0567	170
+25-29	Male	Mycophenolic acid	0	0.0645	0.0669	249
+30-34	Male	Mycophenolic acid	0	0.0906	0.0929	440
+35-39	Male	Mycophenolic acid	0	0.1236	0.1263	685
+40-44	Male	Mycophenolic acid	0	0.1566	0.1594	854
+45-49	Male	Mycophenolic acid	0	0.2103	0.2138	1050
+50-54	Male	Mycophenolic acid	0	0.2839	0.2865	1302
+55-59	Male	Mycophenolic acid	0	0.3418	0.3449	1469
+60-64	Male	Mycophenolic acid	0	0.3977	0.4023	1656
+65-69	Male	Mycophenolic acid	0	0.4282	0.4322	1632
+70-74	Male	Mycophenolic acid	0	0.3694	0.3732	1263
+75-79	Male	Mycophenolic acid	0	0.2537	0.2583	736
+80-84	Male	Mycophenolic acid	0	0.1426	0.1449	322
+85-89	Male	Mycophenolic acid	0	0.0582	0.0589	87
+>90	Male	Mycophenolic acid	0	0.0235	0.0235	16

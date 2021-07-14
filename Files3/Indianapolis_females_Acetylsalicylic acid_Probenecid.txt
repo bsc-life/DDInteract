@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Probenecid	0
+05-09	Female	Acetylsalicylic acid	Probenecid	0
+10-14	Female	Acetylsalicylic acid	Probenecid	0
+15-19	Female	Acetylsalicylic acid	Probenecid	0
+20-24	Female	Acetylsalicylic acid	Probenecid	0
+25-29	Female	Acetylsalicylic acid	Probenecid	0
+30-34	Female	Acetylsalicylic acid	Probenecid	0
+35-39	Female	Acetylsalicylic acid	Probenecid	0
+40-44	Female	Acetylsalicylic acid	Probenecid	0
+45-49	Female	Acetylsalicylic acid	Probenecid	0
+50-54	Female	Acetylsalicylic acid	Probenecid	0
+55-59	Female	Acetylsalicylic acid	Probenecid	0
+60-64	Female	Acetylsalicylic acid	Probenecid	0
+65-69	Female	Acetylsalicylic acid	Probenecid	0.000224014336917563
+70-74	Female	Acetylsalicylic acid	Probenecid	0
+75-79	Female	Acetylsalicylic acid	Probenecid	0
+80-84	Female	Acetylsalicylic acid	Probenecid	0
+85-89	Female	Acetylsalicylic acid	Probenecid	0
+>90	Female	Acetylsalicylic acid	Probenecid	0

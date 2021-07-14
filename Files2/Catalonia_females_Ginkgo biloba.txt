@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Ginkgo biloba	0	0.0014	0.0028	2
+05-09	Female	Ginkgo biloba	0.0012	0.0053	0.0077	13
+10-14	Female	Ginkgo biloba	0	0.0061	0.0101	25
+15-19	Female	Ginkgo biloba	3e-04	0.012	0.0217	65
+20-24	Female	Ginkgo biloba	6e-04	0.0145	0.0338	121
+25-29	Female	Ginkgo biloba	7e-04	0.0278	0.0444	200
+30-34	Female	Ginkgo biloba	2e-04	0.0402	0.064	348
+35-39	Female	Ginkgo biloba	3e-04	0.0461	0.0731	430
+40-44	Female	Ginkgo biloba	0.0025	0.0761	0.1048	596
+45-49	Female	Ginkgo biloba	0.0043	0.1206	0.1635	865
+50-54	Female	Ginkgo biloba	0.0087	0.203	0.2558	1287
+55-59	Female	Ginkgo biloba	0.0229	0.3461	0.4025	1917
+60-64	Female	Ginkgo biloba	0.0464	0.5297	0.5868	2692
+65-69	Female	Ginkgo biloba	0.0798	0.7691	0.8207	3457
+70-74	Female	Ginkgo biloba	0.1341	0.984	1.0448	4089
+75-79	Female	Ginkgo biloba	0.2468	1.4269	1.4974	5351
+80-84	Female	Ginkgo biloba	0.3447	1.5759	1.6409	5222
+85-89	Female	Ginkgo biloba	0.4082	1.5027	1.5604	3945
+>90	Female	Ginkgo biloba	0.4442	1.3786	1.4233	2163

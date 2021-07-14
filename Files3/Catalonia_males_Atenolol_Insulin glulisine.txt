@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Atenolol	Insulin glulisine	0
+05-09	Male	Atenolol	Insulin glulisine	0
+10-14	Male	Atenolol	Insulin glulisine	0
+15-19	Male	Atenolol	Insulin glulisine	0
+20-24	Male	Atenolol	Insulin glulisine	0
+25-29	Male	Atenolol	Insulin glulisine	0
+30-34	Male	Atenolol	Insulin glulisine	2.11126359125937e-06
+35-39	Male	Atenolol	Insulin glulisine	3.6885192992551e-06
+40-44	Male	Atenolol	Insulin glulisine	7.46805074540481e-06
+45-49	Male	Atenolol	Insulin glulisine	1.01804173563899e-05
+50-54	Male	Atenolol	Insulin glulisine	2.42054026458706e-05
+55-59	Male	Atenolol	Insulin glulisine	3.28684791285158e-05
+60-64	Male	Atenolol	Insulin glulisine	4.37262542147251e-05
+65-69	Male	Atenolol	Insulin glulisine	6.61997378490381e-05
+70-74	Male	Atenolol	Insulin glulisine	4.72774120344652e-05
+75-79	Male	Atenolol	Insulin glulisine	4.21111734980348e-05
+80-84	Male	Atenolol	Insulin glulisine	8.99697251874744e-06
+85-89	Male	Atenolol	Insulin glulisine	2.70672621464339e-05
+>90	Male	Atenolol	Insulin glulisine	1.46996134001676e-05

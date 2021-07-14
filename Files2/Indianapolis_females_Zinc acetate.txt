@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Zinc acetate	0	0	0.0339581635425156	5
+05-09	Female	Zinc acetate	0	0	0.0333518621456365	3
+10-14	Female	Zinc acetate	0	0	0.0858790332474543	7
+15-19	Female	Zinc acetate	0	0	0.00960984047664809	1
+20-24	Female	Zinc acetate	0	0	0.0150432493418578	2
+25-29	Female	Zinc acetate	0	0	0.0389382828217276	6
+30-34	Female	Zinc acetate	0	0	0.0220864315688729	3
+35-39	Female	Zinc acetate	0	0	0.0510160700620696	6
+40-44	Female	Zinc acetate	0	0	0.0613622417672326	6
+45-49	Female	Zinc acetate	0	0	0.0292511700468019	3
+50-54	Female	Zinc acetate	0	0	0.0184689260319512	2
+55-59	Female	Zinc acetate	0	0	0.0262421273617915	3
+60-64	Female	Zinc acetate	0	0	0.0740329446603739	8
+65-69	Female	Zinc acetate	0	0	0.0672043010752688	6
+70-74	Female	Zinc acetate	0	0	0.0316957210776545	2
+75-79	Female	Zinc acetate	0	0	0.0661084178052005	3
+80-84	Female	Zinc acetate	0	0	0.0301841231512225	1
+85-89	Female	Zinc acetate	0	0	0.0884955752212389	2
+>90	Female	Zinc acetate	0	0	0	0

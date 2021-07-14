@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Aminophylline	Lithium cation	0
+05-09	Male	Aminophylline	Lithium cation	0
+10-14	Male	Aminophylline	Lithium cation	0
+15-19	Male	Aminophylline	Lithium cation	0
+20-24	Male	Aminophylline	Lithium cation	0
+25-29	Male	Aminophylline	Lithium cation	0
+30-34	Male	Aminophylline	Lithium cation	0
+35-39	Male	Aminophylline	Lithium cation	0
+40-44	Male	Aminophylline	Lithium cation	0
+45-49	Male	Aminophylline	Lithium cation	0
+50-54	Male	Aminophylline	Lithium cation	0
+55-59	Male	Aminophylline	Lithium cation	0
+60-64	Male	Aminophylline	Lithium cation	0
+65-69	Male	Aminophylline	Lithium cation	0
+70-74	Male	Aminophylline	Lithium cation	0.000523834468308015
+75-79	Male	Aminophylline	Lithium cation	0
+80-84	Male	Aminophylline	Lithium cation	0
+85-89	Male	Aminophylline	Lithium cation	0
+>90	Male	Aminophylline	Lithium cation	0

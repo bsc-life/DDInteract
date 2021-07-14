@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Warfarin	Acetylsalicylic acid	0
+05-09	Male	Warfarin	Acetylsalicylic acid	0
+10-14	Male	Warfarin	Acetylsalicylic acid	0
+15-19	Male	Warfarin	Acetylsalicylic acid	0
+20-24	Male	Warfarin	Acetylsalicylic acid	0
+25-29	Male	Warfarin	Acetylsalicylic acid	0
+30-34	Male	Warfarin	Acetylsalicylic acid	0.000505816894284269
+35-39	Male	Warfarin	Acetylsalicylic acid	0.000274047684297068
+40-44	Male	Warfarin	Acetylsalicylic acid	0.00101962783583992
+45-49	Male	Warfarin	Acetylsalicylic acid	0.000897666068222621
+50-54	Male	Warfarin	Acetylsalicylic acid	0.00110570544007077
+55-59	Male	Warfarin	Acetylsalicylic acid	0.00444005920078934
+60-64	Male	Warfarin	Acetylsalicylic acid	0.00299564270152505
+65-69	Male	Warfarin	Acetylsalicylic acid	0.00615496017378711
+70-74	Male	Warfarin	Acetylsalicylic acid	0.00995285489785228
+75-79	Male	Warfarin	Acetylsalicylic acid	0.00925925925925926
+80-84	Male	Warfarin	Acetylsalicylic acid	0.0109439124487004
+85-89	Male	Warfarin	Acetylsalicylic acid	0.00819672131147541
+>90	Male	Warfarin	Acetylsalicylic acid	0

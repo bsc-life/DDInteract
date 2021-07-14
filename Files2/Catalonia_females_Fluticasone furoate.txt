@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Fluticasone furoate	0	0.0767	0.1214	87
+05-09	Female	Fluticasone furoate	0	0.6343	0.9269	1568
+10-14	Female	Fluticasone furoate	0	1.708	2.2978	5692
+15-19	Female	Fluticasone furoate	0	1.7493	2.2528	6747
+20-24	Female	Fluticasone furoate	0	1.4975	1.9023	6814
+25-29	Female	Fluticasone furoate	0	1.4255	1.836	8264
+30-34	Female	Fluticasone furoate	0	1.5381	1.9509	10616
+35-39	Female	Fluticasone furoate	0	1.7702	2.2044	12966
+40-44	Female	Fluticasone furoate	0	1.8357	2.2315	12692
+45-49	Female	Fluticasone furoate	0	1.864	2.2367	11836
+50-54	Female	Fluticasone furoate	0	1.8034	2.136	10745
+55-59	Female	Fluticasone furoate	0	1.8053	2.1049	10024
+60-64	Female	Fluticasone furoate	0	1.7967	2.0297	9312
+65-69	Female	Fluticasone furoate	0	1.6973	1.8718	7885
+70-74	Female	Fluticasone furoate	0	1.3501	1.484	5808
+75-79	Female	Fluticasone furoate	0	0.9755	1.0581	3781
+80-84	Female	Fluticasone furoate	0	0.7862	0.85	2705
+85-89	Female	Fluticasone furoate	0	0.5581	0.6004	1518
+>90	Female	Fluticasone furoate	0	0.4323	0.4672	710

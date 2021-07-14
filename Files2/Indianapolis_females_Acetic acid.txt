@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Acetic acid	0	0	0.0747079597935344	11
+05-09	Female	Acetic acid	0	0	0.0555864369093941	5
+10-14	Female	Acetic acid	0	0	0.0613421666053245	5
+15-19	Female	Acetic acid	0	0	0.0192196809532962	2
+20-24	Female	Acetic acid	0	0	0.0526513726965024	7
+25-29	Female	Acetic acid	0	0	0.123304562268804	19
+30-34	Female	Acetic acid	0	0	0.125156445556946	17
+35-39	Female	Acetic acid	0	0	0.153048210186209	18
+40-44	Female	Acetic acid	0	0	0.153405604418081	15
+45-49	Female	Acetic acid	0	0	0.146255850234009	15
+50-54	Female	Acetic acid	0	0	0.0369378520639025	4
+55-59	Female	Acetic acid	0	0	0.122463261021693	14
+60-64	Female	Acetic acid	0	0	0.129557653155654	14
+65-69	Female	Acetic acid	0	0	0.100806451612903	9
+70-74	Female	Acetic acid	0	0	0.0316957210776545	2
+75-79	Female	Acetic acid	0	0	0.132216835610401	6
+80-84	Female	Acetic acid	0	0	0	0
+85-89	Female	Acetic acid	0	0	0.0442477876106195	1
+>90	Female	Acetic acid	0	0	0.0673854447439353	1

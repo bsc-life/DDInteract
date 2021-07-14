@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Vitamin A	0	0.0026	0.0026	2
+05-09	Male	Vitamin A	0	0.0068	0.0118	21
+10-14	Male	Vitamin A	0	0.0099	0.0198	52
+15-19	Male	Vitamin A	0	0.0754	0.1083	309
+20-24	Male	Vitamin A	0	0.0864	0.1331	399
+25-29	Male	Vitamin A	0	0.0828	0.1255	467
+30-34	Male	Vitamin A	0	0.1054	0.1497	709
+35-39	Male	Vitamin A	0	0.123	0.1734	940
+40-44	Male	Vitamin A	0	0.1249	0.1673	896
+45-49	Male	Vitamin A	0	0.1385	0.1796	882
+50-54	Male	Vitamin A	0	0.1611	0.195	886
+55-59	Male	Vitamin A	0	0.2021	0.2395	1020
+60-64	Male	Vitamin A	0	0.2709	0.3192	1314
+65-69	Male	Vitamin A	0	0.3583	0.412	1556
+70-74	Male	Vitamin A	0	0.375	0.4163	1409
+75-79	Male	Vitamin A	0	0.4001	0.4408	1256
+80-84	Male	Vitamin A	0	0.3869	0.4175	928
+85-89	Male	Vitamin A	0	0.3174	0.3424	506
+>90	Male	Vitamin A	0	0.2396	0.2543	173

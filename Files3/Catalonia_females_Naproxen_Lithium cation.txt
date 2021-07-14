@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Naproxen	Lithium cation	0
+05-09	Female	Naproxen	Lithium cation	0
+10-14	Female	Naproxen	Lithium cation	0
+15-19	Female	Naproxen	Lithium cation	6.67790781148266e-06
+20-24	Female	Naproxen	Lithium cation	3.07090153293821e-05
+25-29	Female	Naproxen	Lithium cation	4.22128415907576e-05
+30-34	Female	Naproxen	Lithium cation	6.24808193073082e-05
+35-39	Female	Naproxen	Lithium cation	0.000105410266960002
+40-44	Female	Naproxen	Lithium cation	0.000149444505980417
+45-49	Female	Naproxen	Lithium cation	0.000168185374297495
+50-54	Female	Naproxen	Lithium cation	0.000180899048391489
+55-59	Female	Naproxen	Lithium cation	0.000191089356322853
+60-64	Female	Naproxen	Lithium cation	0.000146040769351492
+65-69	Female	Naproxen	Lithium cation	0.000106824925816024
+70-74	Female	Naproxen	Lithium cation	8.94276121805518e-05
+75-79	Female	Naproxen	Lithium cation	3.35807112394641e-05
+80-84	Female	Naproxen	Lithium cation	1.57117089940107e-05
+85-89	Female	Naproxen	Lithium cation	3.95549279506987e-06
+>90	Female	Naproxen	Lithium cation	0

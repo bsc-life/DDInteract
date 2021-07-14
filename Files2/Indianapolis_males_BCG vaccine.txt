@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	BCG vaccine	0	0	0	0
+05-09	Male	BCG vaccine	0	0	0	0
+10-14	Male	BCG vaccine	0	0	0	0
+15-19	Male	BCG vaccine	0	0	0	0
+20-24	Male	BCG vaccine	0	0	0	0
+25-29	Male	BCG vaccine	0	0	0	0
+30-34	Male	BCG vaccine	0	0	0	0
+35-39	Male	BCG vaccine	0	0	0	0
+40-44	Male	BCG vaccine	0	0	0.0148235991698784	1
+45-49	Male	BCG vaccine	0	0	0	0
+50-54	Male	BCG vaccine	0	0	0.0124177325220415	1
+55-59	Male	BCG vaccine	0	0	0.0225580870742161	2
+60-64	Male	BCG vaccine	0	0	0.012190661952944	1
+65-69	Male	BCG vaccine	0	0	0.0150285542530809	1
+70-74	Male	BCG vaccine	0	0	0	0
+75-79	Male	BCG vaccine	0	0	0	0
+80-84	Male	BCG vaccine	0	0.0495294700346706	0.0495294700346706	1
+85-89	Male	BCG vaccine	0	0	0.0809061488673139	1
+>90	Male	BCG vaccine	0	0	0	0

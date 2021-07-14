@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Levofloxacin	Bismuth subsalicylate	0
+05-09	Female	Levofloxacin	Bismuth subsalicylate	0.000111172873818788
+10-14	Female	Levofloxacin	Bismuth subsalicylate	0
+15-19	Female	Levofloxacin	Bismuth subsalicylate	0
+20-24	Female	Levofloxacin	Bismuth subsalicylate	0
+25-29	Female	Levofloxacin	Bismuth subsalicylate	0
+30-34	Female	Levofloxacin	Bismuth subsalicylate	0
+35-39	Female	Levofloxacin	Bismuth subsalicylate	0
+40-44	Female	Levofloxacin	Bismuth subsalicylate	0
+45-49	Female	Levofloxacin	Bismuth subsalicylate	0
+50-54	Female	Levofloxacin	Bismuth subsalicylate	0
+55-59	Female	Levofloxacin	Bismuth subsalicylate	8.74737578726382e-05
+60-64	Female	Levofloxacin	Bismuth subsalicylate	9.25411808254673e-05
+65-69	Female	Levofloxacin	Bismuth subsalicylate	0
+70-74	Female	Levofloxacin	Bismuth subsalicylate	0.000158478605388273
+75-79	Female	Levofloxacin	Bismuth subsalicylate	0
+80-84	Female	Levofloxacin	Bismuth subsalicylate	0.000301841231512225
+85-89	Female	Levofloxacin	Bismuth subsalicylate	0
+>90	Female	Levofloxacin	Bismuth subsalicylate	0

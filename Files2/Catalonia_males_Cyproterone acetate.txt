@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Cyproterone acetate	0	0.0207	0.0207	16
+05-09	Male	Cyproterone acetate	0	0.0152	0.0152	27
+10-14	Male	Cyproterone acetate	0	0.0114	0.0133	35
+15-19	Male	Cyproterone acetate	0	0.0484	0.0505	144
+20-24	Male	Cyproterone acetate	0	0.05	0.0547	164
+25-29	Male	Cyproterone acetate	0	0.0368	0.0392	146
+30-34	Male	Cyproterone acetate	0	0.0353	0.038	180
+35-39	Male	Cyproterone acetate	0	0.0323	0.0332	180
+40-44	Male	Cyproterone acetate	0	0.0289	0.0306	164
+45-49	Male	Cyproterone acetate	0	0.0346	0.0364	179
+50-54	Male	Cyproterone acetate	0	0.042	0.0449	204
+55-59	Male	Cyproterone acetate	0	0.0347	0.0366	156
+60-64	Male	Cyproterone acetate	0	0.0408	0.0435	179
+65-69	Male	Cyproterone acetate	0	0.0371	0.0395	149
+70-74	Male	Cyproterone acetate	0	0.0529	0.057	193
+75-79	Male	Cyproterone acetate	0	0.1221	0.1263	360
+80-84	Male	Cyproterone acetate	0	0.2573	0.2668	593
+85-89	Male	Cyproterone acetate	0	0.4195	0.4331	640
+>90	Male	Cyproterone acetate	0	0.5262	0.5454	371

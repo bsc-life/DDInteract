@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Cholestyramine	Ursodeoxycholic acid	1.29594111243585e-05
+05-09	Male	Cholestyramine	Ursodeoxycholic acid	5.62768370166523e-06
+10-14	Male	Cholestyramine	Ursodeoxycholic acid	0
+15-19	Male	Cholestyramine	Ursodeoxycholic acid	1.05175696000168e-05
+20-24	Male	Cholestyramine	Ursodeoxycholic acid	1.00077727034664e-05
+25-29	Male	Cholestyramine	Ursodeoxycholic acid	1.61279917424682e-05
+30-34	Male	Cholestyramine	Ursodeoxycholic acid	1.26675815475562e-05
+35-39	Male	Cholestyramine	Ursodeoxycholic acid	2.58196350947857e-05
+40-44	Male	Cholestyramine	Ursodeoxycholic acid	1.68031141771608e-05
+45-49	Male	Cholestyramine	Ursodeoxycholic acid	2.64690851266139e-05
+50-54	Male	Cholestyramine	Ursodeoxycholic acid	3.08068760947443e-05
+55-59	Male	Cholestyramine	Ursodeoxycholic acid	4.69549701835939e-05
+60-64	Male	Cholestyramine	Ursodeoxycholic acid	5.83016722863001e-05
+65-69	Male	Cholestyramine	Ursodeoxycholic acid	9.26796329886534e-05
+70-74	Male	Cholestyramine	Ursodeoxycholic acid	9.45548240689305e-05
+75-79	Male	Cholestyramine	Ursodeoxycholic acid	7.72038180797305e-05
+80-84	Male	Cholestyramine	Ursodeoxycholic acid	6.29788076312321e-05
+85-89	Male	Cholestyramine	Ursodeoxycholic acid	4.73677087562593e-05
+>90	Male	Cholestyramine	Ursodeoxycholic acid	4.40988402005027e-05

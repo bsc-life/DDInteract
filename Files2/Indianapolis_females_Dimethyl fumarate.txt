@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Dimethyl fumarate	0	0	0	0
+05-09	Female	Dimethyl fumarate	0	0	0	0
+10-14	Female	Dimethyl fumarate	0	0	0	0
+15-19	Female	Dimethyl fumarate	0	0	0	0
+20-24	Female	Dimethyl fumarate	0	0.0300864986837157	0.0376081233546446	5
+25-29	Female	Dimethyl fumarate	0	0.0129794276072425	0.0129794276072425	2
+30-34	Female	Dimethyl fumarate	0	0.0147242877125819	0.0441728631377457	6
+35-39	Female	Dimethyl fumarate	0	0.0510160700620696	0.119037496811496	14
+40-44	Female	Dimethyl fumarate	0	0.040908161178155	0.0715892820617713	7
+45-49	Female	Dimethyl fumarate	0	0.0292511700468019	0.0682527301092044	7
+50-54	Female	Dimethyl fumarate	0	0.0369378520639025	0.0646412411118293	7
+55-59	Female	Dimethyl fumarate	0	0.0437368789363191	0.0699790062981106	8
+60-64	Female	Dimethyl fumarate	0	0.0370164723301869	0.0462705904127337	5
+65-69	Female	Dimethyl fumarate	0	0.0224014336917563	0.0224014336917563	2
+70-74	Female	Dimethyl fumarate	0	0	0	0
+75-79	Female	Dimethyl fumarate	0	0	0	0
+80-84	Female	Dimethyl fumarate	0	0	0	0
+85-89	Female	Dimethyl fumarate	0	0	0	0
+>90	Female	Dimethyl fumarate	0	0	0	0

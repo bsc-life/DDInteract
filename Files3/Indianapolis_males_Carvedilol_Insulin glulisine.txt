@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Carvedilol	Insulin glulisine	0
+05-09	Male	Carvedilol	Insulin glulisine	0
+10-14	Male	Carvedilol	Insulin glulisine	0
+15-19	Male	Carvedilol	Insulin glulisine	0
+20-24	Male	Carvedilol	Insulin glulisine	0
+25-29	Male	Carvedilol	Insulin glulisine	0
+30-34	Male	Carvedilol	Insulin glulisine	0.000130753138075314
+35-39	Male	Carvedilol	Insulin glulisine	0.000139958012596221
+40-44	Male	Carvedilol	Insulin glulisine	0
+45-49	Male	Carvedilol	Insulin glulisine	0.000137760022041604
+50-54	Male	Carvedilol	Insulin glulisine	0
+55-59	Male	Carvedilol	Insulin glulisine	0.000225580870742161
+60-64	Male	Carvedilol	Insulin glulisine	0
+65-69	Male	Carvedilol	Insulin glulisine	0.000150285542530809
+70-74	Male	Carvedilol	Insulin glulisine	0
+75-79	Male	Carvedilol	Insulin glulisine	0
+80-84	Male	Carvedilol	Insulin glulisine	0
+85-89	Male	Carvedilol	Insulin glulisine	0
+>90	Male	Carvedilol	Insulin glulisine	0

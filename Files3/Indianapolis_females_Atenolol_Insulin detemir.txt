@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Atenolol	Insulin detemir	0
+05-09	Female	Atenolol	Insulin detemir	0
+10-14	Female	Atenolol	Insulin detemir	0
+15-19	Female	Atenolol	Insulin detemir	0
+20-24	Female	Atenolol	Insulin detemir	7.52162467092892e-05
+25-29	Female	Atenolol	Insulin detemir	0
+30-34	Female	Atenolol	Insulin detemir	7.36214385629095e-05
+35-39	Female	Atenolol	Insulin detemir	0
+40-44	Female	Atenolol	Insulin detemir	0
+45-49	Female	Atenolol	Insulin detemir	0.000195007800312012
+50-54	Female	Atenolol	Insulin detemir	9.23446301597562e-05
+55-59	Female	Atenolol	Insulin detemir	0
+60-64	Female	Atenolol	Insulin detemir	0.000185082361650935
+65-69	Female	Atenolol	Insulin detemir	0.000336021505376344
+70-74	Female	Atenolol	Insulin detemir	0.000316957210776545
+75-79	Female	Atenolol	Insulin detemir	0.000220361392684002
+80-84	Female	Atenolol	Insulin detemir	0.000301841231512225
+85-89	Female	Atenolol	Insulin detemir	0
+>90	Female	Atenolol	Insulin detemir	0

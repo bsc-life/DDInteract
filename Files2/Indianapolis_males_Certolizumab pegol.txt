@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Certolizumab pegol	0	0	0	0
+05-09	Male	Certolizumab pegol	0	0	0	0
+10-14	Male	Certolizumab pegol	0	0	0	0
+15-19	Male	Certolizumab pegol	0	0.013933398355859	0.013933398355859	1
+20-24	Male	Certolizumab pegol	0	0	0.0146434324205594	1
+25-29	Male	Certolizumab pegol	0	0.025442055718102	0.0636051392952551	5
+30-34	Male	Certolizumab pegol	0	0.0130753138075314	0.0130753138075314	1
+35-39	Male	Certolizumab pegol	0	0.0139958012596221	0.0139958012596221	1
+40-44	Male	Certolizumab pegol	0	0	0	0
+45-49	Male	Certolizumab pegol	0	0	0.0137760022041604	1
+50-54	Male	Certolizumab pegol	0	0.0124177325220415	0.024835465044083	2
+55-59	Male	Certolizumab pegol	0	0.0112790435371081	0.0225580870742161	2
+60-64	Male	Certolizumab pegol	0	0.012190661952944	0.012190661952944	1
+65-69	Male	Certolizumab pegol	0	0.0150285542530809	0.0601142170123234	4
+70-74	Male	Certolizumab pegol	0	0.0427350427350427	0.0427350427350427	2
+75-79	Male	Certolizumab pegol	0	0	0	0
+80-84	Male	Certolizumab pegol	0	0	0	0
+85-89	Male	Certolizumab pegol	0	0	0	0
+>90	Male	Certolizumab pegol	0	0	0	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Aluminum chloride	0	0	0	0
+05-09	Male	Aluminum chloride	0	0	0	0
+10-14	Male	Aluminum chloride	0	0	0.046778154601801	4
+15-19	Male	Aluminum chloride	0	0	0.13933398355859	10
+20-24	Male	Aluminum chloride	0	0	0.248938351149509	17
+25-29	Male	Aluminum chloride	0	0	0.203536445744816	16
+30-34	Male	Aluminum chloride	0	0	0.104602510460251	8
+35-39	Male	Aluminum chloride	0	0	0.111966410076977	8
+40-44	Male	Aluminum chloride	0	0	0.0592943966795138	4
+45-49	Male	Aluminum chloride	0	0	0.0964320154291225	7
+50-54	Male	Aluminum chloride	0	0	0.0124177325220415	1
+55-59	Male	Aluminum chloride	0	0	0.0225580870742161	2
+60-64	Male	Aluminum chloride	0	0	0.012190661952944	1
+65-69	Male	Aluminum chloride	0	0	0.0300571085061617	2
+70-74	Male	Aluminum chloride	0	0	0.0213675213675214	1
+75-79	Male	Aluminum chloride	0	0	0.0313185092389602	1
+80-84	Male	Aluminum chloride	0	0	0	0
+85-89	Male	Aluminum chloride	0	0	0	0
+>90	Male	Aluminum chloride	0	0	0	0

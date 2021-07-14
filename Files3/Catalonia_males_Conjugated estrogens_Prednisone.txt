@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Conjugated estrogens	Prednisone	0
+05-09	Male	Conjugated estrogens	Prednisone	0
+10-14	Male	Conjugated estrogens	Prednisone	0
+15-19	Male	Conjugated estrogens	Prednisone	0
+20-24	Male	Conjugated estrogens	Prednisone	3.33592423448879e-06
+25-29	Male	Conjugated estrogens	Prednisone	0
+30-34	Male	Conjugated estrogens	Prednisone	0
+35-39	Male	Conjugated estrogens	Prednisone	0
+40-44	Male	Conjugated estrogens	Prednisone	1.8670126863512e-06
+45-49	Male	Conjugated estrogens	Prednisone	0
+50-54	Male	Conjugated estrogens	Prednisone	0
+55-59	Male	Conjugated estrogens	Prednisone	0
+60-64	Male	Conjugated estrogens	Prednisone	0
+65-69	Male	Conjugated estrogens	Prednisone	0
+70-74	Male	Conjugated estrogens	Prednisone	0
+75-79	Male	Conjugated estrogens	Prednisone	3.50926445816957e-06
+80-84	Male	Conjugated estrogens	Prednisone	0
+85-89	Male	Conjugated estrogens	Prednisone	0
+>90	Male	Conjugated estrogens	Prednisone	0

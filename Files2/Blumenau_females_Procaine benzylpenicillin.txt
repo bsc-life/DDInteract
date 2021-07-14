@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Procaine benzylpenicillin	0	0.130670151204032	0.16800448011947	9
+05-09	Female	Procaine benzylpenicillin	0	0.0320410124959949	0.0320410124959949	1
+10-14	Female	Procaine benzylpenicillin	0	0.231404958677686	0.231404958677686	7
+15-19	Female	Procaine benzylpenicillin	0	0.296995108315863	0.314465408805031	18
+20-24	Female	Procaine benzylpenicillin	0	0.260536398467433	0.275862068965517	18
+25-29	Female	Procaine benzylpenicillin	0	0.200233605873519	0.216919739696312	13
+30-34	Female	Procaine benzylpenicillin	0	0.319650067294751	0.353297442799462	21
+35-39	Female	Procaine benzylpenicillin	0	0.217500418270035	0.217500418270035	13
+40-44	Female	Procaine benzylpenicillin	0	0.309885342423303	0.325379609544469	21
+45-49	Female	Procaine benzylpenicillin	0	0.0972897845726199	0.0972897845726199	7
+50-54	Female	Procaine benzylpenicillin	0	0.272516691647363	0.2997683608121	22
+55-59	Female	Procaine benzylpenicillin	0	0.141242937853107	0.141242937853107	9
+60-64	Female	Procaine benzylpenicillin	0	0.125134072220236	0.125134072220236	7
+65-69	Female	Procaine benzylpenicillin	0	0.143815915627996	0.143815915627996	6
+70-74	Female	Procaine benzylpenicillin	0	0.032520325203252	0.032520325203252	1
+75-79	Female	Procaine benzylpenicillin	0	0.129087779690189	0.129087779690189	3
+80-84	Female	Procaine benzylpenicillin	0	0.130718954248366	0.130718954248366	2
+85-89	Female	Procaine benzylpenicillin	0	0.36144578313253	0.36144578313253	3
+>90	Female	Procaine benzylpenicillin	0	0	0	0

@@ -1,0 +1,222 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Insulin lispro	Esmolol	1	Inf	Moderate	1 (1/0)		#B32020	5.98730690935217	1
+Insulin lispro	Acetylsalicylic acid	1	Inf	Moderate	1 (1/0)		#B32020	5.98730690935217	1
+Insulin glargine	Acetylsalicylic acid	0.143	Inf	Moderate	1 (1/0)		#B32020	5.98730690935217	1
+Cyclosporine	Fluconazole	1	Inf	Moderate	1 (1/0)	Fluconazole increases the effect of the immunosuppressant	#B32020	5.98730690935217	1
+Cyclosporine	Amphotericin B	1	Inf	Moderate	1 (1/0)	Monitor for nephrotoxicity	#B32020	5.98730690935217	0.132303637000911
+Cyclosporine	Sulfamethoxazole	1	1.049	Major	2 (1/1)	The sulfonamide decreases the effect of cyclosporine	#F9BCBC	11.9746138187043	0.361889360244962
+Oxytocin	Phenylephrine	1	Inf	Moderate	1 (1/0)	Possible marked increase of arterial pressure	#B32020	5.98730690935217	1
+Amphetamine	Fluoxetine	0.561	-1.589	Major	8 (3/5)	Risk of serotoninergic syndrome	#A3C5DF	47.8984552748174	1
+Lorazepam	Fosphenytoin	1	3.147	Moderate	4 (3/1)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#DC7D7D	23.9492276374087	2.71649235840373e-05
+Esmolol	Lidocaine	1	-1.906	Moderate	3 (1/2)	The beta-blocker increases the effect and toxicity of lidocaine	#9ABEDB	17.9619207280565	1
+Esmolol	Clonidine	1	Inf	Major	1 (1/0)	Increased hypertension when clonidine stopped	#B32020	5.98730690935217	1
+Esmolol	Ibuprofen	0.238	Inf	Moderate	1 (1/0)	Risk of inhibition of renal prostaglandins	#B32020	5.98730690935217	1
+Fluconazole	Cyclophosphamide	0.268	Inf	None	1 (1/0)	Reduces metabolism and clearance of cyclophosphamide	#B32020	5.98730690935217	1
+Fluconazole	Vincristine	1	Inf	Moderate	1 (1/0)	Increases the effect and toxicity of anticancer agent	#B32020	5.98730690935217	1
+Fluconazole	Midazolam	1	1.574	Major	5 (3/2)	Increases the effect of the benzodiazepine	#F2ACAC	29.9365345467609	1
+Fluconazole	Fentanyl	0.98	2.623	Major	7 (5/2)	The imidazole increases levels/toxicity of fentanyl	#E38D8D	41.9111483654652	1
+Succinylcholine	Piperacillin	0.694	-1.601	Moderate	67 (25/42)	The agent increases the effect of the muscle relaxant	#A3C5DF	401.149562926596	1.35429855915102e-68
+Succinylcholine	Clindamycin	0.573	-1.589	Moderate	8 (3/5)	The agent increases the effect of muscle relaxant	#A3C5DF	47.8984552748174	1
+Succinylcholine	Metoclopramide	1	-1.43	Moderate	5 (2/3)	The agent increases the effect of succinylcholine	#A8C8E1	29.9365345467609	0.137920932324855
+Citalopram	Sumatriptan	1	Inf	Major	1 (1/0)	Increased risk of CNS adverse effects	#B32020	5.98730690935217	1
+Butalbital	Norethisterone	1	Inf	Moderate	1 (1/0)	This product may cause a slight decrease of contraceptive effect	#B32020	5.98730690935217	1
+Butalbital	Ethinylestradiol	1	Inf	Moderate	1 (1/0)	This product may cause a slight decrease of contraceptive effect	#B32020	5.98730690935217	1
+Doxycycline	Ampicillin	1	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	5.98730690935217	1
+Doxycycline	Ethinylestradiol	0.032	Inf	Moderate	1 (1/0)	This anti-infectious agent could decrease the effect  of the oral contraceptive	#B32020	5.98730690935217	1
+Topiramate	Ethinylestradiol	1	Inf	Moderate	1 (1/0)	Topiramate decreases the effect of estrogen	#B32020	5.98730690935217	1
+Topiramate	Fosphenytoin	1	Inf	Moderate	1 (1/0)	Increased phenytoin/decreased topiramate	#B32020	5.98730690935217	1
+Lidocaine	Atenolol	0.583	-1.906	Moderate	3 (1/2)	The beta-blocker increases the effect and toxicity of lidocaine	#9ABEDB	17.9619207280565	1
+Lidocaine	Timolol	1	Inf	Moderate	1 (1/0)	The beta-blocker increases the effect and toxicity of lidocaine	#B32020	5.98730690935217	1
+Lidocaine	Propranolol	0.75	1.049	Moderate	2 (1/1)	The beta-blocker increases the effect and toxicity of lidocaine	#F9BCBC	11.9746138187043	1
+Lidocaine	Labetalol	1	2.098	Moderate	3 (2/1)	The beta-blocker increases the effect and toxicity of lidocaine	#EB9C9C	17.9619207280565	1
+Atomoxetine	Fluoxetine	0.903	-1.43	Major	5 (2/3)	The CYP2D6 inhibitor could increase the effect and toxicity of atomoxetine	#A8C8E1	29.9365345467609	1
+Valproic acid	Lamotrigine	0.737	1.399	Major	7 (4/3)	Valproic acid increases the effect of lamotrigine	#F4B1B1	41.9111483654652	0.000559379120962776
+Valproic acid	Risperidone	1	-1.43	Moderate	5 (2/3)	Risperidone increases the effect and toxicity of valproic acid	#A8C8E1	29.9365345467609	0.136131149347139
+Valproic acid	Felbamate	0.488	Inf	Moderate	1 (1/0)	Felbamate increases the effect of valproate	#B32020	5.98730690935217	1
+Valproic acid	Phenobarbital	0.943	1.049	Moderate	2 (1/1)	Valproic acid increases the effect of barbiturate	#F9BCBC	11.9746138187043	1
+Valproic acid	Fosphenytoin	1	Inf	Moderate	1 (1/0)	Valproate increases the effect of hydantoin	#B32020	5.98730690935217	1
+Acetaminophen	Warfarin	1	1.049	Minor	2 (1/1)	Acetaminophen increases the anticoagulant effect	#F9BCBC	11.9746138187043	1
+Piperacillin	Methotrexate	0.727	Inf	Major	2 (2/0)	The penicillin increases the effect and toxicity of methotrexate	#B32020	11.9746138187043	1
+Piperacillin	Rocuronium	0.94	2.623	Moderate	21 (15/6)	The agent increases the effect of the muscle relaxant	#E38D8D	125.733445096396	3.07196893125423e-15
+Piperacillin	Mivacurium	1	-2.86	Moderate	4 (1/3)	The agent increases the effect of the muscle relaxant	#7FA9CF	23.9492276374087	0.00106235957364159
+Dihydroergotamine	Naratriptan	0.067	Inf	Major	1 (1/0)	Possible severe and prolonged vasoconstriction	#B32020	5.98730690935217	0.158754858122268
+Amitriptyline	Fluoxetine	1	1.049	Major	4 (2/2)	Fluoxetine increases the effect and toxicity of tricyclics	#F9BCBC	23.9492276374087	1
+Amitriptyline	Clonidine	1	-1.906	Major	3 (1/2)	The tricyclic decreases the effect of clonidine	#9ABEDB	17.9619207280565	1
+Amitriptyline	Epinephrine	1	Inf	Major	1 (1/0)	The tricyclic increases the sympathomimetic effect	#B32020	5.98730690935217	1
+Amitriptyline	Salbutamol	1	2.098	Moderate	3 (2/1)	The tricyclic increases the sympathomimetic effect	#EB9C9C	17.9619207280565	1
+Methadone	Phenobarbital	1	Inf	Major	1 (1/0)	The barbiturate decreases the effect of methadone	#B32020	5.98730690935217	1
+Methadone	Fosphenytoin	1	Inf	Major	1 (1/0)	The hydantoin decreases the effect of methadone	#B32020	5.98730690935217	1
+Omeprazole	Methotrexate	1	Inf	Major	1 (1/0)	Omeprazole increases the levels of methotrexate	#B32020	5.98730690935217	1
+Omeprazole	Midazolam	1	Inf	Moderate	1 (1/0)	Omeprazole increases the effect of benzodiazepine	#B32020	5.98730690935217	1
+Sulfadiazine	Fosphenytoin	1	Inf	Moderate	1 (1/0)	The sulfonamide increases the effect of hydantoin	#B32020	5.98730690935217	0.0793916896180258
+Mirtazapine	Clonidine	0.744	-3.813	Moderate	5 (1/4)	Possible hypertensive crisis	#6395C3	29.9365345467609	0.228472302678031
+Ampicillin	Warfarin	1	Inf	Moderate	1 (1/0)	The IV penicillin increases the anticoagulant effect	#B32020	5.98730690935217	1
+Spironolactone	Enalapril	1	Inf	Major	1 (1/0)	Increased risk of hyperkaliemia	#B32020	5.98730690935217	0.528850233619557
+Spironolactone	Lisinopril	1	-2.86	Major	4 (1/3)	Increased risk of hyperkaliemia	#7FA9CF	23.9492276374087	4.8300968250722e-05
+Spironolactone	Captopril	1	Inf	Major	1 (1/0)	Increased risk of hyperkaliemia	#B32020	5.98730690935217	0.528850233619557
+Cyproheptadine	Fluoxetine	0.032	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	5.98730690935217	1
+Allopurinol	Azathioprine	1	Inf	Major	1 (1/0)	Allopurinol increases the effect of thiopurine	#B32020	5.98730690935217	0.793014016024764
+Allopurinol	Mercaptopurine	0.136	Inf	Major	1 (1/0)	Allopurinol increases the effect of thiopurine	#B32020	5.98730690935217	0.07938693590935
+Ceftazidime	Tobramycin	1	1.049	Moderate	2 (1/1)	Increased risk of nephrotoxicity	#F9BCBC	11.9746138187043	0.00448946857084695
+Trimethoprim	Methotrexate	0.87	-4.766	Major	6 (1/5)	Trimethoprim may increase the adverse/toxic effects of Methotrexate (e.g. bone marrow suppression). Concomitant use should be avoided or closely monitored for Methotrexate toxicity.	#4880B7	35.923841456113	0.297286969326093
+Trimethoprim	Leucovorin	1	Inf	Major	1 (1/0)	The efficacy of Trimethoprim may be reduced by Leucovorin (folinic acid). The antibiotic, Trimethoprim, acts by blocking bacterial folic acid metabolism. Leucovorin may reduce the efficacy of Trimethoprim by providing an alternate source of folic acid. The therapeutic effect of Trimethoprim should be closely monitored.	#B32020	5.98730690935217	1
+Trimethoprim	Fosphenytoin	1	Inf	Moderate	1 (1/0)	Trimethoprim increases the effect of hydantoin	#B32020	5.98730690935217	1
+Ketorolac	Methotrexate	0.065	Inf	Major	1 (1/0)	The NSAID increases the effect and toxicity of methotrexate	#B32020	5.98730690935217	1
+Ketorolac	Alendronic acid	1	Inf	Moderate	1 (1/0)	Increased risk of gasrtic toxicity	#B32020	5.98730690935217	1
+Ketorolac	Acetylsalicylic acid	0.433	1.049	Major	12 (6/6)	ASA increases toxicity of ketorolac	#F9BCBC	71.8476829122261	0.690094494858489
+Ketorolac	Probenecid	0.5	Inf	Major	1 (1/0)	Probenecid increases toxicity of ketorolac	#B32020	5.98730690935217	1
+Fluoxetine	Sumatriptan	1	Inf	Major	1 (1/0)	Increased risk of CNS adverse effects	#B32020	5.98730690935217	1
+Fluoxetine	Risperidone	0.879	-1.589	Moderate	8 (3/5)	The SSRI increases the effect and toxicity of risperidone	#A3C5DF	47.8984552748174	0.136918055667705
+Fluoxetine	Clomipramine	1	Inf	Major	1 (1/0)	Fluoxetine increases the effect and toxicity of tricyclics	#B32020	5.98730690935217	1
+Fluoxetine	Dextroamphetamine	0.561	-1.589	Major	8 (3/5)	Risk of serotoninergic syndrome	#A3C5DF	47.8984552748174	1
+Oxycodone	Sertraline	1	Inf	Moderate	1 (1/0)	Increased risk of serotonin syndrome	#B32020	5.98730690935217	1
+Haloperidol	Dicyclomine	1	Inf	Moderate	1 (1/0)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#B32020	5.98730690935217	1
+Ritonavir	Abacavir	1	Inf	None	2 (2/0)	The serum concentration of Abacavir may be decreased by protease inhibitors such as Ritonavir. The antiviral response should be closely monitored.	#B32020	11.9746138187043	4.75370873708221e-06
+Ritonavir	Atazanavir	1	Inf	Moderate	2 (2/0)	Association with dose adjustment	#B32020	11.9746138187043	1.5845695790274e-06
+Ciprofloxacin	Calcium	1	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	5.98730690935217	1
+Vincristine	Aprepitant	0.896	-6.673	Moderate	8 (1/7)	Aprepitant may change levels of chemotherapy agent	#1E61A5	47.8984552748174	5.68220210625028e-20
+Pyridostigmine	Prednisone	1	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of anticholinesterases	#B32020	5.98730690935217	1
+Pyridostigmine	Methylprednisolone	0.269	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of anticholinesterases	#B32020	5.98730690935217	1
+Lamotrigine	Ethinylestradiol	1	Inf	Moderate	1 (1/0)	The oral contraceptive decreases the effect of lamotrigine	#B32020	5.98730690935217	1
+Methotrexate	Clavulanic acid	0.091	Inf	Moderate	1 (1/0)	The penicillin increases the effect and toxicity of methotrexate	#B32020	5.98730690935217	1
+Methotrexate	Naproxen	1	2.098	Major	3 (2/1)	The NSAID increases the effect and toxicity of methotrexate	#EB9C9C	17.9619207280565	1
+Methotrexate	Acetylsalicylic acid	1	Inf	Major	1 (1/0)	The salicylate increases the effect and toxicity of methotrexate	#B32020	5.98730690935217	1
+Methotrexate	Sulfamethoxazole	0.87	-4.766	Moderate	6 (1/5)	The sulfamide increases the toxicity of methotrexate	#4880B7	35.923841456113	0.00978353512817675
+Methotrexate	Amoxicillin	0.091	1.049	Major	2 (1/1)	The penicillin increases the effect and toxicity of methotrexate	#F9BCBC	11.9746138187043	1
+Methotrexate	Hydroxychloroquine	1	Inf	Minor	1 (1/0)	Hydroxychloroquine increases the effect and toxicity of methotrexate	#B32020	5.98730690935217	1
+Propranolol	Epinephrine	1	Inf	Major	1 (1/0)	Hypertension, then bradycardia	#B32020	5.98730690935217	1
+Propranolol	Rizatriptan	0.883	1.399	Moderate	7 (4/3)	Propranolol increases the effect and toxicity of rizatriptan	#F4B1B1	41.9111483654652	4.10200946336703e-07
+Propranolol	Ibuprofen	1	2.623	Moderate	7 (5/2)	Risk of inhibition of renal prostaglandins	#E38D8D	41.9111483654652	1
+Propranolol	Sertraline	1	Inf	Moderate	1 (1/0)	The SSRI increases the effect of the beta-blocker	#B32020	5.98730690935217	1
+Clonidine	Labetalol	0.683	2.098	Major	3 (2/1)	Increased hypertension when clonidine stopped	#EB9C9C	17.9619207280565	1
+Clonidine	Clomipramine	1	Inf	Major	1 (1/0)	The tricyclic decreases the effect of clonidine	#B32020	5.98730690935217	1
+Voriconazole	Midazolam	1	Inf	Major	2 (2/0)	The imidazole increases the effect of benzodiazepine	#B32020	11.9746138187043	1
+Voriconazole	Fentanyl	0.75	Inf	Major	2 (2/0)	The imidazole increases levels/toxicity of fentanyl	#B32020	11.9746138187043	1
+Voriconazole	Phenobarbital	1	Inf	Major	1 (1/0)	The barbiturate decreases the effect of voriconazole	#B32020	5.98730690935217	1
+Voriconazole	Fosphenytoin	1	Inf	Major	1 (1/0)	The hydantoin decreases the effect of voriconazole	#B32020	5.98730690935217	0.475993723398781
+Labetalol	Terbutaline	1	Inf	Major	1 (1/0)	Antagonism	#B32020	5.98730690935217	0.713798121402388
+Labetalol	Salbutamol	1	-2.86	Major	4 (1/3)	Antagonism	#7FA9CF	23.9492276374087	1
+Linezolid	Salbutamol	1	Inf	Moderate	1 (1/0)	Possible increase of arterial pressure	#B32020	5.98730690935217	1
+Alendronic acid	Ibuprofen	1	Inf	Moderate	1 (1/0)	Increased risk of gastric toxicity	#B32020	5.98730690935217	1
+Prednisone	Acetylsalicylic acid	1	6.294	Moderate	7 (6/1)	The corticosteroid decreases the effect of salicylates	#B32020	41.9111483654652	1
+Prednisone	Ethinylestradiol	1	Inf	Moderate	2 (2/0)	The estrogenic agent increases the effect of corticosteroid	#B32020	11.9746138187043	1
+Epinephrine	Doxepin	1	Inf	Major	1 (1/0)	The tricyclic increases the sympathomimetic effect	#B32020	5.98730690935217	1
+Sumatriptan	Escitalopram	1	Inf	Major	1 (1/0)	Increased risk of CNS adverse effects	#B32020	5.98730690935217	1
+Aprepitant	Etoposide	0.363	1.049	Moderate	2 (1/1)	Aprepitant may change levels of chemotherapy agent	#F9BCBC	11.9746138187043	0.00189829723987361
+Aprepitant	Dexamethasone	0.571	-1.43	Moderate	5 (2/3)	Increases the effect and toxicity of dexamethasone	#A8C8E1	29.9365345467609	1
+Midazolam	Fosphenytoin	0.967	2.098	Moderate	3 (2/1)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#EB9C9C	17.9619207280565	0.0678224405822006
+Tobramycin	Furosemide	1	1.049	Major	2 (1/1)	Increased ototoxicity	#F9BCBC	11.9746138187043	1
+Tobramycin	Ceftriaxone	1	2.098	Moderate	3 (2/1)	Increased risk of nephrotoxicity	#EB9C9C	17.9619207280565	1
+Tobramycin	Cefazolin	0.616	1.049	Moderate	4 (2/2)	Increased risk of nephrotoxicity	#F9BCBC	23.9492276374087	1
+Mycophenolate mofetil	Tacrolimus	0.844	-4.766	None	6 (1/5)	Increased mycophenolic acid levels	#4880B7	35.923841456113	5.38572409503191e-09
+Mycophenolate mofetil	Calcium	1	Inf	Moderate	2 (2/0)	Formation of non-absorbable complexes	#B32020	11.9746138187043	0.0217961599929496
+Furosemide	Ibuprofen	0.953	1.049	Moderate	12 (6/6)	The NSAID decreases the diuretic and antihypertensive effects of the loop diuretic	#F9BCBC	71.8476829122261	1
+Furosemide	Fosphenytoin	1	Inf	Minor	1 (1/0)	The hydantoin decreases the effect of furosemide	#B32020	5.98730690935217	1
+Rocuronium	Clindamycin	0.947	1.311	Moderate	9 (5/4)	The agent increases the effect of muscle relaxant	#F5B4B4	53.8857621841696	1
+Hydrocortisone	Acetylsalicylic acid	0.746	-1.906	Moderate	3 (1/2)	The corticosteroid decreases the effect of salicylates	#9ABEDB	17.9619207280565	1
+Hydrocortisone	Phenobarbital	0.943	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of the corticosteroid	#B32020	5.98730690935217	1
+Hydrocortisone	Fosphenytoin	0.949	Inf	Moderate	1 (1/0)	The enzyme inducer decreases the effect of the corticosteroid	#B32020	5.98730690935217	1
+Gentamicin	Cefazolin	0.778	-4.766	Moderate	12 (2/10)	Increased risk of nephrotoxicity	#4880B7	71.8476829122261	1.05237553136811e-06
+Fentanyl	Itraconazole	0.075	Inf	Major	1 (1/0)	The imidazole increases levels/toxicity of fentanyl	#B32020	5.98730690935217	1
+Prednisolone	Acetylsalicylic acid	1	Inf	Moderate	2 (2/0)	The corticosteroid decreases the effect of salicylates	#B32020	11.9746138187043	1
+Prednisolone	Ethinylestradiol	1	Inf	Moderate	1 (1/0)	The estrogenic agent increases the effect of the corticosteroid	#B32020	5.98730690935217	1
+Prednisolone	Phenobarbital	0.112	Inf	Moderate	2 (2/0)	The barbiturate decreases the effect of the corticosteroid	#B32020	11.9746138187043	1
+Tacrolimus	Clarithromycin	0.524	Inf	Major	1 (1/0)	This antibiotic increases the effect and toxicity of tacrolimus	#B32020	5.98730690935217	1
+Tacrolimus	Fosphenytoin	1	Inf	Major	1 (1/0)	The hydantoin decreases the effect of tacrolimus	#B32020	5.98730690935217	1
+Metronidazole	Phenobarbital	1	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of metronidazole	#B32020	5.98730690935217	1
+Acetylsalicylic acid	Methylprednisolone	0.697	1.679	Moderate	13 (8/5)	The corticosteroid decreases the effect of salicylates	#F0A9A9	77.8349898215782	7.90685855096498e-10
+Acetylsalicylic acid	Ibuprofen	0.799	1.888	Major	14 (9/5)	Ibuprofen reduces ASA cardioprotective effects	#EDA3A3	83.8222967309304	1
+Acetylsalicylic acid	Heparin	0.833	-1.072	Moderate	17 (8/9)	Association of ASA/heparin increases risk of bleeding	#B2D0E5	101.784217458987	4.17887094392139e-15
+Acetylsalicylic acid	Dexamethasone	0.575	6.294	Moderate	7 (6/1)	The corticosteroid decreases the effect of salicylates	#B32020	41.9111483654652	1
+Acetylsalicylic acid	Insulin glulisine	0.032	Inf	Moderate	1 (1/0)	The salicylate increases the effect of insulin	#B32020	5.98730690935217	1
+Rizatriptan	Escitalopram	1	Inf	Major	1 (1/0)	Increased risk of CNS adverse effects	#B32020	5.98730690935217	1
+Methylprednisolone	Phenobarbital	1	1.049	Moderate	2 (1/1)	The barbiturate decreases the effect of the corticosteroid	#F9BCBC	11.9746138187043	1
+Methylprednisolone	Fosphenytoin	1	Inf	Moderate	1 (1/0)	The enzyme inducer decreases the effect of the corticosteroid	#B32020	5.98730690935217	1
+Ethinylestradiol	Minocycline	0.516	Inf	Moderate	2 (2/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	11.9746138187043	1
+Ethinylestradiol	Amoxicillin	0.079	Inf	Moderate	2 (2/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	11.9746138187043	1
+Salbutamol	Doxepin	1	1.049	Moderate	2 (1/1)	The tricyclic increases the sympathomimetic effect	#F9BCBC	11.9746138187043	1
+Probenecid	Cefazolin	0.5	Inf	Moderate	1 (1/0)	Probenecid increases the antibiotic's level	#B32020	5.98730690935217	1
+Probenecid	Cefepime	1	Inf	Moderate	1 (1/0)	Probenecid increases the antibiotic's level	#B32020	5.98730690935217	1
+Probenecid	Valganciclovir	0.067	Inf	Moderate	1 (1/0)	Probenecid increases the effect and toxicity of ganciclovir/valganciclovir	#B32020	5.98730690935217	0.0529262085090353
+Abacavir	Atazanavir	1	Inf	None	2 (2/0)	The serum concentration of Abacavir may be decreased by protease inhibitors such as Atazanavir. The antiviral response should be closely monitored.	#B32020	11.9746138187043	4.7537087370822e-06
+Levofloxacin	Magnesium oxide	1	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	5.98730690935217	1
+Phenobarbital	Dexamethasone	0.5	1.049	Moderate	2 (1/1)	The barbiturate decreases the effect of the corticosteroid	#F9BCBC	11.9746138187043	1
+Dexamethasone	Neostigmine	0.939	-1.294	Moderate	66 (28/38)	The corticosteroid decreases the effect of anticholinesterases	#ACCCE3	395.162256017243	1.16393479300467e-41
+Dexamethasone	Bismuth subsalicylate	1	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of salicylates	#B32020	5.98730690935217	1
+Cyclosporine	Azithromycin	0.571	-Inf	Moderate	1 (0/1)	The macrolide increases the effect of cyclosporine	#1E61A5	5.98730690935217	1
+Cyclosporine	Omeprazole	1	-Inf	Moderate	1 (0/1)	Omeprazole increases the effect and toxicity of cyclosporine	#1E61A5	5.98730690935217	1
+Cyclosporine	Foscarnet	1	-Inf	Major	1 (0/1)	Monitor for nephrotoxicity	#1E61A5	5.98730690935217	0.0661597413483875
+Cyclosporine	Ciprofloxacin	1	-Inf	Moderate	1 (0/1)	The quinolone increases the effect and toxicity of cyclosporine	#1E61A5	5.98730690935217	1
+Cyclosporine	Methotrexate	1	-Inf	Moderate	1 (0/1)	Increases the effect and toxicity of methotrexate	#1E61A5	5.98730690935217	1
+Cyclosporine	Voriconazole	0.796	-Inf	Major	1 (0/1)	Voriconazole increases the effect and toxicity of cyclosporine	#1E61A5	5.98730690935217	0.396720819578761
+Cyclosporine	Nifedipine	1	-Inf	Moderate	1 (0/1)	Increased risk of gingivitis	#1E61A5	5.98730690935217	0.132303637000911
+Cyclosporine	Ursodeoxycholic acid	1	-Inf	Minor	1 (0/1)	Ursodiol increases the levels of cyclosporine	#1E61A5	5.98730690935217	0.132303637000911
+Amphetamine	Paroxetine	1	-Inf	Major	1 (0/1)	Risk of serotoninergic syndrome	#1E61A5	5.98730690935217	1
+Lorazepam	Phenytoin	0.214	-Inf	Moderate	1 (0/1)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#1E61A5	5.98730690935217	1
+Esmolol	Epinephrine	1	-Inf	Moderate	1 (0/1)	Hypertension, then bradycardia	#1E61A5	5.98730690935217	1
+Fluconazole	Tacrolimus	1	-Inf	Major	1 (0/1)	Increases the effect of the immunosuppressant	#1E61A5	5.98730690935217	1
+Pantoprazole	Dasatinib	1	-Inf	Major	1 (0/1)	Possible decreased levels of dasatinib	#1E61A5	5.98730690935217	1
+Mesalazine	Azathioprine	0.231	-Inf	Moderate	1 (0/1)	The 5-ASA derivative increases the toxicity of thiopurine	#1E61A5	5.98730690935217	1
+Benzatropine	Haloperidol	1	-Inf	Moderate	4 (0/4)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#1E61A5	23.9492276374087	7.13639716974754e-06
+Phenytoin	Diazepam	0.212	-Inf	Moderate	1 (0/1)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#1E61A5	5.98730690935217	1
+Doxycycline	Amoxicillin	0.355	-Inf	Moderate	1 (0/1)	Possible antagonism of action	#1E61A5	5.98730690935217	1
+Metoprolol	Lidocaine	0.6	-Inf	Moderate	3 (0/3)	The beta-blocker increases the effect and toxicity of lidocaine	#1E61A5	17.9619207280565	1
+Metoprolol	Clonidine	0.5	-Inf	Major	1 (0/1)	Increased hypertension when clonidine stopped	#1E61A5	5.98730690935217	1
+Metoprolol	Verapamil	1	-Inf	Major	1 (0/1)	Increased effect of both drugs	#1E61A5	5.98730690935217	0.17201532750569
+Metoprolol	Epinephrine	0.5	-Inf	Moderate	2 (0/2)	Hypertension, then bradycardia	#1E61A5	11.9746138187043	1
+Metoprolol	Ibuprofen	1	-Inf	Moderate	2 (0/2)	Risk of inhibition of renal prostaglandins	#1E61A5	11.9746138187043	1
+Metoprolol	Hydralazine	1	-Inf	Minor	2 (0/2)	Increased effect of both drugs	#1E61A5	11.9746138187043	0.00345159218074124
+Lidocaine	Nadolol	0.5	-Inf	Moderate	1 (0/1)	The beta-blocker decreases the symptoms of hypoglycemia	#1E61A5	5.98730690935217	1
+Atomoxetine	Haloperidol	1	-Inf	Major	1 (0/1)	The CYP2D6 inhibitor could increase the effect and toxicity of atomoxetine	#1E61A5	5.98730690935217	1
+Valproic acid	Carbamazepine	1	-Inf	Moderate	1 (0/1)	Carbamazepine decreases the effect of valproic acid	#1E61A5	5.98730690935217	1
+Valproic acid	Bismuth subsalicylate	1	-Inf	Moderate	1 (0/1)	The salicylate increases the effect of valproic acid	#1E61A5	5.98730690935217	1
+Piperacillin	Warfarin	1	-Inf	Moderate	1 (0/1)	The IV penicillin increases the anticoagulant effect	#1E61A5	5.98730690935217	1
+Dihydroergotamine	Labetalol	1	-Inf	Moderate	1 (0/1)	Ischemia with risk of gangrene	#1E61A5	5.98730690935217	0.713798121402388
+Atenolol	Ampicillin	1	-Inf	Moderate	1 (0/1)	Ampicillin decreases bioavailability of atenolol	#1E61A5	5.98730690935217	1
+Atenolol	Clonidine	1	-Inf	Major	1 (0/1)	Increased hypertension when clonidine stopped	#1E61A5	5.98730690935217	1
+Atenolol	Epinephrine	1	-Inf	Moderate	1 (0/1)	Hypertension, then bradycardia	#1E61A5	5.98730690935217	1
+Atenolol	Salbutamol	0.17	-Inf	Moderate	2 (0/2)	Antagonism	#1E61A5	11.9746138187043	1
+Atenolol	Ibuprofen	0.684	-Inf	Moderate	2 (0/2)	Risk of inhibition of renal prostaglandins	#1E61A5	11.9746138187043	1
+Omeprazole	Diazepam	1	-Inf	Moderate	1 (0/1)	Omeprazole increases the effect of benzodiazepine	#1E61A5	5.98730690935217	1
+Clozapine	Haloperidol	1	-Inf	Major	1 (0/1)	Increases the effect and toxicity of haloperidol	#1E61A5	5.98730690935217	1
+Clozapine	Lamotrigine	1	-Inf	Moderate	1 (0/1)	Lamotrigine increases the effect and toxicity of clozapine	#1E61A5	5.98730690935217	1
+Clozapine	Sertraline	1	-Inf	Major	1 (0/1)	The antidepressant increases the effect of clozapine	#1E61A5	5.98730690935217	1
+Digoxin	Spironolactone	1	-Inf	Minor	2 (0/2)	Increased digoxin levels and decreased effect in presence of spironolactone	#1E61A5	11.9746138187043	0.000213848576396429
+Digoxin	Furosemide	1	-Inf	Moderate	2 (0/2)	Possible electrolyte variations and arrhythmias	#1E61A5	11.9746138187043	0.0101706537785492
+Digoxin	Carvedilol	1	-Inf	Moderate	1 (0/1)	Carvedilol increases levels/effect of digoxin	#1E61A5	5.98730690935217	0.039695844809062
+Digoxin	Propafenone	1	-Inf	Moderate	1 (0/1)	Propafenone increases the effect of digoxin	#1E61A5	5.98730690935217	0.039695844809062
+Methylphenidate	Carbamazepine	0.048	-Inf	None	1 (0/1)	Carbamazepine could reduce the effect of methylphendiate	#1E61A5	5.98730690935217	1
+Fluoxetine	Lithium cation	1	-Inf	Major	2 (0/2)	The SSRI increases serum levels of lithium	#1E61A5	11.9746138187043	0.699855066284298
+Haloperidol	Carbamazepine	1	-Inf	Moderate	1 (0/1)	Carbamazepine decreases the effect of haloperidol	#1E61A5	5.98730690935217	1
+Haloperidol	Propranolol	1	-Inf	Moderate	1 (0/1)	Increased effect of both drugs	#1E61A5	5.98730690935217	1
+Haloperidol	Glycopyrronium	0.516	-Inf	Moderate	2 (0/2)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#1E61A5	11.9746138187043	1
+Ciprofloxacin	Methotrexate	0.045	-Inf	Moderate	1 (0/1)	Increases methotrexate toxicity	#1E61A5	5.98730690935217	1
+Ciprofloxacin	Magnesium oxide	0.542	-Inf	Moderate	2 (0/2)	Formation of non-absorbable complexes	#1E61A5	11.9746138187043	1
+Lamotrigine	Fosphenytoin	1	-Inf	Moderate	1 (0/1)	Phenytoin may reduce levels of lamotrigine	#1E61A5	5.98730690935217	1
+Methotrexate	Tetracycline	1	-Inf	Moderate	1 (0/1)	The tetracycline increases methotrexate toxicity	#1E61A5	5.98730690935217	0.661597413483507
+Carbamazepine	Risperidone	1	-Inf	Moderate	1 (0/1)	Decreases the effect of risperidone	#1E61A5	5.98730690935217	1
+Propranolol	Salbutamol	0.032	-Inf	Major	1 (0/1)	Antagonism	#1E61A5	5.98730690935217	1
+Propranolol	Escitalopram	0.091	-Inf	None	1 (0/1)	The SSRI increases the effect of the beta-blocker	#1E61A5	5.98730690935217	1
+Labetalol	Epinephrine	1	-Inf	Major	1 (0/1)	Hypertension, then bradycardia	#1E61A5	5.98730690935217	1
+Labetalol	Salmeterol	1	-Inf	Major	1 (0/1)	Antagonism	#1E61A5	5.98730690935217	1
+Labetalol	Ibuprofen	0.65	-Inf	Moderate	2 (0/2)	Risk of inhibition of renal prostaglandins	#1E61A5	11.9746138187043	1
+Prednisone	Neostigmine	0.5	-Inf	Moderate	1 (0/1)	The corticosteroid decreases the effect of anticholinesterases	#1E61A5	5.98730690935217	1
+Epinephrine	Carvedilol	1	-Inf	Major	1 (0/1)	Hypertension, then bradycardia	#1E61A5	5.98730690935217	1
+Epinephrine	Nadolol	0.5	-Inf	Major	1 (0/1)	Hypertension, then bradycardia	#1E61A5	5.98730690935217	1
+Aprepitant	Midazolam	0.5	-Inf	Moderate	1 (0/1)	Increases the effect and toxicity of benzodiazepine	#1E61A5	5.98730690935217	1
+Aprepitant	Irinotecan	0.348	-Inf	Moderate	1 (0/1)	Aprepitant may change levels of chemotherapy agent	#1E61A5	5.98730690935217	0.211711172314776
+Aprepitant	Methylprednisolone	0.469	-Inf	Moderate	1 (0/1)	Increases the effect and toxicity of methylprednisolone	#1E61A5	5.98730690935217	1
+Warfarin	Acetylsalicylic acid	1	-Inf	Major	3 (0/3)	The salicylate increases the effect of anticoagulant	#1E61A5	17.9619207280565	0.000295638115129742
+Tobramycin	Rocuronium	1	-Inf	Major	1 (0/1)	The agent increases the effect of the muscle relaxant	#1E61A5	5.98730690935217	1
+Paroxetine	Dextroamphetamine	1	-Inf	Major	1 (0/1)	Risk of serotoninergic syndrome	#1E61A5	5.98730690935217	1
+Rocuronium	Gentamicin	1	-Inf	Major	1 (0/1)	The agent increases the effect of muscle relaxant	#1E61A5	5.98730690935217	1
+Primidone	Methylprednisolone	0.032	-Inf	Moderate	1 (0/1)	The barbiturate decreases the effect of the corticosteroid	#1E61A5	5.98730690935217	1
+Primidone	Dexamethasone	0.032	-Inf	Moderate	1 (0/1)	The barbiturate decreases the effect of the corticosteroid	#1E61A5	5.98730690935217	1
+Fentanyl	Rifampicin	0.294	-Inf	Major	1 (0/1)	Rifampin reduces levels and efficacy of fentanyl/alfentanyl	#1E61A5	5.98730690935217	1
+Fentanyl	Amiodarone	1	-Inf	Major	1 (0/1)	Possible bradycardia, hypotension	#1E61A5	5.98730690935217	1
+Diazepam	Fosphenytoin	1	-Inf	Moderate	1 (0/1)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#1E61A5	5.98730690935217	1
+Tacrolimus	Metronidazole	0.276	-Inf	Moderate	1 (0/1)	Metronidazole increases the levels/toxicity of tacrolimus	#1E61A5	5.98730690935217	1
+Famotidine	Itraconazole	0.04	-Inf	Moderate	1 (0/1)	The anti-H2 decreases the absorption of the imidazole	#1E61A5	5.98730690935217	1
+Methylprednisolone	Itraconazole	0.051	-Inf	Major	1 (0/1)	The imidazole increases the effect and toxicity of the corticosteroid	#1E61A5	5.98730690935217	1
+Rifampicin	Dexamethasone	0.5	-Inf	Moderate	1 (0/1)	The enzyme inducer decreases the effect of the corticosteroid	#1E61A5	5.98730690935217	1
+Ibuprofen	Lithium cation	1	-Inf	Moderate	2 (0/2)	The NSAID increases serum levels of lithium	#1E61A5	11.9746138187043	1

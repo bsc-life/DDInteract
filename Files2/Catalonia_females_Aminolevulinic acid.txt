@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	NA	NA	0	0	0	0
+20-24	Female	Aminolevulinic acid	0	0	3e-04	1
+25-29	Female	Aminolevulinic acid	0	2e-04	2e-04	1
+30-34	Female	Aminolevulinic acid	0	4e-04	6e-04	3
+35-39	Female	Aminolevulinic acid	0	0	7e-04	4
+40-44	Female	Aminolevulinic acid	0	4e-04	0.0011	6
+45-49	Female	Aminolevulinic acid	0	2e-04	9e-04	5
+50-54	Female	Aminolevulinic acid	0	4e-04	0.0026	13
+55-59	Female	Aminolevulinic acid	0	6e-04	0.001	5
+60-64	Female	Aminolevulinic acid	0	0.0017	0.0031	14
+65-69	Female	Aminolevulinic acid	0	0.0033	0.0047	20
+70-74	Female	Aminolevulinic acid	0	0.0036	0.0043	17
+75-79	Female	Aminolevulinic acid	0	0.0022	0.0034	12
+80-84	Female	Aminolevulinic acid	0	0.0038	0.0047	15
+85-89	Female	Aminolevulinic acid	0	0.0024	0.0032	8
+>90	Female	Aminolevulinic acid	0	0.0033	0.0059	9

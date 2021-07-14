@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Fenofibrate	Ursodeoxycholic acid	0
+05-09	Female	Fenofibrate	Ursodeoxycholic acid	0
+10-14	Female	Fenofibrate	Ursodeoxycholic acid	0
+15-19	Female	Fenofibrate	Ursodeoxycholic acid	0
+20-24	Female	Fenofibrate	Ursodeoxycholic acid	0
+25-29	Female	Fenofibrate	Ursodeoxycholic acid	0
+30-34	Female	Fenofibrate	Ursodeoxycholic acid	1.8376711560973e-06
+35-39	Female	Fenofibrate	Ursodeoxycholic acid	1.70016559612906e-06
+40-44	Female	Fenofibrate	Ursodeoxycholic acid	5.27451197577944e-06
+45-49	Female	Fenofibrate	Ursodeoxycholic acid	1.3228063146994e-05
+50-54	Female	Fenofibrate	Ursodeoxycholic acid	4.57217375055413e-05
+55-59	Female	Fenofibrate	Ursodeoxycholic acid	4.40975437668122e-05
+60-64	Female	Fenofibrate	Ursodeoxycholic acid	5.66725373602804e-05
+65-69	Female	Fenofibrate	Ursodeoxycholic acid	5.45994065281899e-05
+70-74	Female	Fenofibrate	Ursodeoxycholic acid	5.1101492674601e-05
+75-79	Female	Fenofibrate	Ursodeoxycholic acid	5.03710668591961e-05
+80-84	Female	Fenofibrate	Ursodeoxycholic acid	4.71351269820321e-05
+85-89	Female	Fenofibrate	Ursodeoxycholic acid	2.37329567704192e-05
+>90	Female	Fenofibrate	Ursodeoxycholic acid	6.58041930431807e-06

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Valproic acid	Acetylsalicylic acid	5.9890998382943e-05
+05-09	Male	Valproic acid	Acetylsalicylic acid	0.000100532823967025
+10-14	Male	Valproic acid	Acetylsalicylic acid	0
+15-19	Male	Valproic acid	Acetylsalicylic acid	0
+20-24	Male	Valproic acid	Acetylsalicylic acid	0
+25-29	Male	Valproic acid	Acetylsalicylic acid	0.00025442055718102
+30-34	Male	Valproic acid	Acetylsalicylic acid	0.000130753138075314
+35-39	Male	Valproic acid	Acetylsalicylic acid	0.000279916025192442
+40-44	Male	Valproic acid	Acetylsalicylic acid	0.000296471983397569
+45-49	Male	Valproic acid	Acetylsalicylic acid	0.00151536024245764
+50-54	Male	Valproic acid	Acetylsalicylic acid	0.00173848255308581
+55-59	Male	Valproic acid	Acetylsalicylic acid	0.00225580870742161
+60-64	Male	Valproic acid	Acetylsalicylic acid	0.00329147872729489
+65-69	Male	Valproic acid	Acetylsalicylic acid	0.0034565674782086
+70-74	Male	Valproic acid	Acetylsalicylic acid	0.00192307692307692
+75-79	Male	Valproic acid	Acetylsalicylic acid	0.00375822110867523
+80-84	Male	Valproic acid	Acetylsalicylic acid	0.00297176820208024
+85-89	Male	Valproic acid	Acetylsalicylic acid	0.00647249190938511
+>90	Male	Valproic acid	Acetylsalicylic acid	0

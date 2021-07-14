@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Tenofovir alafenamide	0	0	0	0
+05-09	Female	Tenofovir alafenamide	0	0	0	0
+10-14	Female	Tenofovir alafenamide	0	0.0245368666421298	0.0245368666421298	2
+15-19	Female	Tenofovir alafenamide	0	0.00960984047664809	0.00960984047664809	1
+20-24	Female	Tenofovir alafenamide	0	0.0225648740127868	0.0225648740127868	3
+25-29	Female	Tenofovir alafenamide	0	0.0973457070543189	0.0973457070543189	15
+30-34	Female	Tenofovir alafenamide	0	0.125156445556946	0.125156445556946	17
+35-39	Female	Tenofovir alafenamide	0	0.212566958591956	0.212566958591956	25
+40-44	Female	Tenofovir alafenamide	0	0.173859685007159	0.173859685007159	17
+45-49	Female	Tenofovir alafenamide	0	0.204758190327613	0.204758190327613	21
+50-54	Female	Tenofovir alafenamide	0	0.175454797303537	0.175454797303537	19
+55-59	Female	Tenofovir alafenamide	0	0.096221133659902	0.096221133659902	11
+60-64	Female	Tenofovir alafenamide	0	0.0185082361650935	0.0185082361650935	2
+65-69	Female	Tenofovir alafenamide	0	0	0	0
+70-74	Female	Tenofovir alafenamide	0	0	0	0
+75-79	Female	Tenofovir alafenamide	0	0	0	0
+80-84	Female	Tenofovir alafenamide	0	0	0	0
+85-89	Female	Tenofovir alafenamide	0	0	0	0
+>90	Female	Tenofovir alafenamide	0	0	0	0

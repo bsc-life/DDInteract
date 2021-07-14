@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Valproic acid	Phenobarbital	0.000181653042688465
+05-09	Male	Valproic acid	Phenobarbital	0
+10-14	Male	Valproic acid	Phenobarbital	0.000321440051430408
+15-19	Male	Valproic acid	Phenobarbital	0.000511639805576874
+20-24	Male	Valproic acid	Phenobarbital	0.000452284034373587
+25-29	Male	Valproic acid	Phenobarbital	0.00143988480921526
+30-34	Male	Valproic acid	Phenobarbital	0.000505816894284269
+35-39	Male	Valproic acid	Phenobarbital	0.000822143052891203
+40-44	Male	Valproic acid	Phenobarbital	0.00025490695895998
+45-49	Male	Valproic acid	Phenobarbital	0.00112208258527828
+50-54	Male	Valproic acid	Phenobarbital	0.000884564352056612
+55-59	Male	Valproic acid	Phenobarbital	0.000986679822397632
+60-64	Male	Valproic acid	Phenobarbital	0.00108932461873638
+65-69	Male	Valproic acid	Phenobarbital	0.000362056480811006
+70-74	Male	Valproic acid	Phenobarbital	0.000523834468308015
+75-79	Male	Valproic acid	Phenobarbital	0
+80-84	Male	Valproic acid	Phenobarbital	0
+85-89	Male	Valproic acid	Phenobarbital	0
+>90	Male	Valproic acid	Phenobarbital	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Fusidic acid	0	0.0042	0.007	5
+05-09	Female	Fusidic acid	0	0.0071	0.0154	26
+10-14	Female	Fusidic acid	0	0.0157	0.0384	95
+15-19	Female	Fusidic acid	0	0.0768	0.1937	580
+20-24	Female	Fusidic acid	0	0.0692	0.1535	550
+25-29	Female	Fusidic acid	0	0.0671	0.1455	655
+30-34	Female	Fusidic acid	4e-04	0.0652	0.1365	743
+35-39	Female	Fusidic acid	2e-04	0.074	0.1398	822
+40-44	Female	Fusidic acid	0.0011	0.0863	0.1537	874
+45-49	Female	Fusidic acid	0.0047	0.0985	0.1572	832
+50-54	Female	Fusidic acid	0.0074	0.1141	0.1634	822
+55-59	Female	Fusidic acid	0.0126	0.1029	0.1459	695
+60-64	Female	Fusidic acid	0.0183	0.1166	0.1493	685
+65-69	Female	Fusidic acid	0.0192	0.1125	0.1389	585
+70-74	Female	Fusidic acid	0.0256	0.1211	0.1393	545
+75-79	Female	Fusidic acid	0.026	0.141	0.1626	581
+80-84	Female	Fusidic acid	0.0283	0.1757	0.1951	621
+85-89	Female	Fusidic acid	0.0241	0.1812	0.1974	499
+>90	Female	Fusidic acid	0.0224	0.2343	0.256	389

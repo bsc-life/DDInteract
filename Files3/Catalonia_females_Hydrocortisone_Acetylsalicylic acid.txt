@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Hydrocortisone	Acetylsalicylic acid	0
+05-09	Female	Hydrocortisone	Acetylsalicylic acid	0
+10-14	Female	Hydrocortisone	Acetylsalicylic acid	4.03691353738586e-06
+15-19	Female	Hydrocortisone	Acetylsalicylic acid	1.33558156229653e-05
+20-24	Female	Hydrocortisone	Acetylsalicylic acid	1.95421006641522e-05
+25-29	Female	Hydrocortisone	Acetylsalicylic acid	1.5552099533437e-05
+30-34	Female	Hydrocortisone	Acetylsalicylic acid	2.38897250292649e-05
+35-39	Female	Hydrocortisone	Acetylsalicylic acid	3.06029807303231e-05
+40-44	Female	Hydrocortisone	Acetylsalicylic acid	7.91176796366916e-05
+45-49	Female	Hydrocortisone	Acetylsalicylic acid	0.000122832014936373
+50-54	Female	Hydrocortisone	Acetylsalicylic acid	0.000176923245130138
+55-59	Female	Hydrocortisone	Acetylsalicylic acid	0.000369579414426616
+60-64	Female	Hydrocortisone	Acetylsalicylic acid	0.000595061642282944
+65-69	Female	Hydrocortisone	Acetylsalicylic acid	0.00104688427299703
+70-74	Female	Hydrocortisone	Acetylsalicylic acid	0.00153304478023803
+75-79	Female	Hydrocortisone	Acetylsalicylic acid	0.00227789157907698
+80-84	Female	Hydrocortisone	Acetylsalicylic acid	0.00274012204855547
+85-89	Female	Hydrocortisone	Acetylsalicylic acid	0.00311692832251506
+>90	Female	Hydrocortisone	Acetylsalicylic acid	0.00413908374241607

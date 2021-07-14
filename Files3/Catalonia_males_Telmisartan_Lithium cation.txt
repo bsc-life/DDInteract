@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Telmisartan	Lithium cation	0
+05-09	Male	Telmisartan	Lithium cation	0
+10-14	Male	Telmisartan	Lithium cation	0
+15-19	Male	Telmisartan	Lithium cation	0
+20-24	Male	Telmisartan	Lithium cation	0
+25-29	Male	Telmisartan	Lithium cation	0
+30-34	Male	Telmisartan	Lithium cation	4.22252718251874e-06
+35-39	Male	Telmisartan	Lithium cation	3.6885192992551e-06
+40-44	Male	Telmisartan	Lithium cation	7.46805074540481e-06
+45-49	Male	Telmisartan	Lithium cation	6.10825041383397e-06
+50-54	Male	Telmisartan	Lithium cation	1.1002455748123e-05
+55-59	Male	Telmisartan	Lithium cation	1.87819880734376e-05
+60-64	Male	Telmisartan	Lithium cation	1.21461817263125e-05
+65-69	Male	Telmisartan	Lithium cation	1.85359265977307e-05
+70-74	Male	Telmisartan	Lithium cation	2.65935442693867e-05
+75-79	Male	Telmisartan	Lithium cation	2.80741156653565e-05
+80-84	Male	Telmisartan	Lithium cation	8.99697251874744e-06
+85-89	Male	Telmisartan	Lithium cation	6.76681553660847e-06
+>90	Male	Telmisartan	Lithium cation	0

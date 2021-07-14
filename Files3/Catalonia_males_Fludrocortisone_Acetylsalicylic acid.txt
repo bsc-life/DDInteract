@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Fludrocortisone	Acetylsalicylic acid	0
+05-09	Male	Fludrocortisone	Acetylsalicylic acid	0
+10-14	Male	Fludrocortisone	Acetylsalicylic acid	0
+15-19	Male	Fludrocortisone	Acetylsalicylic acid	0
+20-24	Male	Fludrocortisone	Acetylsalicylic acid	3.33592423448879e-06
+25-29	Male	Fludrocortisone	Acetylsalicylic acid	2.6879986237447e-06
+30-34	Male	Fludrocortisone	Acetylsalicylic acid	0
+35-39	Male	Fludrocortisone	Acetylsalicylic acid	9.22129824813776e-06
+40-44	Male	Fludrocortisone	Acetylsalicylic acid	5.60103805905361e-06
+45-49	Male	Fludrocortisone	Acetylsalicylic acid	8.14433388511195e-06
+50-54	Male	Fludrocortisone	Acetylsalicylic acid	1.76039291969968e-05
+55-59	Male	Fludrocortisone	Acetylsalicylic acid	5.3998215711133e-05
+60-64	Male	Fludrocortisone	Acetylsalicylic acid	3.88677815242e-05
+65-69	Male	Fludrocortisone	Acetylsalicylic acid	7.14957168769612e-05
+70-74	Male	Fludrocortisone	Acetylsalicylic acid	0.000112283853581855
+75-79	Male	Fludrocortisone	Acetylsalicylic acid	0.000140370578326783
+80-84	Male	Fludrocortisone	Acetylsalicylic acid	0.000238419771746807
+85-89	Male	Fludrocortisone	Acetylsalicylic acid	0.000270672621464339
+>90	Male	Fludrocortisone	Acetylsalicylic acid	0.000220494201002514

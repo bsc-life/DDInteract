@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Tannic acid	0	0	0	0
+05-09	Male	Tannic acid	0	0	0.020106564793405	2
+10-14	Male	Tannic acid	0	0	0.0233890773009005	2
+15-19	Male	Tannic acid	0	0	0	0
+20-24	Male	Tannic acid	0	0	0	0
+25-29	Male	Tannic acid	0	0	0	0
+30-34	Male	Tannic acid	0	0	0	0
+35-39	Male	Tannic acid	0	0	0	0
+40-44	Male	Tannic acid	0	0	0	0
+45-49	Male	Tannic acid	0	0	0	0
+50-54	Male	Tannic acid	0	0	0	0
+55-59	Male	Tannic acid	0	0	0	0
+60-64	Male	Tannic acid	0	0	0	0
+65-69	Male	Tannic acid	0	0	0	0
+70-74	Male	Tannic acid	0	0	0	0
+75-79	Male	Tannic acid	0	0	0	0
+80-84	Male	Tannic acid	0	0	0	0
+85-89	Male	Tannic acid	0	0	0	0
+>90	Male	Tannic acid	0	0	0	0

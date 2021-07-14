@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Choriogonadotropin alfa	0	0.0014	0.0014	1
+05-09	Female	Choriogonadotropin alfa	0	6e-04	6e-04	1
+10-14	Female	Choriogonadotropin alfa	0	4e-04	4e-04	1
+15-19	Female	Choriogonadotropin alfa	0	0.0013	0.0017	5
+20-24	Female	Choriogonadotropin alfa	0	0.0223	0.0251	90
+25-29	Female	Choriogonadotropin alfa	0	0.16	0.1729	778
+30-34	Female	Choriogonadotropin alfa	0	0.5487	0.5779	3145
+35-39	Female	Choriogonadotropin alfa	0	0.7037	0.7338	4316
+40-44	Female	Choriogonadotropin alfa	0	0.2822	0.294	1672
+45-49	Female	Choriogonadotropin alfa	0	0.0219	0.024	127
+50-54	Female	Choriogonadotropin alfa	0	0.001	0.0012	6
+55-59	NA	NA	0	0	0	0
+60-64	Female	Choriogonadotropin alfa	0	2e-04	2e-04	1
+65-69	Female	Choriogonadotropin alfa	0	9e-04	9e-04	4
+70-74	Female	Choriogonadotropin alfa	0	8e-04	8e-04	3
+75-79	NA	NA	0	0	0	0
+80-84	NA	NA	0	0	0	0
+85-89	NA	NA	0	0	0	0
+>90	Female	Choriogonadotropin alfa	0	7e-04	7e-04	1

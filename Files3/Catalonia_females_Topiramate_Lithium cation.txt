@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Topiramate	Lithium cation	0
+05-09	Female	Topiramate	Lithium cation	0
+10-14	Female	Topiramate	Lithium cation	8.07382707477171e-06
+15-19	Female	Topiramate	Lithium cation	3.67284929631546e-05
+20-24	Female	Topiramate	Lithium cation	7.25849453239941e-05
+25-29	Female	Topiramate	Lithium cation	6.44301266385248e-05
+30-34	Female	Topiramate	Lithium cation	0.000141500679019492
+35-39	Female	Topiramate	Lithium cation	0.000146214241267099
+40-44	Female	Topiramate	Lithium cation	0.000212738649689771
+45-49	Female	Topiramate	Lithium cation	0.00019275177728477
+50-54	Female	Topiramate	Lithium cation	0.000164995835346084
+55-59	Female	Topiramate	Lithium cation	0.000113393683971803
+60-64	Female	Topiramate	Lithium cation	8.06493800896298e-05
+65-69	Female	Topiramate	Lithium cation	5.45994065281899e-05
+70-74	Female	Topiramate	Lithium cation	3.83261195059508e-05
+75-79	Female	Topiramate	Lithium cation	5.59678520657734e-06
+80-84	Female	Topiramate	Lithium cation	3.14234179880214e-06
+85-89	Female	Topiramate	Lithium cation	0
+>90	Female	Topiramate	Lithium cation	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Esterified estrogens	0	0	0	0
+05-09	Female	Esterified estrogens	0	0	0	0
+10-14	Female	Esterified estrogens	0	0	0	0
+15-19	Female	Esterified estrogens	0	0	0	0
+20-24	Female	Esterified estrogens	0	0.00752162467092892	0.00752162467092892	1
+25-29	Female	Esterified estrogens	0	0	0	0
+30-34	Female	Esterified estrogens	0	0	0	0
+35-39	Female	Esterified estrogens	0	0	0	0
+40-44	Female	Esterified estrogens	0	0.0306811208836163	0.0306811208836163	3
+45-49	Female	Esterified estrogens	0	0.0682527301092044	0.0682527301092044	7
+50-54	Female	Esterified estrogens	0	0.156985871271586	0.166220334287561	18
+55-59	Female	Esterified estrogens	0	0.11371588523443	0.11371588523443	13
+60-64	Female	Esterified estrogens	0	0.0555247084952804	0.0555247084952804	6
+65-69	Female	Esterified estrogens	0	0.0224014336917563	0.0224014336917563	2
+70-74	Female	Esterified estrogens	0	0.0316957210776545	0.0316957210776545	2
+75-79	Female	Esterified estrogens	0	0.0220361392684002	0.0440722785368004	2
+80-84	Female	Esterified estrogens	0	0	0	0
+85-89	Female	Esterified estrogens	0	0	0	0
+>90	Female	Esterified estrogens	0	0	0	0

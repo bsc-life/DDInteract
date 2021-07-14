@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Folic acid	Phenytoin	0
+05-09	Female	Folic acid	Phenytoin	0
+10-14	Female	Folic acid	Phenytoin	0
+15-19	Female	Folic acid	Phenytoin	0
+20-24	Female	Folic acid	Phenytoin	0
+25-29	Female	Folic acid	Phenytoin	0.000166861338227933
+30-34	Female	Folic acid	Phenytoin	0
+35-39	Female	Folic acid	Phenytoin	0.000167308014053873
+40-44	Female	Folic acid	Phenytoin	0.000154942671211652
+45-49	Female	Folic acid	Phenytoin	0
+50-54	Female	Folic acid	Phenytoin	0.000136258345823682
+55-59	Female	Folic acid	Phenytoin	0
+60-64	Female	Folic acid	Phenytoin	0
+65-69	Female	Folic acid	Phenytoin	0
+70-74	Female	Folic acid	Phenytoin	0.00032520325203252
+75-79	Female	Folic acid	Phenytoin	0.000860585197934596
+80-84	Female	Folic acid	Phenytoin	0
+85-89	Female	Folic acid	Phenytoin	0
+>90	Female	Folic acid	Phenytoin	0

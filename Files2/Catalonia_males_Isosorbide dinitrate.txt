@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	Male	Isosorbide dinitrate	0	0	4e-04	1
+20-24	NA	NA	0	0	0	0
+25-29	Male	Isosorbide dinitrate	0	3e-04	5e-04	2
+30-34	Male	Isosorbide dinitrate	0	4e-04	4e-04	2
+35-39	Male	Isosorbide dinitrate	0	7e-04	9e-04	5
+40-44	Male	Isosorbide dinitrate	0	0.0021	0.0021	11
+45-49	Male	Isosorbide dinitrate	0	0.0053	0.0061	30
+50-54	Male	Isosorbide dinitrate	0	0.0112	0.0117	53
+55-59	Male	Isosorbide dinitrate	2e-04	0.0153	0.0164	70
+60-64	Male	Isosorbide dinitrate	2e-04	0.035	0.0369	152
+65-69	Male	Isosorbide dinitrate	3e-04	0.044	0.0466	176
+70-74	Male	Isosorbide dinitrate	0	0.0638	0.0665	225
+75-79	Male	Isosorbide dinitrate	0	0.0997	0.1035	295
+80-84	Male	Isosorbide dinitrate	4e-04	0.1228	0.1246	277
+85-89	Male	Isosorbide dinitrate	0	0.1191	0.1225	181
+>90	Male	Isosorbide dinitrate	0	0.1396	0.1396	95

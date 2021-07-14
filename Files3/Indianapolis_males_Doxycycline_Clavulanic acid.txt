@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Doxycycline	Clavulanic acid	0
+05-09	Male	Doxycycline	Clavulanic acid	0
+10-14	Male	Doxycycline	Clavulanic acid	0
+15-19	Male	Doxycycline	Clavulanic acid	0.00027866796711718
+20-24	Male	Doxycycline	Clavulanic acid	0.000439302972616781
+25-29	Male	Doxycycline	Clavulanic acid	0.00114489250731459
+30-34	Male	Doxycycline	Clavulanic acid	0.000915271966527197
+35-39	Male	Doxycycline	Clavulanic acid	0.000979706088173548
+40-44	Male	Doxycycline	Clavulanic acid	0.00163059590868663
+45-49	Male	Doxycycline	Clavulanic acid	0.00179088028654085
+50-54	Male	Doxycycline	Clavulanic acid	0.00161430522786539
+55-59	Male	Doxycycline	Clavulanic acid	0.00157906609519513
+60-64	Male	Doxycycline	Clavulanic acid	0.00219431915152993
+65-69	Male	Doxycycline	Clavulanic acid	0.0034565674782086
+70-74	Male	Doxycycline	Clavulanic acid	0.00256410256410256
+75-79	Male	Doxycycline	Clavulanic acid	0.00313185092389602
+80-84	Male	Doxycycline	Clavulanic acid	0.00445765230312036
+85-89	Male	Doxycycline	Clavulanic acid	0.00647249190938511
+>90	Male	Doxycycline	Clavulanic acid	0

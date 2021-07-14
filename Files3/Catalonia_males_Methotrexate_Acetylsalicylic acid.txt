@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Methotrexate	Acetylsalicylic acid	0
+05-09	Male	Methotrexate	Acetylsalicylic acid	1.12553674033305e-05
+10-14	Male	Methotrexate	Acetylsalicylic acid	0
+15-19	Male	Methotrexate	Acetylsalicylic acid	3.50585653333894e-06
+20-24	Male	Methotrexate	Acetylsalicylic acid	0
+25-29	Male	Methotrexate	Acetylsalicylic acid	8.06399587123411e-06
+30-34	Male	Methotrexate	Acetylsalicylic acid	1.47788451388156e-05
+35-39	Male	Methotrexate	Acetylsalicylic acid	2.58196350947857e-05
+40-44	Male	Methotrexate	Acetylsalicylic acid	3.54732410406729e-05
+45-49	Male	Methotrexate	Acetylsalicylic acid	0.000118092841334123
+50-54	Male	Methotrexate	Acetylsalicylic acid	0.000257457464506078
+55-59	Male	Methotrexate	Acetylsalicylic acid	0.000532938911583791
+60-64	Male	Methotrexate	Acetylsalicylic acid	0.000787072575865051
+65-69	Male	Methotrexate	Acetylsalicylic acid	0.000947980245998226
+70-74	Male	Methotrexate	Acetylsalicylic acid	0.00114647724183578
+75-79	Male	Methotrexate	Acetylsalicylic acid	0.00113700168444694
+80-84	Male	Methotrexate	Acetylsalicylic acid	0.00107063972973095
+85-89	Male	Methotrexate	Acetylsalicylic acid	0.000656381107051022
+>90	Male	Methotrexate	Acetylsalicylic acid	0.000514486469005865

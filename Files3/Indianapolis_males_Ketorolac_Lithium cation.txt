@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Ketorolac	Lithium cation	0
+05-09	Male	Ketorolac	Lithium cation	0
+10-14	Male	Ketorolac	Lithium cation	0
+15-19	Male	Ketorolac	Lithium cation	0
+20-24	Male	Ketorolac	Lithium cation	0
+25-29	Male	Ketorolac	Lithium cation	0
+30-34	Male	Ketorolac	Lithium cation	0
+35-39	Male	Ketorolac	Lithium cation	0.000279916025192442
+40-44	Male	Ketorolac	Lithium cation	0
+45-49	Male	Ketorolac	Lithium cation	0.000137760022041604
+50-54	Male	Ketorolac	Lithium cation	0.000124177325220415
+55-59	Male	Ketorolac	Lithium cation	0.000225580870742161
+60-64	Male	Ketorolac	Lithium cation	0.00012190661952944
+65-69	Male	Ketorolac	Lithium cation	0
+70-74	Male	Ketorolac	Lithium cation	0
+75-79	Male	Ketorolac	Lithium cation	0
+80-84	Male	Ketorolac	Lithium cation	0
+85-89	Male	Ketorolac	Lithium cation	0
+>90	Male	Ketorolac	Lithium cation	0

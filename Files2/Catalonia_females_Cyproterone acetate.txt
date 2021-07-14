@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Cyproterone acetate	0	0.0209	0.0209	15
+05-09	Female	Cyproterone acetate	0	0.0751	0.0987	167
+10-14	Female	Cyproterone acetate	0	0.1102	0.1167	289
+15-19	Female	Cyproterone acetate	0	1.9182	1.9603	5871
+20-24	Female	Cyproterone acetate	0	2.8146	2.8677	10272
+25-29	Female	Cyproterone acetate	0	2.194	2.2346	10058
+30-34	Female	Cyproterone acetate	0	1.5319	1.5556	8465
+35-39	Female	Cyproterone acetate	0	0.9574	0.9708	5710
+40-44	Female	Cyproterone acetate	0	0.5964	0.6052	3442
+45-49	Female	Cyproterone acetate	0	0.3725	0.3768	1994
+50-54	Female	Cyproterone acetate	0	0.2006	0.205	1031
+55-59	Female	Cyproterone acetate	0	0.0829	0.0865	412
+60-64	Female	Cyproterone acetate	0	0.0464	0.0495	227
+65-69	Female	Cyproterone acetate	0	0.0285	0.0316	133
+70-74	Female	Cyproterone acetate	0	0.0243	0.0276	108
+75-79	Female	Cyproterone acetate	0	0.0185	0.0199	71
+80-84	Female	Cyproterone acetate	0	0.0223	0.0236	75
+85-89	Female	Cyproterone acetate	0	0.0134	0.0134	34
+>90	Female	Cyproterone acetate	0	0.0158	0.0165	25

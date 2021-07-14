@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Fluvoxamine	Lithium cation	0
+05-09	Female	Fluvoxamine	Lithium cation	5.91131840134305e-06
+10-14	Female	Fluvoxamine	Lithium cation	8.07382707477171e-06
+15-19	Female	Fluvoxamine	Lithium cation	3.33895390574133e-06
+20-24	Female	Fluvoxamine	Lithium cation	1.67503719978448e-05
+25-29	Female	Fluvoxamine	Lithium cation	1.77738280382137e-05
+30-34	Female	Fluvoxamine	Lithium cation	2.75650673414595e-05
+35-39	Female	Fluvoxamine	Lithium cation	1.70016559612906e-05
+40-44	Female	Fluvoxamine	Lithium cation	2.46143892203041e-05
+45-49	Female	Fluvoxamine	Lithium cation	2.26766796805612e-05
+50-54	Female	Fluvoxamine	Lithium cation	2.58427211987842e-05
+55-59	Female	Fluvoxamine	Lithium cation	2.09988303651487e-05
+60-64	Female	Fluvoxamine	Lithium cation	2.61565557047448e-05
+65-69	Female	Fluvoxamine	Lithium cation	2.8486646884273e-05
+70-74	Female	Fluvoxamine	Lithium cation	1.27753731686503e-05
+75-79	Female	Fluvoxamine	Lithium cation	8.39517780986601e-06
+80-84	Female	Fluvoxamine	Lithium cation	3.14234179880214e-06
+85-89	Female	Fluvoxamine	Lithium cation	3.95549279506987e-06
+>90	Female	Fluvoxamine	Lithium cation	0

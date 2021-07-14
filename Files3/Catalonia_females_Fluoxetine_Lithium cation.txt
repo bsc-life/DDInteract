@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Fluoxetine	Lithium cation	0
+05-09	Female	Fluoxetine	Lithium cation	0
+10-14	Female	Fluoxetine	Lithium cation	0
+15-19	Female	Fluoxetine	Lithium cation	3.33895390574133e-05
+20-24	Female	Fluoxetine	Lithium cation	3.90842013283045e-05
+25-29	Female	Fluoxetine	Lithium cation	4.22128415907576e-05
+30-34	Female	Fluoxetine	Lithium cation	9.55589001170597e-05
+35-39	Female	Fluoxetine	Lithium cation	0.000115611260536776
+40-44	Female	Fluoxetine	Lithium cation	0.000163509871249163
+45-49	Female	Fluoxetine	Lithium cation	0.000154957311150501
+50-54	Female	Fluoxetine	Lithium cation	0.000143128917408651
+55-59	Female	Fluoxetine	Lithium cation	0.00015959111077513
+60-64	Female	Fluoxetine	Lithium cation	0.000159119047203864
+65-69	Female	Fluoxetine	Lithium cation	0.000123442136498516
+70-74	Female	Fluoxetine	Lithium cation	6.13217912095212e-05
+75-79	Female	Fluoxetine	Lithium cation	3.91774964460414e-05
+80-84	Female	Fluoxetine	Lithium cation	2.82810761892193e-05
+85-89	Female	Fluoxetine	Lithium cation	1.18664783852096e-05
+>90	Female	Fluoxetine	Lithium cation	6.58041930431807e-06

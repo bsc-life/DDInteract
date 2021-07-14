@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Glyburide	0
+05-09	Female	Acetylsalicylic acid	Glyburide	0
+10-14	Female	Acetylsalicylic acid	Glyburide	0
+15-19	Female	Acetylsalicylic acid	Glyburide	0
+20-24	Female	Acetylsalicylic acid	Glyburide	0
+25-29	Female	Acetylsalicylic acid	Glyburide	0
+30-34	Female	Acetylsalicylic acid	Glyburide	0
+35-39	Female	Acetylsalicylic acid	Glyburide	0
+40-44	Female	Acetylsalicylic acid	Glyburide	0
+45-49	Female	Acetylsalicylic acid	Glyburide	0.000195007800312012
+50-54	Female	Acetylsalicylic acid	Glyburide	0.000277033890479269
+55-59	Female	Acetylsalicylic acid	Glyburide	0.000349895031490553
+60-64	Female	Acetylsalicylic acid	Glyburide	0.000277623542476402
+65-69	Female	Acetylsalicylic acid	Glyburide	0.00078405017921147
+70-74	Female	Acetylsalicylic acid	Glyburide	0.000792393026941363
+75-79	Female	Acetylsalicylic acid	Glyburide	0.000661084178052005
+80-84	Female	Acetylsalicylic acid	Glyburide	0
+85-89	Female	Acetylsalicylic acid	Glyburide	0.000442477876106195
+>90	Female	Acetylsalicylic acid	Glyburide	0

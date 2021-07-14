@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Salicylic acid	0	0	0	0
+05-09	Female	Salicylic acid	0	0	0	0
+10-14	Female	Salicylic acid	0	0	0	0
+15-19	Female	Salicylic acid	0	0	0	0
+20-24	Female	Salicylic acid	0	0	0	0
+25-29	Female	Salicylic acid	0	0	0.00648971380362126	1
+30-34	Female	Salicylic acid	0	0	0	0
+35-39	Female	Salicylic acid	0	0	0	0
+40-44	Female	Salicylic acid	0	0	0	0
+45-49	Female	Salicylic acid	0	0	0	0
+50-54	Female	Salicylic acid	0	0	0	0
+55-59	Female	Salicylic acid	0	0	0	0
+60-64	Female	Salicylic acid	0	0	0	0
+65-69	Female	Salicylic acid	0	0	0	0
+70-74	Female	Salicylic acid	0	0	0.0158478605388273	1
+75-79	Female	Salicylic acid	0	0	0	0
+80-84	Female	Salicylic acid	0	0	0	0
+85-89	Female	Salicylic acid	0	0	0	0
+>90	Female	Salicylic acid	0	0	0	0

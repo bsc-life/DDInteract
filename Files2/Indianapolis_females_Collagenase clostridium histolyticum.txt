@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Collagenase clostridium histolyticum	0	0	0.319206737299647	47
+05-09	Female	Collagenase clostridium histolyticum	0	0	0.200111172873819	18
+10-14	Female	Collagenase clostridium histolyticum	0	0	0.0858790332474543	7
+15-19	Female	Collagenase clostridium histolyticum	0	0	0.0480492023832404	5
+20-24	Female	Collagenase clostridium histolyticum	0	0	0.0451297480255735	6
+25-29	Female	Collagenase clostridium histolyticum	0	0	0.0454279966253488	7
+30-34	Female	Collagenase clostridium histolyticum	0	0	0.0809835824192005	11
+35-39	Female	Collagenase clostridium histolyticum	0	0	0.0935294617804609	11
+40-44	Female	Collagenase clostridium histolyticum	0	0	0.153405604418081	15
+45-49	Female	Collagenase clostridium histolyticum	0	0	0.253510140405616	26
+50-54	Female	Collagenase clostridium histolyticum	0	0	0.230861575399391	25
+55-59	Female	Collagenase clostridium histolyticum	0	0	0.244926522043387	28
+60-64	Female	Collagenase clostridium histolyticum	0	0	0.370164723301869	40
+65-69	Female	Collagenase clostridium histolyticum	0	0	0.537634408602151	48
+70-74	Female	Collagenase clostridium histolyticum	0	0	0.475435816164818	30
+75-79	Female	Collagenase clostridium histolyticum	0	0	0.793301013662406	36
+80-84	Female	Collagenase clostridium histolyticum	0	0	0.664050709326894	22
+85-89	Female	Collagenase clostridium histolyticum	0	0	0.707964601769911	16
+>90	Female	Collagenase clostridium histolyticum	0	0	1.1455525606469	17

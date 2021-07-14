@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Betamethasone	Acetylsalicylic acid	0
+05-09	Male	Betamethasone	Acetylsalicylic acid	0
+10-14	Male	Betamethasone	Acetylsalicylic acid	0
+15-19	Male	Betamethasone	Acetylsalicylic acid	0
+20-24	Male	Betamethasone	Acetylsalicylic acid	3.33592423448879e-06
+25-29	Male	Betamethasone	Acetylsalicylic acid	0
+30-34	Male	Betamethasone	Acetylsalicylic acid	0
+35-39	Male	Betamethasone	Acetylsalicylic acid	3.6885192992551e-06
+40-44	Male	Betamethasone	Acetylsalicylic acid	1.8670126863512e-06
+45-49	Male	Betamethasone	Acetylsalicylic acid	2.23969181840579e-05
+50-54	Male	Betamethasone	Acetylsalicylic acid	4.40098229924919e-05
+55-59	Male	Betamethasone	Acetylsalicylic acid	7.27802037845706e-05
+60-64	Male	Betamethasone	Acetylsalicylic acid	0.000153041889751538
+65-69	Male	Betamethasone	Acetylsalicylic acid	0.000201247203061076
+70-74	Male	Betamethasone	Acetylsalicylic acid	0.000206838677650785
+75-79	Male	Betamethasone	Acetylsalicylic acid	0.000270213363279057
+80-84	Male	Betamethasone	Acetylsalicylic acid	0.000292401606859292
+85-89	Male	Betamethasone	Acetylsalicylic acid	0.000297739883610773
+>90	Male	Betamethasone	Acetylsalicylic acid	0.000382189948404357

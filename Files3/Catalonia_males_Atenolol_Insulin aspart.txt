@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Atenolol	Insulin aspart	0
+05-09	Male	Atenolol	Insulin aspart	0
+10-14	Male	Atenolol	Insulin aspart	0
+15-19	Male	Atenolol	Insulin aspart	7.01171306667789e-06
+20-24	Male	Atenolol	Insulin aspart	6.67184846897757e-06
+25-29	Male	Atenolol	Insulin aspart	1.07519944949788e-05
+30-34	Male	Atenolol	Insulin aspart	1.26675815475562e-05
+35-39	Male	Atenolol	Insulin aspart	1.47540771970204e-05
+40-44	Male	Atenolol	Insulin aspart	5.04093425314825e-05
+45-49	Male	Atenolol	Insulin aspart	7.32990049660076e-05
+50-54	Male	Atenolol	Insulin aspart	0.000147432907024848
+55-59	Male	Atenolol	Insulin aspart	0.000281729821101564
+60-64	Male	Atenolol	Insulin aspart	0.000446979487528301
+65-69	Male	Atenolol	Insulin aspart	0.000489878060082882
+70-74	Male	Atenolol	Insulin aspart	0.000452090252579574
+75-79	Male	Atenolol	Insulin aspart	0.000449185850645705
+80-84	Male	Atenolol	Insulin aspart	0.000296900093118666
+85-89	Male	Atenolol	Insulin aspart	0.000155636757341995
+>90	Male	Atenolol	Insulin aspart	5.87984536006703e-05

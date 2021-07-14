@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Atorvastatin	Fusidic acid	0
+05-09	Male	Atorvastatin	Fusidic acid	0
+10-14	Male	Atorvastatin	Fusidic acid	0
+15-19	Male	Atorvastatin	Fusidic acid	0
+20-24	Male	Atorvastatin	Fusidic acid	0
+25-29	Male	Atorvastatin	Fusidic acid	5.37599724748941e-06
+30-34	Male	Atorvastatin	Fusidic acid	2.11126359125937e-06
+35-39	Male	Atorvastatin	Fusidic acid	3.6885192992551e-06
+40-44	Male	Atorvastatin	Fusidic acid	5.60103805905361e-06
+45-49	Male	Atorvastatin	Fusidic acid	1.62886677702239e-05
+50-54	Male	Atorvastatin	Fusidic acid	2.86063849451197e-05
+55-59	Male	Atorvastatin	Fusidic acid	7.27802037845706e-05
+60-64	Male	Atorvastatin	Fusidic acid	7.28770903578751e-05
+65-69	Male	Atorvastatin	Fusidic acid	8.73836539607303e-05
+70-74	Male	Atorvastatin	Fusidic acid	8.27354710603142e-05
+75-79	Male	Atorvastatin	Fusidic acid	0.000105277933745087
+80-84	Male	Atorvastatin	Fusidic acid	9.44682114468481e-05
+85-89	Male	Atorvastatin	Fusidic acid	6.76681553660847e-05
+>90	Male	Atorvastatin	Fusidic acid	2.93992268003352e-05

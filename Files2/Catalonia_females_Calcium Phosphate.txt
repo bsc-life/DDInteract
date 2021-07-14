@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Calcium Phosphate	0	0.0223	0.0349	25
+05-09	Female	Calcium Phosphate	0	0.0278	0.0544	92
+10-14	Female	Calcium Phosphate	0	0.017	0.0295	73
+15-19	Female	Calcium Phosphate	0	0.003	0.0053	16
+20-24	Female	Calcium Phosphate	0	0.0025	0.0036	13
+25-29	Female	Calcium Phosphate	0	0.0018	0.0024	11
+30-34	Female	Calcium Phosphate	0	0.0031	0.0035	19
+35-39	Female	Calcium Phosphate	0	0.0049	0.0063	37
+40-44	Female	Calcium Phosphate	0	0.0051	0.0067	38
+45-49	Female	Calcium Phosphate	0	0.0087	0.0096	51
+50-54	Female	Calcium Phosphate	0	0.0113	0.0131	66
+55-59	Female	Calcium Phosphate	0	0.0132	0.0155	74
+60-64	Female	Calcium Phosphate	0	0.0194	0.0205	94
+65-69	Female	Calcium Phosphate	0	0.0287	0.0306	129
+70-74	Female	Calcium Phosphate	0	0.0319	0.033	129
+75-79	Female	Calcium Phosphate	0	0.0364	0.0386	138
+80-84	Female	Calcium Phosphate	0	0.0387	0.0396	126
+85-89	Female	Calcium Phosphate	0	0.0328	0.0348	88
+>90	Female	Calcium Phosphate	0	0.0303	0.0309	47

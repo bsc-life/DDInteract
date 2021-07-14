@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Acetic acid	0	0	0.0479127987063544	8
+05-09	Male	Acetic acid	0	0	0.0402131295868101	4
+10-14	Male	Acetic acid	0	0	0.0116945386504502	1
+15-19	Male	Acetic acid	0	0	0.027866796711718	2
+20-24	Male	Acetic acid	0	0	0	0
+25-29	Male	Acetic acid	0	0	0.038163083577153	3
+30-34	Male	Acetic acid	0	0	0.0130753138075314	1
+35-39	Male	Acetic acid	0	0	0.0279916025192442	2
+40-44	Male	Acetic acid	0	0	0.0592943966795138	4
+45-49	Male	Acetic acid	0	0	0.0551040088166414	4
+50-54	Male	Acetic acid	0	0	0.161430522786539	13
+55-59	Male	Acetic acid	0	0	0.0338371306113242	3
+60-64	Male	Acetic acid	0	0	0.0243813239058881	2
+65-69	Male	Acetic acid	0	0	0.0601142170123234	4
+70-74	Male	Acetic acid	0	0	0.106837606837607	5
+75-79	Male	Acetic acid	0	0	0.0939555277168807	3
+80-84	Male	Acetic acid	0	0	0.148588410104012	3
+85-89	Male	Acetic acid	0	0	0	0
+>90	Male	Acetic acid	0	0	0	0

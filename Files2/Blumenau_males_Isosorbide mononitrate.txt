@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Isosorbide mononitrate	0	0	0	0
+05-09	Male	Isosorbide mononitrate	0	0	0	0
+10-14	Male	Isosorbide mononitrate	0	0	0	0
+15-19	Male	Isosorbide mononitrate	0	0	0	0
+20-24	Male	Isosorbide mononitrate	0	0	0	0
+25-29	Male	Isosorbide mononitrate	0	0	0	0
+30-34	Male	Isosorbide mononitrate	0	0.0252908447142135	0.0252908447142135	1
+35-39	Male	Isosorbide mononitrate	0	0.0548095368594135	0.0548095368594135	2
+40-44	Male	Isosorbide mononitrate	0	0.152944175375988	0.152944175375988	6
+45-49	Male	Isosorbide mononitrate	0	0.224416517055655	0.224416517055655	10
+50-54	Male	Isosorbide mononitrate	0	0.619195046439629	0.597080937638213	27
+55-59	Male	Isosorbide mononitrate	0	0.690675875678342	0.740009866798224	30
+60-64	Male	Isosorbide mononitrate	0	1.4161220043573	1.44335511982571	53
+65-69	Male	Isosorbide mononitrate	0	1.52063721940623	1.52063721940623	42
+70-74	Male	Isosorbide mononitrate	0	1.57150340492404	1.57150340492404	30
+75-79	Male	Isosorbide mononitrate	0	2.06552706552707	2.06552706552707	29
+80-84	Male	Isosorbide mononitrate	0	1.64158686730506	1.64158686730506	12
+85-89	Male	Isosorbide mononitrate	0	1.36612021857923	1.36612021857923	5
+>90	Male	Isosorbide mononitrate	0	2.0979020979021	2.0979020979021	3

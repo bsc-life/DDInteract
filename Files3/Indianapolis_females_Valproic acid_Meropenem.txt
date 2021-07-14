@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Valproic acid	Meropenem	0
+05-09	Female	Valproic acid	Meropenem	0
+10-14	Female	Valproic acid	Meropenem	0
+15-19	Female	Valproic acid	Meropenem	9.60984047664809e-05
+20-24	Female	Valproic acid	Meropenem	0
+25-29	Female	Valproic acid	Meropenem	0
+30-34	Female	Valproic acid	Meropenem	0
+35-39	Female	Valproic acid	Meropenem	0
+40-44	Female	Valproic acid	Meropenem	0
+45-49	Female	Valproic acid	Meropenem	0
+50-54	Female	Valproic acid	Meropenem	9.23446301597562e-05
+55-59	Female	Valproic acid	Meropenem	0.000174947515745276
+60-64	Female	Valproic acid	Meropenem	0.000185082361650935
+65-69	Female	Valproic acid	Meropenem	0.000336021505376344
+70-74	Female	Valproic acid	Meropenem	0.000158478605388273
+75-79	Female	Valproic acid	Meropenem	0.000440722785368004
+80-84	Female	Valproic acid	Meropenem	0.000301841231512225
+85-89	Female	Valproic acid	Meropenem	0
+>90	Female	Valproic acid	Meropenem	0

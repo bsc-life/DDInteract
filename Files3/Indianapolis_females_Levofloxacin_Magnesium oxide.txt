@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Levofloxacin	Magnesium oxide	0
+05-09	Female	Levofloxacin	Magnesium oxide	0
+10-14	Female	Levofloxacin	Magnesium oxide	0.000122684333210649
+15-19	Female	Levofloxacin	Magnesium oxide	0
+20-24	Female	Levofloxacin	Magnesium oxide	7.52162467092892e-05
+25-29	Female	Levofloxacin	Magnesium oxide	0
+30-34	Female	Levofloxacin	Magnesium oxide	7.36214385629095e-05
+35-39	Female	Levofloxacin	Magnesium oxide	8.50267834367826e-05
+40-44	Female	Levofloxacin	Magnesium oxide	0
+45-49	Female	Levofloxacin	Magnesium oxide	0
+50-54	Female	Levofloxacin	Magnesium oxide	0.000184689260319512
+55-59	Female	Levofloxacin	Magnesium oxide	0.000174947515745276
+60-64	Female	Levofloxacin	Magnesium oxide	9.25411808254673e-05
+65-69	Female	Levofloxacin	Magnesium oxide	0.000336021505376344
+70-74	Female	Levofloxacin	Magnesium oxide	0.000158478605388273
+75-79	Female	Levofloxacin	Magnesium oxide	0
+80-84	Female	Levofloxacin	Magnesium oxide	0
+85-89	Female	Levofloxacin	Magnesium oxide	0
+>90	Female	Levofloxacin	Magnesium oxide	0

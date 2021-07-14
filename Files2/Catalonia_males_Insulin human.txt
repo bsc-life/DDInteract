@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Insulin human	0	0.0518	0.0674	52
+05-09	Male	Insulin human	0	0.076	0.09	160
+10-14	Male	Insulin human	0	0.0941	0.1132	297
+15-19	Male	Insulin human	0	0.0715	0.0897	256
+20-24	Male	Insulin human	0	0.0484	0.0651	195
+25-29	Male	Insulin human	0	0.0769	0.1078	401
+30-34	Male	Insulin human	0	0.1265	0.1615	765
+35-39	Male	Insulin human	0	0.1662	0.2034	1103
+40-44	Male	Insulin human	0	0.2468	0.2913	1560
+45-49	Male	Insulin human	0	0.418	0.4695	2306
+50-54	Male	Insulin human	0	0.6885	0.7451	3386
+55-59	Male	Insulin human	0	1.0624	1.1354	4836
+60-64	Male	Insulin human	0	1.526	1.5907	6548
+65-69	Male	Insulin human	0	1.9968	2.0668	7805
+70-74	Male	Insulin human	0	2.3881	2.451	8295
+75-79	Male	Insulin human	0	2.8137	2.8825	8214
+80-84	Male	Insulin human	0	2.9748	3.0504	6781
+85-89	Male	Insulin human	0	2.6824	2.7697	4093
+>90	Male	Insulin human	0	2.1153	2.1755	1480

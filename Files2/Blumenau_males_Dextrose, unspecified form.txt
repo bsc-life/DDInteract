@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Dextrose, unspecified form	0	0.0181653042688465	0.0181653042688465	1
+05-09	Male	Dextrose, unspecified form	0	0.0288267512251369	0.0288267512251369	1
+10-14	Male	Dextrose, unspecified form	0	0.0642880102860816	0.0642880102860816	2
+15-19	Male	Dextrose, unspecified form	0	0.511639805576874	0.511639805576874	20
+20-24	Male	Dextrose, unspecified form	0	0.587969244685663	0.587969244685663	26
+25-29	Male	Dextrose, unspecified form	0	0.359971202303816	0.359971202303816	15
+30-34	Male	Dextrose, unspecified form	0	0.252908447142135	0.252908447142135	10
+35-39	Male	Dextrose, unspecified form	0	0.246642915867361	0.246642915867361	9
+40-44	Male	Dextrose, unspecified form	0	0.178434871271986	0.203925567167984	8
+45-49	Male	Dextrose, unspecified form	0	0.224416517055655	0.224416517055655	10
+50-54	Male	Dextrose, unspecified form	0	0.110570544007077	0.110570544007077	5
+55-59	Male	Dextrose, unspecified form	0	0.0740009866798224	0.0740009866798224	3
+60-64	Male	Dextrose, unspecified form	0	0.190631808278867	0.190631808278867	7
+65-69	Male	Dextrose, unspecified form	0	0.181028240405503	0.181028240405503	5
+70-74	Male	Dextrose, unspecified form	0	0	0	0
+75-79	Male	Dextrose, unspecified form	0	0	0	0
+80-84	Male	Dextrose, unspecified form	0	0.136798905608755	0.136798905608755	1
+85-89	Male	Dextrose, unspecified form	0	0	0	0
+>90	Male	Dextrose, unspecified form	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Clavulanic acid	Ethinylestradiol	0
+05-09	Female	Clavulanic acid	Ethinylestradiol	0
+10-14	Female	Clavulanic acid	Ethinylestradiol	0
+15-19	Female	Clavulanic acid	Ethinylestradiol	0.00153757447626369
+20-24	Female	Clavulanic acid	Ethinylestradiol	0.00172997367431365
+25-29	Female	Clavulanic acid	Ethinylestradiol	0.00129794276072425
+30-34	Female	Clavulanic acid	Ethinylestradiol	0.000957078701317824
+35-39	Female	Clavulanic acid	Ethinylestradiol	0.000765241050931043
+40-44	Female	Clavulanic acid	Ethinylestradiol	0.000715892820617713
+45-49	Female	Clavulanic acid	Ethinylestradiol	0.000292511700468019
+50-54	Female	Clavulanic acid	Ethinylestradiol	0
+55-59	Female	Clavulanic acid	Ethinylestradiol	0
+60-64	Female	Clavulanic acid	Ethinylestradiol	0
+65-69	Female	Clavulanic acid	Ethinylestradiol	0
+70-74	Female	Clavulanic acid	Ethinylestradiol	0
+75-79	Female	Clavulanic acid	Ethinylestradiol	0
+80-84	Female	Clavulanic acid	Ethinylestradiol	0
+85-89	Female	Clavulanic acid	Ethinylestradiol	0
+>90	Female	Clavulanic acid	Ethinylestradiol	0

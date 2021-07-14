@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Valproic acid	Lamotrigine	0
+05-09	Female	Valproic acid	Lamotrigine	0.000333518621456365
+10-14	Female	Valproic acid	Lamotrigine	0.000490737332842596
+15-19	Female	Valproic acid	Lamotrigine	0.000192196809532962
+20-24	Female	Valproic acid	Lamotrigine	0
+25-29	Female	Valproic acid	Lamotrigine	0.00025958855214485
+30-34	Female	Valproic acid	Lamotrigine	0
+35-39	Female	Valproic acid	Lamotrigine	0.000255080350310348
+40-44	Female	Valproic acid	Lamotrigine	0.00040908161178155
+45-49	Female	Valproic acid	Lamotrigine	0.000292511700468019
+50-54	Female	Valproic acid	Lamotrigine	0.000184689260319512
+55-59	Female	Valproic acid	Lamotrigine	0.000262421273617915
+60-64	Female	Valproic acid	Lamotrigine	0
+65-69	Female	Valproic acid	Lamotrigine	0.000112007168458781
+70-74	Female	Valproic acid	Lamotrigine	0.000475435816164818
+75-79	Female	Valproic acid	Lamotrigine	0
+80-84	Female	Valproic acid	Lamotrigine	0
+85-89	Female	Valproic acid	Lamotrigine	0
+>90	Female	Valproic acid	Lamotrigine	0

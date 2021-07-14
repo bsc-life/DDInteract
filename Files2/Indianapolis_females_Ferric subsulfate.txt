@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Ferric subsulfate	0	0	0	0
+05-09	Female	Ferric subsulfate	0	0	0	0
+10-14	Female	Ferric subsulfate	0	0	0	0
+15-19	Female	Ferric subsulfate	0	0	0	0
+20-24	Female	Ferric subsulfate	0	0	0.0376081233546446	5
+25-29	Female	Ferric subsulfate	0	0	0.0324485690181063	5
+30-34	Female	Ferric subsulfate	0	0	0.0736214385629095	10
+35-39	Female	Ferric subsulfate	0	0	0.0850267834367826	10
+40-44	Female	Ferric subsulfate	0	0	0.040908161178155	4
+45-49	Female	Ferric subsulfate	0	0	0.0390015600624025	4
+50-54	Female	Ferric subsulfate	0	0	0.0277033890479269	3
+55-59	Female	Ferric subsulfate	0	0	0.00874737578726382	1
+60-64	Female	Ferric subsulfate	0	0	0.0185082361650935	2
+65-69	Female	Ferric subsulfate	0	0	0	0
+70-74	Female	Ferric subsulfate	0	0	0	0
+75-79	Female	Ferric subsulfate	0	0	0	0
+80-84	Female	Ferric subsulfate	0	0	0	0
+85-89	Female	Ferric subsulfate	0	0	0	0
+>90	Female	Ferric subsulfate	0	0	0	0

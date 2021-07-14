@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Bismuth subcitrate potassium	0	0.0112	0.0112	8
+05-09	Female	Bismuth subcitrate potassium	0	0.0668	0.0692	117
+10-14	Female	Bismuth subcitrate potassium	0	0.0836	0.0868	215
+15-19	Female	Bismuth subcitrate potassium	0	0.1008	0.1018	305
+20-24	Female	Bismuth subcitrate potassium	0	0.1315	0.1326	475
+25-29	Female	Bismuth subcitrate potassium	0	0.1382	0.1397	629
+30-34	Female	Bismuth subcitrate potassium	0	0.1382	0.1398	761
+35-39	Female	Bismuth subcitrate potassium	0	0.1811	0.1831	1077
+40-44	Female	Bismuth subcitrate potassium	0	0.2308	0.2328	1324
+45-49	Female	Bismuth subcitrate potassium	0	0.2668	0.2702	1430
+50-54	Female	Bismuth subcitrate potassium	0	0.2622	0.2652	1334
+55-59	Female	Bismuth subcitrate potassium	0	0.2711	0.2742	1306
+60-64	Female	Bismuth subcitrate potassium	0	0.2633	0.2657	1219
+65-69	Female	Bismuth subcitrate potassium	0	0.2312	0.235	990
+70-74	Female	Bismuth subcitrate potassium	0	0.1824	0.1845	722
+75-79	Female	Bismuth subcitrate potassium	0	0.1007	0.1016	363
+80-84	Female	Bismuth subcitrate potassium	0	0.05	0.0509	162
+85-89	Female	Bismuth subcitrate potassium	0	0.0293	0.0293	74
+>90	Female	Bismuth subcitrate potassium	0	0.0099	0.0099	15

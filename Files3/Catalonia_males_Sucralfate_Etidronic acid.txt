@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Sucralfate	Etidronic acid	0
+05-09	Male	Sucralfate	Etidronic acid	0
+10-14	Male	Sucralfate	Etidronic acid	0
+15-19	Male	Sucralfate	Etidronic acid	0
+20-24	Male	Sucralfate	Etidronic acid	0
+25-29	Male	Sucralfate	Etidronic acid	0
+30-34	Male	Sucralfate	Etidronic acid	0
+35-39	Male	Sucralfate	Etidronic acid	0
+40-44	Male	Sucralfate	Etidronic acid	0
+45-49	Male	Sucralfate	Etidronic acid	0
+50-54	Male	Sucralfate	Etidronic acid	0
+55-59	Male	Sucralfate	Etidronic acid	0
+60-64	Male	Sucralfate	Etidronic acid	0
+65-69	Male	Sucralfate	Etidronic acid	0
+70-74	Male	Sucralfate	Etidronic acid	0
+75-79	Male	Sucralfate	Etidronic acid	0
+80-84	Male	Sucralfate	Etidronic acid	0
+85-89	Male	Sucralfate	Etidronic acid	0
+>90	Male	Sucralfate	Etidronic acid	0

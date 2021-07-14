@@ -1,0 +1,76 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Tramadol	Fluoxetine	0.222	-1.476	Major	4 (2/2)	Increased risk of serotonin syndrome	#A2C4DE	36.539691239609	1
+Tramadol	Carbamazepine	0.355	Inf	Moderate	1 (1/0)	Reduces the efficacy of tramadol	#B32020	9.13492280990226	1
+Fluconazole	Amitriptyline	0.387	-2.213	Moderate	5 (2/3)	The imidazole increases the effect and toxicity of the tricyclic	#83ADD1	45.6746140495113	1
+Fluconazole	Carbamazepine	0.805	-1.476	Moderate	2 (1/1)	Increases the effect of carbamazepine	#A2C4DE	18.2698456198045	1
+Fluconazole	Simvastatin	0.189	Inf	Major	4 (4/0)	Increased risk of myopathy/rhabdomyolysis	#B32020	36.539691239609	1
+Fluconazole	Clonazepam	0.295	-3.689	None	7 (2/5)	Increases the effect of the benzodiazepine	#4880B7	63.9444596693158	1
+Phenytoin	Valproic acid	0.47	-1.476	Moderate	4 (2/2)	Valproate increases the effect of hydantoin	#A2C4DE	36.539691239609	0.000517164074609553
+Phenytoin	Omeprazole	0.292	-1.476	Moderate	2 (1/1)	Omeprazole increases the effect of hydantoin	#A2C4DE	18.2698456198045	1
+Phenytoin	Norethisterone	0.373	Inf	None	1 (1/0)	This product may cause a slight decrease of contraceptive effect	#B32020	9.13492280990226	1
+Phenytoin	Estradiol	0.373	Inf	Moderate	1 (1/0)	The enzyme inducer decreases the effect of the hormones	#B32020	9.13492280990226	1
+Doxycycline	Carbamazepine	0.246	Inf	Moderate	1 (1/0)	The anticonvulsant decreases the effect of doxycycline	#B32020	9.13492280990226	1
+Doxycycline	Ethinylestradiol	0.471	Inf	Moderate	7 (7/0)	This anti-infectious agent could decrease the effect  of the oral contraceptive	#B32020	63.9444596693158	1
+Doxycycline	Benzylpenicillin	0.361	-1.967	Moderate	7 (3/4)	Possible antagonism of action	#8EB5D5	63.9444596693158	1
+Doxycycline	Amoxicillin	0.426	-4.427	Moderate	4 (1/3)	Possible antagonism of action	#2A6AAA	36.539691239609	1
+Valproic acid	Carbamazepine	0.365	-3.935	Moderate	11 (3/8)	Carbamazepine decreases the effect of valproic acid	#3D78B2	100.484150908925	6.34496184167821e-07
+Valproic acid	Phenobarbital	0.31	-2.951	Moderate	3 (1/2)	Valproic acid increases the effect of barbiturate	#6596C4	27.4047684297068	0.162953730117194
+Acetaminophen	Warfarin	1	-1.476	Minor	2 (1/1)	Acetaminophen increases the anticoagulant effect	#A2C4DE	18.2698456198045	1
+Amitriptyline	Fluoxetine	0.539	1.452	Major	22 (15/7)	Fluoxetine increases the effect and toxicity of tricyclics	#F0A9A9	200.96830181785	3.91416464938199e-05
+Amitriptyline	Carbamazepine	0.748	-2.951	Moderate	6 (2/4)	The tricyclics increases the effect of carbamazepine	#6596C4	54.8095368594135	0.651547645725392
+Atenolol	Ibuprofen	0.345	2.033	Moderate	4 (3/1)	Risk of inhibition of renal prostaglandins	#E69191	36.539691239609	1
+Omeprazole	Diazepam	0.289	-2.459	Moderate	8 (3/5)	Omeprazole increases the effect of benzodiazepine	#7AA6CD	73.0793824792181	1
+Omeprazole	Clonazepam	0.408	-1.568	Moderate	33 (16/17)	Omeprazole increases the effect of benzodiazepine	#9DC0DC	301.452452726774	1
+Diltiazem	Propranolol	1	Inf	Major	1 (1/0)	Increased risk of bradycardia	#B32020	9.13492280990226	0.479583447519871
+Levonorgestrel	Carbamazepine	0.361	Inf	Major	1 (1/0)	Carbamazepine decreases the contraceptive effect	#B32020	9.13492280990226	1
+Digoxin	Spironolactone	0.274	Inf	Minor	1 (1/0)	Increased digoxin levels and decreased effect in presence of spironolactone	#B32020	9.13492280990226	0.191675698152108
+Digoxin	Levothyroxine	1	Inf	Moderate	1 (1/0)	The thyroid hormones decreases the effect of digoxin	#B32020	9.13492280990226	1
+Digoxin	Furosemide	0.86	2.033	Moderate	4 (3/1)	Possible electrolyte variations and arrhythmias	#E69191	36.539691239609	2.56775748207606e-09
+Digoxin	Hydrochlorothiazide	0.701	Inf	Moderate	2 (2/0)	Possible electrolyte variations and arrhythmias	#B32020	18.2698456198045	0.00283013520012162
+Spironolactone	Enalapril	0.756	Inf	Major	1 (1/0)	Increased risk of hyperkaliemia	#B32020	9.13492280990226	1
+Spironolactone	Losartan	0.838	-1.476	Major	2 (1/1)	Increased risk of hyperkaliemia	#A2C4DE	18.2698456198045	0.0472497316100931
+Levothyroxine	Warfarin	0.688	Inf	Moderate	2 (2/0)	Thyroid hormones increase the anticoagulant effect	#B32020	18.2698456198045	0.0962344724205321
+Levothyroxine	Iron	0.348	Inf	Moderate	7 (7/0)	Iron decreases absorption of levothyroxine	#B32020	63.9444596693158	1
+Imipramine	Fluoxetine	0.447	1.355	Major	3 (2/1)	Fluoxetine increases the effect and toxicity of tricyclics	#F2AEAE	27.4047684297068	1
+Imipramine	Carbamazepine	0.404	Inf	Moderate	2 (2/0)	The tricyclic increases the effect of carbamazepine	#B32020	18.2698456198045	1
+Fluoxetine	Nortriptyline	0.303	Inf	Major	4 (4/0)	Fluoxetine increases the effect and toxicity of tricyclics	#B32020	36.539691239609	0.00912371168750157
+Fluoxetine	Carbamazepine	0.622	-2.951	Moderate	21 (7/14)	Increases the effect of carbamazepine	#6596C4	191.833379007947	2.50175765036214e-05
+Fluoxetine	Propranolol	0.505	Inf	Moderate	4 (4/0)	The SSRI increases the effect of the beta-blocker	#B32020	36.539691239609	1
+Fluoxetine	Lithium cation	0.605	-1.18	Major	9 (5/4)	The SSRI increases serum levels of lithium	#AECDE3	82.2143052891203	0.00465935878092325
+Haloperidol	Carbamazepine	0.422	-5.902	Moderate	10 (2/8)	Carbamazepine decreases the effect of haloperidol	#1E61A5	91.3492280990226	4.48193168219956e-06
+Haloperidol	Biperiden	0.516	-3.197	Moderate	38 (12/26)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#5C8FC0	347.127066776286	3.05586282504105e-70
+Haloperidol	Lithium cation	0.503	-1.107	Major	7 (4/3)	Possible extrapyramidal effects and neurotoxicity with this combination	#B1CFE5	63.9444596693158	1.65935584261637e-06
+Ciprofloxacin	Iron	0.23	Inf	Moderate	6 (6/0)	Formation of non-absorbable complexes	#B32020	54.8095368594135	1
+Carbamazepine	Norethisterone	0.508	Inf	Major	2 (2/0)	This product may cause a slight decrease of contraceptive effect	#B32020	18.2698456198045	1
+Carbamazepine	Metronidazole	0.169	1.355	Moderate	3 (2/1)	Metronidazole increases the effect of carbamazepine	#F2AEAE	27.4047684297068	1
+Carbamazepine	Ethinylestradiol	0.361	Inf	Major	1 (1/0)	This product might cause a slight decrease of contraceptive effect	#B32020	9.13492280990226	1
+Propranolol	Ibuprofen	0.265	3.389	Moderate	12 (10/2)	Risk of inhibition of renal prostaglandins	#CC5858	109.619073718827	1
+Diclofenac	Lithium cation	0.033	Inf	Moderate	1 (1/0)	The NSAID increases serum levels of lithium	#B32020	9.13492280990226	1
+Medroxyprogesterone acetate	Warfarin	0.574	Inf	None	1 (1/0)	The agent increases the effect of anticoagulant	#B32020	9.13492280990226	1
+Prednisone	Estradiol	0.168	Inf	Moderate	4 (4/0)	The estrogenic agent increases the effect of corticosteroid	#B32020	36.539691239609	1
+Prednisone	Ethinylestradiol	0.181	Inf	Moderate	10 (10/0)	The estrogenic agent increases the effect of corticosteroid	#B32020	91.3492280990226	1
+Warfarin	Acetylsalicylic acid	0.878	Inf	Major	2 (2/0)	The salicylate increases the effect of anticoagulant	#B32020	18.2698456198045	0.0275260638608664
+Warfarin	Dexamethasone	1	Inf	Moderate	1 (1/0)	The corticosteroid alters the anticoagulant effect	#B32020	9.13492280990226	1
+Furosemide	Ibuprofen	0.429	-1.476	Moderate	2 (1/1)	The NSAID decreases the diuretic and antihypertensive effects of the loop diuretic	#A2C4DE	18.2698456198045	1
+Clavulanic acid	Ethinylestradiol	0.186	Inf	None	1 (1/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	9.13492280990226	1
+Acetylsalicylic acid	Ibuprofen	0.449	Inf	Major	4 (4/0)	Ibuprofen reduces ASA cardioprotective effects	#B32020	36.539691239609	1
+Acetylsalicylic acid	Dexamethasone	1	Inf	Moderate	1 (1/0)	The corticosteroid decreases the effect of salicylates	#B32020	9.13492280990226	1
+Methyldopa	Iron	0.572	Inf	Moderate	8 (8/0)	Iron decreases the absorption of dopa derivatives	#B32020	73.0793824792181	0.0161659428249369
+Ethinylestradiol	Benzylpenicillin	0.079	Inf	Moderate	2 (2/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	18.2698456198045	1
+Ethinylestradiol	Amoxicillin	0.225	Inf	Moderate	21 (21/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	191.833379007947	1
+Ibuprofen	Lithium cation	0.098	Inf	Moderate	1 (1/0)	The NSAID increases serum levels of lithium	#B32020	9.13492280990226	1
+Norfloxacin	Iron	0.166	4.744	None	8 (7/1)	Formation of non-absorbable complexes	#B32020	73.0793824792181	1
+Fluconazole	Haloperidol	0.206	-Inf	Major	3 (0/3)	The imidazole increases the effect and toxicity of haloperidol	#1E61A5	27.4047684297068	1
+Fluconazole	Diazepam	0.669	-Inf	Moderate	2 (0/2)	Increases the effect of the benzodiazepine	#1E61A5	18.2698456198045	1
+Phenytoin	Fluoxetine	0.322	-Inf	Moderate	2 (0/2)	Fluoxetine increases the effect of phenytoin	#1E61A5	18.2698456198045	1
+Phenytoin	Ciprofloxacin	0.03	-Inf	Moderate	1 (0/1)	Ciprofloxacin decreases the hydantoin effect	#1E61A5	9.13492280990226	1
+Phenytoin	Diazepam	1	-Inf	Moderate	1 (0/1)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#1E61A5	9.13492280990226	1
+Doxycycline	Clavulanic acid	1	-Inf	None	1 (0/1)	Possible antagonism of action	#1E61A5	9.13492280990226	1
+Atenolol	Glyburide	0.049	-Inf	Moderate	1 (0/1)	The beta-blocker decreases the symptoms of hypoglycemia	#1E61A5	9.13492280990226	0.219238147437689
+Methylphenidate	Carbamazepine	0.209	-Inf	None	2 (0/2)	Carbamazepine could reduce the effect of methylphendiate	#1E61A5	18.2698456198045	0.36860238511407
+Chlorpromazine	Propranolol	0.262	-Inf	Moderate	1 (0/1)	Increased effect of both drugs	#1E61A5	9.13492280990226	1
+Carbamazepine	Simvastatin	0.323	-Inf	Moderate	1 (0/1)	Decreases the effect of the statin	#1E61A5	9.13492280990226	1
+Prednisone	Warfarin	1	-Inf	Moderate	1 (0/1)	The corticosteroid alters the anticoagulant effect	#1E61A5	9.13492280990226	1
+Prednisone	Acetylsalicylic acid	1	-Inf	Moderate	1 (0/1)	The corticosteroid decreases the effect of salicylates	#1E61A5	9.13492280990226	1
+Furosemide	Gentamicin	1	-Inf	Major	1 (0/1)	Increased ototoxicity	#1E61A5	9.13492280990226	0.954446256173469
+Acetylsalicylic acid	Glyburide	1	-Inf	Moderate	1 (0/1)	The salicylate increases the effect of sulfonylurea	#1E61A5	9.13492280990226	0.376815565908498

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Methylprednisolone	0
+05-09	Male	Acetylsalicylic acid	Methylprednisolone	5.62768370166523e-06
+10-14	Male	Acetylsalicylic acid	Methylprednisolone	3.04881534468763e-05
+15-19	Male	Acetylsalicylic acid	Methylprednisolone	3.15527088000505e-05
+20-24	Male	Acetylsalicylic acid	Methylprednisolone	6.67184846897757e-06
+25-29	Male	Acetylsalicylic acid	Methylprednisolone	8.06399587123411e-06
+30-34	Male	Acetylsalicylic acid	Methylprednisolone	2.53351630951124e-05
+35-39	Male	Acetylsalicylic acid	Methylprednisolone	2.95081543940408e-05
+40-44	Male	Acetylsalicylic acid	Methylprednisolone	7.28134947676969e-05
+45-49	Male	Acetylsalicylic acid	Methylprednisolone	0.000138453676046903
+50-54	Male	Acetylsalicylic acid	Methylprednisolone	0.000259657955655702
+55-59	Male	Acetylsalicylic acid	Methylprednisolone	0.000556416396675588
+60-64	Male	Acetylsalicylic acid	Methylprednisolone	0.00101299155597446
+65-69	Male	Acetylsalicylic acid	Methylprednisolone	0.00150670603344411
+70-74	Male	Acetylsalicylic acid	Methylprednisolone	0.001956102922926
+75-79	Male	Acetylsalicylic acid	Methylprednisolone	0.00288110612015721
+80-84	Male	Acetylsalicylic acid	Methylprednisolone	0.00373824208153956
+85-89	Male	Acetylsalicylic acid	Methylprednisolone	0.0046352686425768
+>90	Male	Acetylsalicylic acid	Methylprednisolone	0.00789369239588999

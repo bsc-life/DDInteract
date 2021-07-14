@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Bismuth subcitrate potassium	0	0.0052	0.0052	4
+05-09	Male	Bismuth subcitrate potassium	0	0.0484	0.0512	91
+10-14	Male	Bismuth subcitrate potassium	0	0.0499	0.053	139
+15-19	Male	Bismuth subcitrate potassium	0	0.0607	0.0621	177
+20-24	Male	Bismuth subcitrate potassium	0	0.0747	0.0757	227
+25-29	Male	Bismuth subcitrate potassium	0	0.0841	0.0847	315
+30-34	Male	Bismuth subcitrate potassium	0	0.0942	0.0954	452
+35-39	Male	Bismuth subcitrate potassium	0	0.1206	0.1219	661
+40-44	Male	Bismuth subcitrate potassium	0	0.1333	0.135	723
+45-49	Male	Bismuth subcitrate potassium	0	0.1602	0.1617	794
+50-54	Male	Bismuth subcitrate potassium	0	0.1631	0.1646	748
+55-59	Male	Bismuth subcitrate potassium	0	0.1388	0.1402	597
+60-64	Male	Bismuth subcitrate potassium	0	0.1368	0.1375	566
+65-69	Male	Bismuth subcitrate potassium	0	0.1332	0.1345	508
+70-74	Male	Bismuth subcitrate potassium	0	0.0993	0.0999	338
+75-79	Male	Bismuth subcitrate potassium	0	0.0744	0.0751	214
+80-84	Male	Bismuth subcitrate potassium	0	0.0414	0.0423	94
+85-89	Male	Bismuth subcitrate potassium	0	0.0291	0.0291	43
+>90	Male	Bismuth subcitrate potassium	0	0.0176	0.0176	12

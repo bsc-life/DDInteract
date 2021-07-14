@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Alendronic acid	Ibuprofen	0
+05-09	Female	Alendronic acid	Ibuprofen	0
+10-14	Female	Alendronic acid	Ibuprofen	0.000122684333210649
+15-19	Female	Alendronic acid	Ibuprofen	0
+20-24	Female	Alendronic acid	Ibuprofen	0
+25-29	Female	Alendronic acid	Ibuprofen	0
+30-34	Female	Alendronic acid	Ibuprofen	0
+35-39	Female	Alendronic acid	Ibuprofen	0
+40-44	Female	Alendronic acid	Ibuprofen	0
+45-49	Female	Alendronic acid	Ibuprofen	0
+50-54	Female	Alendronic acid	Ibuprofen	0
+55-59	Female	Alendronic acid	Ibuprofen	8.74737578726382e-05
+60-64	Female	Alendronic acid	Ibuprofen	0.000370164723301869
+65-69	Female	Alendronic acid	Ibuprofen	0.00078405017921147
+70-74	Female	Alendronic acid	Ibuprofen	0.000475435816164818
+75-79	Female	Alendronic acid	Ibuprofen	0.000220361392684002
+80-84	Female	Alendronic acid	Ibuprofen	0.000603682463024449
+85-89	Female	Alendronic acid	Ibuprofen	0.000442477876106195
+>90	Female	Alendronic acid	Ibuprofen	0

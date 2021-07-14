@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000239563993531772	0.000239563993531772	4
+05-09	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000100532823967025	0.000100532823967025	1
+10-14	Male	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+15-19	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00013933398355859	0.00013933398355859	1
+20-24	Male	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+25-29	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00025442055718102	0.00025442055718102	2
+30-34	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000653765690376569	0.000653765690376569	5
+35-39	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000419874037788663	0.000419874037788663	3
+40-44	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00103765194189149	0.00103765194189149	7
+45-49	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00165312026449924	0.00165312026449924	12
+50-54	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00111759592698373	0.00111759592698373	9
+55-59	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00169185653056621	0.00169185653056621	15
+60-64	Male	Antithymocyte immunoglobulin (rabbit)	0	0.00170669267341217	0.00170669267341217	14
+65-69	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000901713255184851	0.000901713255184851	6
+70-74	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000641025641025641	0.000641025641025641	3
+75-79	Male	Antithymocyte immunoglobulin (rabbit)	0	0.000313185092389602	0.000313185092389602	1
+80-84	Male	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+85-89	Male	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+>90	Male	Antithymocyte immunoglobulin (rabbit)	0	0	0	0

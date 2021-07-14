@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	NA	NA	0	0	0	0
+20-24	NA	NA	0	0	0	0
+25-29	NA	NA	0	0	0	0
+30-34	Male	Sodium aurothiomalate	0	2e-04	4e-04	2
+35-39	Male	Sodium aurothiomalate	0	4e-04	6e-04	3
+40-44	Male	Sodium aurothiomalate	0	9e-04	0.0013	7
+45-49	Male	Sodium aurothiomalate	0	4e-04	0.001	5
+50-54	Male	Sodium aurothiomalate	0	0.0015	0.0015	7
+55-59	Male	Sodium aurothiomalate	0	9e-04	0.0012	5
+60-64	Male	Sodium aurothiomalate	0	0.0017	0.0017	7
+65-69	Male	Sodium aurothiomalate	0	0.0029	0.0029	11
+70-74	Male	Sodium aurothiomalate	0	0.0027	0.0027	9
+75-79	Male	Sodium aurothiomalate	0	0.0021	0.0025	7
+80-84	Male	Sodium aurothiomalate	0	0.0022	0.0022	5
+85-89	Male	Sodium aurothiomalate	0	0.0014	0.0014	2
+>90	NA	NA	0	0	0	0

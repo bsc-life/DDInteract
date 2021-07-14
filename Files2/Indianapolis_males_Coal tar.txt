@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Coal tar	0	0	0	0
+05-09	Male	Coal tar	0	0	0.0100532823967025	1
+10-14	Male	Coal tar	0	0	0	0
+15-19	Male	Coal tar	0	0	0.013933398355859	1
+20-24	Male	Coal tar	0	0	0	0
+25-29	Male	Coal tar	0	0	0	0
+30-34	Male	Coal tar	0	0	0	0
+35-39	Male	Coal tar	0	0	0	0
+40-44	Male	Coal tar	0	0	0	0
+45-49	Male	Coal tar	0	0	0.0137760022041604	1
+50-54	Male	Coal tar	0	0	0	0
+55-59	Male	Coal tar	0	0	0	0
+60-64	Male	Coal tar	0	0	0.012190661952944	1
+65-69	Male	Coal tar	0	0	0.0300571085061617	2
+70-74	Male	Coal tar	0	0	0	0
+75-79	Male	Coal tar	0	0	0	0
+80-84	Male	Coal tar	0	0	0	0
+85-89	Male	Coal tar	0	0	0	0
+>90	Male	Coal tar	0	0	0	0

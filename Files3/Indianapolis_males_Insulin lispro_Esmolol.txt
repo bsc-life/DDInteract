@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin lispro	Esmolol	0
+05-09	Male	Insulin lispro	Esmolol	0
+10-14	Male	Insulin lispro	Esmolol	0
+15-19	Male	Insulin lispro	Esmolol	0
+20-24	Male	Insulin lispro	Esmolol	0
+25-29	Male	Insulin lispro	Esmolol	0.00012721027859051
+30-34	Male	Insulin lispro	Esmolol	0
+35-39	Male	Insulin lispro	Esmolol	0.000139958012596221
+40-44	Male	Insulin lispro	Esmolol	0
+45-49	Male	Insulin lispro	Esmolol	0.00151536024245764
+50-54	Male	Insulin lispro	Esmolol	0.000993418601763318
+55-59	Male	Insulin lispro	Esmolol	0.00157906609519513
+60-64	Male	Insulin lispro	Esmolol	0.00195050591247105
+65-69	Male	Insulin lispro	Esmolol	0.00255485422302374
+70-74	Male	Insulin lispro	Esmolol	0.00448717948717949
+75-79	Male	Insulin lispro	Esmolol	0.00313185092389602
+80-84	Male	Insulin lispro	Esmolol	0.00198117880138683
+85-89	Male	Insulin lispro	Esmolol	0.000809061488673139
+>90	Male	Insulin lispro	Esmolol	0

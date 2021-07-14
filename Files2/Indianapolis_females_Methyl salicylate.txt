@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Methyl salicylate	0	0	0	0
+05-09	Female	Methyl salicylate	0	0	0	0
+10-14	Female	Methyl salicylate	0	0	0	0
+15-19	Female	Methyl salicylate	0	0	0	0
+20-24	Female	Methyl salicylate	0	0	0	0
+25-29	Female	Methyl salicylate	0	0	0.0194691414108638	3
+30-34	Female	Methyl salicylate	0	0	0	0
+35-39	Female	Methyl salicylate	0	0	0	0
+40-44	Female	Methyl salicylate	0	0	0.0715892820617713	7
+45-49	Female	Methyl salicylate	0	0	0.0487519500780031	5
+50-54	Female	Methyl salicylate	0	0	0.0461723150798781	5
+55-59	Female	Methyl salicylate	0	0	0.0349895031490553	4
+60-64	Female	Methyl salicylate	0	0	0.0740329446603739	8
+65-69	Female	Methyl salicylate	0	0	0.100806451612903	9
+70-74	Female	Methyl salicylate	0	0	0.110935023771791	7
+75-79	Female	Methyl salicylate	0	0	0.154252974878801	7
+80-84	Female	Methyl salicylate	0	0	0.181104738907335	6
+85-89	Female	Methyl salicylate	0	0	0.309734513274336	7
+>90	Female	Methyl salicylate	0	0	0.202156334231806	3

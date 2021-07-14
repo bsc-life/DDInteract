@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Sodium ferric gluconate complex	0	0	0	0
+05-09	Female	Sodium ferric gluconate complex	0	0	0	0
+10-14	Female	Sodium ferric gluconate complex	0	0	0	0
+15-19	Female	Sodium ferric gluconate complex	0	0.0672688833365366	0.0864885642898328	9
+20-24	Female	Sodium ferric gluconate complex	0	0.21060549078601	0.255735238811583	34
+25-29	Female	Sodium ferric gluconate complex	0	0.214160555519502	0.227139983126744	35
+30-34	Female	Sodium ferric gluconate complex	0	0.346020761245675	0.360745048958257	49
+35-39	Female	Sodium ferric gluconate complex	0	0.34010713374713	0.357112490434487	42
+40-44	Female	Sodium ferric gluconate complex	0	0.593168337083248	0.613622417672326	60
+45-49	Female	Sodium ferric gluconate complex	0	0.516770670826833	0.516770670826833	53
+50-54	Female	Sodium ferric gluconate complex	0	0.415550835718903	0.415550835718903	45
+55-59	Female	Sodium ferric gluconate complex	0	0.489853044086774	0.516095171448565	59
+60-64	Female	Sodium ferric gluconate complex	0	0.768091800851379	0.768091800851379	83
+65-69	Female	Sodium ferric gluconate complex	0	0.772849462365591	0.806451612903226	72
+70-74	Female	Sodium ferric gluconate complex	0	0.903328050713154	0.919175911251981	58
+75-79	Female	Sodium ferric gluconate complex	0	1.23402379903041	1.23402379903041	56
+80-84	Female	Sodium ferric gluconate complex	0	0.694234832478116	0.694234832478116	23
+85-89	Female	Sodium ferric gluconate complex	0	1.68141592920354	1.68141592920354	38
+>90	Female	Sodium ferric gluconate complex	0	1.48247978436658	1.48247978436658	22

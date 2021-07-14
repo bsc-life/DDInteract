@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Lisinopril	Lithium cation	0
+05-09	Female	Lisinopril	Lithium cation	0
+10-14	Female	Lisinopril	Lithium cation	0
+15-19	Female	Lisinopril	Lithium cation	0
+20-24	Female	Lisinopril	Lithium cation	0
+25-29	Female	Lisinopril	Lithium cation	0
+30-34	Female	Lisinopril	Lithium cation	1.8376711560973e-06
+35-39	Female	Lisinopril	Lithium cation	3.40033119225813e-06
+40-44	Female	Lisinopril	Lithium cation	3.51634131718629e-06
+45-49	Female	Lisinopril	Lithium cation	1.51177864537074e-05
+50-54	Female	Lisinopril	Lithium cation	1.98790163067571e-05
+55-59	Female	Lisinopril	Lithium cation	2.72984794746933e-05
+60-64	Female	Lisinopril	Lithium cation	3.05159816555356e-05
+65-69	Female	Lisinopril	Lithium cation	3.56083086053412e-05
+70-74	Female	Lisinopril	Lithium cation	2.04405970698404e-05
+75-79	Female	Lisinopril	Lithium cation	2.23871408263094e-05
+80-84	Female	Lisinopril	Lithium cation	1.25693671952086e-05
+85-89	Female	Lisinopril	Lithium cation	7.91098559013975e-06
+>90	Female	Lisinopril	Lithium cation	0

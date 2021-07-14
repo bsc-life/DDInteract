@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Folic acid	0	0.0518	0.0752	58
+05-09	Male	Folic acid	0	0.0552	0.0664	118
+10-14	Male	Folic acid	8e-04	0.0972	0.133	349
+15-19	Male	Folic acid	0.0018	0.2826	0.4898	1397
+20-24	Male	Folic acid	0.001	0.2976	0.474	1421
+25-29	Male	Folic acid	0.003	0.3089	0.4148	1543
+30-34	Male	Folic acid	0.0021	0.3678	0.4771	2260
+35-39	Male	Folic acid	0.0048	0.4672	0.5728	3106
+40-44	Male	Folic acid	0.008	0.6411	0.749	4012
+45-49	Male	Folic acid	0.0114	0.8737	0.9891	4858
+50-54	Male	Folic acid	0.0152	1.1335	1.2536	5697
+55-59	Male	Folic acid	0.016	1.3206	1.4319	6099
+60-64	Male	Folic acid	0.0177	1.509	1.621	6673
+65-69	Male	Folic acid	0.0167	1.7509	1.8517	6993
+70-74	Male	Folic acid	0.021	2.0122	2.1106	7143
+75-79	Male	Folic acid	0.0316	2.4744	2.5888	7377
+80-84	Male	Folic acid	0.0423	3.5147	3.651	8116
+85-89	Male	Folic acid	0.0528	4.617	4.7841	7070
+>90	Male	Folic acid	0.0661	6.5443	6.7251	4575

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Moxifloxacin	Magnesium oxide	0
+05-09	Male	Moxifloxacin	Magnesium oxide	0
+10-14	Male	Moxifloxacin	Magnesium oxide	0
+15-19	Male	Moxifloxacin	Magnesium oxide	0
+20-24	Male	Moxifloxacin	Magnesium oxide	0
+25-29	Male	Moxifloxacin	Magnesium oxide	0
+30-34	Male	Moxifloxacin	Magnesium oxide	0
+35-39	Male	Moxifloxacin	Magnesium oxide	0.000139958012596221
+40-44	Male	Moxifloxacin	Magnesium oxide	0
+45-49	Male	Moxifloxacin	Magnesium oxide	0.000137760022041604
+50-54	Male	Moxifloxacin	Magnesium oxide	0.00024835465044083
+55-59	Male	Moxifloxacin	Magnesium oxide	0.000112790435371081
+60-64	Male	Moxifloxacin	Magnesium oxide	0.00012190661952944
+65-69	Male	Moxifloxacin	Magnesium oxide	0
+70-74	Male	Moxifloxacin	Magnesium oxide	0.000427350427350427
+75-79	Male	Moxifloxacin	Magnesium oxide	0.000313185092389602
+80-84	Male	Moxifloxacin	Magnesium oxide	0.00148588410104012
+85-89	Male	Moxifloxacin	Magnesium oxide	0
+>90	Male	Moxifloxacin	Magnesium oxide	0

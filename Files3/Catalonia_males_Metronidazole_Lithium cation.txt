@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Metronidazole	Lithium cation	0
+05-09	Male	Metronidazole	Lithium cation	0
+10-14	Male	Metronidazole	Lithium cation	0
+15-19	Male	Metronidazole	Lithium cation	0
+20-24	Male	Metronidazole	Lithium cation	3.33592423448879e-06
+25-29	Male	Metronidazole	Lithium cation	5.37599724748941e-06
+30-34	Male	Metronidazole	Lithium cation	1.05563179562968e-05
+35-39	Male	Metronidazole	Lithium cation	7.37703859851021e-06
+40-44	Male	Metronidazole	Lithium cation	7.46805074540481e-06
+45-49	Male	Metronidazole	Lithium cation	1.83247512415019e-05
+50-54	Male	Metronidazole	Lithium cation	1.76039291969968e-05
+55-59	Male	Metronidazole	Lithium cation	1.40864910550782e-05
+60-64	Male	Metronidazole	Lithium cation	2.18631271073625e-05
+65-69	Male	Metronidazole	Lithium cation	7.94396854188457e-06
+70-74	Male	Metronidazole	Lithium cation	5.90967650430815e-06
+75-79	Male	Metronidazole	Lithium cation	3.50926445816957e-06
+80-84	Male	Metronidazole	Lithium cation	0
+85-89	Male	Metronidazole	Lithium cation	0
+>90	Male	Metronidazole	Lithium cation	0

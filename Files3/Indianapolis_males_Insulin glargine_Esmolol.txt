@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Esmolol	0
+05-09	Male	Insulin glargine	Esmolol	0
+10-14	Male	Insulin glargine	Esmolol	0
+15-19	Male	Insulin glargine	Esmolol	0
+20-24	Male	Insulin glargine	Esmolol	0
+25-29	Male	Insulin glargine	Esmolol	0
+30-34	Male	Insulin glargine	Esmolol	0
+35-39	Male	Insulin glargine	Esmolol	0.000139958012596221
+40-44	Male	Insulin glargine	Esmolol	0.000148235991698784
+45-49	Male	Insulin glargine	Esmolol	0.000964320154291225
+50-54	Male	Insulin glargine	Esmolol	0.000372531975661244
+55-59	Male	Insulin glargine	Esmolol	0.000902323482968644
+60-64	Male	Insulin glargine	Esmolol	0.000853346336706083
+65-69	Male	Insulin glargine	Esmolol	0.00105199879771566
+70-74	Male	Insulin glargine	Esmolol	0.00256410256410256
+75-79	Male	Insulin glargine	Esmolol	0.000626370184779205
+80-84	Male	Insulin glargine	Esmolol	0.000495294700346706
+85-89	Male	Insulin glargine	Esmolol	0
+>90	Male	Insulin glargine	Esmolol	0

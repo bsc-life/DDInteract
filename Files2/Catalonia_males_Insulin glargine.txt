@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Insulin glargine	0	0.0181	0.0207	16
+05-09	Male	Insulin glargine	0	0.103	0.1171	208
+10-14	Male	Insulin glargine	0	0.2839	0.3049	800
+15-19	Male	Insulin glargine	0	0.3797	0.4088	1166
+20-24	Male	Insulin glargine	0	0.446	0.4787	1435
+25-29	Male	Insulin glargine	0	0.4941	0.5346	1989
+30-34	Male	Insulin glargine	0	0.5882	0.6336	3001
+35-39	Male	Insulin glargine	0	0.6992	0.7554	4096
+40-44	Male	Insulin glargine	0	0.8695	0.9363	5015
+45-49	Male	Insulin glargine	0	1.1646	1.255	6164
+50-54	Male	Insulin glargine	0	1.6581	1.7536	7969
+55-59	Male	Insulin glargine	0	2.2527	2.3557	10034
+60-64	Male	Insulin glargine	0	2.7849	2.8913	11902
+65-69	Male	Insulin glargine	0	3.3108	3.4199	12915
+70-74	Male	Insulin glargine	0	3.6466	3.7491	12688
+75-79	Male	Insulin glargine	0	3.8149	3.9311	11202
+80-84	Male	Insulin glargine	0	4.0095	4.1139	9145
+85-89	Male	Insulin glargine	0	3.9011	4.029	5954
+>90	Male	Insulin glargine	0	3.4294	3.5397	2408

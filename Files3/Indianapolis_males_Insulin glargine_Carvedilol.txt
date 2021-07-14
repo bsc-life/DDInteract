@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Carvedilol	0
+05-09	Male	Insulin glargine	Carvedilol	0
+10-14	Male	Insulin glargine	Carvedilol	0
+15-19	Male	Insulin glargine	Carvedilol	0
+20-24	Male	Insulin glargine	Carvedilol	0
+25-29	Male	Insulin glargine	Carvedilol	0.00025442055718102
+30-34	Male	Insulin glargine	Carvedilol	0.000261506276150628
+35-39	Male	Insulin glargine	Carvedilol	0.00111966410076977
+40-44	Male	Insulin glargine	Carvedilol	0.00222353987548177
+45-49	Male	Insulin glargine	Carvedilol	0.00468384074941452
+50-54	Male	Insulin glargine	Carvedilol	0.00894076741586986
+55-59	Male	Insulin glargine	Carvedilol	0.00834649221745996
+60-64	Male	Insulin glargine	Carvedilol	0.00841155674753139
+65-69	Male	Insulin glargine	Carvedilol	0.0100691313495642
+70-74	Male	Insulin glargine	Carvedilol	0.0153846153846154
+75-79	Male	Insulin glargine	Carvedilol	0.0131537738803633
+80-84	Male	Insulin glargine	Carvedilol	0.0138682516097078
+85-89	Male	Insulin glargine	Carvedilol	0.00485436893203883
+>90	Male	Insulin glargine	Carvedilol	0

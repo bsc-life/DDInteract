@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Butalbital	Megestrol acetate	0
+05-09	Female	Butalbital	Megestrol acetate	0
+10-14	Female	Butalbital	Megestrol acetate	0
+15-19	Female	Butalbital	Megestrol acetate	0
+20-24	Female	Butalbital	Megestrol acetate	0
+25-29	Female	Butalbital	Megestrol acetate	0
+30-34	Female	Butalbital	Megestrol acetate	0
+35-39	Female	Butalbital	Megestrol acetate	0
+40-44	Female	Butalbital	Megestrol acetate	0
+45-49	Female	Butalbital	Megestrol acetate	0
+50-54	Female	Butalbital	Megestrol acetate	0
+55-59	Female	Butalbital	Megestrol acetate	0
+60-64	Female	Butalbital	Megestrol acetate	0
+65-69	Female	Butalbital	Megestrol acetate	0
+70-74	Female	Butalbital	Megestrol acetate	0
+75-79	Female	Butalbital	Megestrol acetate	0
+80-84	Female	Butalbital	Megestrol acetate	0
+85-89	Female	Butalbital	Megestrol acetate	0
+>90	Female	Butalbital	Megestrol acetate	0

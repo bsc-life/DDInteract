@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0	0.0012	2
+10-14	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0012	0.0016	4
+15-19	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.002	0.0057	17
+20-24	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0103	0.0274	98
+25-29	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0153	0.0355	160
+30-34	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0118	0.0289	157
+35-39	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.015	0.0328	193
+40-44	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0139	0.0276	157
+45-49	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0191	0.038	201
+50-54	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0209	0.0374	188
+55-59	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0244	0.0407	194
+60-64	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.031	0.0458	210
+65-69	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0325	0.0425	179
+70-74	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0289	0.0381	149
+75-79	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0344	0.0437	156
+80-84	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0409	0.0468	149
+85-89	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0403	0.0467	118
+>90	Female	Clostridium tetani toxoid antigen (formaldehyde inactivated)	0	0.0401	0.0474	72

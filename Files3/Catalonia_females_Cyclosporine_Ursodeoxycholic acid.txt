@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Cyclosporine	Ursodeoxycholic acid	0
+05-09	Female	Cyclosporine	Ursodeoxycholic acid	0
+10-14	Female	Cyclosporine	Ursodeoxycholic acid	0
+15-19	Female	Cyclosporine	Ursodeoxycholic acid	3.33895390574133e-06
+20-24	Female	Cyclosporine	Ursodeoxycholic acid	0
+25-29	Female	Cyclosporine	Ursodeoxycholic acid	4.44345700955343e-06
+30-34	Female	Cyclosporine	Ursodeoxycholic acid	1.8376711560973e-06
+35-39	Female	Cyclosporine	Ursodeoxycholic acid	5.10049678838719e-06
+40-44	Female	Cyclosporine	Ursodeoxycholic acid	8.79085329296574e-06
+45-49	Female	Cyclosporine	Ursodeoxycholic acid	1.13383398402806e-05
+50-54	Female	Cyclosporine	Ursodeoxycholic acid	2.38548195681085e-05
+55-59	Female	Cyclosporine	Ursodeoxycholic acid	2.93983625112081e-05
+60-64	Female	Cyclosporine	Ursodeoxycholic acid	2.83362686801402e-05
+65-69	Female	Cyclosporine	Ursodeoxycholic acid	4.74777448071217e-05
+70-74	Female	Cyclosporine	Ursodeoxycholic acid	4.34362687734109e-05
+75-79	Female	Cyclosporine	Ursodeoxycholic acid	3.63791038427527e-05
+80-84	Female	Cyclosporine	Ursodeoxycholic acid	1.57117089940107e-05
+85-89	Female	Cyclosporine	Ursodeoxycholic acid	1.18664783852096e-05
+>90	Female	Cyclosporine	Ursodeoxycholic acid	0

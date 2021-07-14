@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Potassium chloride	0	0.0013	0.0026	2
+05-09	Male	Potassium chloride	0	0.0023	0.0028	5
+10-14	Male	Potassium chloride	0	0.003	0.0042	11
+15-19	Male	Potassium chloride	0	0.0077	0.0102	29
+20-24	Male	Potassium chloride	0	0.0077	0.0117	35
+25-29	Male	Potassium chloride	0	0.0097	0.0148	55
+30-34	Male	Potassium chloride	0	0.0144	0.0179	85
+35-39	Male	Potassium chloride	0	0.0221	0.0258	140
+40-44	Male	Potassium chloride	0	0.0261	0.0325	174
+45-49	Male	Potassium chloride	0	0.036	0.0413	203
+50-54	Male	Potassium chloride	0	0.0541	0.0612	278
+55-59	Male	Potassium chloride	0	0.0822	0.0902	384
+60-64	Male	Potassium chloride	0	0.1178	0.1273	524
+65-69	Male	Potassium chloride	0	0.1623	0.1724	651
+70-74	Male	Potassium chloride	3e-04	0.2184	0.2334	790
+75-79	Male	Potassium chloride	0	0.2667	0.28	798
+80-84	Male	Potassium chloride	4e-04	0.3977	0.4125	917
+85-89	Male	Potassium chloride	7e-04	0.542	0.5637	833
+>90	Male	Potassium chloride	0	0.879	0.8996	612

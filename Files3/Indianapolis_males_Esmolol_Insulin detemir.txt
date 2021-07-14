@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Esmolol	Insulin detemir	0
+05-09	Male	Esmolol	Insulin detemir	0
+10-14	Male	Esmolol	Insulin detemir	0
+15-19	Male	Esmolol	Insulin detemir	0
+20-24	Male	Esmolol	Insulin detemir	0
+25-29	Male	Esmolol	Insulin detemir	0
+30-34	Male	Esmolol	Insulin detemir	0
+35-39	Male	Esmolol	Insulin detemir	0
+40-44	Male	Esmolol	Insulin detemir	0
+45-49	Male	Esmolol	Insulin detemir	0
+50-54	Male	Esmolol	Insulin detemir	0.000124177325220415
+55-59	Male	Esmolol	Insulin detemir	0
+60-64	Male	Esmolol	Insulin detemir	0.00012190661952944
+65-69	Male	Esmolol	Insulin detemir	0.000300571085061617
+70-74	Male	Esmolol	Insulin detemir	0
+75-79	Male	Esmolol	Insulin detemir	0
+80-84	Male	Esmolol	Insulin detemir	0
+85-89	Male	Esmolol	Insulin detemir	0
+>90	Male	Esmolol	Insulin detemir	0

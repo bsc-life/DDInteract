@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+05-09	Female	Asparaginase Erwinia chrysanthemi	0	0.0111172873818788	0.0111172873818788	1
+10-14	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+15-19	Female	Asparaginase Erwinia chrysanthemi	0	0.0192196809532962	0.0192196809532962	2
+20-24	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+25-29	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+30-34	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+35-39	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+40-44	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+45-49	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+50-54	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+55-59	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+60-64	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+65-69	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+70-74	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+75-79	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+80-84	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+85-89	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0
+>90	Female	Asparaginase Erwinia chrysanthemi	0	0	0	0

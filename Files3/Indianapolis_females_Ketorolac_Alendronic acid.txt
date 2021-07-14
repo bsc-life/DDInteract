@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Ketorolac	Alendronic acid	0
+05-09	Female	Ketorolac	Alendronic acid	0
+10-14	Female	Ketorolac	Alendronic acid	0.000122684333210649
+15-19	Female	Ketorolac	Alendronic acid	0
+20-24	Female	Ketorolac	Alendronic acid	0
+25-29	Female	Ketorolac	Alendronic acid	0
+30-34	Female	Ketorolac	Alendronic acid	0
+35-39	Female	Ketorolac	Alendronic acid	0
+40-44	Female	Ketorolac	Alendronic acid	0
+45-49	Female	Ketorolac	Alendronic acid	0
+50-54	Female	Ketorolac	Alendronic acid	0
+55-59	Female	Ketorolac	Alendronic acid	8.74737578726382e-05
+60-64	Female	Ketorolac	Alendronic acid	0.000185082361650935
+65-69	Female	Ketorolac	Alendronic acid	0.000112007168458781
+70-74	Female	Ketorolac	Alendronic acid	0.00063391442155309
+75-79	Female	Ketorolac	Alendronic acid	0.000220361392684002
+80-84	Female	Ketorolac	Alendronic acid	0
+85-89	Female	Ketorolac	Alendronic acid	0
+>90	Female	Ketorolac	Alendronic acid	0

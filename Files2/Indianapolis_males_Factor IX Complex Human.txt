@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Factor IX Complex Human	0	0	0	0
+05-09	Male	Factor IX Complex Human	0	0	0	0
+10-14	Male	Factor IX Complex Human	0	0	0	0
+15-19	Male	Factor IX Complex Human	0	0	0	0
+20-24	Male	Factor IX Complex Human	0	0	0	0
+25-29	Male	Factor IX Complex Human	0	0	0	0
+30-34	Male	Factor IX Complex Human	0	0	0	0
+35-39	Male	Factor IX Complex Human	0	0.0139958012596221	0.0139958012596221	1
+40-44	Male	Factor IX Complex Human	0	0.0592943966795138	0.0592943966795138	4
+45-49	Male	Factor IX Complex Human	0	0.0413280066124811	0.0413280066124811	3
+50-54	Male	Factor IX Complex Human	0	0.149012790264498	0.149012790264498	12
+55-59	Male	Factor IX Complex Human	0	0.169185653056621	0.169185653056621	15
+60-64	Male	Factor IX Complex Human	0	0.158478605388273	0.158478605388273	13
+65-69	Male	Factor IX Complex Human	0	0.225428313796213	0.225428313796213	15
+70-74	Male	Factor IX Complex Human	0	0.235042735042735	0.235042735042735	11
+75-79	Male	Factor IX Complex Human	0	0.407140620106483	0.407140620106483	13
+80-84	Male	Factor IX Complex Human	0	0.396235760277365	0.396235760277365	8
+85-89	Male	Factor IX Complex Human	0	0.242718446601942	0.242718446601942	3
+>90	Male	Factor IX Complex Human	0	0.162866449511401	0.162866449511401	1

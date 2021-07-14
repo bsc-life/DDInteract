@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Insulin aspart	0
+05-09	Female	Acetylsalicylic acid	Insulin aspart	0
+10-14	Female	Acetylsalicylic acid	Insulin aspart	0
+15-19	Female	Acetylsalicylic acid	Insulin aspart	1.66947695287067e-05
+20-24	Female	Acetylsalicylic acid	Insulin aspart	1.11669146652299e-05
+25-29	Female	Acetylsalicylic acid	Insulin aspart	4.44345700955343e-05
+30-34	Female	Acetylsalicylic acid	Insulin aspart	0.000150689034799979
+35-39	Female	Acetylsalicylic acid	Insulin aspart	0.000161515731632261
+40-44	Female	Acetylsalicylic acid	Insulin aspart	0.000297130841302242
+45-49	Female	Acetylsalicylic acid	Insulin aspart	0.000529122525879761
+50-54	Female	Acetylsalicylic acid	Insulin aspart	0.00103370884795137
+55-59	Female	Acetylsalicylic acid	Insulin aspart	0.00167150689706583
+60-64	Female	Acetylsalicylic acid	Insulin aspart	0.00246743508814759
+65-69	Female	Acetylsalicylic acid	Insulin aspart	0.00342551928783383
+70-74	Female	Acetylsalicylic acid	Insulin aspart	0.00423886881735815
+75-79	Female	Acetylsalicylic acid	Insulin aspart	0.00476566260340061
+80-84	Female	Acetylsalicylic acid	Insulin aspart	0.00446841003789664
+85-89	Female	Acetylsalicylic acid	Insulin aspart	0.00384869448960299
+>90	Female	Acetylsalicylic acid	Insulin aspart	0.00286248239737836

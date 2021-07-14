@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Bisoprolol	Insulin aspart	0
+05-09	Male	Bisoprolol	Insulin aspart	0
+10-14	Male	Bisoprolol	Insulin aspart	0
+15-19	Male	Bisoprolol	Insulin aspart	7.01171306667789e-06
+20-24	Male	Bisoprolol	Insulin aspart	6.67184846897757e-06
+25-29	Male	Bisoprolol	Insulin aspart	1.61279917424682e-05
+30-34	Male	Bisoprolol	Insulin aspart	1.90013723213343e-05
+35-39	Male	Bisoprolol	Insulin aspart	6.45490877369643e-05
+40-44	Male	Bisoprolol	Insulin aspart	0.000115754786553775
+45-49	Male	Bisoprolol	Insulin aspart	0.000250438266967193
+50-54	Male	Bisoprolol	Insulin aspart	0.000501711982114408
+55-59	Male	Bisoprolol	Insulin aspart	0.000887448936469925
+60-64	Male	Bisoprolol	Insulin aspart	0.00126806137222703
+65-69	Male	Bisoprolol	Insulin aspart	0.00162851355108634
+70-74	Male	Bisoprolol	Insulin aspart	0.00188814164312646
+75-79	Male	Bisoprolol	Insulin aspart	0.00183183604716451
+80-84	Male	Bisoprolol	Insulin aspart	0.00157896867704018
+85-89	Male	Bisoprolol	Insulin aspart	0.00127216132088239
+>90	Male	Bisoprolol	Insulin aspart	0.000823178350409384

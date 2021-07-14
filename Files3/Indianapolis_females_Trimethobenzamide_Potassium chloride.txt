@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Trimethobenzamide	Potassium chloride	0
+05-09	Female	Trimethobenzamide	Potassium chloride	0
+10-14	Female	Trimethobenzamide	Potassium chloride	0
+15-19	Female	Trimethobenzamide	Potassium chloride	0
+20-24	Female	Trimethobenzamide	Potassium chloride	0
+25-29	Female	Trimethobenzamide	Potassium chloride	6.48971380362126e-05
+30-34	Female	Trimethobenzamide	Potassium chloride	0
+35-39	Female	Trimethobenzamide	Potassium chloride	0
+40-44	Female	Trimethobenzamide	Potassium chloride	0.000204540805890775
+45-49	Female	Trimethobenzamide	Potassium chloride	0
+50-54	Female	Trimethobenzamide	Potassium chloride	0
+55-59	Female	Trimethobenzamide	Potassium chloride	0.000174947515745276
+60-64	Female	Trimethobenzamide	Potassium chloride	9.25411808254673e-05
+65-69	Female	Trimethobenzamide	Potassium chloride	0
+70-74	Female	Trimethobenzamide	Potassium chloride	0.000158478605388273
+75-79	Female	Trimethobenzamide	Potassium chloride	0.000220361392684002
+80-84	Female	Trimethobenzamide	Potassium chloride	0.000301841231512225
+85-89	Female	Trimethobenzamide	Potassium chloride	0
+>90	Female	Trimethobenzamide	Potassium chloride	0

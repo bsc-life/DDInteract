@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Folic acid	Phenytoin	0
+05-09	Male	Folic acid	Phenytoin	0
+10-14	Male	Folic acid	Phenytoin	3.81101918085954e-06
+15-19	Male	Folic acid	Phenytoin	3.50585653333894e-06
+20-24	Male	Folic acid	Phenytoin	3.33592423448879e-06
+25-29	Male	Folic acid	Phenytoin	1.34399931187235e-05
+30-34	Male	Folic acid	Phenytoin	6.33379077377811e-06
+35-39	Male	Folic acid	Phenytoin	2.58196350947857e-05
+40-44	Male	Folic acid	Phenytoin	5.41433679041849e-05
+45-49	Male	Folic acid	Phenytoin	6.92268380234516e-05
+50-54	Male	Folic acid	Phenytoin	7.48166990872363e-05
+55-59	Male	Folic acid	Phenytoin	8.21711978212894e-05
+60-64	Male	Folic acid	Phenytoin	0.00010688639919155
+65-69	Male	Folic acid	Phenytoin	0.000111215559586384
+70-74	Male	Folic acid	Phenytoin	0.000147741912607704
+75-79	Male	Folic acid	Phenytoin	0.000200028074115665
+80-84	Male	Folic acid	Phenytoin	0.000274407661821797
+85-89	Male	Folic acid	Phenytoin	0.000318040330220598
+>90	Male	Folic acid	Phenytoin	0.000382189948404357

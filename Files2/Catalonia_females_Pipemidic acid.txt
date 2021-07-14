@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Pipemidic acid	0	6e-04	0.0024	4
+10-14	Female	Pipemidic acid	0	0.0012	0.0065	16
+15-19	Female	Pipemidic acid	0	0.0367	0.0831	249
+20-24	Female	Pipemidic acid	0	0.0427	0.1083	388
+25-29	Female	Pipemidic acid	0	0.0435	0.1018	458
+30-34	Female	Pipemidic acid	0	0.0472	0.1055	574
+35-39	Female	Pipemidic acid	0	0.049	0.0967	569
+40-44	Female	Pipemidic acid	0	0.0698	0.1201	683
+45-49	Female	Pipemidic acid	0	0.0852	0.1289	682
+50-54	Female	Pipemidic acid	0	0.1006	0.1517	763
+55-59	Female	Pipemidic acid	0	0.1266	0.1644	783
+60-64	Female	Pipemidic acid	0	0.1794	0.2225	1021
+65-69	Female	Pipemidic acid	0	0.2203	0.2633	1109
+70-74	Female	Pipemidic acid	0	0.2312	0.2696	1055
+75-79	Female	Pipemidic acid	0	0.2583	0.298	1065
+80-84	Female	Pipemidic acid	0	0.2426	0.2762	879
+85-89	Female	Pipemidic acid	0	0.2334	0.2512	635
+>90	Female	Pipemidic acid	0	0.2448	0.256	389

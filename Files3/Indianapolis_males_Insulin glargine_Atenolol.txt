@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Atenolol	0
+05-09	Male	Insulin glargine	Atenolol	0
+10-14	Male	Insulin glargine	Atenolol	0
+15-19	Male	Insulin glargine	Atenolol	0
+20-24	Male	Insulin glargine	Atenolol	0
+25-29	Male	Insulin glargine	Atenolol	0
+30-34	Male	Insulin glargine	Atenolol	0
+35-39	Male	Insulin glargine	Atenolol	0
+40-44	Male	Insulin glargine	Atenolol	0
+45-49	Male	Insulin glargine	Atenolol	0.000275520044083207
+50-54	Male	Insulin glargine	Atenolol	0.000993418601763318
+55-59	Male	Insulin glargine	Atenolol	0.000902323482968644
+60-64	Male	Insulin glargine	Atenolol	0.000243813239058881
+65-69	Male	Insulin glargine	Atenolol	0.00120228434024647
+70-74	Male	Insulin glargine	Atenolol	0.00128205128205128
+75-79	Male	Insulin glargine	Atenolol	0.000626370184779205
+80-84	Male	Insulin glargine	Atenolol	0.000990589400693413
+85-89	Male	Insulin glargine	Atenolol	0
+>90	Male	Insulin glargine	Atenolol	0

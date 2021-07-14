@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Zinc acetate	0	0	0.0359345990297658	6
+05-09	Male	Zinc acetate	0	0	0	0
+10-14	Male	Zinc acetate	0	0	0	0
+15-19	Male	Zinc acetate	0	0	0	0
+20-24	Male	Zinc acetate	0	0	0.0292868648411188	2
+25-29	Male	Zinc acetate	0	0	0.038163083577153	3
+30-34	Male	Zinc acetate	0	0	0.0130753138075314	1
+35-39	Male	Zinc acetate	0	0	0.0139958012596221	1
+40-44	Male	Zinc acetate	0	0	0	0
+45-49	Male	Zinc acetate	0	0	0.0137760022041604	1
+50-54	Male	Zinc acetate	0	0	0.0496709300881659	4
+55-59	Male	Zinc acetate	0	0	0.0338371306113242	3
+60-64	Male	Zinc acetate	0	0	0.0609533097647202	5
+65-69	Male	Zinc acetate	0	0	0.0300571085061617	2
+70-74	Male	Zinc acetate	0	0	0	0
+75-79	Male	Zinc acetate	0	0	0.125274036955841	4
+80-84	Male	Zinc acetate	0	0	0.0495294700346706	1
+85-89	Male	Zinc acetate	0	0	0	0
+>90	Male	Zinc acetate	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Ergotamine	Isosorbide mononitrate	0
+05-09	Female	Ergotamine	Isosorbide mononitrate	0
+10-14	Female	Ergotamine	Isosorbide mononitrate	0
+15-19	Female	Ergotamine	Isosorbide mononitrate	0
+20-24	Female	Ergotamine	Isosorbide mononitrate	0
+25-29	Female	Ergotamine	Isosorbide mononitrate	0
+30-34	Female	Ergotamine	Isosorbide mononitrate	0
+35-39	Female	Ergotamine	Isosorbide mononitrate	0
+40-44	Female	Ergotamine	Isosorbide mononitrate	0
+45-49	Female	Ergotamine	Isosorbide mononitrate	0
+50-54	Female	Ergotamine	Isosorbide mononitrate	0
+55-59	Female	Ergotamine	Isosorbide mononitrate	2.09988303651487e-06
+60-64	Female	Ergotamine	Isosorbide mononitrate	0
+65-69	Female	Ergotamine	Isosorbide mononitrate	0
+70-74	Female	Ergotamine	Isosorbide mononitrate	5.1101492674601e-06
+75-79	Female	Ergotamine	Isosorbide mononitrate	2.79839260328867e-06
+80-84	Female	Ergotamine	Isosorbide mononitrate	9.42702539640642e-06
+85-89	Female	Ergotamine	Isosorbide mononitrate	1.58219711802795e-05
+>90	Female	Ergotamine	Isosorbide mononitrate	6.58041930431807e-06

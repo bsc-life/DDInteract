@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Enalapril	Lithium cation	0
+05-09	Male	Enalapril	Lithium cation	0
+10-14	Male	Enalapril	Lithium cation	0
+15-19	Male	Enalapril	Lithium cation	0
+20-24	Male	Enalapril	Lithium cation	0
+25-29	Male	Enalapril	Lithium cation	0
+30-34	Male	Enalapril	Lithium cation	0.000252908447142135
+35-39	Male	Enalapril	Lithium cation	0.000274047684297068
+40-44	Male	Enalapril	Lithium cation	0
+45-49	Male	Enalapril	Lithium cation	0.000673249551166966
+50-54	Male	Enalapril	Lithium cation	0.000884564352056612
+55-59	Male	Enalapril	Lithium cation	0.000246669955599408
+60-64	Male	Enalapril	Lithium cation	0.000816993464052288
+65-69	Male	Enalapril	Lithium cation	0
+70-74	Male	Enalapril	Lithium cation	0.000523834468308015
+75-79	Male	Enalapril	Lithium cation	0
+80-84	Male	Enalapril	Lithium cation	0
+85-89	Male	Enalapril	Lithium cation	0
+>90	Male	Enalapril	Lithium cation	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Alendronic acid	Naproxen	0
+05-09	Female	Alendronic acid	Naproxen	0
+10-14	Female	Alendronic acid	Naproxen	0
+15-19	Female	Alendronic acid	Naproxen	0
+20-24	Female	Alendronic acid	Naproxen	0
+25-29	Female	Alendronic acid	Naproxen	0
+30-34	Female	Alendronic acid	Naproxen	0
+35-39	Female	Alendronic acid	Naproxen	0
+40-44	Female	Alendronic acid	Naproxen	0
+45-49	Female	Alendronic acid	Naproxen	0
+50-54	Female	Alendronic acid	Naproxen	9.23446301597562e-05
+55-59	Female	Alendronic acid	Naproxen	0.000262421273617915
+60-64	Female	Alendronic acid	Naproxen	0.000647788265778271
+65-69	Female	Alendronic acid	Naproxen	0.000672043010752688
+70-74	Female	Alendronic acid	Naproxen	0.00063391442155309
+75-79	Female	Alendronic acid	Naproxen	0.000220361392684002
+80-84	Female	Alendronic acid	Naproxen	0.000603682463024449
+85-89	Female	Alendronic acid	Naproxen	0.000442477876106195
+>90	Female	Alendronic acid	Naproxen	0

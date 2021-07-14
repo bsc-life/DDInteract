@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Isosorbide dinitrate	0	0.0186671644577189	0.0186671644577189	1
+05-09	Female	Isosorbide dinitrate	0	0	0	0
+10-14	Female	Isosorbide dinitrate	0	0	0	0
+15-19	Female	Isosorbide dinitrate	0	0	0	0
+20-24	Female	Isosorbide dinitrate	0	0.0153256704980843	0.0153256704980843	1
+25-29	Female	Isosorbide dinitrate	0	0	0	0
+30-34	Female	Isosorbide dinitrate	0	0.0672947510094213	0.0672947510094213	4
+35-39	Female	Isosorbide dinitrate	0	0.050192404216162	0.050192404216162	3
+40-44	Female	Isosorbide dinitrate	0	0.139448404090487	0.139448404090487	9
+45-49	Female	Isosorbide dinitrate	0	0.403057678943711	0.403057678943711	29
+50-54	Female	Isosorbide dinitrate	0	0.613162556206568	0.613162556206568	45
+55-59	Female	Isosorbide dinitrate	0	1.23979912115505	1.27118644067797	81
+60-64	Female	Isosorbide dinitrate	0	1.80550589917769	1.85913478727208	104
+65-69	Female	Isosorbide dinitrate	0	2.61265580057526	2.58868648130393	108
+70-74	Female	Isosorbide dinitrate	0	2.53658536585366	2.50406504065041	77
+75-79	Female	Isosorbide dinitrate	0	2.66781411359725	2.66781411359725	62
+80-84	Female	Isosorbide dinitrate	0	2.48366013071895	2.48366013071895	38
+85-89	Female	Isosorbide dinitrate	0	2.16867469879518	2.16867469879518	18
+>90	Female	Isosorbide dinitrate	0	2.07100591715976	2.07100591715976	7

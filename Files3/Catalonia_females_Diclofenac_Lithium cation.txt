@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Diclofenac	Lithium cation	0
+05-09	Female	Diclofenac	Lithium cation	0
+10-14	Female	Diclofenac	Lithium cation	0
+15-19	Female	Diclofenac	Lithium cation	1.33558156229653e-05
+20-24	Female	Diclofenac	Lithium cation	8.37518599892239e-06
+25-29	Female	Diclofenac	Lithium cation	5.10997556098645e-05
+30-34	Female	Diclofenac	Lithium cation	6.24808193073082e-05
+35-39	Female	Diclofenac	Lithium cation	0.000103710101363873
+40-44	Female	Diclofenac	Lithium cation	0.000158235359273383
+45-49	Female	Diclofenac	Lithium cation	0.000207869563738477
+50-54	Female	Diclofenac	Lithium cation	0.000228608687527706
+55-59	Female	Diclofenac	Lithium cation	0.000197389005432397
+60-64	Female	Diclofenac	Lithium cation	0.000159119047203864
+65-69	Female	Diclofenac	Lithium cation	0.000168545994065282
+70-74	Female	Diclofenac	Lithium cation	8.43174629130917e-05
+75-79	Female	Diclofenac	Lithium cation	7.83549928920828e-05
+80-84	Female	Diclofenac	Lithium cation	4.71351269820321e-05
+85-89	Female	Diclofenac	Lithium cation	1.58219711802795e-05
+>90	Female	Diclofenac	Lithium cation	6.58041930431807e-06

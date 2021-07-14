@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Conjugated estrogens	0	0	0	0
+05-09	Male	Conjugated estrogens	0	0	0	0
+10-14	Male	Conjugated estrogens	0	0	0	0
+15-19	Male	Conjugated estrogens	0	0	0	0
+20-24	Male	Conjugated estrogens	0	0	0	0
+25-29	Male	Conjugated estrogens	0	0	0	0
+30-34	Male	Conjugated estrogens	0	0	0	0
+35-39	Male	Conjugated estrogens	0	0.0279916025192442	0.0279916025192442	2
+40-44	Male	Conjugated estrogens	0	0	0	0
+45-49	Male	Conjugated estrogens	0	0	0	0
+50-54	Male	Conjugated estrogens	0	0	0	0
+55-59	Male	Conjugated estrogens	0	0	0	0
+60-64	Male	Conjugated estrogens	0	0	0.012190661952944	1
+65-69	Male	Conjugated estrogens	0	0	0	0
+70-74	Male	Conjugated estrogens	0	0	0	0
+75-79	Male	Conjugated estrogens	0	0	0	0
+80-84	Male	Conjugated estrogens	0	0	0	0
+85-89	Male	Conjugated estrogens	0	0	0	0
+>90	Male	Conjugated estrogens	0	0.162866449511401	0.162866449511401	1

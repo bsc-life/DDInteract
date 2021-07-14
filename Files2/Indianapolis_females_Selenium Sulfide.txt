@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Selenium Sulfide	0	0	0.142624286878566	21
+05-09	Female	Selenium Sulfide	0	0	0.144524735964425	13
+10-14	Female	Selenium Sulfide	0	0	0.171758066494909	14
+15-19	Female	Selenium Sulfide	0	0	0.105708245243129	11
+20-24	Female	Selenium Sulfide	0	0	0.0376081233546446	5
+25-29	Female	Selenium Sulfide	0	0	0.0519177104289701	8
+30-34	Female	Selenium Sulfide	0	0	0.0441728631377457	6
+35-39	Female	Selenium Sulfide	0	0	0.0425133917183913	5
+40-44	Female	Selenium Sulfide	0	0	0.0306811208836163	3
+45-49	Female	Selenium Sulfide	0	0	0.00975039001560062	1
+50-54	Female	Selenium Sulfide	0	0	0.073875704127805	8
+55-59	Female	Selenium Sulfide	0	0	0.0262421273617915	3
+60-64	Female	Selenium Sulfide	0	0	0.0555247084952804	6
+65-69	Female	Selenium Sulfide	0	0	0.0224014336917563	2
+70-74	Female	Selenium Sulfide	0	0	0.063391442155309	4
+75-79	Female	Selenium Sulfide	0	0	0	0
+80-84	Female	Selenium Sulfide	0	0	0.0603682463024449	2
+85-89	Female	Selenium Sulfide	0	0	0.0884955752212389	2
+>90	Female	Selenium Sulfide	0	0	0.0673854447439353	1

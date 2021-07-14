@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Chlorpropamide	Acetylsalicylic acid	0
+05-09	Female	Chlorpropamide	Acetylsalicylic acid	0
+10-14	Female	Chlorpropamide	Acetylsalicylic acid	0
+15-19	Female	Chlorpropamide	Acetylsalicylic acid	0
+20-24	Female	Chlorpropamide	Acetylsalicylic acid	0
+25-29	Female	Chlorpropamide	Acetylsalicylic acid	0
+30-34	Female	Chlorpropamide	Acetylsalicylic acid	0
+35-39	Female	Chlorpropamide	Acetylsalicylic acid	0
+40-44	Female	Chlorpropamide	Acetylsalicylic acid	0
+45-49	Female	Chlorpropamide	Acetylsalicylic acid	1.88972330671343e-06
+50-54	Female	Chlorpropamide	Acetylsalicylic acid	0
+55-59	Female	Chlorpropamide	Acetylsalicylic acid	2.09988303651487e-06
+60-64	Female	Chlorpropamide	Acetylsalicylic acid	6.5391389261862e-06
+65-69	Female	Chlorpropamide	Acetylsalicylic acid	1.66172106824926e-05
+70-74	Female	Chlorpropamide	Acetylsalicylic acid	1.27753731686503e-05
+75-79	Female	Chlorpropamide	Acetylsalicylic acid	3.63791038427527e-05
+80-84	Female	Chlorpropamide	Acetylsalicylic acid	3.14234179880214e-05
+85-89	Female	Chlorpropamide	Acetylsalicylic acid	3.95549279506987e-05
+>90	Female	Chlorpropamide	Acetylsalicylic acid	1.31608386086361e-05

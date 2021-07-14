@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Bisoprolol	Insulin aspart	0
+05-09	Female	Bisoprolol	Insulin aspart	0
+10-14	Female	Bisoprolol	Insulin aspart	0
+15-19	Female	Bisoprolol	Insulin aspart	6.67790781148266e-06
+20-24	Female	Bisoprolol	Insulin aspart	5.58345733261493e-06
+25-29	Female	Bisoprolol	Insulin aspart	2.22172850477672e-06
+30-34	Female	Bisoprolol	Insulin aspart	1.47013692487784e-05
+35-39	Female	Bisoprolol	Insulin aspart	2.55024839419359e-05
+40-44	Female	Bisoprolol	Insulin aspart	4.92287784406081e-05
+45-49	Female	Bisoprolol	Insulin aspart	0.000103934781869239
+50-54	Female	Bisoprolol	Insulin aspart	0.000170959540238111
+55-59	Female	Bisoprolol	Insulin aspart	0.000329681636732834
+60-64	Female	Bisoprolol	Insulin aspart	0.000525310827070291
+65-69	Female	Bisoprolol	Insulin aspart	0.000859347181008902
+70-74	Female	Bisoprolol	Insulin aspart	0.0011906647793182
+75-79	Female	Bisoprolol	Insulin aspart	0.00147195450932984
+80-84	Female	Bisoprolol	Insulin aspart	0.00145176191104659
+85-89	Female	Bisoprolol	Insulin aspart	0.00130135712957799
+>90	Female	Bisoprolol	Insulin aspart	0.000796230735822487

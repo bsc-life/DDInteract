@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Talimogene laherparepvec	0	0	0	0
+05-09	Male	Talimogene laherparepvec	0	0	0	0
+10-14	Male	Talimogene laherparepvec	0	0	0	0
+15-19	Male	Talimogene laherparepvec	0	0	0	0
+20-24	Male	Talimogene laherparepvec	0	0	0	0
+25-29	Male	Talimogene laherparepvec	0	0	0	0
+30-34	Male	Talimogene laherparepvec	0	0	0	0
+35-39	Male	Talimogene laherparepvec	0	0	0	0
+40-44	Male	Talimogene laherparepvec	0	0	0	0
+45-49	Male	Talimogene laherparepvec	0	0	0	0
+50-54	Male	Talimogene laherparepvec	0	0	0	0
+55-59	Male	Talimogene laherparepvec	0	0.0112790435371081	0.0112790435371081	1
+60-64	Male	Talimogene laherparepvec	0	0	0	0
+65-69	Male	Talimogene laherparepvec	0	0	0	0
+70-74	Male	Talimogene laherparepvec	0	0	0	0
+75-79	Male	Talimogene laherparepvec	0	0	0	0
+80-84	Male	Talimogene laherparepvec	0	0	0	0
+85-89	Male	Talimogene laherparepvec	0	0	0	0
+>90	Male	Talimogene laherparepvec	0	0	0	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Typhoid Vaccine Live	0	0	0	0
+05-09	Male	Typhoid Vaccine Live	0	0	0.0804262591736202	8
+10-14	Male	Typhoid Vaccine Live	0	0	0.046778154601801	4
+15-19	Male	Typhoid Vaccine Live	0	0	0.222934373693744	16
+20-24	Male	Typhoid Vaccine Live	0	0	0.205008053887831	14
+25-29	Male	Typhoid Vaccine Live	0	0	0.38163083577153	30
+30-34	Male	Typhoid Vaccine Live	0	0	0.28765690376569	22
+35-39	Male	Typhoid Vaccine Live	0	0	0.279916025192442	20
+40-44	Male	Typhoid Vaccine Live	0	0	0.222353987548177	15
+45-49	Male	Typhoid Vaccine Live	0	0	0.192864030858245	14
+50-54	Male	Typhoid Vaccine Live	0	0	0.173848255308581	14
+55-59	Male	Typhoid Vaccine Live	0	0	0.169185653056621	15
+60-64	Male	Typhoid Vaccine Live	0	0	0.12190661952944	10
+65-69	Male	Typhoid Vaccine Live	0	0	0.195371205290051	13
+70-74	Male	Typhoid Vaccine Live	0	0	0.106837606837607	5
+75-79	Male	Typhoid Vaccine Live	0	0	0	0
+80-84	Male	Typhoid Vaccine Live	0	0	0.0495294700346706	1
+85-89	Male	Typhoid Vaccine Live	0	0	0	0
+>90	Male	Typhoid Vaccine Live	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Perindopril	Lithium cation	0
+05-09	Male	Perindopril	Lithium cation	0
+10-14	Male	Perindopril	Lithium cation	0
+15-19	Male	Perindopril	Lithium cation	0
+20-24	Male	Perindopril	Lithium cation	0
+25-29	Male	Perindopril	Lithium cation	0
+30-34	Male	Perindopril	Lithium cation	0
+35-39	Male	Perindopril	Lithium cation	0
+40-44	Male	Perindopril	Lithium cation	0
+45-49	Male	Perindopril	Lithium cation	0
+50-54	Male	Perindopril	Lithium cation	2.2004911496246e-06
+55-59	Male	Perindopril	Lithium cation	0
+60-64	Male	Perindopril	Lithium cation	2.4292363452625e-06
+65-69	Male	Perindopril	Lithium cation	0
+70-74	Male	Perindopril	Lithium cation	0
+75-79	Male	Perindopril	Lithium cation	3.50926445816957e-06
+80-84	Male	Perindopril	Lithium cation	4.49848625937372e-06
+85-89	Male	Perindopril	Lithium cation	6.76681553660847e-06
+>90	Male	Perindopril	Lithium cation	1.46996134001676e-05

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Doxycycline	0
+05-09	Female	Insulin glargine	Doxycycline	0
+10-14	Female	Insulin glargine	Doxycycline	0
+15-19	Female	Insulin glargine	Doxycycline	0.000192196809532962
+20-24	Female	Insulin glargine	Doxycycline	0.000150432493418578
+25-29	Female	Insulin glargine	Doxycycline	0
+30-34	Female	Insulin glargine	Doxycycline	0.000294485754251638
+35-39	Female	Insulin glargine	Doxycycline	0.000765241050931043
+40-44	Female	Insulin glargine	Doxycycline	0.000818163223563101
+45-49	Female	Insulin glargine	Doxycycline	0.0015600624024961
+50-54	Female	Insulin glargine	Doxycycline	0.00193923723335488
+55-59	Female	Insulin glargine	Doxycycline	0.00288663400979706
+60-64	Female	Insulin glargine	Doxycycline	0.00231352952063668
+65-69	Female	Insulin glargine	Doxycycline	0.00403225806451613
+70-74	Female	Insulin glargine	Doxycycline	0.00412044374009509
+75-79	Female	Insulin glargine	Doxycycline	0.00506831203173204
+80-84	Female	Insulin glargine	Doxycycline	0.00181104738907335
+85-89	Female	Insulin glargine	Doxycycline	0.00176991150442478
+>90	Female	Insulin glargine	Doxycycline	0

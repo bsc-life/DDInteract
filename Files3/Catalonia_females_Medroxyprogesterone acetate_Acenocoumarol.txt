@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Medroxyprogesterone acetate	Acenocoumarol	0
+05-09	Female	Medroxyprogesterone acetate	Acenocoumarol	0
+10-14	Female	Medroxyprogesterone acetate	Acenocoumarol	0
+15-19	Female	Medroxyprogesterone acetate	Acenocoumarol	0
+20-24	Female	Medroxyprogesterone acetate	Acenocoumarol	2.79172866630746e-06
+25-29	Female	Medroxyprogesterone acetate	Acenocoumarol	2.22172850477672e-06
+30-34	Female	Medroxyprogesterone acetate	Acenocoumarol	7.3506846243892e-06
+35-39	Female	Medroxyprogesterone acetate	Acenocoumarol	3.40033119225813e-06
+40-44	Female	Medroxyprogesterone acetate	Acenocoumarol	3.51634131718629e-06
+45-49	Female	Medroxyprogesterone acetate	Acenocoumarol	5.66916992014029e-06
+50-54	Female	Medroxyprogesterone acetate	Acenocoumarol	7.95160652270283e-06
+55-59	Female	Medroxyprogesterone acetate	Acenocoumarol	6.2996491095446e-06
+60-64	Female	Medroxyprogesterone acetate	Acenocoumarol	4.3594259507908e-06
+65-69	Female	Medroxyprogesterone acetate	Acenocoumarol	7.12166172106825e-06
+70-74	Female	Medroxyprogesterone acetate	Acenocoumarol	1.02202985349202e-05
+75-79	Female	Medroxyprogesterone acetate	Acenocoumarol	8.39517780986601e-06
+80-84	Female	Medroxyprogesterone acetate	Acenocoumarol	9.42702539640642e-06
+85-89	Female	Medroxyprogesterone acetate	Acenocoumarol	1.58219711802795e-05
+>90	Female	Medroxyprogesterone acetate	Acenocoumarol	6.58041930431807e-06

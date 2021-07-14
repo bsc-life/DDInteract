@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Mycophenolic acid	0	0.0042	0.0042	3
+05-09	Female	Mycophenolic acid	0	0.0189	0.0207	35
+10-14	Female	Mycophenolic acid	0	0.0396	0.0424	105
+15-19	Female	Mycophenolic acid	0	0.0471	0.0498	149
+20-24	Female	Mycophenolic acid	0	0.0494	0.0511	183
+25-29	Female	Mycophenolic acid	0	0.0622	0.0655	295
+30-34	Female	Mycophenolic acid	0	0.0785	0.0818	445
+35-39	Female	Mycophenolic acid	0	0.0966	0.1	588
+40-44	Female	Mycophenolic acid	0	0.1245	0.1278	727
+45-49	Female	Mycophenolic acid	0	0.1538	0.1576	834
+50-54	Female	Mycophenolic acid	0	0.1795	0.1823	917
+55-59	Female	Mycophenolic acid	0	0.2018	0.206	981
+60-64	Female	Mycophenolic acid	0	0.2164	0.2202	1010
+65-69	Female	Mycophenolic acid	0	0.2239	0.2305	971
+70-74	Female	Mycophenolic acid	0	0.2072	0.2108	825
+75-79	Female	Mycophenolic acid	0	0.1503	0.1536	549
+80-84	Female	Mycophenolic acid	0	0.0936	0.0946	301
+85-89	Female	Mycophenolic acid	0	0.0427	0.0451	114
+>90	Female	Mycophenolic acid	0	0.0184	0.0197	30

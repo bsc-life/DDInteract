@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Simvastatin	Fusidic acid	0
+05-09	Female	Simvastatin	Fusidic acid	0
+10-14	Female	Simvastatin	Fusidic acid	0
+15-19	Female	Simvastatin	Fusidic acid	0
+20-24	Female	Simvastatin	Fusidic acid	0
+25-29	Female	Simvastatin	Fusidic acid	0
+30-34	Female	Simvastatin	Fusidic acid	1.8376711560973e-06
+35-39	Female	Simvastatin	Fusidic acid	1.70016559612906e-06
+40-44	Female	Simvastatin	Fusidic acid	7.03268263437259e-06
+45-49	Female	Simvastatin	Fusidic acid	3.77944661342686e-05
+50-54	Female	Simvastatin	Fusidic acid	4.7709639136217e-05
+55-59	Female	Simvastatin	Fusidic acid	9.86945027161987e-05
+60-64	Female	Simvastatin	Fusidic acid	0.00013732191744991
+65-69	Female	Simvastatin	Fusidic acid	0.000151928783382789
+70-74	Female	Simvastatin	Fusidic acid	0.000194185672163484
+75-79	Female	Simvastatin	Fusidic acid	0.000207081052643362
+80-84	Female	Simvastatin	Fusidic acid	0.000210536900519743
+85-89	Female	Simvastatin	Fusidic acid	0.000158219711802795
+>90	Female	Simvastatin	Fusidic acid	0.00017109090191227

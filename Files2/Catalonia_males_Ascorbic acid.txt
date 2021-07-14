@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	Male	Ascorbic acid	0	0.0011	0.0011	3
+20-24	Male	Ascorbic acid	0	3e-04	3e-04	1
+25-29	Male	Ascorbic acid	0	5e-04	8e-04	3
+30-34	Male	Ascorbic acid	0	0.0015	0.0015	7
+35-39	Male	Ascorbic acid	0	0.0018	0.0018	10
+40-44	Male	Ascorbic acid	0	0.0032	0.0032	17
+45-49	Male	Ascorbic acid	0	0.0037	0.0039	19
+50-54	Male	Ascorbic acid	0	0.0037	0.004	18
+55-59	Male	Ascorbic acid	0	0.0059	0.0061	26
+60-64	Male	Ascorbic acid	0	0.0085	0.0085	35
+65-69	Male	Ascorbic acid	0	0.0111	0.0111	42
+70-74	Male	Ascorbic acid	0	0.0157	0.016	54
+75-79	Male	Ascorbic acid	0	0.0249	0.0263	75
+80-84	Male	Ascorbic acid	0	0.0319	0.0324	72
+85-89	Male	Ascorbic acid	0	0.0223	0.023	34
+>90	Male	Ascorbic acid	0	0.0147	0.0147	10

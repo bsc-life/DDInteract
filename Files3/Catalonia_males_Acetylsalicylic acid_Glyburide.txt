@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Glyburide	1.29594111243585e-05
+05-09	Male	Acetylsalicylic acid	Glyburide	1.12553674033305e-05
+10-14	Male	Acetylsalicylic acid	Glyburide	3.81101918085954e-06
+15-19	Male	Acetylsalicylic acid	Glyburide	3.50585653333894e-06
+20-24	Male	Acetylsalicylic acid	Glyburide	1.00077727034664e-05
+25-29	Male	Acetylsalicylic acid	Glyburide	1.34399931187235e-05
+30-34	Male	Acetylsalicylic acid	Glyburide	2.74464266863718e-05
+35-39	Male	Acetylsalicylic acid	Glyburide	9.036872283175e-05
+40-44	Male	Acetylsalicylic acid	Glyburide	0.000255780738030115
+45-49	Male	Acetylsalicylic acid	Glyburide	0.000726881799246242
+50-54	Male	Acetylsalicylic acid	Glyburide	0.00174718997280193
+55-59	Male	Acetylsalicylic acid	Glyburide	0.00350518852420529
+60-64	Male	Acetylsalicylic acid	Glyburide	0.00593705362782156
+65-69	Male	Acetylsalicylic acid	Glyburide	0.00850534231884442
+70-74	Male	Acetylsalicylic acid	Glyburide	0.00997257910102001
+75-79	Male	Acetylsalicylic acid	Glyburide	0.0114051094890511
+80-84	Male	Acetylsalicylic acid	Glyburide	0.0112012307858406
+85-89	Male	Acetylsalicylic acid	Glyburide	0.00868182433346867
+>90	Male	Acetylsalicylic acid	Glyburide	0.00668832409707625

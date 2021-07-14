@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Dexamethasone	Bismuth subsalicylate	0
+05-09	Female	Dexamethasone	Bismuth subsalicylate	0
+10-14	Female	Dexamethasone	Bismuth subsalicylate	0.000122684333210649
+15-19	Female	Dexamethasone	Bismuth subsalicylate	0
+20-24	Female	Dexamethasone	Bismuth subsalicylate	0
+25-29	Female	Dexamethasone	Bismuth subsalicylate	0
+30-34	Female	Dexamethasone	Bismuth subsalicylate	0
+35-39	Female	Dexamethasone	Bismuth subsalicylate	0
+40-44	Female	Dexamethasone	Bismuth subsalicylate	0.000204540805890775
+45-49	Female	Dexamethasone	Bismuth subsalicylate	0
+50-54	Female	Dexamethasone	Bismuth subsalicylate	0
+55-59	Female	Dexamethasone	Bismuth subsalicylate	0
+60-64	Female	Dexamethasone	Bismuth subsalicylate	0
+65-69	Female	Dexamethasone	Bismuth subsalicylate	0
+70-74	Female	Dexamethasone	Bismuth subsalicylate	0
+75-79	Female	Dexamethasone	Bismuth subsalicylate	0
+80-84	Female	Dexamethasone	Bismuth subsalicylate	0
+85-89	Female	Dexamethasone	Bismuth subsalicylate	0
+>90	Female	Dexamethasone	Bismuth subsalicylate	0

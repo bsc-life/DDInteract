@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Mycophenolate mofetil	Calcium	0
+05-09	Female	Mycophenolate mofetil	Calcium	0
+10-14	Female	Mycophenolate mofetil	Calcium	0.000245368666421298
+15-19	Female	Mycophenolate mofetil	Calcium	0.000288295214299443
+20-24	Female	Mycophenolate mofetil	Calcium	0.000225648740127868
+25-29	Female	Mycophenolate mofetil	Calcium	0.000194691414108638
+30-34	Female	Mycophenolate mofetil	Calcium	0.000147242877125819
+35-39	Female	Mycophenolate mofetil	Calcium	0.00034010713374713
+40-44	Female	Mycophenolate mofetil	Calcium	0.000102270402945388
+45-49	Female	Mycophenolate mofetil	Calcium	0.000390015600624025
+50-54	Female	Mycophenolate mofetil	Calcium	0.000277033890479269
+55-59	Female	Mycophenolate mofetil	Calcium	0.000612316305108467
+60-64	Female	Mycophenolate mofetil	Calcium	0.000740329446603739
+65-69	Female	Mycophenolate mofetil	Calcium	0.00100806451612903
+70-74	Female	Mycophenolate mofetil	Calcium	0.00110935023771791
+75-79	Female	Mycophenolate mofetil	Calcium	0.000220361392684002
+80-84	Female	Mycophenolate mofetil	Calcium	0.000301841231512225
+85-89	Female	Mycophenolate mofetil	Calcium	0
+>90	Female	Mycophenolate mofetil	Calcium	0

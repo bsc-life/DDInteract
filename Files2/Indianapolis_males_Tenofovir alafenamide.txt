@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Tenofovir alafenamide	0	0	0	0
+05-09	Male	Tenofovir alafenamide	0	0	0	0
+10-14	Male	Tenofovir alafenamide	0	0.0233890773009005	0.0233890773009005	2
+15-19	Male	Tenofovir alafenamide	0	0.083600390135154	0.083600390135154	6
+20-24	Male	Tenofovir alafenamide	0	0.307512080831747	0.307512080831747	21
+25-29	Male	Tenofovir alafenamide	0	0.75054064368401	0.75054064368401	59
+30-34	Male	Tenofovir alafenamide	0	0.745292887029289	0.745292887029289	57
+35-39	Male	Tenofovir alafenamide	0	0.755773268019594	0.755773268019594	54
+40-44	Male	Tenofovir alafenamide	0	0.904239549362585	0.904239549362585	61
+45-49	Male	Tenofovir alafenamide	0	0.867888138862102	0.867888138862102	63
+50-54	Male	Tenofovir alafenamide	0	0.682975288712281	0.682975288712281	55
+55-59	Male	Tenofovir alafenamide	0	0.473719828558538	0.473719828558538	42
+60-64	Male	Tenofovir alafenamide	0	0.231622577105937	0.231622577105937	19
+65-69	Male	Tenofovir alafenamide	0	0.165314096783889	0.165314096783889	11
+70-74	Male	Tenofovir alafenamide	0	0.0427350427350427	0.0427350427350427	2
+75-79	Male	Tenofovir alafenamide	0	0	0	0
+80-84	Male	Tenofovir alafenamide	0	0	0	0
+85-89	Male	Tenofovir alafenamide	0	0	0	0
+>90	Male	Tenofovir alafenamide	0	0	0	0

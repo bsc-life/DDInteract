@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Fluocinolone acetonide	0	0.2501	0.5391	416
+05-09	Male	Fluocinolone acetonide	0	0.1323	0.3033	539
+10-14	Male	Fluocinolone acetonide	0	0.056	0.1208	317
+15-19	Male	Fluocinolone acetonide	0	0.1217	0.2223	634
+20-24	Male	Fluocinolone acetonide	0	0.2655	0.4557	1366
+25-29	Male	Fluocinolone acetonide	0	0.4075	0.6693	2490
+30-34	Male	Fluocinolone acetonide	0	0.5147	0.8228	3897
+35-39	Male	Fluocinolone acetonide	0	0.5116	0.7945	4308
+40-44	Male	Fluocinolone acetonide	0	0.4996	0.7511	4023
+45-49	Male	Fluocinolone acetonide	0	0.5251	0.7411	3640
+50-54	Male	Fluocinolone acetonide	0	0.5312	0.7262	3300
+55-59	Male	Fluocinolone acetonide	0	0.5635	0.7463	3179
+60-64	Male	Fluocinolone acetonide	0	0.7978	0.98	4034
+65-69	Male	Fluocinolone acetonide	0	1.0348	1.2263	4631
+70-74	Male	Fluocinolone acetonide	0	1.0298	1.1813	3998
+75-79	Male	Fluocinolone acetonide	0	1.1988	1.3465	3837
+80-84	Male	Fluocinolone acetonide	0	0.978	1.0801	2401
+85-89	Male	Fluocinolone acetonide	0	0.7802	0.8465	1251
+>90	Male	Fluocinolone acetonide	0	0.685	0.7276	495

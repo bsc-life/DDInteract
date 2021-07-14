@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Diclofenac	Alendronic acid	0
+05-09	Female	Diclofenac	Alendronic acid	1.18226368026861e-05
+10-14	Female	Diclofenac	Alendronic acid	0
+15-19	Female	Diclofenac	Alendronic acid	3.33895390574133e-06
+20-24	Female	Diclofenac	Alendronic acid	8.37518599892239e-06
+25-29	Female	Diclofenac	Alendronic acid	6.66518551433015e-06
+30-34	Female	Diclofenac	Alendronic acid	2.38897250292649e-05
+35-39	Female	Diclofenac	Alendronic acid	4.76046366916138e-05
+40-44	Female	Diclofenac	Alendronic acid	0.000116039263467148
+45-49	Female	Diclofenac	Alendronic acid	0.000359047428275552
+50-54	Female	Diclofenac	Alendronic acid	0.00149092622300678
+55-59	Female	Diclofenac	Alendronic acid	0.00373359203892343
+60-64	Female	Diclofenac	Alendronic acid	0.00614679059061503
+65-69	Female	Diclofenac	Alendronic acid	0.00743738872403561
+70-74	Female	Diclofenac	Alendronic acid	0.00719253509395009
+75-79	Female	Diclofenac	Alendronic acid	0.007435329146938
+80-84	Female	Diclofenac	Alendronic acid	0.00629725296479949
+85-89	Female	Diclofenac	Alendronic acid	0.00392384885270931
+>90	Female	Diclofenac	Alendronic acid	0.00252030059355382

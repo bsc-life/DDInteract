@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Bifidobacterium longum infantis	0	0	0	0
+05-09	Male	Bifidobacterium longum infantis	0	0.0100532823967025	0.0100532823967025	1
+10-14	Male	Bifidobacterium longum infantis	0	0.0116945386504502	0.0116945386504502	1
+15-19	Male	Bifidobacterium longum infantis	0	0.027866796711718	0.027866796711718	2
+20-24	Male	Bifidobacterium longum infantis	0	0	0	0
+25-29	Male	Bifidobacterium longum infantis	0	0.038163083577153	0.038163083577153	3
+30-34	Male	Bifidobacterium longum infantis	0	0.0784518828451883	0.0915271966527197	7
+35-39	Male	Bifidobacterium longum infantis	0	0.0559832050384885	0.0559832050384885	4
+40-44	Male	Bifidobacterium longum infantis	0	0.0741179958493922	0.0741179958493922	5
+45-49	Male	Bifidobacterium longum infantis	0	0.0688800110208018	0.0688800110208018	5
+50-54	Male	Bifidobacterium longum infantis	0	0.0620886626102074	0.0620886626102074	5
+55-59	Male	Bifidobacterium longum infantis	0	0.112790435371081	0.124069478908189	11
+60-64	Male	Bifidobacterium longum infantis	0	0.0731439717176643	0.0853346336706083	7
+65-69	Male	Bifidobacterium longum infantis	0	0.135256988277728	0.150285542530809	10
+70-74	Male	Bifidobacterium longum infantis	0	0.192307692307692	0.192307692307692	9
+75-79	Male	Bifidobacterium longum infantis	0	0.250548073911682	0.250548073911682	8
+80-84	Male	Bifidobacterium longum infantis	0	0.0990589400693413	0.0990589400693413	2
+85-89	Male	Bifidobacterium longum infantis	0	0.242718446601942	0.323624595469256	4
+>90	Male	Bifidobacterium longum infantis	0	0	0	0

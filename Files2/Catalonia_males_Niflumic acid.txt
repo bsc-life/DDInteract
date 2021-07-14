@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Niflumic acid	0	0	0.0013	1
+05-09	Male	Niflumic acid	0	0.0079	0.0135	24
+10-14	Male	Niflumic acid	0	0.0118	0.0271	71
+15-19	Male	Niflumic acid	0	0.0259	0.0417	119
+20-24	Male	Niflumic acid	0	0.0267	0.043	129
+25-29	Male	Niflumic acid	0	0.0239	0.0382	142
+30-34	Male	Niflumic acid	0	0.0253	0.0407	193
+35-39	Male	Niflumic acid	0	0.0275	0.042	228
+40-44	Male	Niflumic acid	0	0.0241	0.0325	174
+45-49	Male	Niflumic acid	0	0.0336	0.0424	208
+50-54	Male	Niflumic acid	0	0.026	0.0319	145
+55-59	Male	Niflumic acid	0	0.0268	0.034	145
+60-64	Male	Niflumic acid	0	0.035	0.0411	169
+65-69	Male	Niflumic acid	0	0.0461	0.0522	197
+70-74	Male	Niflumic acid	0	0.031	0.0337	114
+75-79	Male	Niflumic acid	0	0.0337	0.0358	102
+80-84	Male	Niflumic acid	0	0.0184	0.0198	44
+85-89	Male	Niflumic acid	0	0.0135	0.0142	21
+>90	Male	Niflumic acid	0	0.0073	0.0073	5

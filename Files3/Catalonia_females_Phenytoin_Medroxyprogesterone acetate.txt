@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Phenytoin	Medroxyprogesterone acetate	0
+05-09	Female	Phenytoin	Medroxyprogesterone acetate	0
+10-14	Female	Phenytoin	Medroxyprogesterone acetate	0
+15-19	Female	Phenytoin	Medroxyprogesterone acetate	0
+20-24	Female	Phenytoin	Medroxyprogesterone acetate	2.79172866630746e-06
+25-29	Female	Phenytoin	Medroxyprogesterone acetate	4.44345700955343e-06
+30-34	Female	Phenytoin	Medroxyprogesterone acetate	3.6753423121946e-06
+35-39	Female	Phenytoin	Medroxyprogesterone acetate	3.40033119225813e-06
+40-44	Female	Phenytoin	Medroxyprogesterone acetate	1.05490239515589e-05
+45-49	Female	Phenytoin	Medroxyprogesterone acetate	7.55889322685372e-06
+50-54	Female	Phenytoin	Medroxyprogesterone acetate	3.97580326135142e-06
+55-59	Female	Phenytoin	Medroxyprogesterone acetate	2.09988303651487e-06
+60-64	Female	Phenytoin	Medroxyprogesterone acetate	0
+65-69	Female	Phenytoin	Medroxyprogesterone acetate	0
+70-74	Female	Phenytoin	Medroxyprogesterone acetate	0
+75-79	Female	Phenytoin	Medroxyprogesterone acetate	0
+80-84	Female	Phenytoin	Medroxyprogesterone acetate	0
+85-89	Female	Phenytoin	Medroxyprogesterone acetate	0
+>90	Female	Phenytoin	Medroxyprogesterone acetate	0

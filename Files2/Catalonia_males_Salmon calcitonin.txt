@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Salmon calcitonin	0	0.0013	0.0013	1
+05-09	Male	Salmon calcitonin	0	0	6e-04	1
+10-14	Male	Salmon calcitonin	0	0.0023	0.003	8
+15-19	Male	Salmon calcitonin	0	0.0105	0.0228	65
+20-24	Male	Salmon calcitonin	0	0.021	0.0467	140
+25-29	Male	Salmon calcitonin	0	0.0226	0.0497	185
+30-34	Male	Salmon calcitonin	0	0.0285	0.0604	286
+35-39	Male	Salmon calcitonin	0	0.0382	0.0688	373
+40-44	Male	Salmon calcitonin	0	0.0416	0.0678	363
+45-49	Male	Salmon calcitonin	0	0.0584	0.0884	434
+50-54	Male	Salmon calcitonin	0	0.0775	0.1085	493
+55-59	Male	Salmon calcitonin	0	0.0894	0.1195	509
+60-64	Male	Salmon calcitonin	0	0.1151	0.138	568
+65-69	Male	Salmon calcitonin	0	0.1488	0.17	642
+70-74	Male	Salmon calcitonin	0	0.1965	0.2192	742
+75-79	Male	Salmon calcitonin	0	0.2737	0.2951	841
+80-84	Male	Salmon calcitonin	0	0.3149	0.3401	756
+85-89	Male	Salmon calcitonin	0	0.3593	0.3715	549
+>90	Male	Salmon calcitonin	0	0.3499	0.366	249

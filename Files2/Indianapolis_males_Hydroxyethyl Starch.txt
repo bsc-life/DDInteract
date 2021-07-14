@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Hydroxyethyl Starch	0	0	0	0
+05-09	Male	Hydroxyethyl Starch	0	0	0	0
+10-14	Male	Hydroxyethyl Starch	0	0	0	0
+15-19	Male	Hydroxyethyl Starch	0	0	0	0
+20-24	Male	Hydroxyethyl Starch	0	0	0	0
+25-29	Male	Hydroxyethyl Starch	0	0.012721027859051	0.012721027859051	1
+30-34	Male	Hydroxyethyl Starch	0	0.0130753138075314	0.0130753138075314	1
+35-39	Male	Hydroxyethyl Starch	0	0	0	0
+40-44	Male	Hydroxyethyl Starch	0	0.0296471983397569	0.0296471983397569	2
+45-49	Male	Hydroxyethyl Starch	0	0.0413280066124811	0.0413280066124811	3
+50-54	Male	Hydroxyethyl Starch	0	0.0372531975661244	0.0372531975661244	3
+55-59	Male	Hydroxyethyl Starch	0	0.146627565982405	0.146627565982405	13
+60-64	Male	Hydroxyethyl Starch	0	0.0975252956235524	0.109715957576496	9
+65-69	Male	Hydroxyethyl Starch	0	0.0601142170123234	0.0601142170123234	4
+70-74	Male	Hydroxyethyl Starch	0	0.0427350427350427	0.0427350427350427	2
+75-79	Male	Hydroxyethyl Starch	0	0.0626370184779205	0.0626370184779205	2
+80-84	Male	Hydroxyethyl Starch	0	0	0	0
+85-89	Male	Hydroxyethyl Starch	0	0	0	0
+>90	Male	Hydroxyethyl Starch	0	0	0	0

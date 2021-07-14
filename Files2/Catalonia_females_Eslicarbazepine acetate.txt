@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Eslicarbazepine acetate	0	0	0.0018	3
+10-14	Female	Eslicarbazepine acetate	0	0.0032	0.0048	12
+15-19	Female	Eslicarbazepine acetate	0	0.0264	0.029	87
+20-24	Female	Eslicarbazepine acetate	0	0.0288	0.0315	113
+25-29	Female	Eslicarbazepine acetate	0	0.0251	0.0287	129
+30-34	Female	Eslicarbazepine acetate	0	0.027	0.03	163
+35-39	Female	Eslicarbazepine acetate	0	0.0335	0.0371	218
+40-44	Female	Eslicarbazepine acetate	0	0.0404	0.045	256
+45-49	Female	Eslicarbazepine acetate	0	0.0421	0.0471	249
+50-54	Female	Eslicarbazepine acetate	0	0.038	0.0431	217
+55-59	Female	Eslicarbazepine acetate	0	0.046	0.0489	233
+60-64	Female	Eslicarbazepine acetate	0	0.0438	0.0466	214
+65-69	Female	Eslicarbazepine acetate	0	0.0415	0.0451	190
+70-74	Female	Eslicarbazepine acetate	0	0.0376	0.0401	157
+75-79	Female	Eslicarbazepine acetate	0	0.0274	0.0285	102
+80-84	Female	Eslicarbazepine acetate	0	0.0239	0.0258	82
+85-89	Female	Eslicarbazepine acetate	0	0.0241	0.0245	62
+>90	Female	Eslicarbazepine acetate	0	0.0138	0.0145	22

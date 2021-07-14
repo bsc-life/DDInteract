@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Aluminum acetate	0	0	0.0299454991914715	5
+05-09	Male	Aluminum acetate	0	0	0.0301598471901076	3
+10-14	Male	Aluminum acetate	0	0	0	0
+15-19	Male	Aluminum acetate	0	0	0	0
+20-24	Male	Aluminum acetate	0	0	0	0
+25-29	Male	Aluminum acetate	0	0	0	0
+30-34	Male	Aluminum acetate	0	0	0	0
+35-39	Male	Aluminum acetate	0	0	0	0
+40-44	Male	Aluminum acetate	0	0	0	0
+45-49	Male	Aluminum acetate	0	0	0	0
+50-54	Male	Aluminum acetate	0	0	0	0
+55-59	Male	Aluminum acetate	0	0	0	0
+60-64	Male	Aluminum acetate	0	0	0	0
+65-69	Male	Aluminum acetate	0	0	0	0
+70-74	Male	Aluminum acetate	0	0	0	0
+75-79	Male	Aluminum acetate	0	0	0	0
+80-84	Male	Aluminum acetate	0	0	0	0
+85-89	Male	Aluminum acetate	0	0	0	0
+>90	Male	Aluminum acetate	0	0	0	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Dimethyl sulfoxide	0	0	0	0
+05-09	Female	Dimethyl sulfoxide	0	0	0	0
+10-14	Female	Dimethyl sulfoxide	0	0	0	0
+15-19	Female	Dimethyl sulfoxide	0	0	0	0
+20-24	Female	Dimethyl sulfoxide	0	0	0	0
+25-29	Female	Dimethyl sulfoxide	0	0.00648971380362126	0.00648971380362126	1
+30-34	Female	Dimethyl sulfoxide	0	0.0220864315688729	0.0220864315688729	3
+35-39	Female	Dimethyl sulfoxide	0	0.0255080350310348	0.0255080350310348	3
+40-44	Female	Dimethyl sulfoxide	0	0.0306811208836163	0.040908161178155	4
+45-49	Female	Dimethyl sulfoxide	0	0.0195007800312012	0.0195007800312012	2
+50-54	Female	Dimethyl sulfoxide	0	0.0277033890479269	0.0277033890479269	3
+55-59	Female	Dimethyl sulfoxide	0	0.00874737578726382	0.00874737578726382	1
+60-64	Female	Dimethyl sulfoxide	0	0.0185082361650935	0.0185082361650935	2
+65-69	Female	Dimethyl sulfoxide	0	0.0224014336917563	0.0336021505376344	3
+70-74	Female	Dimethyl sulfoxide	0	0	0	0
+75-79	Female	Dimethyl sulfoxide	0	0.0220361392684002	0.0220361392684002	1
+80-84	Female	Dimethyl sulfoxide	0	0	0.0301841231512225	1
+85-89	Female	Dimethyl sulfoxide	0	0	0	0
+>90	Female	Dimethyl sulfoxide	0	0	0	0

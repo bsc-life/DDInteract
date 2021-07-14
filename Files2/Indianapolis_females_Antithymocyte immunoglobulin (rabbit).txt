@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Antithymocyte immunoglobulin (rabbit)	0	6.79163270850312e-05	6.79163270850312e-05	1
+05-09	Female	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+10-14	Female	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+15-19	Female	Antithymocyte immunoglobulin (rabbit)	0	9.60984047664809e-05	9.60984047664809e-05	1
+20-24	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000225648740127868	0.000225648740127868	3
+25-29	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000129794276072425	0.000129794276072425	2
+30-34	Female	Antithymocyte immunoglobulin (rabbit)	0	7.36214385629095e-05	7.36214385629095e-05	1
+35-39	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000170053566873565	0.000170053566873565	2
+40-44	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000715892820617713	0.000715892820617713	7
+45-49	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000487519500780031	0.000487519500780031	5
+50-54	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000554067780958537	0.000554067780958537	6
+55-59	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000524842547235829	0.000524842547235829	6
+60-64	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000740329446603739	0.000740329446603739	8
+65-69	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000672043010752688	0.000672043010752688	6
+70-74	Female	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+75-79	Female	Antithymocyte immunoglobulin (rabbit)	0	0.000220361392684002	0.000220361392684002	1
+80-84	Female	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+85-89	Female	Antithymocyte immunoglobulin (rabbit)	0	0	0	0
+>90	Female	Antithymocyte immunoglobulin (rabbit)	0	0	0	0

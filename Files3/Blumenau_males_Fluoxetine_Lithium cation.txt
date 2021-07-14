@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Fluoxetine	Lithium cation	0
+05-09	Male	Fluoxetine	Lithium cation	0
+10-14	Male	Fluoxetine	Lithium cation	0.000321440051430408
+15-19	Male	Fluoxetine	Lithium cation	0.00153491941673062
+20-24	Male	Fluoxetine	Lithium cation	0.000904568068747173
+25-29	Male	Fluoxetine	Lithium cation	0.00143988480921526
+30-34	Male	Fluoxetine	Lithium cation	0.00101163378856854
+35-39	Male	Fluoxetine	Lithium cation	0.00274047684297068
+40-44	Male	Fluoxetine	Lithium cation	0.00229416263063982
+45-49	Male	Fluoxetine	Lithium cation	0.00269299820466786
+50-54	Male	Fluoxetine	Lithium cation	0.00221141088014153
+55-59	Male	Fluoxetine	Lithium cation	0.00123334977799704
+60-64	Male	Fluoxetine	Lithium cation	0.000272331154684096
+65-69	Male	Fluoxetine	Lithium cation	0.000362056480811006
+70-74	Male	Fluoxetine	Lithium cation	0
+75-79	Male	Fluoxetine	Lithium cation	0
+80-84	Male	Fluoxetine	Lithium cation	0
+85-89	Male	Fluoxetine	Lithium cation	0
+>90	Male	Fluoxetine	Lithium cation	0

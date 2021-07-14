@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Aminocaproic acid	0	0.0098	0.0139	10
+05-09	Female	Aminocaproic acid	0	0.0077	0.0189	32
+10-14	Female	Aminocaproic acid	0	0.0061	0.0109	27
+15-19	Female	Aminocaproic acid	0	0.009	0.016	48
+20-24	Female	Aminocaproic acid	0	0.0112	0.0212	76
+25-29	Female	Aminocaproic acid	0	0.01	0.02	90
+30-34	Female	Aminocaproic acid	0	0.0129	0.0202	110
+35-39	Female	Aminocaproic acid	0	0.0145	0.023	135
+40-44	Female	Aminocaproic acid	0	0.0186	0.0292	166
+45-49	Female	Aminocaproic acid	0	0.0342	0.0482	255
+50-54	Female	Aminocaproic acid	0	0.0308	0.0396	199
+55-59	Female	Aminocaproic acid	0	0.0237	0.0281	134
+60-64	Female	Aminocaproic acid	0	0.0283	0.0331	152
+65-69	Female	Aminocaproic acid	0	0.0411	0.0477	201
+70-74	Female	Aminocaproic acid	0	0.0468	0.0539	211
+75-79	Female	Aminocaproic acid	0	0.0632	0.0728	260
+80-84	Female	Aminocaproic acid	0	0.0723	0.0792	252
+85-89	Female	Aminocaproic acid	0	0.0835	0.0894	226
+>90	Female	Aminocaproic acid	0	0.1257	0.1349	205

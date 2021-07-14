@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin lispro	Atenolol	0
+05-09	Male	Insulin lispro	Atenolol	0
+10-14	Male	Insulin lispro	Atenolol	0
+15-19	Male	Insulin lispro	Atenolol	0
+20-24	Male	Insulin lispro	Atenolol	0
+25-29	Male	Insulin lispro	Atenolol	0
+30-34	Male	Insulin lispro	Atenolol	0
+35-39	Male	Insulin lispro	Atenolol	0
+40-44	Male	Insulin lispro	Atenolol	0.000148235991698784
+45-49	Male	Insulin lispro	Atenolol	0.000275520044083207
+50-54	Male	Insulin lispro	Atenolol	0.000496709300881659
+55-59	Male	Insulin lispro	Atenolol	0.00124069478908189
+60-64	Male	Insulin lispro	Atenolol	0.00109715957576496
+65-69	Male	Insulin lispro	Atenolol	0.00150285542530809
+70-74	Male	Insulin lispro	Atenolol	0.00235042735042735
+75-79	Male	Insulin lispro	Atenolol	0.00156592546194801
+80-84	Male	Insulin lispro	Atenolol	0.00148588410104012
+85-89	Male	Insulin lispro	Atenolol	0
+>90	Male	Insulin lispro	Atenolol	0

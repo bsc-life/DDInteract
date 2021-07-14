@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Dextrose, unspecified form	0	0.0373343289154377	0.0560014933731566	3
+05-09	Female	Dextrose, unspecified form	0	0	0	0
+10-14	Female	Dextrose, unspecified form	0	0.198347107438017	0.198347107438017	6
+15-19	Female	Dextrose, unspecified form	0	0.471698113207547	0.489168413696716	28
+20-24	Female	Dextrose, unspecified form	0	0.42911877394636	0.42911877394636	28
+25-29	Female	Dextrose, unspecified form	0	0.634073085266144	0.650759219088937	39
+30-34	Female	Dextrose, unspecified form	0	0.504710632570659	0.504710632570659	30
+35-39	Female	Dextrose, unspecified form	0	0.317885226702359	0.317885226702359	19
+40-44	Female	Dextrose, unspecified form	0	0.294391075302138	0.294391075302138	19
+45-49	Female	Dextrose, unspecified form	0	0.19457956914524	0.19457956914524	14
+50-54	Female	Dextrose, unspecified form	0	0.190761684153154	0.190761684153154	14
+55-59	Female	Dextrose, unspecified form	0	0.141242937853107	0.156936597614564	10
+60-64	Female	Dextrose, unspecified form	0	0.143010368251698	0.143010368251698	8
+65-69	Female	Dextrose, unspecified form	0	0.167785234899329	0.143815915627996	6
+70-74	Female	Dextrose, unspecified form	0	0.032520325203252	0.0650406504065041	2
+75-79	Female	Dextrose, unspecified form	0	0.0430292598967298	0.0430292598967298	1
+80-84	Female	Dextrose, unspecified form	0	0.065359477124183	0.065359477124183	1
+85-89	Female	Dextrose, unspecified form	0	0	0	0
+>90	Female	Dextrose, unspecified form	0	0	0	0

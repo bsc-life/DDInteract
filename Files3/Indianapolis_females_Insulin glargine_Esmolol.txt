@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Esmolol	0
+05-09	Female	Insulin glargine	Esmolol	0
+10-14	Female	Insulin glargine	Esmolol	0
+15-19	Female	Insulin glargine	Esmolol	0
+20-24	Female	Insulin glargine	Esmolol	0
+25-29	Female	Insulin glargine	Esmolol	0
+30-34	Female	Insulin glargine	Esmolol	0
+35-39	Female	Insulin glargine	Esmolol	0.000255080350310348
+40-44	Female	Insulin glargine	Esmolol	0.000204540805890775
+45-49	Female	Insulin glargine	Esmolol	0.000292511700468019
+50-54	Female	Insulin glargine	Esmolol	0.00073875704127805
+55-59	Female	Insulin glargine	Esmolol	0.000437368789363191
+60-64	Female	Insulin glargine	Esmolol	0.000370164723301869
+65-69	Female	Insulin glargine	Esmolol	0.000224014336917563
+70-74	Female	Insulin glargine	Esmolol	0.000316957210776545
+75-79	Female	Insulin glargine	Esmolol	0.000661084178052005
+80-84	Female	Insulin glargine	Esmolol	0.000301841231512225
+85-89	Female	Insulin glargine	Esmolol	0.000442477876106195
+>90	Female	Insulin glargine	Esmolol	0

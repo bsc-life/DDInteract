@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Insulin glulisine	0	0.0065	0.0078	6
+05-09	Male	Insulin glulisine	0	0.0219	0.0276	49
+10-14	Male	Insulin glulisine	0	0.045	0.0549	144
+15-19	Male	Insulin glulisine	4e-04	0.0498	0.0533	152
+20-24	Male	Insulin glulisine	7e-04	0.056	0.0607	182
+25-29	Male	Insulin glulisine	0.0024	0.0747	0.0814	303
+30-34	Male	Insulin glulisine	0.0027	0.0821	0.0885	419
+35-39	Male	Insulin glulisine	0.0052	0.0953	0.1036	562
+40-44	Male	Insulin glulisine	0.014	0.1116	0.1212	649
+45-49	Male	Insulin glulisine	0.0316	0.1238	0.1346	661
+50-54	Male	Insulin glulisine	0.0486	0.1426	0.1527	694
+55-59	Male	Insulin glulisine	0.0728	0.1763	0.1864	794
+60-64	Male	Insulin glulisine	0.0879	0.1956	0.2053	845
+65-69	Male	Insulin glulisine	0.0895	0.2148	0.2206	833
+70-74	Male	Insulin glulisine	0.0963	0.2095	0.2151	728
+75-79	Male	Insulin glulisine	0.0888	0.2056	0.2141	610
+80-84	Male	Insulin glulisine	0.0706	0.1786	0.1849	411
+85-89	Male	Insulin glulisine	0.0562	0.1536	0.1604	237
+>90	Male	Insulin glulisine	0.0456	0.1441	0.1543	105

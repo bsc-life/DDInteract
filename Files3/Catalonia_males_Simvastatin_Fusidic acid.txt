@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Simvastatin	Fusidic acid	0
+05-09	Male	Simvastatin	Fusidic acid	0
+10-14	Male	Simvastatin	Fusidic acid	0
+15-19	Male	Simvastatin	Fusidic acid	0
+20-24	Male	Simvastatin	Fusidic acid	3.33592423448879e-06
+25-29	Male	Simvastatin	Fusidic acid	0
+30-34	Male	Simvastatin	Fusidic acid	4.22252718251874e-06
+35-39	Male	Simvastatin	Fusidic acid	1.29098175473929e-05
+40-44	Male	Simvastatin	Fusidic acid	1.49361014908096e-05
+45-49	Male	Simvastatin	Fusidic acid	3.66495024830038e-05
+50-54	Male	Simvastatin	Fusidic acid	6.60147344887379e-05
+55-59	Male	Simvastatin	Fusidic acid	9.86054373855473e-05
+60-64	Male	Simvastatin	Fusidic acid	0.000179763489549425
+65-69	Male	Simvastatin	Fusidic acid	0.000201247203061076
+70-74	Male	Simvastatin	Fusidic acid	0.000183199971633553
+75-79	Male	Simvastatin	Fusidic acid	0.000228102189781022
+80-84	Male	Simvastatin	Fusidic acid	0.000238419771746807
+85-89	Male	Simvastatin	Fusidic acid	0.000169170388415212
+>90	Male	Simvastatin	Fusidic acid	0.000161695747401843

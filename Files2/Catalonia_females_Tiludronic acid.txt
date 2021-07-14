@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	NA	NA	0	0	0	0
+20-24	NA	NA	0	0	0	0
+25-29	NA	NA	0	0	0	0
+30-34	NA	NA	0	0	0	0
+35-39	NA	NA	0	0	0	0
+40-44	Female	Tiludronic acid	0	2e-04	2e-04	1
+45-49	Female	Tiludronic acid	0	4e-04	4e-04	2
+50-54	Female	Tiludronic acid	0	2e-04	2e-04	1
+55-59	Female	Tiludronic acid	0	2e-04	2e-04	1
+60-64	Female	Tiludronic acid	0	0.0013	0.0013	6
+65-69	Female	Tiludronic acid	0	0.0012	0.0012	5
+70-74	Female	Tiludronic acid	0	0.0018	0.0018	7
+75-79	Female	Tiludronic acid	0	0.002	0.0022	8
+80-84	Female	Tiludronic acid	0	0.0028	0.0028	9
+85-89	Female	Tiludronic acid	0	0.0032	0.0032	8
+>90	Female	Tiludronic acid	0	0.0059	0.0059	9

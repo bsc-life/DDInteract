@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Mycophenolate mofetil	Tacrolimus	6.79163270850312e-05
+05-09	Female	Mycophenolate mofetil	Tacrolimus	0.000222345747637576
+10-14	Female	Mycophenolate mofetil	Tacrolimus	0.000122684333210649
+15-19	Female	Mycophenolate mofetil	Tacrolimus	0.000288295214299443
+20-24	Female	Mycophenolate mofetil	Tacrolimus	0.000150432493418578
+25-29	Female	Mycophenolate mofetil	Tacrolimus	0.000324485690181063
+30-34	Female	Mycophenolate mofetil	Tacrolimus	0.000588971508503276
+35-39	Female	Mycophenolate mofetil	Tacrolimus	0.000425133917183913
+40-44	Female	Mycophenolate mofetil	Tacrolimus	0.00112497443239926
+45-49	Female	Mycophenolate mofetil	Tacrolimus	0.00107254290171607
+50-54	Female	Mycophenolate mofetil	Tacrolimus	0.00120048019207683
+55-59	Female	Mycophenolate mofetil	Tacrolimus	0.00157452764170749
+60-64	Female	Mycophenolate mofetil	Tacrolimus	0.00194336479733481
+65-69	Female	Mycophenolate mofetil	Tacrolimus	0.00246415770609319
+70-74	Female	Mycophenolate mofetil	Tacrolimus	0.00190174326465927
+75-79	Female	Mycophenolate mofetil	Tacrolimus	0.00154252974878801
+80-84	Female	Mycophenolate mofetil	Tacrolimus	0.000905523694536674
+85-89	Female	Mycophenolate mofetil	Tacrolimus	0
+>90	Female	Mycophenolate mofetil	Tacrolimus	0

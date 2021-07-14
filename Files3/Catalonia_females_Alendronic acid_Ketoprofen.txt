@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Alendronic acid	Ketoprofen	0
+05-09	Female	Alendronic acid	Ketoprofen	0
+10-14	Female	Alendronic acid	Ketoprofen	0
+15-19	Female	Alendronic acid	Ketoprofen	0
+20-24	Female	Alendronic acid	Ketoprofen	0
+25-29	Female	Alendronic acid	Ketoprofen	2.22172850477672e-06
+30-34	Female	Alendronic acid	Ketoprofen	1.8376711560973e-06
+35-39	Female	Alendronic acid	Ketoprofen	0
+40-44	Female	Alendronic acid	Ketoprofen	1.75817065859315e-06
+45-49	Female	Alendronic acid	Ketoprofen	3.77944661342686e-06
+50-54	Female	Alendronic acid	Ketoprofen	1.19274097840542e-05
+55-59	Female	Alendronic acid	Ketoprofen	2.72984794746933e-05
+60-64	Female	Alendronic acid	Ketoprofen	5.88522503356758e-05
+65-69	Female	Alendronic acid	Ketoprofen	3.79821958456973e-05
+70-74	Female	Alendronic acid	Ketoprofen	7.66522390119015e-05
+75-79	Female	Alendronic acid	Ketoprofen	7.83549928920828e-05
+80-84	Female	Alendronic acid	Ketoprofen	8.79855703664599e-05
+85-89	Female	Alendronic acid	Ketoprofen	4.74659135408385e-05
+>90	Female	Alendronic acid	Ketoprofen	1.31608386086361e-05

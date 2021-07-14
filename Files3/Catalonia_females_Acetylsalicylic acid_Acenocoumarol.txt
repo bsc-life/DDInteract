@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Acenocoumarol	0
+05-09	Female	Acetylsalicylic acid	Acenocoumarol	0
+10-14	Female	Acetylsalicylic acid	Acenocoumarol	0
+15-19	Female	Acetylsalicylic acid	Acenocoumarol	0
+20-24	Female	Acetylsalicylic acid	Acenocoumarol	1.95421006641522e-05
+25-29	Female	Acetylsalicylic acid	Acenocoumarol	3.1104199066874e-05
+30-34	Female	Acetylsalicylic acid	Acenocoumarol	4.41041077463352e-05
+35-39	Female	Acetylsalicylic acid	Acenocoumarol	7.14069550374206e-05
+40-44	Female	Acetylsalicylic acid	Acenocoumarol	0.000124830116760113
+45-49	Female	Acetylsalicylic acid	Acenocoumarol	0.000219207903578758
+50-54	Female	Acetylsalicylic acid	Acenocoumarol	0.000318064260908113
+55-59	Female	Acetylsalicylic acid	Acenocoumarol	0.00054386970645735
+60-64	Female	Acetylsalicylic acid	Acenocoumarol	0.000913299736690673
+65-69	Female	Acetylsalicylic acid	Acenocoumarol	0.00178991097922849
+70-74	Female	Acetylsalicylic acid	Acenocoumarol	0.00288723433611496
+75-79	Female	Acetylsalicylic acid	Acenocoumarol	0.00477125938860718
+80-84	Female	Acetylsalicylic acid	Acenocoumarol	0.00660206011928329
+85-89	Female	Acetylsalicylic acid	Acenocoumarol	0.00670060479484837
+>90	Female	Acetylsalicylic acid	Acenocoumarol	0.00600134240553808
