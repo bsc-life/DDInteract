@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Fluocinolone acetonide	0	0.2288	0.491	352
+05-09	Female	Fluocinolone acetonide	0	0.1206	0.2985	505
+10-14	Female	Fluocinolone acetonide	0	0.0533	0.1203	298
+15-19	Female	Fluocinolone acetonide	0	0.1703	0.2781	833
+20-24	Female	Fluocinolone acetonide	0	0.3381	0.5491	1967
+25-29	Female	Fluocinolone acetonide	0	0.4517	0.7258	3267
+30-34	Female	Fluocinolone acetonide	0	0.5537	0.8496	4623
+35-39	Female	Fluocinolone acetonide	0	0.5325	0.7824	4602
+40-44	Female	Fluocinolone acetonide	0	0.5049	0.7087	4031
+45-49	Female	Fluocinolone acetonide	0	0.5473	0.7476	3956
+50-54	Female	Fluocinolone acetonide	0	0.6512	0.8389	4220
+55-59	Female	Fluocinolone acetonide	0	0.7839	0.983	4681
+60-64	Female	Fluocinolone acetonide	0	1.0321	1.2355	5668
+65-69	Female	Fluocinolone acetonide	0	1.1805	1.3731	5784
+70-74	Female	Fluocinolone acetonide	0	1.184	1.3481	5276
+75-79	Female	Fluocinolone acetonide	0	1.2847	1.4462	5168
+80-84	Female	Fluocinolone acetonide	0	1.2148	1.3207	4203
+85-89	Female	Fluocinolone acetonide	0	1.0708	1.1443	2893
+>90	Female	Fluocinolone acetonide	0	1.093	1.1535	1753

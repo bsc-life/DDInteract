@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Saw palmetto	0	0.0013	0.0013	1
+05-09	Male	Saw palmetto	0	0.0023	0.0034	6
+10-14	Male	Saw palmetto	0	0.0023	0.0027	7
+15-19	Male	Saw palmetto	0	0.014	0.0259	74
+20-24	Male	Saw palmetto	0	0.0357	0.0807	242
+25-29	Male	Saw palmetto	0	0.0669	0.1309	487
+30-34	Male	Saw palmetto	0	0.1083	0.2025	959
+35-39	Male	Saw palmetto	0	0.1612	0.2829	1534
+40-44	Male	Saw palmetto	0	0.2504	0.4177	2237
+45-49	Male	Saw palmetto	0	0.4325	0.6623	3253
+50-54	Male	Saw palmetto	0	0.817	1.1044	5019
+55-59	Male	Saw palmetto	0	1.3274	1.673	7126
+60-64	Male	Saw palmetto	0	2.0058	2.3491	9670
+65-69	Male	Saw palmetto	0	2.7227	3.0081	11360
+70-74	Male	Saw palmetto	0	2.9028	3.1138	10538
+75-79	Male	Saw palmetto	0	2.9527	3.158	8999
+80-84	Male	Saw palmetto	0	2.8556	3.0027	6675
+85-89	Male	Saw palmetto	0	2.7189	2.8563	4221
+>90	Male	Saw palmetto	0	2.7415	2.8561	1943

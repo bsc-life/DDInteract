@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Trazodone	Ginkgo biloba	0
+05-09	Female	Trazodone	Ginkgo biloba	0
+10-14	Female	Trazodone	Ginkgo biloba	0
+15-19	Female	Trazodone	Ginkgo biloba	0
+20-24	Female	Trazodone	Ginkgo biloba	2.79172866630746e-06
+25-29	Female	Trazodone	Ginkgo biloba	0
+30-34	Female	Trazodone	Ginkgo biloba	0
+35-39	Female	Trazodone	Ginkgo biloba	3.40033119225813e-06
+40-44	Female	Trazodone	Ginkgo biloba	1.05490239515589e-05
+45-49	Female	Trazodone	Ginkgo biloba	1.51177864537074e-05
+50-54	Female	Trazodone	Ginkgo biloba	2.78306228294599e-05
+55-59	Female	Trazodone	Ginkgo biloba	5.45969589493865e-05
+60-64	Female	Trazodone	Ginkgo biloba	5.4492824384885e-05
+65-69	Female	Trazodone	Ginkgo biloba	6.88427299703264e-05
+70-74	Female	Trazodone	Ginkgo biloba	9.19826868142818e-05
+75-79	Female	Trazodone	Ginkgo biloba	0.00016790355619732
+80-84	Female	Trazodone	Ginkgo biloba	0.000194825191525733
+85-89	Female	Trazodone	Ginkgo biloba	0.000276884495654891
+>90	Female	Trazodone	Ginkgo biloba	0.000368503481041812

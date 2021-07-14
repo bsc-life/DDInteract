@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Celecoxib	Lithium cation	0
+05-09	Female	Celecoxib	Lithium cation	0
+10-14	Female	Celecoxib	Lithium cation	0
+15-19	Female	Celecoxib	Lithium cation	0
+20-24	Female	Celecoxib	Lithium cation	0
+25-29	Female	Celecoxib	Lithium cation	0
+30-34	Female	Celecoxib	Lithium cation	0
+35-39	Female	Celecoxib	Lithium cation	5.10049678838719e-06
+40-44	Female	Celecoxib	Lithium cation	1.2307194610152e-05
+45-49	Female	Celecoxib	Lithium cation	1.51177864537074e-05
+50-54	Female	Celecoxib	Lithium cation	2.18669179374328e-05
+55-59	Female	Celecoxib	Lithium cation	3.1498245547723e-05
+60-64	Female	Celecoxib	Lithium cation	3.2695694630931e-05
+65-69	Female	Celecoxib	Lithium cation	1.89910979228487e-05
+70-74	Female	Celecoxib	Lithium cation	4.34362687734109e-05
+75-79	Female	Celecoxib	Lithium cation	1.11935704131547e-05
+80-84	Female	Celecoxib	Lithium cation	1.25693671952086e-05
+85-89	Female	Celecoxib	Lithium cation	3.95549279506987e-06
+>90	Female	Celecoxib	Lithium cation	6.58041930431807e-06

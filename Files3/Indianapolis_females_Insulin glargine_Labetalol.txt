@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Labetalol	0
+05-09	Female	Insulin glargine	Labetalol	0
+10-14	Female	Insulin glargine	Labetalol	0
+15-19	Female	Insulin glargine	Labetalol	0.000192196809532962
+20-24	Female	Insulin glargine	Labetalol	0.000225648740127868
+25-29	Female	Insulin glargine	Labetalol	0.000389382828217276
+30-34	Female	Insulin glargine	Labetalol	0.000515350069940367
+35-39	Female	Insulin glargine	Labetalol	0.000680214267494261
+40-44	Female	Insulin glargine	Labetalol	0.00102270402945388
+45-49	Female	Insulin glargine	Labetalol	0.00078003120124805
+50-54	Female	Insulin glargine	Labetalol	0.00166220334287561
+55-59	Female	Insulin glargine	Labetalol	0.00148705388383485
+60-64	Female	Insulin glargine	Labetalol	0.000925411808254673
+65-69	Female	Insulin glargine	Labetalol	0.000896057347670251
+70-74	Female	Insulin glargine	Labetalol	0.00206022187004754
+75-79	Female	Insulin glargine	Labetalol	0.00242397531952402
+80-84	Female	Insulin glargine	Labetalol	0.00150920615756112
+85-89	Female	Insulin glargine	Labetalol	0.000442477876106195
+>90	Female	Insulin glargine	Labetalol	0

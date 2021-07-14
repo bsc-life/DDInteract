@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Phenytoin	Megestrol acetate	0
+05-09	Male	Phenytoin	Megestrol acetate	0
+10-14	Male	Phenytoin	Megestrol acetate	0
+15-19	Male	Phenytoin	Megestrol acetate	0
+20-24	Male	Phenytoin	Megestrol acetate	0
+25-29	Male	Phenytoin	Megestrol acetate	0
+30-34	Male	Phenytoin	Megestrol acetate	2.11126359125937e-06
+35-39	Male	Phenytoin	Megestrol acetate	0
+40-44	Male	Phenytoin	Megestrol acetate	1.12020761181072e-05
+45-49	Male	Phenytoin	Megestrol acetate	6.10825041383397e-06
+50-54	Male	Phenytoin	Megestrol acetate	8.80196459849838e-06
+55-59	Male	Phenytoin	Megestrol acetate	9.39099403671879e-06
+60-64	Male	Phenytoin	Megestrol acetate	1.94338907621e-05
+65-69	Male	Phenytoin	Megestrol acetate	1.05919580558461e-05
+70-74	Male	Phenytoin	Megestrol acetate	2.65935442693867e-05
+75-79	Male	Phenytoin	Megestrol acetate	2.10555867490174e-05
+80-84	Male	Phenytoin	Megestrol acetate	4.04863763343635e-05
+85-89	Male	Phenytoin	Megestrol acetate	2.70672621464339e-05
+>90	Male	Phenytoin	Megestrol acetate	4.40988402005027e-05

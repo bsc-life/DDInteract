@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Balsam of Peru	0	0	0.00679163270850312	1
+05-09	Female	Balsam of Peru	0	0	0	0
+10-14	Female	Balsam of Peru	0	0	0	0
+15-19	Female	Balsam of Peru	0	0	0.00960984047664809	1
+20-24	Female	Balsam of Peru	0	0	0	0
+25-29	Female	Balsam of Peru	0	0	0.0129794276072425	2
+30-34	Female	Balsam of Peru	0	0	0.0220864315688729	3
+35-39	Female	Balsam of Peru	0	0	0.0170053566873565	2
+40-44	Female	Balsam of Peru	0	0	0.0204540805890775	2
+45-49	Female	Balsam of Peru	0	0	0.0195007800312012	2
+50-54	Female	Balsam of Peru	0	0	0.0277033890479269	3
+55-59	Female	Balsam of Peru	0	0	0.0699790062981106	8
+60-64	Female	Balsam of Peru	0	0	0.0832870627429206	9
+65-69	Female	Balsam of Peru	0	0	0.100806451612903	9
+70-74	Female	Balsam of Peru	0	0	0.253565768621236	16
+75-79	Female	Balsam of Peru	0	0	0.264433671220802	12
+80-84	Female	Balsam of Peru	0	0	0.271657108361002	9
+85-89	Female	Balsam of Peru	0	0	0.398230088495575	9
+>90	Female	Balsam of Peru	0	0	0.606469002695418	9

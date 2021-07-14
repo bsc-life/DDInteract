@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Piroxicam	Alendronic acid	0
+05-09	Male	Piroxicam	Alendronic acid	0
+10-14	Male	Piroxicam	Alendronic acid	0
+15-19	Male	Piroxicam	Alendronic acid	0
+20-24	Male	Piroxicam	Alendronic acid	0
+25-29	Male	Piroxicam	Alendronic acid	0
+30-34	Male	Piroxicam	Alendronic acid	0
+35-39	Male	Piroxicam	Alendronic acid	0
+40-44	Male	Piroxicam	Alendronic acid	0
+45-49	Male	Piroxicam	Alendronic acid	0
+50-54	Male	Piroxicam	Alendronic acid	2.2004911496246e-06
+55-59	Male	Piroxicam	Alendronic acid	4.69549701835939e-06
+60-64	Male	Piroxicam	Alendronic acid	4.85847269052501e-06
+65-69	Male	Piroxicam	Alendronic acid	1.32399475698076e-05
+70-74	Male	Piroxicam	Alendronic acid	5.90967650430815e-06
+75-79	Male	Piroxicam	Alendronic acid	1.40370578326783e-05
+80-84	Male	Piroxicam	Alendronic acid	4.49848625937372e-06
+85-89	Male	Piroxicam	Alendronic acid	1.35336310732169e-05
+>90	Male	Piroxicam	Alendronic acid	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Dexchlorpheniramine maleate	0	11.1442971812582	13.8883703565428	744
+05-09	Female	Dexchlorpheniramine maleate	0	9.58026273630247	11.6308875360461	363
+10-14	Female	Dexchlorpheniramine maleate	0	5.32231404958678	6.90909090909091	209
+15-19	Female	Dexchlorpheniramine maleate	0	4.55974842767296	5.57302585604472	319
+20-24	Female	Dexchlorpheniramine maleate	0	4.15325670498084	4.85823754789272	317
+25-29	Female	Dexchlorpheniramine maleate	0	4.08810278658435	4.9557817453696	297
+30-34	Female	Dexchlorpheniramine maleate	0	4.05450874831763	4.84522207267833	288
+35-39	Female	Dexchlorpheniramine maleate	0	4.80174000334616	5.45424125815627	326
+40-44	Female	Dexchlorpheniramine maleate	0	3.92004958165479	4.47784319801673	289
+45-49	Female	Dexchlorpheniramine maleate	0	4.00277970813065	4.36414176511466	314
+50-54	Female	Dexchlorpheniramine maleate	0	4.04687287096335	4.44202207385202	326
+55-59	Female	Dexchlorpheniramine maleate	0	4.22159447583176	4.55116133082235	290
+60-64	Female	Dexchlorpheniramine maleate	0	3.84340364676439	3.98641401501609	223
+65-69	Female	Dexchlorpheniramine maleate	0	4.72195589645254	4.86577181208054	203
+70-74	Female	Dexchlorpheniramine maleate	0	4.29268292682927	4.45528455284553	137
+75-79	Female	Dexchlorpheniramine maleate	0	3.87263339070568	3.87263339070568	90
+80-84	Female	Dexchlorpheniramine maleate	0	3.98692810457516	4.18300653594771	64
+85-89	Female	Dexchlorpheniramine maleate	0	3.01204819277108	3.13253012048193	26
+>90	Female	Dexchlorpheniramine maleate	0	2.66272189349112	3.25443786982249	11

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Dabigatran etexilate	0	6e-04	6e-04	1
+10-14	Female	Dabigatran etexilate	0	4e-04	8e-04	2
+15-19	Female	Dabigatran etexilate	0	0.0047	0.0073	22
+20-24	Female	Dabigatran etexilate	0	0.0045	0.0064	23
+25-29	Female	Dabigatran etexilate	0	0.0076	0.0107	48
+30-34	Female	Dabigatran etexilate	0	0.0062	0.0083	45
+35-39	Female	Dabigatran etexilate	0	0.0097	0.0136	80
+40-44	Female	Dabigatran etexilate	0	0.0171	0.0207	118
+45-49	Female	Dabigatran etexilate	0	0.0229	0.0276	146
+50-54	Female	Dabigatran etexilate	0	0.0455	0.0505	254
+55-59	Female	Dabigatran etexilate	0	0.0729	0.0834	397
+60-64	Female	Dabigatran etexilate	0	0.1417	0.1537	705
+65-69	Female	Dabigatran etexilate	0	0.2402	0.2566	1081
+70-74	Female	Dabigatran etexilate	0	0.3873	0.4114	1610
+75-79	Female	Dabigatran etexilate	0	0.497	0.5264	1881
+80-84	Female	Dabigatran etexilate	0	0.6153	0.6417	2042
+85-89	Female	Dabigatran etexilate	0	0.6396	0.657	1661
+>90	Female	Dabigatran etexilate	0	0.5251	0.5416	823

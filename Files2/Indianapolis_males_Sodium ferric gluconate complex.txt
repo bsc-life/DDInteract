@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Sodium ferric gluconate complex	0	0.0059890998382943	0.0059890998382943	1
+05-09	Male	Sodium ferric gluconate complex	0	0	0	0
+10-14	Male	Sodium ferric gluconate complex	0	0	0	0
+15-19	Male	Sodium ferric gluconate complex	0	0.027866796711718	0.027866796711718	2
+20-24	Male	Sodium ferric gluconate complex	0	0.161077756626153	0.161077756626153	11
+25-29	Male	Sodium ferric gluconate complex	0	0.12721027859051	0.12721027859051	10
+30-34	Male	Sodium ferric gluconate complex	0	0.0915271966527197	0.0915271966527197	7
+35-39	Male	Sodium ferric gluconate complex	0	0.223932820153954	0.223932820153954	16
+40-44	Male	Sodium ferric gluconate complex	0	0.266824785057812	0.266824785057812	18
+45-49	Male	Sodium ferric gluconate complex	0	0.468384074941452	0.468384074941452	34
+50-54	Male	Sodium ferric gluconate complex	0	0.645722091146157	0.645722091146157	52
+55-59	Male	Sodium ferric gluconate complex	0	0.642905481615159	0.642905481615159	57
+60-64	Male	Sodium ferric gluconate complex	0	0.865536998659027	0.865536998659027	71
+65-69	Male	Sodium ferric gluconate complex	0	0.856627592425609	0.856627592425609	57
+70-74	Male	Sodium ferric gluconate complex	0	0.598290598290598	0.61965811965812	29
+75-79	Male	Sodium ferric gluconate complex	0	1.09614782336361	1.09614782336361	35
+80-84	Male	Sodium ferric gluconate complex	0	1.1887072808321	1.23823675086677	25
+85-89	Male	Sodium ferric gluconate complex	0	1.53721682847896	1.53721682847896	19
+>90	Male	Sodium ferric gluconate complex	0	1.95439739413681	1.95439739413681	12

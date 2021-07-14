@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Gemfibrozil	Ursodeoxycholic acid	0
+05-09	Male	Gemfibrozil	Ursodeoxycholic acid	0
+10-14	Male	Gemfibrozil	Ursodeoxycholic acid	0
+15-19	Male	Gemfibrozil	Ursodeoxycholic acid	0
+20-24	Male	Gemfibrozil	Ursodeoxycholic acid	0
+25-29	Male	Gemfibrozil	Ursodeoxycholic acid	5.37599724748941e-06
+30-34	Male	Gemfibrozil	Ursodeoxycholic acid	4.22252718251874e-06
+35-39	Male	Gemfibrozil	Ursodeoxycholic acid	3.6885192992551e-06
+40-44	Male	Gemfibrozil	Ursodeoxycholic acid	1.12020761181072e-05
+45-49	Male	Gemfibrozil	Ursodeoxycholic acid	3.66495024830038e-05
+50-54	Male	Gemfibrozil	Ursodeoxycholic acid	4.18093318428673e-05
+55-59	Male	Gemfibrozil	Ursodeoxycholic acid	6.80847067662112e-05
+60-64	Male	Gemfibrozil	Ursodeoxycholic acid	4.12970178694626e-05
+65-69	Male	Gemfibrozil	Ursodeoxycholic acid	4.76638112513074e-05
+70-74	Male	Gemfibrozil	Ursodeoxycholic acid	5.90967650430815e-05
+75-79	Male	Gemfibrozil	Ursodeoxycholic acid	4.21111734980348e-05
+80-84	Male	Gemfibrozil	Ursodeoxycholic acid	5.84803213718584e-05
+85-89	Male	Gemfibrozil	Ursodeoxycholic acid	3.38340776830424e-05
+>90	Male	Gemfibrozil	Ursodeoxycholic acid	4.40988402005027e-05

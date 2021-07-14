@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Mycophenolic acid	Valganciclovir	0
+05-09	Male	Mycophenolic acid	Valganciclovir	0
+10-14	Male	Mycophenolic acid	Valganciclovir	0
+15-19	Male	Mycophenolic acid	Valganciclovir	0
+20-24	Male	Mycophenolic acid	Valganciclovir	0
+25-29	Male	Mycophenolic acid	Valganciclovir	0
+30-34	Male	Mycophenolic acid	Valganciclovir	0.000653765690376569
+35-39	Male	Mycophenolic acid	Valganciclovir	0.000139958012596221
+40-44	Male	Mycophenolic acid	Valganciclovir	0.000444707975096353
+45-49	Male	Mycophenolic acid	Valganciclovir	0.000964320154291225
+50-54	Male	Mycophenolic acid	Valganciclovir	0.000496709300881659
+55-59	Male	Mycophenolic acid	Valganciclovir	0.000676742612226483
+60-64	Male	Mycophenolic acid	Valganciclovir	0.000731439717176643
+65-69	Male	Mycophenolic acid	Valganciclovir	0.000450856627592426
+70-74	Male	Mycophenolic acid	Valganciclovir	0.000213675213675214
+75-79	Male	Mycophenolic acid	Valganciclovir	0.000626370184779205
+80-84	Male	Mycophenolic acid	Valganciclovir	0
+85-89	Male	Mycophenolic acid	Valganciclovir	0
+>90	Male	Mycophenolic acid	Valganciclovir	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Heparin	0.00173683895310535
+05-09	Male	Acetylsalicylic acid	Heparin	0.000703729767769177
+10-14	Male	Acetylsalicylic acid	Heparin	0.00105250847854052
+15-19	Male	Acetylsalicylic acid	Heparin	0.0013933398355859
+20-24	Male	Acetylsalicylic acid	Heparin	0.00263581783570069
+25-29	Male	Acetylsalicylic acid	Heparin	0.00330746724335326
+30-34	Male	Acetylsalicylic acid	Heparin	0.00523012552301255
+35-39	Male	Acetylsalicylic acid	Heparin	0.0109167249825052
+40-44	Male	Acetylsalicylic acid	Heparin	0.0160094871034687
+45-49	Male	Acetylsalicylic acid	Heparin	0.023281443725031
+50-54	Male	Acetylsalicylic acid	Heparin	0.0370048429156836
+55-59	Male	Acetylsalicylic acid	Heparin	0.0421836228287841
+60-64	Male	Acetylsalicylic acid	Heparin	0.0560770449835426
+65-69	Male	Acetylsalicylic acid	Heparin	0.053351367598437
+70-74	Male	Acetylsalicylic acid	Heparin	0.0617521367521368
+75-79	Male	Acetylsalicylic acid	Heparin	0.0789226432821798
+80-84	Male	Acetylsalicylic acid	Heparin	0.0941059930658742
+85-89	Male	Acetylsalicylic acid	Heparin	0.118122977346278
+>90	Male	Acetylsalicylic acid	Heparin	0

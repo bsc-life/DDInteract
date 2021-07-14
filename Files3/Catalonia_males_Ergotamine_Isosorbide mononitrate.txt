@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Ergotamine	Isosorbide mononitrate	0
+05-09	Male	Ergotamine	Isosorbide mononitrate	0
+10-14	Male	Ergotamine	Isosorbide mononitrate	0
+15-19	Male	Ergotamine	Isosorbide mononitrate	3.50585653333894e-06
+20-24	Male	Ergotamine	Isosorbide mononitrate	0
+25-29	Male	Ergotamine	Isosorbide mononitrate	0
+30-34	Male	Ergotamine	Isosorbide mononitrate	0
+35-39	Male	Ergotamine	Isosorbide mononitrate	0
+40-44	Male	Ergotamine	Isosorbide mononitrate	0
+45-49	Male	Ergotamine	Isosorbide mononitrate	0
+50-54	Male	Ergotamine	Isosorbide mononitrate	0
+55-59	Male	Ergotamine	Isosorbide mononitrate	2.3477485091797e-06
+60-64	Male	Ergotamine	Isosorbide mononitrate	2.4292363452625e-06
+65-69	Male	Ergotamine	Isosorbide mononitrate	5.29597902792305e-06
+70-74	Male	Ergotamine	Isosorbide mononitrate	2.95483825215408e-06
+75-79	Male	Ergotamine	Isosorbide mononitrate	3.50926445816957e-06
+80-84	Male	Ergotamine	Isosorbide mononitrate	4.49848625937372e-06
+85-89	Male	Ergotamine	Isosorbide mononitrate	6.76681553660847e-06
+>90	Male	Ergotamine	Isosorbide mononitrate	1.46996134001676e-05

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Selenium Sulfide	0	0	0.185662094987123	31
+05-09	Male	Selenium Sulfide	0	0	0.20106564793405	20
+10-14	Male	Selenium Sulfide	0	0	0.0584726932522512	5
+15-19	Male	Selenium Sulfide	0	0	0.111467186846872	8
+20-24	Male	Selenium Sulfide	0	0	0.0585737296822375	4
+25-29	Male	Selenium Sulfide	0	0	0.0890471950133571	7
+30-34	Male	Selenium Sulfide	0	0	0.0653765690376569	5
+35-39	Male	Selenium Sulfide	0	0	0.125962211336599	9
+40-44	Male	Selenium Sulfide	0	0	0.103765194189149	7
+45-49	Male	Selenium Sulfide	0	0	0.0413280066124811	3
+50-54	Male	Selenium Sulfide	0	0	0.0496709300881659	4
+55-59	Male	Selenium Sulfide	0	0	0.0563952176855403	5
+60-64	Male	Selenium Sulfide	0	0	0.0487626478117762	4
+65-69	Male	Selenium Sulfide	0	0	0.0300571085061617	2
+70-74	Male	Selenium Sulfide	0	0	0.0854700854700855	4
+75-79	Male	Selenium Sulfide	0	0	0.0626370184779205	2
+80-84	Male	Selenium Sulfide	0	0	0.0495294700346706	1
+85-89	Male	Selenium Sulfide	0	0	0.161812297734628	2
+>90	Male	Selenium Sulfide	0	0	0	0

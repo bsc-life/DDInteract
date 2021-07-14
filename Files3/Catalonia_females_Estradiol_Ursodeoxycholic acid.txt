@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Estradiol	Ursodeoxycholic acid	1.39499197879612e-05
+05-09	Female	Estradiol	Ursodeoxycholic acid	0
+10-14	Female	Estradiol	Ursodeoxycholic acid	0
+15-19	Female	Estradiol	Ursodeoxycholic acid	3.33895390574133e-06
+20-24	Female	Estradiol	Ursodeoxycholic acid	1.39586433315373e-05
+25-29	Female	Estradiol	Ursodeoxycholic acid	6.66518551433015e-06
+30-34	Female	Estradiol	Ursodeoxycholic acid	1.28636980926811e-05
+35-39	Female	Estradiol	Ursodeoxycholic acid	1.19011591729034e-05
+40-44	Female	Estradiol	Ursodeoxycholic acid	2.10980479031178e-05
+45-49	Female	Estradiol	Ursodeoxycholic acid	2.45664029872746e-05
+50-54	Female	Estradiol	Ursodeoxycholic acid	1.98790163067571e-05
+55-59	Female	Estradiol	Ursodeoxycholic acid	1.88989473286338e-05
+60-64	Female	Estradiol	Ursodeoxycholic acid	1.0898564876977e-05
+65-69	Female	Estradiol	Ursodeoxycholic acid	4.74777448071217e-06
+70-74	Female	Estradiol	Ursodeoxycholic acid	2.55507463373005e-06
+75-79	Female	Estradiol	Ursodeoxycholic acid	2.79839260328867e-06
+80-84	Female	Estradiol	Ursodeoxycholic acid	0
+85-89	Female	Estradiol	Ursodeoxycholic acid	3.95549279506987e-06
+>90	Female	Estradiol	Ursodeoxycholic acid	6.58041930431807e-06

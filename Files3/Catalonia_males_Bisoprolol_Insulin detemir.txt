@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Bisoprolol	Insulin detemir	0
+05-09	Male	Bisoprolol	Insulin detemir	0
+10-14	Male	Bisoprolol	Insulin detemir	0
+15-19	Male	Bisoprolol	Insulin detemir	0
+20-24	Male	Bisoprolol	Insulin detemir	3.33592423448879e-06
+25-29	Male	Bisoprolol	Insulin detemir	0
+30-34	Male	Bisoprolol	Insulin detemir	2.11126359125937e-06
+35-39	Male	Bisoprolol	Insulin detemir	5.53277894888265e-06
+40-44	Male	Bisoprolol	Insulin detemir	2.24041522362144e-05
+45-49	Male	Bisoprolol	Insulin detemir	8.34794223223975e-05
+50-54	Male	Bisoprolol	Insulin detemir	0.0001342299601271
+55-59	Male	Bisoprolol	Insulin detemir	0.000265295581537306
+60-64	Male	Bisoprolol	Insulin detemir	0.000425116360420938
+65-69	Male	Bisoprolol	Insulin detemir	0.00067788531557415
+70-74	Male	Bisoprolol	Insulin detemir	0.000818490195846679
+75-79	Male	Bisoprolol	Insulin detemir	0.000947501403705783
+80-84	Male	Bisoprolol	Insulin detemir	0.00116960642743717
+85-89	Male	Bisoprolol	Insulin detemir	0.00130599539856544
+>90	Male	Bisoprolol	Insulin detemir	0.000984874097811228

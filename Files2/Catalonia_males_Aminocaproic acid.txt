@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Aminocaproic acid	0	0.013	0.0246	19
+05-09	Male	Aminocaproic acid	0	0.009	0.0253	45
+10-14	Male	Aminocaproic acid	0	0.0061	0.0122	32
+15-19	Male	Aminocaproic acid	0	0.0081	0.0147	42
+20-24	Male	Aminocaproic acid	0	0.0113	0.019	57
+25-29	Male	Aminocaproic acid	0	0.0105	0.0159	59
+30-34	Male	Aminocaproic acid	0	0.0108	0.0158	75
+35-39	Male	Aminocaproic acid	0	0.0107	0.0162	88
+40-44	Male	Aminocaproic acid	0	0.0116	0.0149	80
+45-49	Male	Aminocaproic acid	0	0.0214	0.0257	126
+50-54	Male	Aminocaproic acid	0	0.0279	0.0332	151
+55-59	Male	Aminocaproic acid	0	0.0434	0.0521	222
+60-64	Male	Aminocaproic acid	0	0.0702	0.0833	343
+65-69	Male	Aminocaproic acid	0	0.0956	0.1104	417
+70-74	Male	Aminocaproic acid	0	0.1176	0.1336	452
+75-79	Male	Aminocaproic acid	0	0.16	0.1758	501
+80-84	Male	Aminocaproic acid	0	0.1912	0.211	469
+85-89	Male	Aminocaproic acid	0	0.1807	0.1949	288
+>90	Male	Aminocaproic acid	0	0.269	0.2896	197

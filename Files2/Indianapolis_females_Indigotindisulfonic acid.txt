@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Indigotindisulfonic acid	0	0.00679163270850312	0.00679163270850312	1
+05-09	Female	Indigotindisulfonic acid	0	0	0	0
+10-14	Female	Indigotindisulfonic acid	0	0	0	0
+15-19	Female	Indigotindisulfonic acid	0	0.0672688833365366	0.0672688833365366	7
+20-24	Female	Indigotindisulfonic acid	0	0.142910868747649	0.150432493418578	20
+25-29	Female	Indigotindisulfonic acid	0	0.305016548770199	0.305016548770199	47
+30-34	Female	Indigotindisulfonic acid	0	0.471177206802621	0.478539350658912	65
+35-39	Female	Indigotindisulfonic acid	0	0.697219624181617	0.714224980868974	84
+40-44	Female	Indigotindisulfonic acid	0	1.05338515033749	1.07383923092657	105
+45-49	Female	Indigotindisulfonic acid	0	0.887285491419657	0.906786271450858	93
+50-54	Female	Indigotindisulfonic acid	0	0.480192076830732	0.498661002862684	54
+55-59	Female	Indigotindisulfonic acid	0	0.384884534639608	0.384884534639608	44
+60-64	Female	Indigotindisulfonic acid	0	0.379418841384416	0.388672959466963	42
+65-69	Female	Indigotindisulfonic acid	0	0.347222222222222	0.347222222222222	31
+70-74	Female	Indigotindisulfonic acid	0	0.364500792393027	0.364500792393027	23
+75-79	Female	Indigotindisulfonic acid	0	0.396650506831203	0.396650506831203	18
+80-84	Female	Indigotindisulfonic acid	0	0.271657108361002	0.271657108361002	9
+85-89	Female	Indigotindisulfonic acid	0	0.0442477876106195	0.0442477876106195	1
+>90	Female	Indigotindisulfonic acid	0	0	0	0

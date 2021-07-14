@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Calcium lactate	0	0	0	0
+05-09	Female	Calcium lactate	0	0	0	0
+10-14	Female	Calcium lactate	0	0	0	0
+15-19	Female	Calcium lactate	0	0	0	0
+20-24	Female	Calcium lactate	0	0	0	0
+25-29	Female	Calcium lactate	0	0	0	0
+30-34	Female	Calcium lactate	0	0	0	0
+35-39	Female	Calcium lactate	0	0	0	0
+40-44	Female	Calcium lactate	0	0	0.0102270402945388	1
+45-49	Female	Calcium lactate	0	0	0	0
+50-54	Female	Calcium lactate	0	0	0	0
+55-59	Female	Calcium lactate	0	0	0	0
+60-64	Female	Calcium lactate	0	0	0	0
+65-69	Female	Calcium lactate	0	0.0112007168458781	0.0112007168458781	1
+70-74	Female	Calcium lactate	0	0	0	0
+75-79	Female	Calcium lactate	0	0	0	0
+80-84	Female	Calcium lactate	0	0.0301841231512225	0.0301841231512225	1
+85-89	Female	Calcium lactate	0	0	0	0
+>90	Female	Calcium lactate	0	0	0	0

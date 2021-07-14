@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Dihydroergotamine	Isosorbide mononitrate	0
+05-09	Female	Dihydroergotamine	Isosorbide mononitrate	0
+10-14	Female	Dihydroergotamine	Isosorbide mononitrate	0
+15-19	Female	Dihydroergotamine	Isosorbide mononitrate	0
+20-24	Female	Dihydroergotamine	Isosorbide mononitrate	0
+25-29	Female	Dihydroergotamine	Isosorbide mononitrate	0
+30-34	Female	Dihydroergotamine	Isosorbide mononitrate	0
+35-39	Female	Dihydroergotamine	Isosorbide mononitrate	0
+40-44	Female	Dihydroergotamine	Isosorbide mononitrate	0
+45-49	Female	Dihydroergotamine	Isosorbide mononitrate	0
+50-54	Female	Dihydroergotamine	Isosorbide mononitrate	0
+55-59	Female	Dihydroergotamine	Isosorbide mononitrate	2.09988303651487e-06
+60-64	Female	Dihydroergotamine	Isosorbide mononitrate	0
+65-69	Female	Dihydroergotamine	Isosorbide mononitrate	2.37388724035608e-06
+70-74	Female	Dihydroergotamine	Isosorbide mononitrate	5.1101492674601e-06
+75-79	Female	Dihydroergotamine	Isosorbide mononitrate	8.39517780986601e-06
+80-84	Female	Dihydroergotamine	Isosorbide mononitrate	3.14234179880214e-06
+85-89	Female	Dihydroergotamine	Isosorbide mononitrate	7.91098559013975e-06
+>90	Female	Dihydroergotamine	Isosorbide mononitrate	1.97412579129542e-05

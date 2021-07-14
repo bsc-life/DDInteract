@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Benazepril	Lithium cation	0
+05-09	Female	Benazepril	Lithium cation	0
+10-14	Female	Benazepril	Lithium cation	0
+15-19	Female	Benazepril	Lithium cation	0
+20-24	Female	Benazepril	Lithium cation	0
+25-29	Female	Benazepril	Lithium cation	0
+30-34	Female	Benazepril	Lithium cation	0
+35-39	Female	Benazepril	Lithium cation	0
+40-44	Female	Benazepril	Lithium cation	0
+45-49	Female	Benazepril	Lithium cation	0
+50-54	Female	Benazepril	Lithium cation	0
+55-59	Female	Benazepril	Lithium cation	0
+60-64	Female	Benazepril	Lithium cation	9.25411808254673e-05
+65-69	Female	Benazepril	Lithium cation	0
+70-74	Female	Benazepril	Lithium cation	0
+75-79	Female	Benazepril	Lithium cation	0
+80-84	Female	Benazepril	Lithium cation	0
+85-89	Female	Benazepril	Lithium cation	0
+>90	Female	Benazepril	Lithium cation	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Indomethacin	Alendronic acid	0
+05-09	Male	Indomethacin	Alendronic acid	5.62768370166523e-06
+10-14	Male	Indomethacin	Alendronic acid	0
+15-19	Male	Indomethacin	Alendronic acid	0
+20-24	Male	Indomethacin	Alendronic acid	3.33592423448879e-06
+25-29	Male	Indomethacin	Alendronic acid	2.6879986237447e-06
+30-34	Male	Indomethacin	Alendronic acid	1.05563179562968e-05
+35-39	Male	Indomethacin	Alendronic acid	1.29098175473929e-05
+40-44	Male	Indomethacin	Alendronic acid	9.33506343175602e-06
+45-49	Male	Indomethacin	Alendronic acid	2.03608347127799e-05
+50-54	Male	Indomethacin	Alendronic acid	3.74083495436181e-05
+55-59	Male	Indomethacin	Alendronic acid	5.86937127294924e-05
+60-64	Male	Indomethacin	Alendronic acid	9.23109811199751e-05
+65-69	Male	Indomethacin	Alendronic acid	0.000113863549100346
+70-74	Male	Indomethacin	Alendronic acid	0.000156606427364166
+75-79	Male	Indomethacin	Alendronic acid	0.000189500280741157
+80-84	Male	Indomethacin	Alendronic acid	0.000166443991596828
+85-89	Male	Indomethacin	Alendronic acid	0.000121802679658953
+>90	Male	Indomethacin	Alendronic acid	1.46996134001676e-05

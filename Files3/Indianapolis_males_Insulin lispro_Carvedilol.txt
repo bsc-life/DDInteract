@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin lispro	Carvedilol	0
+05-09	Male	Insulin lispro	Carvedilol	0
+10-14	Male	Insulin lispro	Carvedilol	0
+15-19	Male	Insulin lispro	Carvedilol	0.00013933398355859
+20-24	Male	Insulin lispro	Carvedilol	0.000146434324205594
+25-29	Male	Insulin lispro	Carvedilol	0.00050884111436204
+30-34	Male	Insulin lispro	Carvedilol	0.000523012552301255
+35-39	Male	Insulin lispro	Carvedilol	0.00153953813855843
+40-44	Male	Insulin lispro	Carvedilol	0.00444707975096353
+45-49	Male	Insulin lispro	Carvedilol	0.00619920099187216
+50-54	Male	Insulin lispro	Carvedilol	0.010182540668074
+55-59	Male	Insulin lispro	Carvedilol	0.0122941574554478
+60-64	Male	Insulin lispro	Carvedilol	0.0125563818115324
+65-69	Male	Insulin lispro	Carvedilol	0.0142771265404268
+70-74	Male	Insulin lispro	Carvedilol	0.0185897435897436
+75-79	Male	Insulin lispro	Carvedilol	0.0241152521139994
+80-84	Male	Insulin lispro	Carvedilol	0.020307082714215
+85-89	Male	Insulin lispro	Carvedilol	0.00970873786407767
+>90	Male	Insulin lispro	Carvedilol	0

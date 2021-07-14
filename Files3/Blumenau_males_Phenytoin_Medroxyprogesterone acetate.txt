@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Phenytoin	Medroxyprogesterone acetate	0
+05-09	Male	Phenytoin	Medroxyprogesterone acetate	0
+10-14	Male	Phenytoin	Medroxyprogesterone acetate	0
+15-19	Male	Phenytoin	Medroxyprogesterone acetate	0
+20-24	Male	Phenytoin	Medroxyprogesterone acetate	0
+25-29	Male	Phenytoin	Medroxyprogesterone acetate	0
+30-34	Male	Phenytoin	Medroxyprogesterone acetate	0
+35-39	Male	Phenytoin	Medroxyprogesterone acetate	0
+40-44	Male	Phenytoin	Medroxyprogesterone acetate	0
+45-49	Male	Phenytoin	Medroxyprogesterone acetate	0
+50-54	Male	Phenytoin	Medroxyprogesterone acetate	0
+55-59	Male	Phenytoin	Medroxyprogesterone acetate	0
+60-64	Male	Phenytoin	Medroxyprogesterone acetate	0
+65-69	Male	Phenytoin	Medroxyprogesterone acetate	0
+70-74	Male	Phenytoin	Medroxyprogesterone acetate	0
+75-79	Male	Phenytoin	Medroxyprogesterone acetate	0
+80-84	Male	Phenytoin	Medroxyprogesterone acetate	0
+85-89	Male	Phenytoin	Medroxyprogesterone acetate	0
+>90	Male	Phenytoin	Medroxyprogesterone acetate	0

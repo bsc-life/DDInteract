@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Indomethacin	Alendronic acid	0
+05-09	Female	Indomethacin	Alendronic acid	0
+10-14	Female	Indomethacin	Alendronic acid	0
+15-19	Female	Indomethacin	Alendronic acid	0
+20-24	Female	Indomethacin	Alendronic acid	0
+25-29	Female	Indomethacin	Alendronic acid	6.66518551433015e-06
+30-34	Female	Indomethacin	Alendronic acid	7.3506846243892e-06
+35-39	Female	Indomethacin	Alendronic acid	1.36013247690325e-05
+40-44	Female	Indomethacin	Alendronic acid	2.46143892203041e-05
+45-49	Female	Indomethacin	Alendronic acid	7.18094856551104e-05
+50-54	Female	Indomethacin	Alendronic acid	0.000172947441868787
+55-59	Female	Indomethacin	Alendronic acid	0.000390578244791765
+60-64	Female	Indomethacin	Alendronic acid	0.000647374753692434
+65-69	Female	Indomethacin	Alendronic acid	0.000781008902077151
+70-74	Female	Indomethacin	Alendronic acid	0.000781852837921396
+75-79	Female	Indomethacin	Alendronic acid	0.000783549928920828
+80-84	Female	Indomethacin	Alendronic acid	0.000663034119547251
+85-89	Female	Indomethacin	Alendronic acid	0.000403460265097127
+>90	Female	Indomethacin	Alendronic acid	0.000144769224694998

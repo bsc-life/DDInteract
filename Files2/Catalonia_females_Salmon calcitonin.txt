@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Salmon calcitonin	0	6e-04	0.0012	2
+10-14	Female	Salmon calcitonin	0	0.0024	0.0032	8
+15-19	Female	Salmon calcitonin	0	0.0063	0.0087	26
+20-24	Female	Salmon calcitonin	0	0.0112	0.0226	81
+25-29	Female	Salmon calcitonin	0	0.0191	0.0333	150
+30-34	Female	Salmon calcitonin	0	0.0246	0.0413	225
+35-39	Female	Salmon calcitonin	0	0.0279	0.0473	278
+40-44	Female	Salmon calcitonin	0	0.042	0.0661	376
+45-49	Female	Salmon calcitonin	0	0.0748	0.1051	556
+50-54	Female	Salmon calcitonin	0	0.1584	0.2141	1077
+55-59	Female	Salmon calcitonin	0	0.2514	0.3286	1565
+60-64	Female	Salmon calcitonin	0	0.4076	0.4874	2236
+65-69	Female	Salmon calcitonin	0	0.5462	0.626	2637
+70-74	Female	Salmon calcitonin	0	0.7042	0.7747	3032
+75-79	Female	Salmon calcitonin	0	0.9817	1.0536	3765
+80-84	Female	Salmon calcitonin	0	1.0464	1.1209	3567
+85-89	Female	Salmon calcitonin	0	0.9533	0.9984	2524
+>90	Female	Salmon calcitonin	0	0.7771	0.8147	1238

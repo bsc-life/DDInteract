@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Valproic acid	Carbamazepine	0.000186671644577189
+05-09	Female	Valproic acid	Carbamazepine	0.000640820249919897
+10-14	Female	Valproic acid	Carbamazepine	0.000330578512396694
+15-19	Female	Valproic acid	Carbamazepine	0.00122292103424179
+20-24	Female	Valproic acid	Carbamazepine	0.000459770114942529
+25-29	Female	Valproic acid	Carbamazepine	0.00150175204405139
+30-34	Female	Valproic acid	Carbamazepine	0.00134589502018843
+35-39	Female	Valproic acid	Carbamazepine	0.00217500418270035
+40-44	Female	Valproic acid	Carbamazepine	0.00232414006817478
+45-49	Female	Valproic acid	Carbamazepine	0.00222376650451703
+50-54	Female	Valproic acid	Carbamazepine	0.0014988418040605
+55-59	Female	Valproic acid	Carbamazepine	0.000941619585687382
+60-64	Female	Valproic acid	Carbamazepine	0.000178762960314623
+65-69	Female	Valproic acid	Carbamazepine	0.000719079578139981
+70-74	Female	Valproic acid	Carbamazepine	0.00032520325203252
+75-79	Female	Valproic acid	Carbamazepine	0
+80-84	Female	Valproic acid	Carbamazepine	0
+85-89	Female	Valproic acid	Carbamazepine	0
+>90	Female	Valproic acid	Carbamazepine	0

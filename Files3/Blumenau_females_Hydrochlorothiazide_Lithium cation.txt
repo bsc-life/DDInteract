@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Hydrochlorothiazide	Lithium cation	0
+05-09	Female	Hydrochlorothiazide	Lithium cation	0
+10-14	Female	Hydrochlorothiazide	Lithium cation	0
+15-19	Female	Hydrochlorothiazide	Lithium cation	0
+20-24	Female	Hydrochlorothiazide	Lithium cation	0
+25-29	Female	Hydrochlorothiazide	Lithium cation	0.000166861338227933
+30-34	Female	Hydrochlorothiazide	Lithium cation	0
+35-39	Female	Hydrochlorothiazide	Lithium cation	0.000334616028107746
+40-44	Female	Hydrochlorothiazide	Lithium cation	0.000464828013634955
+45-49	Female	Hydrochlorothiazide	Lithium cation	0.000555941626129256
+50-54	Female	Hydrochlorothiazide	Lithium cation	0.0014988418040605
+55-59	Female	Hydrochlorothiazide	Lithium cation	0.00141242937853107
+60-64	Female	Hydrochlorothiazide	Lithium cation	0.00143010368251698
+65-69	Female	Hydrochlorothiazide	Lithium cation	0.00167785234899329
+70-74	Female	Hydrochlorothiazide	Lithium cation	0.000975609756097561
+75-79	Female	Hydrochlorothiazide	Lithium cation	0
+80-84	Female	Hydrochlorothiazide	Lithium cation	0
+85-89	Female	Hydrochlorothiazide	Lithium cation	0
+>90	Female	Hydrochlorothiazide	Lithium cation	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Heparin	0.00183374083129584
+05-09	Female	Acetylsalicylic acid	Heparin	0.00100055586436909
+10-14	Female	Acetylsalicylic acid	Heparin	0.000981474665685192
+15-19	Female	Acetylsalicylic acid	Heparin	0.000480492023832404
+20-24	Female	Acetylsalicylic acid	Heparin	0.00127867619405792
+25-29	Female	Acetylsalicylic acid	Heparin	0.0015575313128691
+30-34	Female	Acetylsalicylic acid	Heparin	0.00338658617389384
+35-39	Female	Acetylsalicylic acid	Heparin	0.00561176770682765
+40-44	Female	Acetylsalicylic acid	Heparin	0.00818163223563101
+45-49	Female	Acetylsalicylic acid	Heparin	0.0137480499219969
+50-54	Female	Acetylsalicylic acid	Heparin	0.0182842367716317
+55-59	Female	Acetylsalicylic acid	Heparin	0.0241427571728481
+60-64	Female	Acetylsalicylic acid	Heparin	0.0322968721080881
+65-69	Female	Acetylsalicylic acid	Heparin	0.0392025089605735
+70-74	Female	Acetylsalicylic acid	Heparin	0.0515055467511886
+75-79	Female	Acetylsalicylic acid	Heparin	0.0689731159100926
+80-84	Female	Acetylsalicylic acid	Heparin	0.0718382130999095
+85-89	Female	Acetylsalicylic acid	Heparin	0.0982300884955752
+>90	Female	Acetylsalicylic acid	Heparin	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Piroxicam	Alendronic acid	0
+05-09	Female	Piroxicam	Alendronic acid	0
+10-14	Female	Piroxicam	Alendronic acid	0
+15-19	Female	Piroxicam	Alendronic acid	0
+20-24	Female	Piroxicam	Alendronic acid	0
+25-29	Female	Piroxicam	Alendronic acid	0
+30-34	Female	Piroxicam	Alendronic acid	0
+35-39	Female	Piroxicam	Alendronic acid	0
+40-44	Female	Piroxicam	Alendronic acid	1.75817065859315e-06
+45-49	Female	Piroxicam	Alendronic acid	5.66916992014029e-06
+50-54	Female	Piroxicam	Alendronic acid	1.59032130454057e-05
+55-59	Female	Piroxicam	Alendronic acid	4.40975437668122e-05
+60-64	Female	Piroxicam	Alendronic acid	6.5391389261862e-05
+65-69	Female	Piroxicam	Alendronic acid	6.88427299703264e-05
+70-74	Female	Piroxicam	Alendronic acid	0.000112423283884122
+75-79	Female	Piroxicam	Alendronic acid	0.000103540526321681
+80-84	Female	Piroxicam	Alendronic acid	8.48432285676578e-05
+85-89	Female	Piroxicam	Alendronic acid	6.72433775161879e-05
+>90	Female	Piroxicam	Alendronic acid	6.58041930431807e-06

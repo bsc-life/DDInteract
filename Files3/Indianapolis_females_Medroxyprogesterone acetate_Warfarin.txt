@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Medroxyprogesterone acetate	Warfarin	0
+05-09	Female	Medroxyprogesterone acetate	Warfarin	0
+10-14	Female	Medroxyprogesterone acetate	Warfarin	0
+15-19	Female	Medroxyprogesterone acetate	Warfarin	0
+20-24	Female	Medroxyprogesterone acetate	Warfarin	7.52162467092892e-05
+25-29	Female	Medroxyprogesterone acetate	Warfarin	6.48971380362126e-05
+30-34	Female	Medroxyprogesterone acetate	Warfarin	7.36214385629095e-05
+35-39	Female	Medroxyprogesterone acetate	Warfarin	8.50267834367826e-05
+40-44	Female	Medroxyprogesterone acetate	Warfarin	0
+45-49	Female	Medroxyprogesterone acetate	Warfarin	0.000195007800312012
+50-54	Female	Medroxyprogesterone acetate	Warfarin	0
+55-59	Female	Medroxyprogesterone acetate	Warfarin	0
+60-64	Female	Medroxyprogesterone acetate	Warfarin	0
+65-69	Female	Medroxyprogesterone acetate	Warfarin	0
+70-74	Female	Medroxyprogesterone acetate	Warfarin	0
+75-79	Female	Medroxyprogesterone acetate	Warfarin	0
+80-84	Female	Medroxyprogesterone acetate	Warfarin	0
+85-89	Female	Medroxyprogesterone acetate	Warfarin	0
+>90	Female	Medroxyprogesterone acetate	Warfarin	0

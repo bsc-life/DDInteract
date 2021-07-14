@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Potassium chloride	0	0.0014	0.0028	2
+05-09	Female	Potassium chloride	0	0.0041	0.0041	7
+10-14	Female	Potassium chloride	0	0.0032	0.0061	15
+15-19	Female	Potassium chloride	0	0.016	0.0187	56
+20-24	Female	Potassium chloride	0	0.0313	0.0396	142
+25-29	Female	Potassium chloride	0	0.0331	0.0447	201
+30-34	Female	Potassium chloride	0	0.0494	0.0614	334
+35-39	Female	Potassium chloride	0	0.0699	0.0843	496
+40-44	Female	Potassium chloride	0	0.0803	0.0946	538
+45-49	Female	Potassium chloride	0	0.1043	0.1204	637
+50-54	Female	Potassium chloride	0	0.1374	0.1582	796
+55-59	Female	Potassium chloride	0	0.1556	0.1758	837
+60-64	Female	Potassium chloride	0	0.1805	0.1981	909
+65-69	Female	Potassium chloride	0	0.2203	0.235	990
+70-74	Female	Potassium chloride	3e-04	0.2696	0.2846	1114
+75-79	Female	Potassium chloride	0	0.3283	0.3476	1242
+80-84	Female	Potassium chloride	6e-04	0.5009	0.5185	1650
+85-89	Female	Potassium chloride	4e-04	0.7108	0.7357	1860
+>90	Female	Potassium chloride	0	1.1391	1.1753	1786

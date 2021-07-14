@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin lispro	Acetylsalicylic acid	0
+05-09	Female	Insulin lispro	Acetylsalicylic acid	0
+10-14	Female	Insulin lispro	Acetylsalicylic acid	0.000122684333210649
+15-19	Female	Insulin lispro	Acetylsalicylic acid	0.000576590428598885
+20-24	Female	Insulin lispro	Acetylsalicylic acid	0.000752162467092892
+25-29	Female	Insulin lispro	Acetylsalicylic acid	0.000454279966253488
+30-34	Female	Insulin lispro	Acetylsalicylic acid	0.00191415740263565
+35-39	Female	Insulin lispro	Acetylsalicylic acid	0.003911232038092
+40-44	Female	Insulin lispro	Acetylsalicylic acid	0.00767028022090407
+45-49	Female	Insulin lispro	Acetylsalicylic acid	0.0101404056162246
+50-54	Female	Insulin lispro	Acetylsalicylic acid	0.0168067226890756
+55-59	Female	Insulin lispro	Acetylsalicylic acid	0.0209062281315605
+60-64	Female	Insulin lispro	Acetylsalicylic acid	0.0295206366833241
+65-69	Female	Insulin lispro	Acetylsalicylic acid	0.0353942652329749
+70-74	Female	Insulin lispro	Acetylsalicylic acid	0.0372424722662441
+75-79	Female	Insulin lispro	Acetylsalicylic acid	0.0456148082855884
+80-84	Female	Insulin lispro	Acetylsalicylic acid	0.0386356776335647
+85-89	Female	Insulin lispro	Acetylsalicylic acid	0.0451327433628319
+>90	Female	Insulin lispro	Acetylsalicylic acid	0

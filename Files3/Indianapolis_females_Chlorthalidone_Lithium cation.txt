@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Chlorthalidone	Lithium cation	0
+05-09	Female	Chlorthalidone	Lithium cation	0
+10-14	Female	Chlorthalidone	Lithium cation	0
+15-19	Female	Chlorthalidone	Lithium cation	0
+20-24	Female	Chlorthalidone	Lithium cation	0
+25-29	Female	Chlorthalidone	Lithium cation	0
+30-34	Female	Chlorthalidone	Lithium cation	0
+35-39	Female	Chlorthalidone	Lithium cation	0
+40-44	Female	Chlorthalidone	Lithium cation	0
+45-49	Female	Chlorthalidone	Lithium cation	0
+50-54	Female	Chlorthalidone	Lithium cation	9.23446301597562e-05
+55-59	Female	Chlorthalidone	Lithium cation	0
+60-64	Female	Chlorthalidone	Lithium cation	0
+65-69	Female	Chlorthalidone	Lithium cation	0.000112007168458781
+70-74	Female	Chlorthalidone	Lithium cation	0
+75-79	Female	Chlorthalidone	Lithium cation	0
+80-84	Female	Chlorthalidone	Lithium cation	0
+85-89	Female	Chlorthalidone	Lithium cation	0
+>90	Female	Chlorthalidone	Lithium cation	0

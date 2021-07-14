@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Memantine	Sodium bicarbonate	0
+05-09	Female	Memantine	Sodium bicarbonate	0
+10-14	Female	Memantine	Sodium bicarbonate	0
+15-19	Female	Memantine	Sodium bicarbonate	0
+20-24	Female	Memantine	Sodium bicarbonate	0
+25-29	Female	Memantine	Sodium bicarbonate	0
+30-34	Female	Memantine	Sodium bicarbonate	0
+35-39	Female	Memantine	Sodium bicarbonate	0
+40-44	Female	Memantine	Sodium bicarbonate	0
+45-49	Female	Memantine	Sodium bicarbonate	0
+50-54	Female	Memantine	Sodium bicarbonate	0
+55-59	Female	Memantine	Sodium bicarbonate	0
+60-64	Female	Memantine	Sodium bicarbonate	0
+65-69	Female	Memantine	Sodium bicarbonate	0.000112007168458781
+70-74	Female	Memantine	Sodium bicarbonate	0
+75-79	Female	Memantine	Sodium bicarbonate	0.000440722785368004
+80-84	Female	Memantine	Sodium bicarbonate	0.000603682463024449
+85-89	Female	Memantine	Sodium bicarbonate	0.000442477876106195
+>90	Female	Memantine	Sodium bicarbonate	0

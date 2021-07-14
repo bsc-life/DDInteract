@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	NA	NA	0	0	0	0
+20-24	NA	NA	0	0	0	0
+25-29	NA	NA	0	0	0	0
+30-34	NA	NA	0	0	0	0
+35-39	Male	Clodronic acid	0	2e-04	2e-04	1
+40-44	NA	NA	0	0	0	0
+45-49	NA	NA	0	0	0	0
+50-54	Male	Clodronic acid	0	0	2e-04	1
+55-59	Male	Clodronic acid	0	2e-04	2e-04	1
+60-64	NA	NA	0	0	0	0
+65-69	Male	Clodronic acid	0	3e-04	3e-04	1
+70-74	Male	Clodronic acid	0	3e-04	3e-04	1
+75-79	Male	Clodronic acid	0	0.0011	0.0011	3
+80-84	Male	Clodronic acid	0	4e-04	4e-04	1
+85-89	Male	Clodronic acid	7e-04	0.002	0.002	3
+>90	Male	Clodronic acid	0.0015	0.0044	0.0044	3

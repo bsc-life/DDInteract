@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Megestrol acetate	0	0	0.0013	1
+05-09	Male	Megestrol acetate	0	0.0023	0.0028	5
+10-14	NA	NA	0	0	0	0
+15-19	Male	Megestrol acetate	0	0.007	0.0105	30
+20-24	Male	Megestrol acetate	0	0.009	0.014	42
+25-29	Male	Megestrol acetate	0	0.0102	0.0153	57
+30-34	Male	Megestrol acetate	2e-04	0.0129	0.0167	79
+35-39	Male	Megestrol acetate	0	0.0194	0.0249	135
+40-44	Male	Megestrol acetate	0.0011	0.04	0.0474	254
+45-49	Male	Megestrol acetate	0.001	0.0668	0.0778	382
+50-54	Male	Megestrol acetate	0.002	0.1179	0.1272	578
+55-59	Male	Megestrol acetate	0.0019	0.1667	0.1808	770
+60-64	Male	Megestrol acetate	0.0022	0.2597	0.2794	1150
+65-69	Male	Megestrol acetate	0.0021	0.3993	0.4266	1611
+70-74	Male	Megestrol acetate	0.0035	0.5836	0.6143	2079
+75-79	Male	Megestrol acetate	0.0035	0.8938	0.944	2690
+80-84	Male	Megestrol acetate	0.0058	1.1791	1.247	2772
+85-89	Male	Megestrol acetate	0.0068	1.4163	1.4975	2213
+>90	Male	Megestrol acetate	0.0059	1.8169	1.8948	1289

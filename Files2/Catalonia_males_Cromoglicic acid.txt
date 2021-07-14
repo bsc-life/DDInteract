@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Cromoglicic acid	0	0.0441	0.0441	34
+05-09	Male	Cromoglicic acid	0	0.0107	0.0113	20
+10-14	Male	Cromoglicic acid	0	0.0076	0.0091	24
+15-19	Male	Cromoglicic acid	0	0.0109	0.0126	36
+20-24	Male	Cromoglicic acid	0	0.0087	0.0103	31
+25-29	Male	Cromoglicic acid	0	0.0067	0.0086	32
+30-34	Male	Cromoglicic acid	0	0.0095	0.011	52
+35-39	Male	Cromoglicic acid	0	0.0101	0.0129	70
+40-44	Male	Cromoglicic acid	0	0.0103	0.0125	67
+45-49	Male	Cromoglicic acid	0	0.0094	0.0106	52
+50-54	Male	Cromoglicic acid	0	0.0136	0.0147	67
+55-59	Male	Cromoglicic acid	0	0.0235	0.0249	106
+60-64	Male	Cromoglicic acid	0	0.0323	0.0328	135
+65-69	Male	Cromoglicic acid	0	0.0455	0.0469	177
+70-74	Male	Cromoglicic acid	0	0.0688	0.0694	235
+75-79	Male	Cromoglicic acid	0	0.0909	0.0909	259
+80-84	Male	Cromoglicic acid	0	0.1008	0.1017	226
+85-89	Male	Cromoglicic acid	0	0.0941	0.0947	140
+>90	Male	Cromoglicic acid	0	0.1029	0.1029	70

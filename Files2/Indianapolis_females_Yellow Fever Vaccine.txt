@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Yellow Fever Vaccine	0	0	0.0407497962510187	6
+05-09	Female	Yellow Fever Vaccine	0	0	0.0667037242912729	6
+10-14	Female	Yellow Fever Vaccine	0	0	0.0368052999631947	3
+15-19	Female	Yellow Fever Vaccine	0	0	0.0768787238131847	8
+20-24	Female	Yellow Fever Vaccine	0	0	0.0676946220383603	9
+25-29	Female	Yellow Fever Vaccine	0	0	0.110325134661561	17
+30-34	Female	Yellow Fever Vaccine	0	0	0.125156445556946	17
+35-39	Female	Yellow Fever Vaccine	0	0	0.110534818467817	13
+40-44	Female	Yellow Fever Vaccine	0	0	0.0818163223563101	8
+45-49	Female	Yellow Fever Vaccine	0	0	0.0682527301092044	7
+50-54	Female	Yellow Fever Vaccine	0	0	0.0646412411118293	7
+55-59	Female	Yellow Fever Vaccine	0	0	0.0874737578726382	10
+60-64	Female	Yellow Fever Vaccine	0	0	0.0832870627429206	9
+65-69	Female	Yellow Fever Vaccine	0	0	0.0896057347670251	8
+70-74	Female	Yellow Fever Vaccine	0	0	0.0475435816164818	3
+75-79	Female	Yellow Fever Vaccine	0	0	0	0
+80-84	Female	Yellow Fever Vaccine	0	0	0.0301841231512225	1
+85-89	Female	Yellow Fever Vaccine	0	0	0	0
+>90	Female	Yellow Fever Vaccine	0	0	0	0

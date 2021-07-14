@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Hydrocortisone	Acetylsalicylic acid	1.29594111243585e-05
+05-09	Male	Hydrocortisone	Acetylsalicylic acid	5.62768370166523e-06
+10-14	Male	Hydrocortisone	Acetylsalicylic acid	0
+15-19	Male	Hydrocortisone	Acetylsalicylic acid	7.01171306667789e-06
+20-24	Male	Hydrocortisone	Acetylsalicylic acid	6.67184846897757e-06
+25-29	Male	Hydrocortisone	Acetylsalicylic acid	1.88159903662129e-05
+30-34	Male	Hydrocortisone	Acetylsalicylic acid	1.6890108730075e-05
+35-39	Male	Hydrocortisone	Acetylsalicylic acid	6.08605684377092e-05
+40-44	Male	Hydrocortisone	Acetylsalicylic acid	8.77495962585066e-05
+45-49	Male	Hydrocortisone	Acetylsalicylic acid	0.000177139262001185
+50-54	Male	Hydrocortisone	Acetylsalicylic acid	0.000288264340600822
+55-59	Male	Hydrocortisone	Acetylsalicylic acid	0.000586937127294924
+60-64	Male	Hydrocortisone	Acetylsalicylic acid	0.00109315635536813
+65-69	Male	Hydrocortisone	Acetylsalicylic acid	0.00155701783420938
+70-74	Male	Hydrocortisone	Acetylsalicylic acid	0.00198860614369969
+75-79	Male	Hydrocortisone	Acetylsalicylic acid	0.00270915216170691
+80-84	Male	Hydrocortisone	Acetylsalicylic acid	0.00319842373041472
+85-89	Male	Hydrocortisone	Acetylsalicylic acid	0.00299769928271755
+>90	Male	Hydrocortisone	Acetylsalicylic acid	0.00320451572123653

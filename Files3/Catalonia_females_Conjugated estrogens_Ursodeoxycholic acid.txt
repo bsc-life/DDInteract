@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+05-09	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+10-14	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+15-19	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+20-24	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+25-29	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+30-34	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+35-39	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+40-44	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+45-49	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+50-54	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+55-59	Female	Conjugated estrogens	Ursodeoxycholic acid	6.2996491095446e-06
+60-64	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+65-69	Female	Conjugated estrogens	Ursodeoxycholic acid	2.37388724035608e-06
+70-74	Female	Conjugated estrogens	Ursodeoxycholic acid	2.55507463373005e-06
+75-79	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+80-84	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+85-89	Female	Conjugated estrogens	Ursodeoxycholic acid	0
+>90	Female	Conjugated estrogens	Ursodeoxycholic acid	0

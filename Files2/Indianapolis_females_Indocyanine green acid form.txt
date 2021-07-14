@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Indocyanine green acid form	0	0	0	0
+05-09	Female	Indocyanine green acid form	0	0	0	0
+10-14	Female	Indocyanine green acid form	0	0	0	0
+15-19	Female	Indocyanine green acid form	0	0.00960984047664809	0.00960984047664809	1
+20-24	Female	Indocyanine green acid form	0	0.0150432493418578	0.0150432493418578	2
+25-29	Female	Indocyanine green acid form	0	0	0	0
+30-34	Female	Indocyanine green acid form	0	0.0147242877125819	0.0147242877125819	2
+35-39	Female	Indocyanine green acid form	0	0.0510160700620696	0.0510160700620696	6
+40-44	Female	Indocyanine green acid form	0	0.0511352014726938	0.0511352014726938	5
+45-49	Female	Indocyanine green acid form	0	0.0292511700468019	0.0292511700468019	3
+50-54	Female	Indocyanine green acid form	0	0.073875704127805	0.073875704127805	8
+55-59	Female	Indocyanine green acid form	0	0.0874737578726382	0.0874737578726382	10
+60-64	Female	Indocyanine green acid form	0	0.0740329446603739	0.0740329446603739	8
+65-69	Female	Indocyanine green acid form	0	0.0560035842293907	0.0560035842293907	5
+70-74	Female	Indocyanine green acid form	0	0.0158478605388273	0.0158478605388273	1
+75-79	Female	Indocyanine green acid form	0	0	0	0
+80-84	Female	Indocyanine green acid form	0	0	0	0
+85-89	Female	Indocyanine green acid form	0	0	0	0
+>90	Female	Indocyanine green acid form	0	0	0	0

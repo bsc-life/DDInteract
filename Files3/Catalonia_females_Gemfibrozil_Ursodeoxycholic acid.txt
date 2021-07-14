@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Gemfibrozil	Ursodeoxycholic acid	0
+05-09	Female	Gemfibrozil	Ursodeoxycholic acid	0
+10-14	Female	Gemfibrozil	Ursodeoxycholic acid	0
+15-19	Female	Gemfibrozil	Ursodeoxycholic acid	3.33895390574133e-06
+20-24	Female	Gemfibrozil	Ursodeoxycholic acid	0
+25-29	Female	Gemfibrozil	Ursodeoxycholic acid	0
+30-34	Female	Gemfibrozil	Ursodeoxycholic acid	0
+35-39	Female	Gemfibrozil	Ursodeoxycholic acid	1.70016559612906e-06
+40-44	Female	Gemfibrozil	Ursodeoxycholic acid	8.79085329296574e-06
+45-49	Female	Gemfibrozil	Ursodeoxycholic acid	2.07869563738477e-05
+50-54	Female	Gemfibrozil	Ursodeoxycholic acid	2.18669179374328e-05
+55-59	Female	Gemfibrozil	Ursodeoxycholic acid	3.77978946572676e-05
+60-64	Female	Gemfibrozil	Ursodeoxycholic acid	2.39768427293494e-05
+65-69	Female	Gemfibrozil	Ursodeoxycholic acid	3.79821958456973e-05
+70-74	Female	Gemfibrozil	Ursodeoxycholic acid	3.83261195059508e-05
+75-79	Female	Gemfibrozil	Ursodeoxycholic acid	3.91774964460414e-05
+80-84	Female	Gemfibrozil	Ursodeoxycholic acid	4.71351269820321e-05
+85-89	Female	Gemfibrozil	Ursodeoxycholic acid	3.1643942360559e-05
+>90	Female	Gemfibrozil	Ursodeoxycholic acid	2.63216772172723e-05

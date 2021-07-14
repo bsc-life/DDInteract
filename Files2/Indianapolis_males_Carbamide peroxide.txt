@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Carbamide peroxide	0	0	0.329400491106187	55
+05-09	Male	Carbamide peroxide	0	0	0.482557555041721	48
+10-14	Male	Carbamide peroxide	0	0	0.280668927610806	24
+15-19	Male	Carbamide peroxide	0	0	0.376201755608193	27
+20-24	Male	Carbamide peroxide	0	0	0.248938351149509	17
+25-29	Male	Carbamide peroxide	0	0	0.152652334308612	12
+30-34	Male	Carbamide peroxide	0	0	0.156903765690377	12
+35-39	Male	Carbamide peroxide	0	0	0.251924422673198	18
+40-44	Male	Carbamide peroxide	0	0	0.133412392528906	9
+45-49	Male	Carbamide peroxide	0	0	0.0964320154291225	7
+50-54	Male	Carbamide peroxide	0	0	0.186265987830622	15
+55-59	Male	Carbamide peroxide	0	0	0.101511391833972	9
+60-64	Male	Carbamide peroxide	0	0	0.280385224917713	23
+65-69	Male	Carbamide peroxide	0	0	0.210399759543132	14
+70-74	Male	Carbamide peroxide	0	0	0.192307692307692	9
+75-79	Male	Carbamide peroxide	0	0	0.281866583150642	9
+80-84	Male	Carbamide peroxide	0	0	0.445765230312036	9
+85-89	Male	Carbamide peroxide	0	0	0.566343042071197	7
+>90	Male	Carbamide peroxide	0	0	0.651465798045603	4

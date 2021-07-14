@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Tenofovir disoproxil	Atazanavir	0
+05-09	Female	Tenofovir disoproxil	Atazanavir	0
+10-14	Female	Tenofovir disoproxil	Atazanavir	0
+15-19	Female	Tenofovir disoproxil	Atazanavir	0
+20-24	Female	Tenofovir disoproxil	Atazanavir	0
+25-29	Female	Tenofovir disoproxil	Atazanavir	6.48971380362126e-05
+30-34	Female	Tenofovir disoproxil	Atazanavir	7.36214385629095e-05
+35-39	Female	Tenofovir disoproxil	Atazanavir	8.50267834367826e-05
+40-44	Female	Tenofovir disoproxil	Atazanavir	0.000102270402945388
+45-49	Female	Tenofovir disoproxil	Atazanavir	0
+50-54	Female	Tenofovir disoproxil	Atazanavir	0
+55-59	Female	Tenofovir disoproxil	Atazanavir	0
+60-64	Female	Tenofovir disoproxil	Atazanavir	0
+65-69	Female	Tenofovir disoproxil	Atazanavir	0.000224014336917563
+70-74	Female	Tenofovir disoproxil	Atazanavir	0
+75-79	Female	Tenofovir disoproxil	Atazanavir	0
+80-84	Female	Tenofovir disoproxil	Atazanavir	0
+85-89	Female	Tenofovir disoproxil	Atazanavir	0
+>90	Female	Tenofovir disoproxil	Atazanavir	0

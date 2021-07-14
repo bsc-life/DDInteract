@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Folic acid	Butalbital	0
+05-09	Male	Folic acid	Butalbital	0
+10-14	Male	Folic acid	Butalbital	0
+15-19	Male	Folic acid	Butalbital	0
+20-24	Male	Folic acid	Butalbital	0.000146434324205594
+25-29	Male	Folic acid	Butalbital	0.00012721027859051
+30-34	Male	Folic acid	Butalbital	0.000261506276150628
+35-39	Male	Folic acid	Butalbital	0
+40-44	Male	Folic acid	Butalbital	0
+45-49	Male	Folic acid	Butalbital	0.000275520044083207
+50-54	Male	Folic acid	Butalbital	0.000745063951322488
+55-59	Male	Folic acid	Butalbital	0.000563952176855403
+60-64	Male	Folic acid	Butalbital	0.000243813239058881
+65-69	Male	Folic acid	Butalbital	0
+70-74	Male	Folic acid	Butalbital	0
+75-79	Male	Folic acid	Butalbital	0
+80-84	Male	Folic acid	Butalbital	0.000495294700346706
+85-89	Male	Folic acid	Butalbital	0
+>90	Male	Folic acid	Butalbital	0

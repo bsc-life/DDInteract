@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Valproic acid	Phenobarbital	0.000373343289154377
+05-09	Female	Valproic acid	Phenobarbital	0.000320410124959949
+10-14	Female	Valproic acid	Phenobarbital	0
+15-19	Female	Valproic acid	Phenobarbital	0
+20-24	Female	Valproic acid	Phenobarbital	0.000153256704980843
+25-29	Female	Valproic acid	Phenobarbital	0.000166861338227933
+30-34	Female	Valproic acid	Phenobarbital	0.000504710632570659
+35-39	Female	Valproic acid	Phenobarbital	0.000836540070269366
+40-44	Female	Valproic acid	Phenobarbital	0.000464828013634955
+45-49	Female	Valproic acid	Phenobarbital	0.000555941626129256
+50-54	Female	Valproic acid	Phenobarbital	0.000408775037471045
+55-59	Female	Valproic acid	Phenobarbital	0.000470809792843691
+60-64	Female	Valproic acid	Phenobarbital	0.000357525920629246
+65-69	Female	Valproic acid	Phenobarbital	0
+70-74	Female	Valproic acid	Phenobarbital	0.000650406504065041
+75-79	Female	Valproic acid	Phenobarbital	0
+80-84	Female	Valproic acid	Phenobarbital	0
+85-89	Female	Valproic acid	Phenobarbital	0
+>90	Female	Valproic acid	Phenobarbital	0

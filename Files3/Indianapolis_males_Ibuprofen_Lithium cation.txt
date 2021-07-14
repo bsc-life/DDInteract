@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Ibuprofen	Lithium cation	0
+05-09	Male	Ibuprofen	Lithium cation	0
+10-14	Male	Ibuprofen	Lithium cation	0.000233890773009005
+15-19	Male	Ibuprofen	Lithium cation	0.00013933398355859
+20-24	Male	Ibuprofen	Lithium cation	0
+25-29	Male	Ibuprofen	Lithium cation	0
+30-34	Male	Ibuprofen	Lithium cation	0.000261506276150628
+35-39	Male	Ibuprofen	Lithium cation	0
+40-44	Male	Ibuprofen	Lithium cation	0.000148235991698784
+45-49	Male	Ibuprofen	Lithium cation	0.000275520044083207
+50-54	Male	Ibuprofen	Lithium cation	0
+55-59	Male	Ibuprofen	Lithium cation	0.000338371306113242
+60-64	Male	Ibuprofen	Lithium cation	0.000243813239058881
+65-69	Male	Ibuprofen	Lithium cation	0
+70-74	Male	Ibuprofen	Lithium cation	0
+75-79	Male	Ibuprofen	Lithium cation	0
+80-84	Male	Ibuprofen	Lithium cation	0
+85-89	Male	Ibuprofen	Lithium cation	0
+>90	Male	Ibuprofen	Lithium cation	0

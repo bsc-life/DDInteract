@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Insulin glulisine	0
+05-09	Female	Acetylsalicylic acid	Insulin glulisine	0
+10-14	Female	Acetylsalicylic acid	Insulin glulisine	0
+15-19	Female	Acetylsalicylic acid	Insulin glulisine	0
+20-24	Female	Acetylsalicylic acid	Insulin glulisine	5.58345733261493e-06
+25-29	Female	Acetylsalicylic acid	Insulin glulisine	4.44345700955343e-06
+30-34	Female	Acetylsalicylic acid	Insulin glulisine	5.5130134682919e-06
+35-39	Female	Acetylsalicylic acid	Insulin glulisine	1.87018215574197e-05
+40-44	Female	Acetylsalicylic acid	Insulin glulisine	6.50523143679464e-05
+45-49	Female	Acetylsalicylic acid	Insulin glulisine	0.000105824505175952
+50-54	Female	Acetylsalicylic acid	Insulin glulisine	0.000153068425562029
+55-59	Female	Acetylsalicylic acid	Insulin glulisine	0.000239386666162695
+60-64	Female	Acetylsalicylic acid	Insulin glulisine	0.000329136659284705
+65-69	Female	Acetylsalicylic acid	Insulin glulisine	0.000439169139465875
+70-74	Female	Acetylsalicylic acid	Insulin glulisine	0.00050334970284482
+75-79	Female	Acetylsalicylic acid	Insulin glulisine	0.000439347638716321
+80-84	Female	Acetylsalicylic acid	Insulin glulisine	0.000389650383051465
+85-89	Female	Acetylsalicylic acid	Insulin glulisine	0.000407415757892197
+>90	Female	Acetylsalicylic acid	Insulin glulisine	0.000401405577563402

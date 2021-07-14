@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Haloperidol	Lithium cation	0
+05-09	Female	Haloperidol	Lithium cation	0
+10-14	Female	Haloperidol	Lithium cation	0
+15-19	Female	Haloperidol	Lithium cation	1.0016861717224e-05
+20-24	Female	Haloperidol	Lithium cation	1.95421006641522e-05
+25-29	Female	Haloperidol	Lithium cation	1.99955565429904e-05
+30-34	Female	Haloperidol	Lithium cation	4.77794500585298e-05
+35-39	Female	Haloperidol	Lithium cation	6.12059614606463e-05
+40-44	Female	Haloperidol	Lithium cation	7.91176796366916e-05
+45-49	Female	Haloperidol	Lithium cation	7.55889322685372e-05
+50-54	Female	Haloperidol	Lithium cation	8.54797701190554e-05
+55-59	Female	Haloperidol	Lithium cation	7.34959062780203e-05
+60-64	Female	Haloperidol	Lithium cation	5.66725373602804e-05
+65-69	Female	Haloperidol	Lithium cation	4.27299703264095e-05
+70-74	Female	Haloperidol	Lithium cation	3.32159702384907e-05
+75-79	Female	Haloperidol	Lithium cation	4.75726742559074e-05
+80-84	Female	Haloperidol	Lithium cation	3.77081015856257e-05
+85-89	Female	Haloperidol	Lithium cation	2.76884495654891e-05
+>90	Female	Haloperidol	Lithium cation	6.58041930431807e-06

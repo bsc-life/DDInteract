@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Demeclocycline	0
+05-09	Female	Insulin glargine	Demeclocycline	0
+10-14	Female	Insulin glargine	Demeclocycline	0
+15-19	Female	Insulin glargine	Demeclocycline	0
+20-24	Female	Insulin glargine	Demeclocycline	0
+25-29	Female	Insulin glargine	Demeclocycline	0
+30-34	Female	Insulin glargine	Demeclocycline	0
+35-39	Female	Insulin glargine	Demeclocycline	0
+40-44	Female	Insulin glargine	Demeclocycline	0
+45-49	Female	Insulin glargine	Demeclocycline	9.75039001560062e-05
+50-54	Female	Insulin glargine	Demeclocycline	0
+55-59	Female	Insulin glargine	Demeclocycline	0
+60-64	Female	Insulin glargine	Demeclocycline	0
+65-69	Female	Insulin glargine	Demeclocycline	0
+70-74	Female	Insulin glargine	Demeclocycline	0
+75-79	Female	Insulin glargine	Demeclocycline	0
+80-84	Female	Insulin glargine	Demeclocycline	0
+85-89	Female	Insulin glargine	Demeclocycline	0
+>90	Female	Insulin glargine	Demeclocycline	0

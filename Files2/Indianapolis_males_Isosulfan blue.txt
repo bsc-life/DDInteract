@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Isosulfan blue	0	0	0	0
+05-09	Male	Isosulfan blue	0	0	0	0
+10-14	Male	Isosulfan blue	0	0	0	0
+15-19	Male	Isosulfan blue	0	0	0	0
+20-24	Male	Isosulfan blue	0	0.0146434324205594	0.0146434324205594	1
+25-29	Male	Isosulfan blue	0	0.012721027859051	0.012721027859051	1
+30-34	Male	Isosulfan blue	0	0	0	0
+35-39	Male	Isosulfan blue	0	0	0	0
+40-44	Male	Isosulfan blue	0	0.0148235991698784	0.0148235991698784	1
+45-49	Male	Isosulfan blue	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Isosulfan blue	0	0	0	0
+55-59	Male	Isosulfan blue	0	0	0	0
+60-64	Male	Isosulfan blue	0	0.012190661952944	0.012190661952944	1
+65-69	Male	Isosulfan blue	0	0	0	0
+70-74	Male	Isosulfan blue	0	0	0	0
+75-79	Male	Isosulfan blue	0	0	0	0
+80-84	Male	Isosulfan blue	0	0.0495294700346706	0.0495294700346706	1
+85-89	Male	Isosulfan blue	0	0	0	0
+>90	Male	Isosulfan blue	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Metronidazole	Lithium cation	0
+05-09	Female	Metronidazole	Lithium cation	0
+10-14	Female	Metronidazole	Lithium cation	0
+15-19	Female	Metronidazole	Lithium cation	0.000174703004891684
+20-24	Female	Metronidazole	Lithium cation	0
+25-29	Female	Metronidazole	Lithium cation	0
+30-34	Female	Metronidazole	Lithium cation	0.000504710632570659
+35-39	Female	Metronidazole	Lithium cation	0
+40-44	Female	Metronidazole	Lithium cation	0.000464828013634955
+45-49	Female	Metronidazole	Lithium cation	0.000277970813064628
+50-54	Female	Metronidazole	Lithium cation	0.000136258345823682
+55-59	Female	Metronidazole	Lithium cation	0.000627746390458255
+60-64	Female	Metronidazole	Lithium cation	0
+65-69	Female	Metronidazole	Lithium cation	0
+70-74	Female	Metronidazole	Lithium cation	0
+75-79	Female	Metronidazole	Lithium cation	0
+80-84	Female	Metronidazole	Lithium cation	0
+85-89	Female	Metronidazole	Lithium cation	0
+>90	Female	Metronidazole	Lithium cation	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Tenofovir disoproxil	Valganciclovir	0
+05-09	Male	Tenofovir disoproxil	Valganciclovir	0
+10-14	Male	Tenofovir disoproxil	Valganciclovir	0
+15-19	Male	Tenofovir disoproxil	Valganciclovir	0
+20-24	Male	Tenofovir disoproxil	Valganciclovir	0
+25-29	Male	Tenofovir disoproxil	Valganciclovir	0.00012721027859051
+30-34	Male	Tenofovir disoproxil	Valganciclovir	0
+35-39	Male	Tenofovir disoproxil	Valganciclovir	0
+40-44	Male	Tenofovir disoproxil	Valganciclovir	0
+45-49	Male	Tenofovir disoproxil	Valganciclovir	0.000275520044083207
+50-54	Male	Tenofovir disoproxil	Valganciclovir	0
+55-59	Male	Tenofovir disoproxil	Valganciclovir	0
+60-64	Male	Tenofovir disoproxil	Valganciclovir	0
+65-69	Male	Tenofovir disoproxil	Valganciclovir	0
+70-74	Male	Tenofovir disoproxil	Valganciclovir	0
+75-79	Male	Tenofovir disoproxil	Valganciclovir	0
+80-84	Male	Tenofovir disoproxil	Valganciclovir	0
+85-89	Male	Tenofovir disoproxil	Valganciclovir	0
+>90	Male	Tenofovir disoproxil	Valganciclovir	0

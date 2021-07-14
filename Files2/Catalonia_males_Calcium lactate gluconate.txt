@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Calcium lactate gluconate	0	0.0065	0.0078	6
+05-09	Male	Calcium lactate gluconate	0	0.0236	0.0355	63
+10-14	Male	Calcium lactate gluconate	0	0.0393	0.0583	153
+15-19	Male	Calcium lactate gluconate	0	0.0372	0.0498	142
+20-24	Male	Calcium lactate gluconate	0	0.0274	0.032	96
+25-29	Male	Calcium lactate gluconate	0	0.029	0.0344	128
+30-34	Male	Calcium lactate gluconate	0	0.0361	0.0433	205
+35-39	Male	Calcium lactate gluconate	0	0.043	0.048	260
+40-44	Male	Calcium lactate gluconate	0	0.0586	0.0657	352
+45-49	Male	Calcium lactate gluconate	0	0.0855	0.0943	463
+50-54	Male	Calcium lactate gluconate	0	0.1177	0.125	568
+55-59	Male	Calcium lactate gluconate	0	0.1465	0.1561	665
+60-64	Male	Calcium lactate gluconate	0	0.2133	0.2286	941
+65-69	Male	Calcium lactate gluconate	0	0.2852	0.299	1129
+70-74	Male	Calcium lactate gluconate	0	0.338	0.3549	1201
+75-79	Male	Calcium lactate gluconate	0	0.4092	0.4264	1215
+80-84	Male	Calcium lactate gluconate	0	0.4948	0.5133	1141
+85-89	Male	Calcium lactate gluconate	0	0.5271	0.5474	809
+>90	Male	Calcium lactate gluconate	0	0.5718	0.5895	401

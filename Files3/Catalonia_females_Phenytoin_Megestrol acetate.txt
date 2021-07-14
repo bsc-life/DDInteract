@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Phenytoin	Megestrol acetate	0
+05-09	Female	Phenytoin	Megestrol acetate	0
+10-14	Female	Phenytoin	Megestrol acetate	0
+15-19	Female	Phenytoin	Megestrol acetate	0
+20-24	Female	Phenytoin	Megestrol acetate	0
+25-29	Female	Phenytoin	Megestrol acetate	0
+30-34	Female	Phenytoin	Megestrol acetate	0
+35-39	Female	Phenytoin	Megestrol acetate	1.70016559612906e-06
+40-44	Female	Phenytoin	Megestrol acetate	1.75817065859315e-06
+45-49	Female	Phenytoin	Megestrol acetate	7.55889322685372e-06
+50-54	Female	Phenytoin	Megestrol acetate	5.96370489202712e-06
+55-59	Female	Phenytoin	Megestrol acetate	8.39953214605947e-06
+60-64	Female	Phenytoin	Megestrol acetate	6.5391389261862e-06
+65-69	Female	Phenytoin	Megestrol acetate	2.37388724035608e-06
+70-74	Female	Phenytoin	Megestrol acetate	2.04405970698404e-05
+75-79	Female	Phenytoin	Megestrol acetate	1.6790355619732e-05
+80-84	Female	Phenytoin	Megestrol acetate	5.34198105796364e-05
+85-89	Female	Phenytoin	Megestrol acetate	4.35104207457686e-05
+>90	Female	Phenytoin	Megestrol acetate	6.58041930431807e-05

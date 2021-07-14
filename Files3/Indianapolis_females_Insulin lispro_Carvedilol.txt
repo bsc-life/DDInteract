@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin lispro	Carvedilol	0
+05-09	Female	Insulin lispro	Carvedilol	0
+10-14	Female	Insulin lispro	Carvedilol	0
+15-19	Female	Insulin lispro	Carvedilol	0
+20-24	Female	Insulin lispro	Carvedilol	7.52162467092892e-05
+25-29	Female	Insulin lispro	Carvedilol	0.000324485690181063
+30-34	Female	Insulin lispro	Carvedilol	0.000736214385629095
+35-39	Female	Insulin lispro	Carvedilol	0.001955616019046
+40-44	Female	Insulin lispro	Carvedilol	0.00255676007363469
+45-49	Female	Insulin lispro	Carvedilol	0.0031201248049922
+50-54	Female	Insulin lispro	Carvedilol	0.0044325422476683
+55-59	Female	Insulin lispro	Carvedilol	0.00682295311406578
+60-64	Female	Insulin lispro	Carvedilol	0.00980936516749954
+65-69	Female	Insulin lispro	Carvedilol	0.0128808243727599
+70-74	Female	Insulin lispro	Carvedilol	0.0148969889064976
+75-79	Female	Insulin lispro	Carvedilol	0.0180696342000881
+80-84	Female	Insulin lispro	Carvedilol	0.0162994265016601
+85-89	Female	Insulin lispro	Carvedilol	0.0150442477876106
+>90	Female	Insulin lispro	Carvedilol	0

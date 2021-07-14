@@ -1,0 +1,1219 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Digoxin	Furosemide	0.315	1.275	Moderate	11485 (7874/3611)	The risk or severity of adverse effects can be increased when Furosemide is combined with Digoxin.	#F8BABA	2866.9996729848	0
+Acetaminophen	Acenocoumarol	0.268	-1.038	None	27323 (17005/10318)	Acetaminophen may increase the anticoagulant activities of Acenocoumarol.	#B4D1E6	6820.63840356671	1
+Omeprazole	Alprazolam	0.335	2.043	Moderate	15182 (11804/3378)	The metabolism of Alprazolam can be decreased when combined with Omeprazole.	#F6B6B6	3789.88150067525	1
+Omeprazole	Diazepam	0.214	1.642	Moderate	10596 (7814/2782)	The metabolism of Diazepam can be decreased when combined with Omeprazole.	#F7B9B9	2645.07867087043	1
+Acetylsalicylic acid	Ibuprofen	0.14	1.01	Major	15498 (9816/5682)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Ibuprofen.	#F9BCBC	3868.76455654492	1
+Rivastigmine	Quetiapine	0.333	1.069	Moderate	2268 (1466/802)		#F9BCBC	566.160666811452	0
+Digoxin	Spironolactone	0.335	1.268	Minor	2684 (1837/847)	The serum concentration of Digoxin can be increased when it is combined with Spironolactone.	#F8BABA	670.006715044946	0
+Amiodarone	Acenocoumarol	0.336	-1.253	None	3434 (1982/1452)	The therapeutic efficacy of Acenocoumarol can be increased when used in combination with Amiodarone.	#B2D0E5	857.229157773601	0
+Donepezil	Quetiapine	0.357	1.314	Moderate	2040 (1412/628)		#F8BABA	509.245044221941	0
+Risperidone	Donepezil	0.293	1.483	Moderate	1779 (1276/503)		#F7B9B9	444.091634152369	9.50569400710672e-300
+Prednisone	Acetylsalicylic acid	0.169	-1.476	Moderate	8412 (4516/3896)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Prednisone.	#B1CFE5	2099.88691764459	1
+Acetylsalicylic acid	Gliclazide	0.386	-1.361	None	5240 (2918/2322)	Acetylsalicylic acid may increase the hypoglycemic activities of Gliclazide.	#B2D0E5	1308.0607998642	1
+Furosemide	Ibuprofen	0.178	1.264	Moderate	8727 (5967/2760)	The therapeutic efficacy of Furosemide can be decreased when used in combination with Ibuprofen.	#F8BABA	2178.52034359063	1
+Trazodone	Donepezil	0.317	1.475	Moderate	1547 (1108/439)		#F7B9B9	386.177491868305	1.75754836862078e-217
+Allopurinol	Acenocoumarol	0.303	-2.904	None	5101 (1891/3210)	Allopurinol may increase the anticoagulant activities of Acenocoumarol.	#A8C8E1	1273.36224047849	3.50349576171754e-51
+Trazodone	Rivastigmine	0.298	1.25	Moderate	1422 (969/453)		#F8BABA	354.973751413529	7.28525919457886e-234
+Omeprazole	Clonazepam	0.26	1.439	Moderate	3736 (2657/1079)		#F8BABA	932.617394712339	1
+Levothyroxine	Acenocoumarol	0.303	1.93	None	2895 (2222/673)	Levothyroxine may increase the anticoagulant activities of Acenocoumarol.	#F7B7B7	722.678628932607	1
+Acetylsalicylic acid	Glyburide	0.341	-1.342	Moderate	2919 (1636/1283)	Acetylsalicylic acid may increase the hypoglycemic activities of Glyburide.	#B2D0E5	728.669747099924	1
+Galantamine	Risperidone	0.286	1.165	Moderate	883 (588/295)		#F9BCBC	220.423222572536	1.47299418406891e-172
+Alendronic acid	Ibuprofen	0.182	5.324	Moderate	2800 (2523/277)	The risk or severity of adverse effects can be increased when Ibuprofen is combined with Alendronic acid.	#EC9F9F	698.963786186978	1
+Spironolactone	Enalapril	0.312	-1.127	Major	3732 (2250/1482)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Enalapril.	#B4D1E6	931.618875017786	1
+Galantamine	Quetiapine	0.372	-1.048	Moderate	961 (596/365)	Galantamine may increase the QTc-prolonging activities of Quetiapine.	#B4D1E6	239.894356616316	6.03029329421041e-181
+Citalopram	Acenocoumarol	0.327	1.333	None	2932 (2038/894)	The metabolism of Acenocoumarol can be decreased when combined with Citalopram.	#F8BABA	731.914936107221	1
+Digoxin	Carvedilol	0.297	-1.047	Moderate	1322 (820/502)	Digoxin may increase the bradycardic activities of Carvedilol.	#B4D1E6	330.010759049709	1.75731913393327e-49
+Torasemide	Ibuprofen	0.177	1.44	Moderate	3166 (2252/914)	The therapeutic efficacy of Torasemide can be decreased when used in combination with Ibuprofen.	#F8BABA	790.328338238561	1
+Acetylsalicylic acid	Insulin detemir	0.351	-1.058	Moderate	1761 (1088/673)	Acetylsalicylic acid may increase the hypoglycemic activities of Insulin Detemir.	#B4D1E6	439.598295526881	1
+Prednisone	Acenocoumarol	0.174	-1.474	None	3478 (1868/1610)		#B1CFE5	868.212874413682	1
+Trazodone	Galantamine	0.319	1.063	Moderate	730 (471/259)		#F9BCBC	182.229844255891	4.63346562821793e-110
+Digoxin	Levothyroxine	0.318	2.586	Moderate	1383 (1128/255)		#F5B2B2	345.238184391639	1
+Levofloxacin	Acenocoumarol	0.112	-1.645	None	3256 (1660/1596)	Levofloxacin may increase the anticoagulant activities of Acenocoumarol.	#B1CFE5	812.795031366	1
+Donepezil	Sertraline	0.448	1.878	Minor	952 (726/226)	The metabolism of Donepezil can be decreased when combined with Sertraline.	#F7B7B7	237.647687303572	5.53789020980028e-21
+Tramadol	Citalopram	0.252	2.46	Major	2453 (1982/471)	Citalopram may increase the neuroexcitatory activities of Tramadol.	#F5B2B2	612.34220268452	1
+Acetylsalicylic acid	Insulin aspart	0.295	-1.092	Moderate	1594 (973/621)	Acetylsalicylic acid may increase the hypoglycemic activities of Insulin Aspart.	#B4D1E6	397.910098279301	1
+Diltiazem	Simvastatin	0.45	-1.165	Major	2217 (1319/898)	The serum concentration of Simvastatin can be increased when it is combined with Diltiazem.	#B4D1E6	553.429540705903	1
+Acetaminophen	Warfarin	0.25	1.072	Minor	1777 (1150/627)	Acetaminophen may increase the anticoagulant activities of Warfarin.	#F9BCBC	443.592374305093	1
+Ciprofloxacin	Acenocoumarol	0.117	-1.585	None	3439 (1785/1654)		#B1CFE5	858.477307391792	1
+Bisoprolol	Gliclazide	0.342	-1.177	None	1705 (1010/695)	Bisoprolol may increase the hypoglycemic activities of Gliclazide.	#B4D1E6	425.619019803142	1
+Bisoprolol	Salbutamol	0.182	-1.369	Moderate	2713 (1507/1206)	Bisoprolol may decrease the bronchodilatory activities of Salbutamol.	#B2D0E5	677.245982830454	1
+Haloperidol	Biperiden	0.391	1.835	Moderate	207 (157/50)		#F7B7B7	51.6733941931087	2.80676874781965e-73
+Acetylsalicylic acid	Ginkgo biloba	0.279	1.066	Moderate	1528 (987/541)	Ginkgo biloba may increase the anticoagulant activities of Acetylsalicylic acid.	#F9BCBC	381.434523319179	1
+Omeprazole	Methotrexate	0.33	1.568	Major	976 (711/265)	The serum concentration of Methotrexate can be increased when it is combined with Omeprazole.	#F7B9B9	243.638805470889	1
+Bisoprolol	Ibuprofen	0.13	1.177	Moderate	3255 (2175/1080)	Ibuprofen may decrease the antihypertensive activities of Bisoprolol.	#F9BCBC	812.545401442362	1
+Trazodone	Acenocoumarol	0.273	-1.022	None	1891 (1184/707)		#B4D1E6	472.050185599848	1
+Paroxetine	Acenocoumarol	0.319	1.432	None	1463 (1039/424)	Paroxetine may increase the anticoagulant activities of Acenocoumarol.	#F8BABA	365.208578282696	1
+Mirtazapine	Rivastigmine	0.313	1.645	Moderate	572 (422/150)		#F7B9B9	142.788316321054	2.18650368574852e-32
+Digoxin	Alprazolam	0.264	1.989	Moderate	1246 (963/283)		#F6B6B6	311.038884853205	1
+Ibuprofen	Acenocoumarol	0.14	-1.067	None	3493 (2151/1342)	Ibuprofen may increase the anticoagulant activities of Acenocoumarol.	#B4D1E6	871.957323268255	1
+Digoxin	Hydrochlorothiazide	0.294	1.532	Moderate	2078 (1504/574)	The risk or severity of adverse effects can be increased when Hydrochlorothiazide is combined with Digoxin.	#F7B9B9	518.730981320193	1
+Bisoprolol	Formoterol	0.264	-1.615	Moderate	1777 (914/863)	Bisoprolol may decrease the bronchodilatory activities of Formoterol.	#B1CFE5	443.592374305093	1
+Mirtazapine	Donepezil	0.414	1.923	Moderate	592 (454/138)		#F7B7B7	147.780914793818	1.43101851898712e-19
+Acetylsalicylic acid	Methylprednisolone	0.172	-1.109	Moderate	1742 (1057/685)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Methylprednisolone.	#B4D1E6	434.855326977755	1
+Spironolactone	Losartan	0.326	1.342	Major	1338 (932/406)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Losartan.	#F8BABA	334.00483782792	1
+Diclofenac	Alendronic acid	0.171	4.233	Moderate	1129 (992/137)	The risk or severity of adverse effects can be increased when Diclofenac is combined with Alendronic acid.	#F0A7A7	281.832183787535	1
+Diltiazem	Atorvastatin	0.454	-1.486	Moderate	1239 (663/576)	The serum concentration of Diltiazem can be increased when it is combined with Atorvastatin.	#B1CFE5	309.291475387738	1
+Simvastatin	Amiodarone	0.363	-1.424	Major	1814 (990/824)	The serum concentration of Simvastatin can be increased when it is combined with Amiodarone.	#B2D0E5	452.828681479706	1
+Paroxetine	Risperidone	0.271	2.031	Moderate	850 (660/190)	The metabolism of Risperidone can be decreased when combined with Paroxetine.	#F6B6B6	212.185435092475	1
+Bisoprolol	Repaglinide	0.353	-1.355	Moderate	1181 (659/522)		#B2D0E5	294.812939816722	1
+Ranitidine	Acenocoumarol	0.285	-1.273	None	1484 (851/633)		#B2D0E5	370.450806679098	1
+Bisoprolol	Salmeterol	0.314	-1.888	Moderate	1912 (909/1003)	Bisoprolol may decrease the bronchodilatory activities of Salmeterol.	#AFCEE4	477.292413996251	1
+Hydrocortisone	Acetylsalicylic acid	0.177	1.04	Moderate	1231 (788/443)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Hydrocortisone.	#F9BCBC	307.294435998632	1
+Digoxin	Amiodarone	0.341	-1.13	Major	787 (474/313)	The serum concentration of Digoxin can be increased when it is combined with Amiodarone.	#B4D1E6	196.458749903268	1
+Digoxin	Verapamil	0.366	1.351	Moderate	414 (289/125)	The metabolism of Digoxin can be decreased when combined with Verapamil.	#F8BABA	103.346788386217	5.21039987294415e-23
+Atenolol	Ibuprofen	0.173	1.549	Moderate	1219 (885/334)	Ibuprofen may decrease the antihypertensive activities of Atenolol.	#F7B9B9	304.298876914974	1
+Omeprazole	Midazolam	0.29	1.123	Moderate	736 (484/252)		#F9BCBC	183.72762379772	1
+Tramadol	Paroxetine	0.237	2.821	Major	1142 (946/196)	Paroxetine may increase the neuroexcitatory activities of Tramadol.	#F4B1B1	285.077372794832	1
+Valproic acid	Acetylsalicylic acid	0.38	-1.153	Moderate	668 (399/269)	The serum concentration of Valproic Acid can be increased when it is combined with Acetylsalicylic acid.	#B4D1E6	166.752788990322	1
+Mirtazapine	Galantamine	0.422	2.476	Moderate	288 (233/55)		#F5B2B2	71.8934180078034	1.65539085295406e-12
+Azithromycin	Acenocoumarol	0.111	-1.409	None	1765 (968/797)	The metabolism of Acenocoumarol can be decreased when combined with Azithromycin.	#B2D0E5	440.596815221434	1
+Citalopram	Carvedilol	0.411	1.515	Moderate	729 (526/203)	The metabolism of Carvedilol can be decreased when combined with Citalopram.	#F7B9B9	181.980214332252	1
+Mesalazine	Azathioprine	0.331	1.111	Moderate	29 (19/10)	The metabolism of Azathioprine can be decreased when combined with Mesalazine.	#F9BCBC	7.23926778550798	5.21753469261064e-24
+Methimazole	Acenocoumarol	0.324	2.268	None	405 (322/83)	Methimazole may decrease the anticoagulant activities of Acenocoumarol.	#F5B4B4	101.100119073474	1
+Salbutamol	Carvedilol	0.175	-1.486	Major	951 (509/442)	Carvedilol may decrease the vasoconstricting activities of Salbutamol.	#B1CFE5	237.398057379934	1
+Levothyroxine	Iron	0.206	2.12	Moderate	671 (526/145)	The serum concentration of Levothyroxine can be decreased when it is combined with Iron.	#F6B6B6	167.501678761236	1
+Phenytoin	Omeprazole	0.394	-1.139	Moderate	718 (431/287)	The serum concentration of Omeprazole can be decreased when it is combined with Phenytoin.	#B4D1E6	179.234285172232	1
+Alendronic acid	Naproxen	0.163	6.127	Moderate	643 (587/56)	The risk or severity of adverse effects can be increased when Naproxen is combined with Alendronic acid.	#EA9B9B	160.512040899367	1
+Warfarin	Amiodarone	0.327	-1.357	Major	269 (150/119)	The therapeutic efficacy of Warfarin can be increased when used in combination with Amiodarone.	#B2D0E5	67.1504494586775	2.15987455401607e-31
+Ibuprofen	Carvedilol	0.144	1.05	Moderate	1149 (738/411)	Ibuprofen may decrease the antihypertensive activities of Carvedilol.	#F9BCBC	286.824782260299	1
+Simvastatin	Clarithromycin	0.075	1.144	Major	1038 (687/351)	The serum concentration of Simvastatin can be increased when it is combined with Clarithromycin.	#F9BCBC	259.115860736458	1
+Norfloxacin	Acenocoumarol	0.096	1.509	None	1128 (813/315)	Norfloxacin may increase the anticoagulant activities of Acenocoumarol.	#F7B9B9	281.582553863897	1
+Digoxin	Diazepam	0.25	1.674	Moderate	792 (587/205)		#F7B9B9	197.706899521459	1
+Omeprazole	Itraconazole	0.082	1.305	Moderate	711 (491/220)	The serum concentration of Itraconazole can be decreased when it is combined with Omeprazole.	#F8BABA	177.486875706765	1
+Galantamine	Sertraline	0.459	1.514	Moderate	377 (272/105)	The metabolism of Galantamine can be decreased when combined with Sertraline.	#F7B9B9	94.1104812116038	0.0611417197749904
+Propafenone	Acenocoumarol	0.327	1.145	None	293 (194/99)	The serum concentration of Acenocoumarol can be increased when it is combined with Propafenone.	#F9BCBC	73.1415676259945	1.06984928388225e-06
+Trimethoprim	Rifampicin	0.682	1.2	Moderate	58 (39/19)	The metabolism of Trimethoprim can be increased when combined with Rifampicin.	#F9BCBC	14.478535571016	4.5550699408688e-26
+Sertraline	Carvedilol	0.424	1.443	Moderate	548 (390/158)	The metabolism of Carvedilol can be decreased when combined with Sertraline.	#F8BABA	136.797198153737	1
+Fluoxetine	Acenocoumarol	0.333	1.465	None	547 (391/156)	The metabolism of Acenocoumarol can be decreased when combined with Fluoxetine.	#F8BABA	136.547568230099	1
+Amikacin	Bumetanide	0.065	Inf	Major	2 (2/0)	The serum concentration of Amikacin can be increased when it is combined with Bumetanide.	#B32020	0.499259847276413	0.111438335063234
+Omeprazole	Ketazolam	0.301	2.248	None	441 (350/91)		#F5B4B4	110.086796324449	1
+Acetylsalicylic acid	Acenocoumarol	0.199	-1.975	None	3650 (1694/1956)	Acetylsalicylic acid may increase the anticoagulant activities of Acenocoumarol.	#AECDE3	911.149221279453	1
+Ramipril	Spironolactone	0.371	-1.611	Major	598 (308/290)	The risk or severity of adverse effects can be increased when Ramipril is combined with Spironolactone.	#B1CFE5	149.278694335647	1
+Bisoprolol	Insulin aspart	0.291	1.023	Moderate	517 (329/188)		#F9BCBC	129.058670520953	1
+Gliclazide	Carvedilol	0.367	-1.337	None	506 (284/222)	Carvedilol may increase the hypoglycemic activities of Gliclazide.	#B2D0E5	126.312741360932	1
+Digoxin	Methimazole	0.336	2.388	Moderate	239 (192/47)	The serum concentration of Digoxin can be increased when it is combined with Methimazole.	#F5B4B4	59.6615517495313	1.85193911967461e-05
+Salmeterol	Carvedilol	0.32	-2.051	Major	675 (307/368)	Carvedilol may decrease the vasoconstricting activities of Salmeterol.	#AECDE3	168.500198455789	1
+Repaglinide	Carvedilol	0.358	-1.514	Moderate	409 (217/192)		#B1CFE5	102.098638768026	1
+Propranolol	Sertraline	0.373	2.269	Moderate	332 (264/68)	The metabolism of Propranolol can be decreased when combined with Sertraline.	#F5B4B4	82.8771346478845	1
+Diltiazem	Amiodarone	0.37	-1.072	Major	392 (241/151)	The risk or severity of bradycardia can be increased when Diltiazem is combined with Amiodarone.	#B4D1E6	97.8549300661769	1
+Propranolol	Ibuprofen	0.184	1.636	Moderate	604 (445/159)	Ibuprofen may decrease the antihypertensive activities of Propranolol.	#F7B9B9	150.776473877477	1
+Tramadol	Escitalopram	0.234	2.714	Major	694 (571/123)	Escitalopram may increase the neuroexcitatory activities of Tramadol.	#F4B1B1	173.243167004915	1
+Amiodarone	Levofloxacin	0.164	-1.599	Major	743 (384/359)	Levofloxacin may increase the QTc-prolonging activities of Amiodarone.	#B1CFE5	185.475033263187	1
+Citalopram	Propranolol	0.37	2.092	Moderate	380 (297/83)	The metabolism of Propranolol can be decreased when combined with Citalopram.	#F6B6B6	94.8593709825184	1
+Propranolol	Paroxetine	0.362	2.737	Moderate	250 (206/44)	The metabolism of Propranolol can be decreased when combined with Paroxetine.	#F4B1B1	62.4074809095516	1
+Pentoxifylline	Acenocoumarol	0.323	-2.664	None	1051 (411/640)	Pentoxifylline may increase the anticoagulant activities of Acenocoumarol.	#A9C9E1	262.361049743755	1
+Paroxetine	Carvedilol	0.379	1.754	Moderate	372 (279/93)	The metabolism of Carvedilol can be decreased when combined with Paroxetine.	#F7B7B7	92.8623315934128	1
+Acetylsalicylic acid	Glipizide	0.365	-1.408	Moderate	381 (209/172)	Acetylsalicylic acid may increase the hypoglycemic activities of Glipizide.	#B2D0E5	95.1090009061566	1
+Bisoprolol	Insulin detemir	0.32	-1.123	Moderate	487 (294/193)		#B4D1E6	121.569772811807	1
+Phenytoin	Furosemide	0.391	-1.113	Minor	345 (209/136)	Phenytoin may decrease the diuretic activities of Furosemide.	#B4D1E6	86.1223236551812	1
+Repaglinide	Gliclazide	0.241	-1.333	None	395 (222/173)	Repaglinide may increase the hypoglycemic activities of Gliclazide.	#B2D0E5	98.6038198370915	1
+Indomethacin	Methotrexate	0.343	1.2	Major	58 (39/19)	The serum concentration of Methotrexate can be increased when it is combined with Indomethacin.	#F9BCBC	14.478535571016	1.05529909138124e-18
+Atenolol	Gliclazide	0.367	-1.155	None	449 (268/181)	Atenolol may increase the hypoglycemic activities of Gliclazide.	#B4D1E6	112.083835713555	1
+Propranolol	Primidone	0.302	-2.091	Moderate	60 (27/33)	The metabolism of Propranolol can be increased when combined with Primidone.	#AECDE3	14.9777954182924	3.11342193019483e-32
+Fluconazole	Simvastatin	0.085	1.1	Major	559 (365/194)	The serum concentration of Simvastatin can be increased when it is combined with Fluconazole.	#F9BCBC	139.543127313757	1
+Formoterol	Carvedilol	0.262	-1.878	Major	493 (235/258)	Carvedilol may decrease the vasoconstricting activities of Formoterol.	#AFCEE4	123.067552353636	1
+Citalopram	Clarithromycin	0.125	1.776	Major	428 (322/106)	Clarithromycin may increase the QTc-prolonging activities of Citalopram.	#F7B7B7	106.841607317152	1
+Alprazolam	Clarithromycin	0.126	2.322	Moderate	358 (286/72)	The serum concentration of Alprazolam can be increased when it is combined with Clarithromycin.	#F5B4B4	89.3675126624779	1
+Carvedilol	Insulin detemir	0.322	-1.286	Moderate	226 (129/97)		#B2D0E5	56.4163627422346	0.0254780635572909
+Moxifloxacin	Acenocoumarol	0.104	-1.706	None	725 (363/362)		#B1CFE5	180.9816946377	1
+Lidocaine	Bisoprolol	0.187	1.83	Moderate	380 (288/92)	The serum concentration of Lidocaine can be increased when it is combined with Bisoprolol.	#F7B7B7	94.8593709825184	1
+Galantamine	Paroxetine	0.391	1.894	Moderate	212 (162/50)	The metabolism of Galantamine can be decreased when combined with Paroxetine.	#F7B7B7	52.9215438112997	1
+Atenolol	Salbutamol	0.179	-1.07	Moderate	590 (363/227)	Atenolol may decrease the bronchodilatory activities of Salbutamol.	#B4D1E6	147.281654946542	1
+Ceftazidime	Amikacin	1	-1.711	Moderate	2 (1/1)		#AFCEE4	0.499259847276413	0.0393902034128004
+Carbamazepine	Simvastatin	0.355	-1.067	Moderate	341 (210/131)	The metabolism of Simvastatin can be increased when combined with Carbamazepine.	#B4D1E6	85.1238039606284	1
+Omeprazole	Cilostazol	0.231	-3.072	Major	629 (225/404)	The serum concentration of Cilostazol can be increased when it is combined with Omeprazole.	#A8C8E1	157.017221968432	1
+Methotrexate	Hydroxychloroquine	0.323	1.169	Minor	24 (16/8)		#F9BCBC	5.99111816731695	1.41994320788688e-15
+Digoxin	Rabeprazole	0.241	1.3	Moderate	303 (209/94)		#F8BABA	75.6378668623765	1
+Digoxin	Telmisartan	0.275	1.294	Moderate	315 (217/98)	The serum concentration of Digoxin can be increased when it is combined with Telmisartan.	#F8BABA	78.633425946035	1
+Allopurinol	Warfarin	0.295	-2.221	Moderate	285 (124/161)	Allopurinol may increase the anticoagulant activities of Warfarin.	#ACCCE3	71.1445282368888	1
+Tramadol	Fluoxetine	0.288	2.742	Major	404 (333/71)	Fluoxetine may increase the neuroexcitatory activities of Tramadol.	#F4B1B1	100.850489149835	1
+Gemfibrozil	Acenocoumarol	0.301	-1.379	None	354 (196/158)	The metabolism of Acenocoumarol can be decreased when combined with Gemfibrozil.	#B2D0E5	88.3689929679251	1
+Dextromethorphan	Paroxetine	0.132	3.008	Major	252 (211/41)	Paroxetine may increase the serotonergic activities of Dextromethorphan.	#F3AFAF	62.906740756828	1
+Fentanyl	Amiodarone	0.26	1.923	Major	326 (250/76)	The serum concentration of Fentanyl can be increased when it is combined with Amiodarone.	#F7B7B7	81.3793551060553	1
+Omeprazole	Flurazepam	0.295	1.667	Moderate	235 (174/61)		#F7B9B9	58.6630320549785	1
+Lorazepam	Phenytoin	0.357	1.248	Moderate	232 (158/74)	The serum concentration of Phenytoin can be increased when it is combined with Lorazepam.	#F8BABA	57.9141422840639	1
+Amitriptyline	Salbutamol	0.224	1.227	Moderate	344 (233/111)	The risk or severity of adverse effects can be increased when Amitriptyline is combined with Salbutamol.	#F9BCBC	85.872693731543	1
+Fluoxetine	Risperidone	0.283	1.832	Moderate	248 (188/60)	The metabolism of Risperidone can be decreased when combined with Fluoxetine.	#F7B7B7	61.9082210622752	1
+Trimethoprim	Leucovorin	0.636	-1.996	Major	91 (42/49)		#AECDE3	22.7163230510768	1.3362654706827e-28
+Bisoprolol	Glyburide	0.286	-1.433	Moderate	544 (296/248)	Bisoprolol may increase the hypoglycemic activities of Glyburide.	#B2D0E5	135.798678459184	1
+Atenolol	Glyburide	0.327	-1.14	Moderate	260 (156/104)	Atenolol may increase the hypoglycemic activities of Glyburide.	#B4D1E6	64.9037801459337	1
+Olanzapine	Donepezil	0.388	1.319	Moderate	127 (88/39)		#F8BABA	31.7030003020522	5.28370336922385e-06
+Donepezil	Tolterodine	0.439	-1.036	Moderate	220 (137/83)	The therapeutic efficacy of Tolterodine can be decreased when used in combination with Donepezil.	#B4D1E6	54.9185832004054	1
+Carvedilol	Insulin aspart	0.3	-1.14	Moderate	190 (114/76)		#B4D1E6	47.4296854912592	1
+Sucralfate	Lansoprazole	0.273	1.25	Moderate	91 (62/29)		#F8BABA	22.7163230510768	6.14146038390496e-07
+Venlafaxine	Metoclopramide	0.187	2.676	Moderate	251 (206/45)	The risk or severity of adverse effects can be increased when Metoclopramide is combined with Venlafaxine.	#F4B1B1	62.6571108331898	1
+Acetylsalicylic acid	Dexamethasone	0.201	-2.238	Moderate	727 (315/412)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Dexamethasone.	#ACCCE3	181.480954484976	1
+Pyridostigmine	Prednisone	0.342	-2.234	Moderate	113 (49/64)	The risk or severity of adverse effects can be increased when Prednisone is combined with Pyridostigmine.	#ACCCE3	28.2081813711173	2.0360946971403e-20
+Ciprofloxacin	Iron	0.245	-1.331	Moderate	665 (374/291)		#B2D0E5	166.003899219407	1
+Clarithromycin	Acenocoumarol	0.114	-1.153	None	529 (316/213)	The metabolism of Acenocoumarol can be decreased when combined with Clarithromycin.	#B4D1E6	132.054229604611	1
+Ceftazidime	Tobramycin	1	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Fenofibrate	Atorvastatin	0.417	-1.325	Major	236 (133/103)	The risk or severity of myopathy and rhabdomyolysis can be increased when Fenofibrate is combined with Atorvastatin.	#B2D0E5	58.9126619786167	1
+Methotrexate	Acetylsalicylic acid	0.27	1.217	Major	299 (202/97)	The serum concentration of Methotrexate can be increased when it is combined with Acetylsalicylic acid.	#F9BCBC	74.6393471678237	1
+Sertraline	Clarithromycin	0.113	2.055	Moderate	289 (225/64)	The metabolism of Sertraline can be decreased when combined with Clarithromycin.	#F6B6B6	72.1430479314416	1
+Fenofibrate	Acenocoumarol	0.298	-1.191	None	285 (168/117)	Fenofibrate may increase the anticoagulant activities of Acenocoumarol.	#B4D1E6	71.1445282368888	1
+Escitalopram	Rasagiline	0.392	-1.18	Major	98 (58/40)	The risk or severity of adverse effects can be increased when Escitalopram is combined with Rasagiline.	#B4D1E6	24.4637325165442	2.17763277085416e-05
+Carvedilol	Escitalopram	0.378	1.278	None	239 (164/75)		#F8BABA	59.6615517495313	1
+Dextromethorphan	Memantine	0.132	2.243	Minor	208 (165/43)	The risk or severity of adverse effects can be increased when Dextromethorphan is combined with Memantine.	#F5B4B4	51.9230241167469	1
+Triamcinolone	Acetylsalicylic acid	0.102	-1.059	Moderate	327 (202/125)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Triamcinolone.	#B4D1E6	81.6289850296935	1
+Verapamil	Atorvastatin	0.389	-1.006	Moderate	243 (153/90)	Atorvastatin can cause a decrease in the absorption of Verapamil resulting in a reduced serum concentration and potentially a decrease in efficacy.	#B4D1E6	60.6600714440841	1
+Fluoxetine	Carvedilol	0.361	1.604	Moderate	161 (118/43)	The metabolism of Carvedilol can be decreased when combined with Fluoxetine.	#F7B9B9	40.1904177057512	1
+Glyburide	Carvedilol	0.322	-1.552	Moderate	246 (129/117)	Carvedilol may increase the hypoglycemic activities of Glyburide.	#B1CFE5	61.4089612149988	1
+Amikacin	Cefotaxime	0.167	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Amitriptyline	Carbamazepine	0.368	1.249	Moderate	69 (47/22)	The metabolism of Amitriptyline can be increased when combined with Carbamazepine.	#F8BABA	17.2244647310362	3.08604855296122e-08
+Simvastatin	Colchicine	0.166	-3.884	Major	569 (174/395)	Colchicine may increase the myopathic rhabdomyolysis activities of Simvastatin.	#A2C4DE	142.039426550139	1
+Fluconazole	Alprazolam	0.174	2.294	Major	197 (157/40)	The metabolism of Alprazolam can be decreased when combined with Fluconazole.	#F5B4B4	49.1770949567267	1
+Duloxetine	Ciprofloxacin	0.121	1.418	Major	274 (194/80)		#F8BABA	68.3985990768685	1
+Diltiazem	Amlodipine	0.307	-1.116	Moderate	628 (380/248)	The metabolism of Amlodipine can be decreased when combined with Diltiazem.	#B4D1E6	156.767592044794	1
+Indomethacin	Furosemide	0.192	-1.65	Moderate	442 (225/217)	The therapeutic efficacy of Furosemide can be decreased when used in combination with Indomethacin.	#B1CFE5	110.336426248087	1
+Folic acid	Phenytoin	0.29	-1.363	Moderate	106 (59/47)	The serum concentration of Phenytoin can be decreased when it is combined with Folic Acid.	#B2D0E5	26.4607719056499	0.000153974603508828
+Propranolol	Salbutamol	0.172	1.151	Major	288 (191/97)		#F9BCBC	71.8934180078034	1
+Pravastatin	Fenofibrate	0.744	-1.147	Major	137 (82/55)	The risk or severity of myopathy and rhabdomyolysis can be increased when Fenofibrate is combined with Pravastatin.	#B4D1E6	34.1992995384343	1
+Acetylsalicylic acid	Insulin glulisine	0.201	-1.163	Moderate	173 (103/70)	Acetylsalicylic acid may increase the hypoglycemic activities of Insulin Glulisine.	#B4D1E6	43.1859767894097	1
+Sertraline	Rasagiline	0.453	-1.518	Major	151 (80/71)	The risk or severity of adverse effects can be increased when Sertraline is combined with Rasagiline.	#B1CFE5	37.6941184693692	1
+Spironolactone	Irbesartan	0.291	-1.013	Major	250 (157/93)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Irbesartan.	#B4D1E6	62.4074809095516	1
+Oxycodone	Sertraline	0.328	3.702	Moderate	132 (114/18)	The metabolism of Oxycodone can be decreased when combined with Sertraline.	#F1ABAB	32.9511499202432	1
+Atorvastatin	Clarithromycin	0.113	-1.202	Major	361 (212/149)	The serum concentration of Atorvastatin can be increased when it is combined with Clarithromycin.	#B4D1E6	90.1164024333925	1
+Phenytoin	Alprazolam	0.344	2.246	Moderate	92 (73/19)	The serum concentration of Phenytoin can be increased when it is combined with Alprazolam.	#F5B4B4	22.965952974715	1
+Hydrocortisone	Acenocoumarol	0.17	-1.109	None	356 (216/140)		#B4D1E6	88.8682528152015	1
+Atenolol	Repaglinide	0.304	-1.1	Moderate	230 (140/90)		#B4D1E6	57.4148824367875	1
+Levothyroxine	Warfarin	0.287	1.479	Moderate	180 (129/51)	Levothyroxine may increase the anticoagulant activities of Warfarin.	#F7B9B9	44.9333862548771	1
+Carbamazepine	Atorvastatin	0.351	-1.122	Moderate	154 (93/61)	The metabolism of Atorvastatin can be increased when combined with Carbamazepine.	#B4D1E6	38.4430082402838	1
+Fluconazole	Fentanyl	0.405	1.215	Major	194 (131/63)	The serum concentration of Fentanyl can be increased when it is combined with Fluconazole.	#F9BCBC	48.428205185812	1
+Glimepiride	Repaglinide	0.23	-1.163	None	126 (75/51)	Glimepiride may increase the hypoglycemic activities of Repaglinide.	#B4D1E6	31.453370378414	1
+Levofloxacin	Iron	0.242	-1.473	Moderate	508 (273/235)	The serum concentration of Levofloxacin can be decreased when it is combined with Iron.	#B1CFE5	126.812001208209	1
+Olanzapine	Rivastigmine	0.31	1.069	Moderate	99 (64/35)		#F9BCBC	24.7133624401824	0.00833256221760705
+Fluoxetine	Dextromethorphan	0.157	2.291	Major	123 (98/25)	Fluoxetine may increase the serotonergic activities of Dextromethorphan.	#F5B4B4	30.7044806074994	1
+Furosemide	Gentamicin	0.136	1.375	Major	171 (120/51)	The serum concentration of Gentamicin can be increased when it is combined with Furosemide.	#F8BABA	42.6867169421333	1
+Citalopram	Warfarin	0.307	1.925	Moderate	176 (135/41)	The metabolism of Warfarin can be decreased when combined with Citalopram.	#F7B7B7	43.9348665603243	1
+Citalopram	Oxycodone	0.31	2.475	Moderate	157 (127/30)	The metabolism of Oxycodone can be decreased when combined with Citalopram.	#F5B2B2	39.1918980111984	1
+Erythromycin	Simvastatin	0.071	1.81	Major	254 (192/62)	The serum concentration of Simvastatin can be increased when it is combined with Erythromycin.	#F7B7B7	63.4060006041044	1
+Cholestyramine	Ursodeoxycholic acid	0.228	1.42	None	24 (17/7)	The serum concentration of Ursodeoxycholic acid can be decreased when it is combined with Cholestyramine.	#F8BABA	5.99111816731695	2.23323455925832e-06
+Cloxacillin	Acenocoumarol	0.084	-1.462	None	408 (220/188)	Cloxacillin may decrease the anticoagulant activities of Acenocoumarol.	#B2D0E5	101.849008844388	1
+Propranolol	Escitalopram	0.303	2.248	None	126 (100/26)		#F5B4B4	31.453370378414	1
+Citalopram	Rasagiline	0.37	-1.487	Major	157 (84/73)	The risk or severity of adverse effects can be increased when Citalopram is combined with Rasagiline.	#B1CFE5	39.1918980111984	1
+Olanzapine	Galantamine	0.351	1.715	Moderate	59 (44/15)		#F7B7B7	14.7281654946542	0.0284919224555773
+Galantamine	Tolterodine	0.447	1.152	Moderate	104 (69/35)	The therapeutic efficacy of Tolterodine can be decreased when used in combination with Galantamine.	#F9BCBC	25.9615120583735	1
+Omeprazole	Halazepam	0.23	2.338	Moderate	115 (92/23)		#F5B4B4	28.7074412183937	1
+Lovastatin	Acenocoumarol	0.357	-1.213	None	294 (172/122)	The metabolism of Acenocoumarol can be decreased when combined with Lovastatin.	#B4D1E6	73.3911975496327	1
+Donepezil	Solifenacin	0.401	-1.815	Moderate	202 (98/104)	The therapeutic efficacy of Solifenacin can be decreased when used in combination with Donepezil.	#AFCEE4	50.4252445749177	1
+Propranolol	Gliclazide	0.306	-1.026	None	176 (110/66)	Propranolol may increase the hypoglycemic activities of Gliclazide.	#B4D1E6	43.9348665603243	1
+Metoclopramide	Levodopa	0.141	-1.013	Moderate	277 (174/103)	The therapeutic efficacy of Levodopa can be decreased when used in combination with Metoclopramide.	#B4D1E6	69.1474888477832	1
+Entacapone	Apomorphine	0.125	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Ciprofloxacin	Rasagiline	0.102	-2.399	Major	221 (92/129)		#ACCCE3	55.1682131240436	1
+Indomethacin	Alendronic acid	0.242	3.312	Moderate	120 (102/18)	The risk or severity of adverse effects can be increased when Indomethacin is combined with Alendronic acid.	#F2AEAE	29.9555908365848	1
+Repaglinide	Glyburide	0.219	-1.171	None	155 (92/63)	Repaglinide may increase the hypoglycemic activities of Glyburide.	#B4D1E6	38.692638163922	1
+Donepezil	Methotrimeprazine	0.262	1.594	Moderate	82 (60/22)	The metabolism of Donepezil can be decreased when combined with Methotrimeprazine.	#F7B9B9	20.4696537383329	1
+Prednisone	Warfarin	0.198	-1.442	Moderate	223 (121/102)	Prednisone may increase the anticoagulant activities of Warfarin.	#B2D0E5	55.66747297132	1
+Mirtazapine	Rasagiline	0.417	-1.266	Major	87 (50/37)	The risk or severity of adverse effects can be increased when Rasagiline is combined with Mirtazapine.	#B2D0E5	21.717803356524	1
+Phenytoin	Lamotrigine	0.478	-1.4	Moderate	20 (11/9)	The serum concentration of Lamotrigine can be decreased when it is combined with Phenytoin.	#B2D0E5	4.99259847276413	3.59664574655881e-07
+Alprazolam	Carbamazepine	0.301	1.824	Moderate	103 (78/25)	The metabolism of Alprazolam can be increased when combined with Carbamazepine.	#F7B7B7	25.7118821347353	1
+Naproxen	Acenocoumarol	0.109	-1.271	None	556 (319/237)	Naproxen may increase the anticoagulant activities of Acenocoumarol.	#B2D0E5	138.794237542843	1
+Lovastatin	Diltiazem	0.447	-1.183	Major	137 (81/56)	The serum concentration of Lovastatin can be increased when it is combined with Diltiazem.	#B4D1E6	34.1992995384343	1
+Fluvastatin	Acenocoumarol	0.345	-1.805	None	224 (109/115)	The metabolism of Acenocoumarol can be decreased when combined with Fluvastatin.	#AFCEE4	55.9171028949582	1
+Simvastatin	Fenofibrate	0.355	-1.339	Major	287 (161/126)	The risk or severity of myopathy and rhabdomyolysis can be increased when Fenofibrate is combined with Simvastatin.	#B2D0E5	71.6437880841652	1
+Galantamine	Solifenacin	0.409	-1.357	Moderate	104 (58/46)	The therapeutic efficacy of Solifenacin can be decreased when used in combination with Galantamine.	#B2D0E5	25.9615120583735	1
+Bisoprolol	Terbutaline	0.137	-1.22	Moderate	233 (136/97)	Bisoprolol may decrease the bronchodilatory activities of Terbutaline.	#B4D1E6	58.1637722077021	1
+Methotrexate	Amoxicillin	0.132	1.451	Major	188 (134/54)	The serum concentration of Methotrexate can be increased when it is combined with Amoxicillin.	#F8BABA	46.9304256439828	1
+Ranolazine	Simvastatin	0.425	-2.555	Major	187 (75/112)	The serum concentration of Simvastatin can be increased when it is combined with Ranolazine.	#ABCBE2	46.6807957203446	1
+Clarithromycin	Quetiapine	0.13	1.799	Major	208 (157/51)	The serum concentration of Quetiapine can be increased when it is combined with Clarithromycin.	#F7B7B7	51.9230241167469	1
+Phenytoin	Acenocoumarol	0.387	-1.711	None	150 (75/75)	Phenytoin may increase the anticoagulant activities of Acenocoumarol.	#AFCEE4	37.444488545731	1
+Phenytoin	Ciprofloxacin	0.12	-1.637	Moderate	137 (70/67)	The therapeutic efficacy of Phenytoin can be decreased when used in combination with Ciprofloxacin.	#B1CFE5	34.1992995384343	1
+Spironolactone	Captopril	0.374	-1.135	Major	163 (98/65)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Captopril.	#B4D1E6	40.6896775530276	1
+Simvastatin	Gemfibrozil	0.24	-1.061	Major	256 (158/98)	The risk or severity of rhabdomyolysis. myoglobinuria. and elevated creatine kinase (CPK) can be increased when Gemfibrozil is combined with Simvastatin.	#B4D1E6	63.9052604513808	1
+Galantamine	Methotrimeprazine	0.284	1.529	Moderate	47 (34/13)	The metabolism of Galantamine can be decreased when combined with Methotrimeprazine.	#F7B9B9	11.7326064109957	1
+Fluoxetine	Propranolol	0.341	2.063	Moderate	77 (60/17)	The metabolism of Propranolol can be decreased when combined with Fluoxetine.	#F6B6B6	19.2215041201419	1
+Warfarin	Ranitidine	0.273	1.077	Moderate	108 (70/38)	The serum concentration of Warfarin can be increased when it is combined with Ranitidine.	#F9BCBC	26.9600317529263	1
+Valproic acid	Carbamazepine	0.561	1.242	Moderate	25 (17/8)	The serum concentration of the active metabolites of Carbamazepine can be increased when Carbamazepine is used in combination with Valproic Acid.	#F8BABA	6.24074809095516	0.00476498050357946
+Fluconazole	Haloperidol	0.484	1.248	Major	116 (79/37)	The metabolism of Haloperidol can be decreased when combined with Fluconazole.	#F8BABA	28.9570711420319	1
+Atenolol	Salmeterol	0.263	-2.011	Moderate	322 (148/174)	Atenolol may decrease the bronchodilatory activities of Salmeterol.	#AECDE3	80.3808354115024	1
+Moxifloxacin	Amiodarone	0.172	-1.227	Major	158 (92/66)	Moxifloxacin may increase the QTc-prolonging activities of Amiodarone.	#B4D1E6	39.4415279348366	1
+Hydroxyzine	Donepezil	0.154	1.196	Moderate	131 (88/43)		#F9BCBC	32.701519996605	1
+Simvastatin	Itraconazole	0.077	1.019	Major	181 (115/66)	The serum concentration of Simvastatin can be increased when it is combined with Itraconazole.	#F9BCBC	45.1830161785154	1
+Warfarin	Levofloxacin	0.159	-1.609	Major	196 (101/95)	Levofloxacin may increase the anticoagulant activities of Warfarin.	#B1CFE5	48.9274650330884	1
+Rivastigmine	Methotrimeprazine	0.264	1.144	Moderate	68 (45/23)		#F9BCBC	16.974834807398	1
+Digoxin	Propafenone	0.29	1.259	Moderate	82 (56/26)	The serum concentration of Digoxin can be increased when it is combined with Propafenone.	#F8BABA	20.4696537383329	1
+Trazodone	Warfarin	0.286	1.065	Minor	127 (82/45)	Trazodone may decrease the anticoagulant activities of Warfarin.	#F9BCBC	31.7030003020522	1
+Levofloxacin	Methotrimeprazine	0.266	1.065	Moderate	127 (82/45)	Methotrimeprazine may increase the QTc-prolonging activities of Levofloxacin.	#F9BCBC	31.7030003020522	1
+Erythromycin	Acenocoumarol	0.098	1.225	None	161 (109/52)	The serum concentration of Acenocoumarol can be increased when it is combined with Erythromycin.	#F9BCBC	40.1904177057512	1
+Torasemide	Indomethacin	0.222	-1.233	Moderate	148 (86/62)	The therapeutic efficacy of Torasemide can be decreased when used in combination with Indomethacin.	#B4D1E6	36.9452286984545	1
+Spironolactone	Tolevamer	0.292	-1.967	Moderate	86 (40/46)		#AECDE3	21.4681734328857	1
+Spironolactone	Telmisartan	0.267	1.052	Major	154 (99/55)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Telmisartan.	#F9BCBC	38.4430082402838	1
+Ciprofloxacin	Warfarin	0.14	-1.396	Major	207 (114/93)		#B2D0E5	51.6733941931087	1
+Carbamazepine	Levetiracetam	0.365	1.837	Moderate	29 (22/7)	The risk or severity of adverse effects can be increased when Carbamazepine is combined with Levetiracetam.	#F7B7B7	7.23926778550798	1
+Cyclosporine	Omeprazole	0.366	1.023	Moderate	77 (49/28)	The serum concentration of Cyclosporine can be increased when it is combined with Omeprazole.	#F9BCBC	19.2215041201419	1
+Phenytoin	Quetiapine	0.293	-1.571	Major	94 (49/45)	The serum concentration of Quetiapine can be decreased when it is combined with Phenytoin.	#B1CFE5	23.4652128219914	1
+Prazosin	Nadolol	0.5	Inf	Moderate	1 (1/0)	Nadolol may increase the orthostatic hypotensive activities of Prazosin.	#B32020	0.249629923638206	1
+Alprazolam	Itraconazole	0.108	2.923	Major	78 (65/13)	The serum concentration of Alprazolam can be increased when it is combined with Itraconazole.	#F3AFAF	19.4711340437801	1
+Carbamazepine	Sertraline	0.358	2.013	Moderate	80 (62/18)	The metabolism of Carbamazepine can be decreased when combined with Sertraline.	#F6B6B6	19.9703938910565	1
+Folic acid	Phenobarbital	0.269	-1.369	Moderate	54 (30/24)	The serum concentration of Phenobarbital can be decreased when it is combined with Folic Acid.	#B2D0E5	13.4800158764631	0.623475200715335
+Erythromycin	Alprazolam	0.136	3.196	Moderate	97 (82/15)	The serum concentration of Alprazolam can be increased when it is combined with Erythromycin.	#F2AEAE	24.214102592906	1
+Haloperidol	Propranolol	0.245	1.622	Moderate	117 (86/31)	The metabolism of Propranolol can be decreased when combined with Haloperidol.	#F7B9B9	29.2067010656701	1
+Bisoprolol	Glipizide	0.325	-1.15	Moderate	102 (61/41)	Bisoprolol may increase the hypoglycemic activities of Glipizide.	#B4D1E6	25.462252211097	1
+Ziprasidone	Donepezil	0.479	1.52	Moderate	18 (13/5)	The metabolism of Donepezil can be decreased when combined with Ziprasidone.	#F7B9B9	4.49333862548771	0.007286726974831
+Venlafaxine	Rasagiline	0.486	1.169	Major	48 (32/16)	The risk or severity of adverse effects can be increased when Venlafaxine is combined with Rasagiline.	#F9BCBC	11.9822363346339	1
+Paroxetine	Rasagiline	0.301	1.096	Major	69 (45/24)	The risk or severity of adverse effects can be increased when Paroxetine is combined with Rasagiline.	#F9BCBC	17.2244647310362	1
+Azithromycin	Lovastatin	0.079	-1.041	Moderate	156 (97/59)	The serum concentration of Lovastatin can be increased when it is combined with Azithromycin.	#B4D1E6	38.9422680875602	1
+Digoxin	Indapamide	0.301	1.396	Moderate	183 (129/54)	The risk or severity of adverse effects can be increased when Indapamide is combined with Digoxin.	#F8BABA	45.6822760257918	1
+Atorvastatin	Colchicine	0.186	-4.468	Major	242 (67/175)	The risk or severity of adverse effects can be increased when Colchicine is combined with Atorvastatin.	#9FC1DD	60.4104415204459	1
+Carbamazepine	Acenocoumarol	0.336	-1.36	None	149 (83/66)	The serum concentration of Acenocoumarol can be decreased when it is combined with Carbamazepine.	#B2D0E5	37.1948586220927	1
+Methylprednisolone	Clarithromycin	0.517	-1.133	Major	123 (74/49)	The serum concentration of Methylprednisolone can be increased when it is combined with Clarithromycin.	#B4D1E6	30.7044806074994	1
+Fluoxetine	Clarithromycin	0.157	3.507	Moderate	77 (66/11)	Clarithromycin may increase the QTc-prolonging activities of Fluoxetine.	#F2ACAC	19.2215041201419	1
+Metformin	Glucosamine	0.214	-1.444	None	260 (141/119)		#B2D0E5	64.9037801459337	1
+Atenolol	Formoterol	0.244	-1.923	Moderate	257 (121/136)	Atenolol may decrease the bronchodilatory activities of Formoterol.	#AFCEE4	64.154890375019	1
+Atenolol	Insulin detemir	0.283	1.24	Moderate	103 (70/33)		#F8BABA	25.7118821347353	1
+Methotrexate	Ibuprofen	0.201	3.232	Major	111 (94/17)	The serum concentration of Methotrexate can be increased when it is combined with Ibuprofen.	#F2AEAE	27.7089215238409	1
+Pravastatin	Colchicine	0.184	-3.041	Major	125 (45/80)	Colchicine may increase the myopathic rhabdomyolysis activities of Pravastatin.	#A8C8E1	31.2037404547758	1
+Phenytoin	Diazepam	0.295	-1.128	Moderate	73 (44/29)	The serum concentration of Phenytoin can be increased when it is combined with Diazepam.	#B4D1E6	18.2229844255891	1
+Norfloxacin	Iron	0.283	2.08	None	196 (153/43)	The serum concentration of Norfloxacin can be decreased when it is combined with Iron.	#F6B6B6	48.9274650330884	1
+Tramadol	Carbamazepine	0.274	1.182	Moderate	142 (95/47)	Tramadol may increase the central nervous system depressant (CNS depressant) activities of Carbamazepine.	#F9BCBC	35.4474491566253	1
+Amitriptyline	Duloxetine	0.383	1.832	Major	62 (47/15)	Duloxetine may increase the serotonergic activities of Amitriptyline.	#F7B7B7	15.4770552655688	1
+Methotrexate	Naproxen	0.208	2.192	Major	57 (45/12)	The serum concentration of Methotrexate can be increased when it is combined with Naproxen.	#F5B4B4	14.2289056473778	1
+Fluconazole	Acenocoumarol	0.123	-1.145	None	212 (127/85)	The serum concentration of Acenocoumarol can be increased when it is combined with Fluconazole.	#B4D1E6	52.9215438112997	1
+Oxycodone	Paroxetine	0.345	5.177	Moderate	69 (62/7)	The metabolism of Oxycodone can be decreased when combined with Paroxetine.	#EDA1A1	17.2244647310362	1
+Erythromycin	Citalopram	0.112	2.695	Major	101 (83/18)	The metabolism of Citalopram can be decreased when combined with Erythromycin.	#F4B1B1	25.2126222874588	1
+Propranolol	Glyburide	0.319	-1.171	Moderate	96 (57/39)	Propranolol may increase the hypoglycemic activities of Glyburide.	#B4D1E6	23.9644726692678	1
+Propranolol	Salmeterol	0.247	-1.593	Major	168 (87/81)		#B1CFE5	41.9378271712187	1
+Diazepam	Clarithromycin	0.258	1.861	Moderate	159 (121/38)	The metabolism of Diazepam can be decreased when combined with Clarithromycin.	#F7B7B7	39.6911578584748	1
+Amitriptyline	Fluoxetine	0.371	3.098	Major	63 (53/10)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Amitriptyline.	#F3AFAF	15.726685189207	1
+Carbamazepine	Risperidone	0.293	1.192	Moderate	79 (53/26)	The serum concentration of Risperidone can be decreased when it is combined with Carbamazepine.	#F9BCBC	19.7207639674183	1
+Propranolol	Formoterol	0.254	-1.437	Major	138 (75/63)		#B2D0E5	34.4489294620725	1
+Phenobarbital	Acenocoumarol	0.396	-1.483	None	84 (45/39)	The metabolism of Acenocoumarol can be increased when combined with Phenobarbital.	#B1CFE5	20.9689135856093	1
+Lidocaine	Carvedilol	0.158	1.169	Moderate	99 (66/33)	The serum concentration of Lidocaine can be increased when it is combined with Carvedilol.	#F9BCBC	24.7133624401824	1
+Digoxin	Clarithromycin	0.173	1.072	Major	187 (121/66)	The metabolism of Digoxin can be decreased when combined with Clarithromycin.	#F9BCBC	46.6807957203446	1
+Indomethacin	Losartan	0.184	-1.439	Moderate	162 (88/74)	The metabolism of Indomethacin can be decreased when combined with Losartan.	#B2D0E5	40.4400476293894	1
+Metoprolol	Ibuprofen	0.125	1.005	Moderate	87 (55/32)	Ibuprofen may decrease the antihypertensive activities of Metoprolol.	#F9BCBC	21.717803356524	1
+Levothyroxine	Cholestyramine	0.23	2.28	Moderate	49 (39/10)	The serum concentration of Levothyroxine can be decreased when it is combined with Cholestyramine.	#F5B4B4	12.2318662582721	1
+Lovastatin	Verapamil	0.482	1.378	Major	47 (33/14)	The serum concentration of Lovastatin can be increased when it is combined with Verapamil.	#F8BABA	11.7326064109957	1
+Hydroxyzine	Galantamine	0.16	2.004	Moderate	62 (48/14)		#F6B6B6	15.4770552655688	1
+Salbutamol	Rasagiline	0.146	-2.613	Moderate	139 (55/84)	The risk or severity of adverse effects can be increased when Rasagiline is combined with Salbutamol.	#ABCBE2	34.6985593857107	1
+Fluconazole	Atorvastatin	0.119	-1.562	Major	176 (92/84)	The serum concentration of Atorvastatin can be increased when it is combined with Fluconazole.	#B1CFE5	43.9348665603243	1
+Chlorthalidone	Digoxin	0.312	1.231	Moderate	118 (80/38)	The risk or severity of adverse effects can be increased when Chlorthalidone is combined with Digoxin.	#F9BCBC	29.4563309893084	1
+Salbutamol	Clomipramine	0.22	1.309	Moderate	81 (56/25)	The risk or severity of adverse effects can be increased when Clomipramine is combined with Salbutamol.	#F8BABA	20.2200238146947	1
+Atorvastatin	Gemfibrozil	0.263	-1.369	Major	135 (75/60)	The risk or severity of adverse effects can be increased when Gemfibrozil is combined with Atorvastatin.	#B2D0E5	33.7000396911579	1
+Hydroxyzine	Rivastigmine	0.193	1.31	Moderate	94 (65/29)		#F8BABA	23.4652128219914	1
+Betamethasone	Acetylsalicylic acid	0.109	-1.123	Moderate	111 (67/44)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Betamethasone.	#B4D1E6	27.7089215238409	1
+Tramadol	Rasagiline	0.227	-1.311	Major	136 (77/59)	Tramadol may increase the neuroexcitatory activities of Rasagiline.	#B2D0E5	33.9496696147961	1
+Olmesartan	Drospirenone	0.532	Inf	Moderate	2 (2/0)	Olmesartan may increase the hyperkalemic activities of Drospirenone.	#B32020	0.499259847276413	1
+Biperiden	Donepezil	0.262	3.39	Moderate	34 (29/5)	The therapeutic efficacy of Biperiden can be decreased when used in combination with Donepezil.	#F2ACAC	8.48741740369902	1
+Lovastatin	Clarithromycin	0.06	2.004	Major	62 (48/14)	The serum concentration of Lovastatin can be increased when it is combined with Clarithromycin.	#F6B6B6	15.4770552655688	1
+Acarbose	Digoxin	0.3	1.141	Moderate	62 (41/21)	The serum concentration of Digoxin can be decreased when it is combined with Acarbose.	#F9BCBC	15.4770552655688	1
+Sumatriptan	Ergotamine	0.583	Inf	Major	2 (2/0)	Ergotamine may increase the vasoconstricting activities of Sumatriptan.	#B32020	0.499259847276413	1
+Lidocaine	Atenolol	0.152	2.572	Moderate	81 (66/15)	The serum concentration of Lidocaine can be increased when it is combined with Atenolol.	#F5B2B2	20.2200238146947	1
+Nabumetone	Alendronic acid	0.175	4.91	Moderate	47 (42/5)	The risk or severity of adverse effects can be increased when Nabumetone is combined with Alendronic acid.	#EDA3A3	11.7326064109957	1
+Diclofenac	Warfarin	0.163	1.169	Major	111 (74/37)	Diclofenac may increase the anticoagulant activities of Warfarin.	#F9BCBC	27.7089215238409	1
+Duloxetine	Rasagiline	0.376	2.221	Major	24 (19/5)	Rasagiline may increase the orthostatic hypotensive activities of Duloxetine.	#F5B4B4	5.99111816731695	1
+Glimepiride	Pregabalin	0.218	-1.161	None	94 (56/38)	The risk or severity of heart failure can be increased when Pregabalin is combined with Glimepiride.	#B4D1E6	23.4652128219914	1
+Fluvoxamine	Acenocoumarol	0.327	1.832	None	62 (47/15)	The metabolism of Acenocoumarol can be decreased when combined with Fluvoxamine.	#F7B7B7	15.4770552655688	1
+Bisoprolol	Insulin glulisine	0.256	-1.14	Moderate	60 (36/24)		#B4D1E6	14.9777954182924	1
+Spironolactone	Lisinopril	0.259	-1.15	Major	204 (122/82)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Lisinopril.	#B4D1E6	50.9245044221941	1
+Trazodone	Itraconazole	0.125	5.261	Moderate	50 (45/5)	The metabolism of Trazodone can be decreased when combined with Itraconazole.	#EC9F9F	12.4814961819103	1
+Warfarin	Ibuprofen	0.184	-1.097	Major	192 (117/75)	Ibuprofen may increase the anticoagulant activities of Warfarin.	#B4D1E6	47.9289453385356	1
+Phenytoin	Topiramate	0.371	-1.14	Moderate	10 (6/4)	The serum concentration of Phenytoin can be increased when it is combined with Topiramate.	#B4D1E6	2.49629923638206	0.0794918715381818
+Warfarin	Paroxetine	0.309	2.046	Moderate	72 (56/16)	Paroxetine may increase the anticoagulant activities of Warfarin.	#F6B6B6	17.9733545019509	1
+Duloxetine	Nortriptyline	0.459	1.754	Major	12 (9/3)	Duloxetine may increase the serotonergic activities of Nortriptyline.	#F7B7B7	2.99555908365848	0.0756254707672999
+Amiodarone	Clarithromycin	0.153	-1.222	Major	120 (70/50)	Clarithromycin may increase the QTc-prolonging activities of Amiodarone.	#B4D1E6	29.9555908365848	1
+Fluvoxamine	Mirtazapine	0.302	2.923	Major	30 (25/5)	The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Mirtazapine.	#F3AFAF	7.48889770914619	1
+Clozapine	Haloperidol	0.269	Inf	Major	3 (3/0)	Clozapine may increase the QTc-prolonging activities of Haloperidol.	#B32020	0.748889770914619	1
+Phenytoin	Prednisone	0.273	-1.331	Moderate	80 (45/35)	The serum concentration of Prednisone can be decreased when it is combined with Phenytoin.	#B2D0E5	19.9703938910565	1
+Levothyroxine	Raloxifene	0.272	24.551	Moderate	43 (42/1)	Raloxifene can cause a decrease in the absorption of Levothyroxine resulting in a reduced serum concentration and potentially a decrease in efficacy.	#B32020	10.7340867164429	1
+Atenolol	Diltiazem	0.278	-1.183	Major	159 (94/65)	Diltiazem may increase the hypotensive activities of Atenolol.	#B4D1E6	39.6911578584748	1
+Erythromycin	Atorvastatin	0.115	1.118	Major	99 (65/34)	The serum concentration of Atorvastatin can be increased when it is combined with Erythromycin.	#F9BCBC	24.7133624401824	1
+Tacrolimus	Atorvastatin	0.244	-1.996	Moderate	78 (36/42)	The risk or severity of adverse effects can be increased when Tacrolimus is combined with Atorvastatin.	#AECDE3	19.4711340437801	1
+Omeprazole	Triazolam	0.265	1.344	Moderate	66 (46/20)		#F8BABA	16.4755749601216	1
+Acenocoumarol	Cholestyramine	0.208	1.118	None	67 (44/23)	Cholestyramine can cause a decrease in the absorption of Acenocoumarol resulting in a reduced serum concentration and potentially a decrease in efficacy.	#F9BCBC	16.7252048837598	1
+Erythromycin	Sertraline	0.086	2.653	Moderate	72 (59/13)	The risk or severity of adverse effects can be increased when Erythromycin is combined with Sertraline.	#F4B1B1	17.9733545019509	1
+Fluoxetine	Nortriptyline	0.403	1.948	Major	13 (10/3)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Nortriptyline.	#F6B6B6	3.24518900729668	0.389063938516728
+Sucralfate	Levothyroxine	0.194	2.391	Minor	56 (45/11)	The serum concentration of Levothyroxine can be decreased when it is combined with Sucralfate.	#F5B4B4	13.9792757237396	1
+Fluoxetine	Clomipramine	0.337	2.046	Major	27 (21/6)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Clomipramine.	#F6B6B6	6.74000793823157	1
+Trospium	Donepezil	0.339	4.092	Moderate	24 (21/3)	The therapeutic efficacy of Trospium can be decreased when used in combination with Donepezil.	#F0A7A7	5.99111816731695	1
+Phenytoin	Vigabatrin	0.4	Inf	Minor	1 (1/0)	The serum concentration of Phenytoin can be decreased when it is combined with Vigabatrin.	#B32020	0.249629923638206	1
+Metronidazole	Acenocoumarol	0.124	-1.454	None	148 (80/68)	The serum concentration of Acenocoumarol can be increased when it is combined with Metronidazole.	#B2D0E5	36.9452286984545	1
+Digoxin	Methotrexate	0.212	1.889	Moderate	55 (42/13)	Digoxin may decrease the cardiotoxic activities of Methotrexate.	#F7B7B7	13.7296458001014	1
+Pantoprazole	Itraconazole	0.146	1.513	Moderate	61 (44/17)	The serum concentration of Itraconazole can be decreased when it is combined with Pantoprazole.	#F7B9B9	15.2274253419306	1
+Erythromycin	Digoxin	0.124	1.637	Moderate	76 (56/20)	The metabolism of Digoxin can be decreased when combined with Erythromycin.	#F7B9B9	18.9718741965037	1
+Mesalazine	Mercaptopurine	0.3	-3.421	Moderate	3 (1/2)	The metabolism of Mercaptopurine can be decreased when combined with Mesalazine.	#A5C6DF	0.748889770914619	0.226772607238182
+Propranolol	Phenobarbital	0.418	1.086	Moderate	20 (13/7)	The metabolism of Propranolol can be increased when combined with Phenobarbital.	#F9BCBC	4.99259847276413	1
+Omeprazole	Ketoconazole	0.156	-2.293	Moderate	110 (47/63)	The serum concentration of Ketoconazole can be decreased when it is combined with Omeprazole.	#ACCCE3	27.4592916002027	1
+Spironolactone	Cholestyramine	0.317	-1.212	Moderate	41 (24/17)	The risk or severity of adverse effects can be increased when Cholestyramine is combined with Spironolactone.	#B4D1E6	10.2348268691665	1
+Chlorpromazine	Galantamine	0.186	1.754	Moderate	12 (9/3)	The metabolism of Galantamine can be decreased when combined with Chlorpromazine.	#F7B7B7	2.99555908365848	1
+Pyridostigmine	Methylprednisolone	0.238	1.948	Moderate	13 (10/3)	The risk or severity of adverse effects can be increased when Methylprednisolone is combined with Pyridostigmine.	#F6B6B6	3.24518900729668	1
+Phenytoin	Mirtazapine	0.3	1.267	Moderate	38 (26/12)	Phenytoin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.	#F8BABA	9.48593709825184	1
+Indomethacin	Bisoprolol	0.137	-1.595	Moderate	143 (74/69)	Indomethacin may decrease the antihypertensive activities of Bisoprolol.	#B1CFE5	35.6970790802635	1
+Esomeprazole	Itraconazole	0.156	2.689	Moderate	28 (23/5)	The serum concentration of Itraconazole can be decreased when it is combined with Esomeprazole.	#F4B1B1	6.98963786186978	1
+Sertraline	Propafenone	0.416	1.628	Moderate	53 (39/14)	Sertraline may increase the QTc-prolonging activities of Propafenone.	#F7B9B9	13.2303859528249	1
+Gentamicin	Cefonicid	0.662	-1.711	Moderate	18 (9/9)		#AFCEE4	4.49333862548771	0.00592102850359903
+Glimepiride	Gemfibrozil	0.328	-1.089	Moderate	36 (22/14)	The metabolism of Glimepiride can be decreased when combined with Gemfibrozil.	#B4D1E6	8.98667725097543	1
+Warfarin	Propafenone	0.264	2.046	Moderate	18 (14/4)	The serum concentration of Warfarin can be increased when it is combined with Propafenone.	#F6B6B6	4.49333862548771	1
+Fludrocortisone	Acetylsalicylic acid	0.34	-2.534	Moderate	67 (27/40)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Fludrocortisone.	#ABCBE2	16.7252048837598	1
+Trazodone	Ginkgo biloba	0.219	1.106	Moderate	107 (70/37)		#F9BCBC	26.7104018292881	1
+Enalapril	Rifampicin	0.163	-1.512	None	81 (43/38)	The metabolism of Enalapril can be increased when combined with Rifampicin.	#B1CFE5	20.2200238146947	1
+Phenytoin	Methylprednisolone	0.265	1.503	Moderate	25 (18/7)	The serum concentration of Methylprednisolone can be decreased when it is combined with Phenytoin.	#F7B9B9	6.24074809095516	1
+Lidocaine	Propranolol	0.188	4.209	Moderate	41 (36/5)	The serum concentration of Lidocaine can be increased when it is combined with Propranolol.	#F0A7A7	10.2348268691665	1
+Atenolol	Insulin aspart	0.292	1.245	Moderate	72 (49/23)		#F8BABA	17.9733545019509	1
+Enalapril	Tizanidine	0.212	-1.201	Major	80 (47/33)	The risk or severity of hypotension can be increased when Tizanidine is combined with Enalapril.	#B4D1E6	19.9703938910565	1
+Phenytoin	Fluoxetine	0.365	1.871	Moderate	21 (16/5)	The serum concentration of Phenytoin can be increased when it is combined with Fluoxetine.	#F7B7B7	5.24222839640233	1
+Nabumetone	Acenocoumarol	0.135	1.118	None	67 (44/23)	Nabumetone may increase the anticoagulant activities of Acenocoumarol.	#F9BCBC	16.7252048837598	1
+Celecoxib	Acenocoumarol	0.15	-1.11	None	183 (111/72)	Celecoxib may increase the anticoagulant activities of Acenocoumarol.	#B4D1E6	45.6822760257918	1
+Amitriptyline	Rivastigmine	0.33	1.79	Moderate	65 (49/16)		#F7B7B7	16.2259450364834	1
+Fluconazole	Diazepam	0.306	1.208	Moderate	92 (62/30)	The metabolism of Diazepam can be decreased when combined with Fluconazole.	#F9BCBC	22.965952974715	1
+Paroxetine	Propafenone	0.392	1.754	Moderate	40 (30/10)	The serum concentration of Propafenone can be increased when it is combined with Paroxetine.	#F7B7B7	9.98519694552825	1
+Fenofibrate	Rosuvastatin	0.509	-1.955	Major	30 (14/16)	The risk or severity of myopathy and rhabdomyolysis can be increased when Fenofibrate is combined with Rosuvastatin.	#AECDE3	7.48889770914619	0.996047698302727
+Phenytoin	Levodopa	0.391	-1.711	Moderate	42 (21/21)	The therapeutic efficacy of Levodopa can be decreased when used in combination with Phenytoin.	#AFCEE4	10.4844567928047	1
+Almotriptan	Escitalopram	0.381	Inf	Major	9 (9/0)	The risk or severity of adverse effects can be increased when Almotriptan is combined with Escitalopram.	#B32020	2.24666931274386	1
+Fluconazole	Clonazepam	0.258	1.046	None	53 (34/19)	The metabolism of Clonazepam can be decreased when combined with Fluconazole.	#F9BCBC	13.2303859528249	1
+Risperidone	Itraconazole	0.161	2.019	None	49 (38/11)	The metabolism of Risperidone can be decreased when combined with Itraconazole.	#F6B6B6	12.2318662582721	1
+Propranolol	Repaglinide	0.311	1.354	Moderate	63 (44/19)		#F8BABA	15.726685189207	1
+Indomethacin	Atenolol	0.208	1.052	Moderate	56 (36/20)	Indomethacin may decrease the antihypertensive activities of Atenolol.	#F9BCBC	13.9792757237396	1
+Phenytoin	Sertraline	0.418	-1.604	Moderate	62 (32/30)	The serum concentration of Phenytoin can be increased when it is combined with Sertraline.	#B1CFE5	15.4770552655688	1
+Acetaminophen	Isoniazid	0.203	-1.222	Moderate	60 (35/25)	The risk or severity of adverse effects can be increased when Isoniazid is combined with Acetaminophen.	#B4D1E6	14.9777954182924	1
+Amitriptyline	Donepezil	0.322	2.582	Moderate	65 (53/12)		#F5B2B2	16.2259450364834	1
+Sucralfate	Ciprofloxacin	0.301	-1.092	Moderate	77 (47/30)		#B4D1E6	19.2215041201419	1
+Cyclosporine	Ursodeoxycholic acid	0.523	Inf	Minor	3 (3/0)		#B32020	0.748889770914619	1
+Terbutaline	Carvedilol	0.095	-1.48	Major	69 (37/32)	Carvedilol may decrease the vasoconstricting activities of Terbutaline.	#B1CFE5	17.2244647310362	1
+Erythromycin	Verapamil	0.108	Inf	Major	19 (19/0)	The metabolism of Verapamil can be decreased when combined with Erythromycin.	#B32020	4.74296854912592	1
+Ibandronate	Iron	0.243	5.553	Moderate	42 (38/4)		#EB9E9E	10.4844567928047	1
+Dexamethasone	Acenocoumarol	0.199	-2.099	None	167 (75/92)		#AECDE3	41.6881972475805	1
+Theophylline	Ciprofloxacin	0.243	-4.343	Major	138 (39/99)		#9FC1DD	34.4489294620725	1
+Ciprofloxacin	Methotrexate	0.145	1.145	Moderate	71 (47/24)	The serum concentration of Methotrexate can be increased when it is combined with Ciprofloxacin.	#F9BCBC	17.7237245783127	1
+Atorvastatin	Itraconazole	0.117	-1.627	Major	80 (41/39)	The risk or severity of adverse effects can be increased when Itraconazole is combined with Atorvastatin.	#B1CFE5	19.9703938910565	1
+Ethinylestradiol	Ursodeoxycholic acid	0.045	Inf	None	1 (1/0)	The therapeutic efficacy of Ursodeoxycholic acid can be decreased when used in combination with Ethinyl Estradiol.	#B32020	0.249629923638206	1
+Lovastatin	Carbamazepine	0.345	1.169	None	24 (16/8)	The metabolism of Lovastatin can be increased when combined with Carbamazepine.	#F9BCBC	5.99111816731695	1
+Haloperidol	Carbamazepine	0.304	-1.298	Moderate	51 (29/22)	The metabolism of Haloperidol can be increased when combined with Carbamazepine.	#B2D0E5	12.7311261055485	1
+Donepezil	Doxepin	0.35	3.507	Moderate	7 (6/1)		#F2ACAC	1.74740946546744	1
+Erythromycin	Methylprednisolone	0.38	5.066	Moderate	29 (26/3)	The metabolism of Methylprednisolone can be decreased when combined with Erythromycin.	#EDA1A1	7.23926778550798	1
+Spironolactone	Eprosartan	0.294	-1.009	Major	62 (39/23)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Eprosartan.	#B4D1E6	15.4770552655688	1
+Phenytoin	Dexamethasone	0.335	-1.089	Moderate	18 (11/7)	The serum concentration of Dexamethasone can be decreased when it is combined with Phenytoin.	#B4D1E6	4.49333862548771	1
+Warfarin	Norfloxacin	0.121	1.685	Major	66 (49/17)	Norfloxacin may increase the anticoagulant activities of Warfarin.	#F7B9B9	16.4755749601216	1
+Spironolactone	Perindopril	0.402	-1.405	Major	51 (28/23)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Perindopril.	#B2D0E5	12.7311261055485	1
+Diltiazem	Carbamazepine	0.279	1.52	Major	36 (26/10)	The serum concentration of Carbamazepine can be increased when it is combined with Diltiazem.	#F7B9B9	8.98667725097543	1
+Clomipramine	Rasagiline	0.376	2.338	Major	10 (8/2)	Rasagiline may increase the serotonergic activities of Clomipramine.	#F5B4B4	2.49629923638206	1
+Phenytoin	Gabapentin	0.381	-1.955	Moderate	45 (21/24)	The risk or severity of adverse effects can be increased when Gabapentin is combined with Phenytoin.	#AECDE3	11.2333465637193	1
+Ofloxacin	Acenocoumarol	0.11	-1.244	None	38 (22/16)		#B2D0E5	9.48593709825184	1
+Nortriptyline	Salbutamol	0.219	2.104	Moderate	23 (18/5)	The risk or severity of adverse effects can be increased when Nortriptyline is combined with Salbutamol.	#F6B6B6	5.74148824367875	1
+Erythromycin	Quetiapine	0.132	3.758	Major	52 (45/7)	The metabolism of Quetiapine can be decreased when combined with Erythromycin.	#F1ABAB	12.9807560291867	1
+Buspirone	Itraconazole	0.143	Inf	Moderate	1 (1/0)	The metabolism of Buspirone can be decreased when combined with Itraconazole.	#B32020	0.249629923638206	1
+Venlafaxine	Almotriptan	0.303	4.092	Major	8 (7/1)	The risk or severity of adverse effects can be increased when Venlafaxine is combined with Almotriptan.	#F0A7A7	1.99703938910565	1
+Hydrochlorothiazide	Lithium cation	0.226	2.455	Major	26 (21/5)	Hydrochlorothiazide may decrease the excretion rate of Lithium which could result in a higher serum level.	#F5B2B2	6.49037801459337	1
+Digoxin	Bumetanide	0.293	Inf	Moderate	8 (8/0)	The risk or severity of adverse effects can be increased when Bumetanide is combined with Digoxin.	#B32020	1.99703938910565	1
+Phenytoin	Amiodarone	0.376	-1.236	Moderate	31 (18/13)	The serum concentration of Phenytoin can be increased when it is combined with Amiodarone.	#B2D0E5	7.7385276327844	1
+Methotrexate	Diclofenac	0.16	2.046	Major	45 (35/10)	The serum concentration of Methotrexate can be increased when it is combined with Diclofenac.	#F6B6B6	11.2333465637193	1
+Warfarin	Fenofibrate	0.341	-1.176	Major	27 (16/11)	Fenofibrate may increase the anticoagulant activities of Warfarin.	#B4D1E6	6.74000793823157	1
+Theophylline	Clarithromycin	0.43	-1.711	Moderate	32 (16/16)	The metabolism of Theophylline can be decreased when combined with Clarithromycin.	#AFCEE4	7.9881575564226	1
+Oxycodone	Escitalopram	0.334	1.948	Moderate	39 (30/9)	Oxycodone may increase the serotonergic activities of Escitalopram.	#F6B6B6	9.73556702189005	1
+Warfarin	Acetylsalicylic acid	0.239	-2.146	Major	239 (106/133)	Acetylsalicylic acid may increase the anticoagulant activities of Warfarin.	#AECDE3	59.6615517495313	1
+Citalopram	Selegiline	0.304	1.242	Major	25 (17/8)	The risk or severity of adverse effects can be increased when Citalopram is combined with Selegiline.	#F8BABA	6.24074809095516	1
+Gliclazide	Glucosamine	0.22	-1.466	None	78 (42/36)		#B2D0E5	19.4711340437801	1
+Fluoxetine	Carbamazepine	0.337	1.242	Moderate	25 (17/8)	The metabolism of Carbamazepine can be decreased when combined with Fluoxetine.	#F8BABA	6.24074809095516	1
+Prednisone	Phenobarbital	0.198	-1.782	Moderate	49 (24/25)	The serum concentration of Prednisone can be decreased when it is combined with Phenobarbital.	#AFCEE4	12.2318662582721	1
+Donepezil	Clomipramine	0.312	2.572	Moderate	27 (22/5)	The metabolism of Donepezil can be decreased when combined with Clomipramine.	#F5B2B2	6.74000793823157	1
+Fluvoxamine	Tramadol	0.275	5.699	Major	43 (39/4)	Fluvoxamine may increase the neuroexcitatory activities of Tramadol.	#EB9E9E	10.7340867164429	1
+Atenolol	Terbutaline	0.159	1.137	Moderate	53 (35/18)	Atenolol may decrease the bronchodilatory activities of Terbutaline.	#F9BCBC	13.2303859528249	1
+Moxifloxacin	Iron	0.235	-1.951	Moderate	122 (57/65)		#AECDE3	30.4548506838612	1
+Trospium	Ipratropium	0.143	1.259	Moderate	41 (28/13)	The risk or severity of adverse effects can be increased when Ipratropium bromide is combined with Trospium.	#F8BABA	10.2348268691665	1
+Duloxetine	Propafenone	0.192	1.9	Moderate	17 (13/4)	The serum concentration of Duloxetine can be increased when it is combined with Propafenone.	#F7B7B7	4.24370870184951	1
+Azathioprine	Acenocoumarol	0.361	-1.497	None	45 (24/21)	Azathioprine may decrease the anticoagulant activities of Acenocoumarol.	#B1CFE5	11.2333465637193	1
+Diltiazem	Propranolol	0.372	1.096	Major	69 (45/24)	The metabolism of Propranolol can be decreased when combined with Diltiazem.	#F9BCBC	17.2244647310362	1
+Fluoxetine	Propafenone	0.279	2.923	Moderate	18 (15/3)	Propafenone may increase the QTc-prolonging activities of Fluoxetine.	#F3AFAF	4.49333862548771	1
+Atenolol	Glipizide	0.352	-1.045	Moderate	29 (18/11)	Atenolol may increase the hypoglycemic activities of Glipizide.	#B4D1E6	7.23926778550798	1
+Pravastatin	Gemfibrozil	0.216	-1.296	Major	58 (33/25)	The risk or severity of rhabdomyolysis. myoglobinuria. and elevated creatine kinase (CPK) can be increased when Gemfibrozil is combined with Pravastatin.	#B2D0E5	14.478535571016	1
+Simvastatin	Fusidic acid	0.073	-1.069	None	65 (40/25)	The serum concentration of Simvastatin can be increased when it is combined with Fusidic Acid.	#B4D1E6	16.2259450364834	1
+Fentanyl	Itraconazole	0.116	3.118	Major	38 (32/6)	The serum concentration of Fentanyl can be increased when it is combined with Itraconazole.	#F3AFAF	9.48593709825184	1
+Imipramine	Duloxetine	0.54	Inf	Major	6 (6/0)	Duloxetine may increase the serotonergic activities of Imipramine.	#B32020	1.49777954182924	1
+Repaglinide	Clarithromycin	0.13	-1.064	Moderate	73 (45/28)	The serum concentration of Repaglinide can be increased when it is combined with Clarithromycin.	#B4D1E6	18.2229844255891	1
+Folic acid	Primidone	0.291	-2.281	Moderate	28 (12/16)	The serum concentration of Primidone can be decreased when it is combined with Folic Acid.	#ACCCE3	6.98963786186978	1
+Methylprednisolone	Phenobarbital	0.191	1.072	Moderate	17 (11/6)	The serum concentration of Methylprednisolone can be decreased when it is combined with Phenobarbital.	#F9BCBC	4.24370870184951	1
+Ranolazine	Diltiazem	0.383	-2.322	Major	33 (14/19)	The serum concentration of Ranolazine can be increased when it is combined with Diltiazem.	#ACCCE3	8.23778748006081	1
+Acenocoumarol	Etoricoxib	0.144	-1.103	None	125 (76/49)	Etoricoxib may increase the anticoagulant activities of Acenocoumarol.	#B4D1E6	31.2037404547758	1
+Theophylline	Verapamil	0.29	-1.369	Moderate	18 (10/8)	The metabolism of Theophylline can be decreased when combined with Verapamil.	#B2D0E5	4.49333862548771	1
+Citalopram	Josamycin	0.083	5.553	None	21 (19/2)		#EB9E9E	5.24222839640233	1
+Piroxicam	Alendronic acid	0.167	4.969	None	19 (17/2)	The risk or severity of adverse effects can be increased when Piroxicam is combined with Alendronic acid.	#EDA3A3	4.74296854912592	1
+Nortriptyline	Rivastigmine	0.275	5.261	Moderate	10 (9/1)		#EC9F9F	2.49629923638206	1
+Ropinirole	Ciprofloxacin	0.124	-1.774	Moderate	55 (27/28)	The serum concentration of Ropinirole can be increased when it is combined with Ciprofloxacin.	#AFCEE4	13.7296458001014	1
+Spironolactone	Eplerenone	0.15	-3.421	Major	69 (23/46)	Eplerenone may increase the hyperkalemic activities of Spironolactone.	#A5C6DF	17.2244647310362	1
+Rosuvastatin	Gemfibrozil	0.333	1.754	Major	16 (12/4)	The risk or severity of rhabdomyolysis. myoglobinuria. and elevated creatine kinase (CPK) can be increased when Gemfibrozil is combined with Rosuvastatin.	#F7B7B7	3.9940787782113	1
+Valproic acid	Nimodipine	0.382	1.267	Minor	19 (13/6)		#F8BABA	4.74296854912592	1
+Donepezil	Oxybutynin	0.294	-1.107	Moderate	28 (17/11)	The therapeutic efficacy of Oxybutynin can be decreased when used in combination with Donepezil.	#B4D1E6	6.98963786186978	1
+Bisoprolol	Verapamil	0.205	-1.063	Major	107 (66/41)	The metabolism of Bisoprolol can be decreased when combined with Verapamil.	#B4D1E6	26.7104018292881	1
+Azithromycin	Warfarin	0.133	-1.302	Moderate	81 (46/35)	The metabolism of Warfarin can be decreased when combined with Azithromycin.	#B2D0E5	20.2200238146947	1
+Cyclosporine	Methotrexate	0.53	Inf	Moderate	2 (2/0)	The serum concentration of Methotrexate can be increased when it is combined with Cyclosporine.	#B32020	0.499259847276413	1
+Amitriptyline	Galantamine	0.292	3.273	Moderate	33 (28/5)		#F2AEAE	8.23778748006081	1
+Fluoxetine	Warfarin	0.242	1.072	Moderate	34 (22/12)	The metabolism of Warfarin can be decreased when combined with Fluoxetine.	#F9BCBC	8.48741740369902	1
+Erythromycin	Diazepam	0.156	4.443	Moderate	43 (38/5)	The metabolism of Diazepam can be decreased when combined with Erythromycin.	#EFA6A6	10.7340867164429	1
+Doxycycline	Rifampicin	0.75	1.754	Moderate	4 (3/1)	The serum concentration of Doxycycline can be decreased when it is combined with Rifampicin.	#F7B7B7	0.998519694552825	1
+Lansoprazole	Itraconazole	0.206	1.116	Moderate	32 (21/11)	The serum concentration of Itraconazole can be decreased when it is combined with Lansoprazole.	#F9BCBC	7.9881575564226	1
+Ticlopidine	Phenytoin	0.5	Inf	Moderate	3 (3/0)	The serum concentration of Phenytoin can be increased when it is combined with Ticlopidine.	#B32020	0.748889770914619	1
+Ranitidine	Itraconazole	0.3	1.169	Moderate	36 (24/12)	The serum concentration of Itraconazole can be decreased when it is combined with Ranitidine.	#F9BCBC	8.98667725097543	1
+Phenytoin	Clarithromycin	0.173	-1.14	Moderate	25 (15/10)	The serum concentration of the active metabolites of Clarithromycin can be increased when Clarithromycin is used in combination with Phenytoin.	#B4D1E6	6.24074809095516	1
+Primidone	Acenocoumarol	0.307	-3.331	None	56 (19/37)	The metabolism of Acenocoumarol can be increased when combined with Primidone.	#A6C7E0	13.9792757237396	1
+Pyridostigmine	Fludrocortisone	0.304	-1.711	Moderate	2 (1/1)	The risk or severity of adverse effects can be increased when Fludrocortisone is combined with Pyridostigmine.	#AFCEE4	0.499259847276413	1
+Biperiden	Rivastigmine	0.312	1.871	Moderate	21 (16/5)	The therapeutic efficacy of Biperiden can be decreased when used in combination with Rivastigmine.	#F7B7B7	5.24222839640233	1
+Diltiazem	Cilostazol	0.232	-2.688	Major	36 (14/22)	The serum concentration of Cilostazol can be increased when it is combined with Diltiazem.	#A9C9E1	8.98667725097543	1
+Bisoprolol	Ergotamine	0.147	2.338	Moderate	25 (20/5)	Ergotamine may increase the atrioventricular blocking (AV block) activities of Bisoprolol.	#F5B4B4	6.24074809095516	1
+Metoprolol	Gliclazide	0.376	-1.1	None	23 (14/9)	Metoprolol may increase the hypoglycemic activities of Gliclazide.	#B4D1E6	5.74148824367875	1
+Warfarin	Methimazole	0.358	1.461	Moderate	21 (15/6)	Methimazole may decrease the anticoagulant activities of Warfarin.	#F8BABA	5.24222839640233	1
+Erythromycin	Lovastatin	0.08	3.118	Major	19 (16/3)	The serum concentration of Lovastatin can be increased when it is combined with Erythromycin.	#F3AFAF	4.74296854912592	1
+Citalopram	Metoprolol	0.321	3.069	Moderate	25 (21/4)	The serum concentration of Metoprolol can be increased when it is combined with Citalopram.	#F3AFAF	6.24074809095516	1
+Trospium	Risperidone	0.329	1.587	Moderate	26 (19/7)		#F7B9B9	6.49037801459337	1
+Atorvastatin	Fusidic acid	0.09	1.228	None	31 (21/10)	The serum concentration of Atorvastatin can be increased when it is combined with Fusidic Acid.	#F9BCBC	7.7385276327844	1
+Phenytoin	Megestrol acetate	0.236	1.607	Moderate	15 (11/4)		#F7B9B9	3.7444488545731	1
+Indomethacin	Carvedilol	0.177	-1.232	Moderate	43 (25/18)	Indomethacin may decrease the antihypertensive activities of Carvedilol.	#B4D1E6	10.7340867164429	1
+Cyclosporine	Ciprofloxacin	0.127	1.169	Moderate	15 (10/5)		#F9BCBC	3.7444488545731	1
+Fluconazole	Phenytoin	0.08	1.169	Moderate	15 (10/5)	The serum concentration of Phenytoin can be increased when it is combined with Fluconazole.	#F9BCBC	3.7444488545731	1
+Fluconazole	Tolterodine	0.158	-1.354	Moderate	43 (24/19)	The metabolism of Tolterodine can be decreased when combined with Fluconazole.	#B2D0E5	10.7340867164429	1
+Miglitol	Glucosamine	0.256	-1.711	None	10 (5/5)		#AFCEE4	2.49629923638206	1
+Theophylline	Carbamazepine	0.375	1.169	Moderate	9 (6/3)	The serum concentration of Theophylline can be decreased when it is combined with Carbamazepine.	#F9BCBC	2.24666931274386	1
+Trihexyphenidyl	Haloperidol	0.272	2.046	Moderate	9 (7/2)		#F6B6B6	2.24666931274386	1
+Propranolol	Terbutaline	0.127	-1.625	Major	39 (20/19)		#B1CFE5	9.73556702189005	1
+Dihydroergotamine	Josamycin	0.217	Inf	None	2 (2/0)	The risk or severity of adverse effects can be increased when Dihydroergotamine is combined with Josamycin.	#B32020	0.499259847276413	1
+Erythromycin	Fluoxetine	0.104	10.522	Moderate	19 (18/1)	The metabolism of Fluoxetine can be decreased when combined with Erythromycin.	#DC7D7D	4.74296854912592	1
+Disopyramide	Bisoprolol	0.589	Inf	Major	4 (4/0)	Disopyramide may increase the bradycardic activities of Bisoprolol.	#B32020	0.998519694552825	1
+Lovastatin	Itraconazole	0.071	2.338	Major	15 (12/3)	The serum concentration of Lovastatin can be increased when it is combined with Itraconazole.	#F5B4B4	3.7444488545731	1
+Cefotaxime	Gentamicin	1	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Alendronic acid	Ketoprofen	0.299	7.015	Moderate	13 (12/1)	The risk or severity of adverse effects can be increased when Ketoprofen is combined with Alendronic acid.	#E79494	3.24518900729668	1
+Haloperidol	Rifampicin	0.419	2.143	Major	14 (11/3)	The metabolism of Haloperidol can be increased when combined with Rifampicin.	#F6B6B6	3.49481893093489	1
+Chlorpropamide	Acetylsalicylic acid	0.405	-1.198	None	17 (10/7)	Acetylsalicylic acid may increase the hypoglycemic activities of Chlorpropamide.	#B4D1E6	4.24370870184951	1
+Citalopram	Zolmitriptan	0.135	8.768	Major	16 (15/1)	The risk or severity of adverse effects can be increased when Citalopram is combined with Zolmitriptan.	#E28989	3.9940787782113	1
+Disopyramide	Omeprazole	0.411	Inf	None	9 (9/0)		#B32020	2.24666931274386	1
+Alendronic acid	Flurbiprofen	0.272	Inf	Moderate	9 (9/0)	The risk or severity of adverse effects can be increased when Flurbiprofen is combined with Alendronic acid.	#B32020	2.24666931274386	1
+Erythromycin	Levofloxacin	0.536	-1.001	Moderate	65 (41/24)	Erythromycin may increase the QTc-prolonging activities of Levofloxacin.	#B4D1E6	16.2259450364834	1
+Dihydroergotamine	Nitroglycerin	0.129	2.338	Moderate	20 (16/4)	The bioavailability of Dihydroergotamine can be increased when combined with Nitroglycerin.	#F5B4B4	4.99259847276413	1
+Repaglinide	Gemfibrozil	0.256	-2.333	Major	52 (22/30)	The serum concentration of Repaglinide can be increased when it is combined with Gemfibrozil.	#ACCCE3	12.9807560291867	1
+Digoxin	Itraconazole	0.269	1.488	Major	39 (28/11)	The serum concentration of Digoxin can be increased when it is combined with Itraconazole.	#F7B9B9	9.73556702189005	1
+Phenytoin	Midazolam	0.291	1.461	Moderate	7 (5/2)	The serum concentration of Phenytoin can be increased when it is combined with Midazolam.	#F8BABA	1.74740946546744	1
+Warfarin	Hydrocortisone	0.213	2.221	Moderate	24 (19/5)	Hydrocortisone may increase the anticoagulant activities of Warfarin.	#F5B4B4	5.99111816731695	1
+Galantamine	Maprotiline	0.629	4.092	Moderate	8 (7/1)		#F0A7A7	1.99703938910565	1
+Alprazolam	Josamycin	0.138	4.384	None	17 (15/2)	The serum concentration of Alprazolam can be increased when it is combined with Josamycin.	#EFA6A6	4.24370870184951	1
+Simvastatin	Rifampicin	0.14	1.013	Major	41 (26/15)	The metabolism of Simvastatin can be increased when combined with Rifampicin.	#F9BCBC	10.2348268691665	1
+Terbinafine	Acenocoumarol	0.116	-1.394	None	49 (27/22)		#B2D0E5	12.2318662582721	1
+Diltiazem	Tacrolimus	0.17	1.023	Moderate	22 (14/8)	The metabolism of Tacrolimus can be decreased when combined with Diltiazem.	#F9BCBC	5.49185832004054	1
+Rizatriptan	Escitalopram	0.38	2.338	Major	10 (8/2)	The risk or severity of adverse effects can be increased when Rizatriptan is combined with Escitalopram.	#F5B4B4	2.49629923638206	1
+Amitriptyline	Rasagiline	0.388	-3.816	Major	42 (13/29)	Rasagiline may increase the serotonergic activities of Amitriptyline.	#A3C5DF	10.4844567928047	1
+Amitriptyline	Terbutaline	0.173	-1.112	Moderate	33 (20/13)	The risk or severity of adverse effects can be increased when Amitriptyline is combined with Terbutaline.	#B4D1E6	8.23778748006081	1
+Chlorpropamide	Carvedilol	0.435	1.754	Moderate	4 (3/1)	Carvedilol may increase the hypoglycemic activities of Chlorpropamide.	#F7B7B7	0.998519694552825	1
+Phenylephrine	Clomipramine	0.333	Inf	Major	1 (1/0)	Clomipramine may increase the vasopressor activities of Phenylephrine.	#B32020	0.249629923638206	1
+Metoprolol	Glyburide	0.324	-2.091	Moderate	20 (9/11)	Metoprolol may increase the hypoglycemic activities of Glyburide.	#AECDE3	4.99259847276413	1
+Pioglitazone	Gemfibrozil	0.189	3.507	Major	7 (6/1)	The metabolism of Pioglitazone can be decreased when combined with Gemfibrozil.	#F2ACAC	1.74740946546744	1
+Tenoxicam	Alendronic acid	0.309	4.676	None	9 (8/1)	The risk or severity of adverse effects can be increased when Tenoxicam is combined with Alendronic acid.	#EEA4A4	2.24666931274386	1
+Rivastigmine	Clomipramine	0.289	-1.069	Moderate	26 (16/10)		#B4D1E6	6.49037801459337	1
+Trospium	Cetirizine	0.208	2.046	None	18 (14/4)		#F6B6B6	4.49333862548771	1
+Prednisone	Itraconazole	0.373	-1.443	Moderate	59 (32/27)	The serum concentration of Prednisone can be increased when it is combined with Itraconazole.	#B2D0E5	14.7281654946542	1
+Torasemide	Gentamicin	0.181	2.143	Major	28 (22/6)	The serum concentration of Gentamicin can be increased when it is combined with Torasemide.	#F6B6B6	6.98963786186978	1
+Erythromycin	Theophylline	0.321	-1.711	Moderate	14 (7/7)	The metabolism of Theophylline can be decreased when combined with Erythromycin.	#AFCEE4	3.49481893093489	1
+Erythromycin	Amiodarone	0.159	-1.089	Major	36 (22/14)	Erythromycin may increase the QTc-prolonging activities of Amiodarone.	#B4D1E6	8.98667725097543	1
+Midazolam	Josamycin	0.059	Inf	None	3 (3/0)	The serum concentration of Midazolam can be increased when it is combined with Josamycin.	#B32020	0.748889770914619	1
+Ciprofloxacin	Sevelamer	0.133	-1.497	Moderate	30 (16/14)		#B1CFE5	7.48889770914619	1
+Gentamicin	Cefuroxime	0.593	-1.006	Moderate	27 (17/10)		#B4D1E6	6.74000793823157	1
+Dihydroergotamine	Fluoxetine	0.298	Inf	Major	7 (7/0)	The risk or severity of adverse effects can be increased when Dihydroergotamine is combined with Fluoxetine.	#B32020	1.74740946546744	1
+Zolmitriptan	Fluoxetine	0.415	3.507	Major	7 (6/1)	The risk or severity of adverse effects can be increased when Zolmitriptan is combined with Fluoxetine.	#F2ACAC	1.74740946546744	1
+Amiodarone	Flecainide	0.159	-1.454	Major	37 (20/17)	The serum concentration of Flecainide can be increased when it is combined with Amiodarone.	#B2D0E5	9.23630717461364	1
+Telmisartan	Lithium cation	0.296	2.923	Moderate	6 (5/1)	The serum concentration of Lithium can be increased when it is combined with Telmisartan.	#F3AFAF	1.49777954182924	1
+Donepezil	Pimozide	0.285	1.754	Moderate	4 (3/1)		#F7B7B7	0.998519694552825	1
+Terbutaline	Rasagiline	0.081	-1.331	Moderate	16 (9/7)	The risk or severity of adverse effects can be increased when Rasagiline is combined with Terbutaline.	#B2D0E5	3.9940787782113	1
+Fluvoxamine	Olanzapine	0.545	Inf	Moderate	6 (6/0)	The metabolism of Olanzapine can be decreased when combined with Fluvoxamine.	#B32020	1.49777954182924	1
+Fluoxetine	Rasagiline	0.414	-1.711	Major	24 (12/12)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Rasagiline.	#AFCEE4	5.99111816731695	1
+Diltiazem	Midazolam	0.372	-1.283	Moderate	28 (16/12)	The metabolism of Midazolam can be decreased when combined with Diltiazem.	#B2D0E5	6.98963786186978	1
+Trospium	Galantamine	0.312	1.559	Moderate	11 (8/3)	The therapeutic efficacy of Trospium can be decreased when used in combination with Galantamine.	#F7B9B9	2.74592916002027	1
+Cyclosporine	Ezetimibe	0.683	1.169	Moderate	3 (2/1)	The serum concentration of Cyclosporine can be increased when it is combined with Ezetimibe.	#F9BCBC	0.748889770914619	1
+Prednisolone	Acetylsalicylic acid	0.153	4.092	Moderate	16 (14/2)	The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Prednisolone.	#F0A7A7	3.9940787782113	1
+Warfarin	Pentoxifylline	0.35	-3.033	Moderate	61 (22/39)	Pentoxifylline may increase the anticoagulant activities of Warfarin.	#A8C8E1	15.2274253419306	1
+Cyclosporine	Repaglinide	0.623	2.338	Major	5 (4/1)	The serum concentration of Repaglinide can be increased when it is combined with Cyclosporine.	#F5B4B4	1.24814961819103	1
+Clarithromycin	Solifenacin	0.135	-1.239	Major	50 (29/21)	The metabolism of Solifenacin can be decreased when combined with Clarithromycin.	#B2D0E5	12.4814961819103	1
+Clozapine	Bromazepam	0.5	Inf	None	1 (1/0)	The risk or severity of adverse effects can be increased when Bromazepam is combined with Clozapine.	#B32020	0.249629923638206	1
+Sotalol	Levofloxacin	0.103	-1.026	Major	24 (15/9)	Levofloxacin may increase the QTc-prolonging activities of Sotalol.	#B4D1E6	5.99111816731695	1
+Ethinylestradiol	Etoricoxib	0.5	Inf	None	1 (1/0)	Etoricoxib may increase the thrombogenic activities of Ethinyl Estradiol.	#B32020	0.249629923638206	1
+Phenytoin	Oxcarbazepine	0.451	1.754	Moderate	4 (3/1)	The serum concentration of the active metabolites of Oxcarbazepine can be reduced when Oxcarbazepine is used in combination with Phenytoin resulting in a loss in efficacy.	#F7B7B7	0.998519694552825	1
+Ranolazine	Amiodarone	0.367	-2.566	Major	25 (10/15)	The serum concentration of Ranolazine can be increased when it is combined with Amiodarone.	#ABCBE2	6.24074809095516	1
+Metoprolol	Sertraline	0.386	1.039	Moderate	25 (16/9)	The serum concentration of Metoprolol can be increased when it is combined with Sertraline.	#F9BCBC	6.24074809095516	1
+Sumatriptan	Paroxetine	0.137	4.092	Major	8 (7/1)	The risk or severity of adverse effects can be increased when Sumatriptan is combined with Paroxetine.	#F0A7A7	1.99703938910565	1
+Indomethacin	Propranolol	0.186	1.336	Moderate	23 (16/7)	Indomethacin may decrease the antihypertensive activities of Propranolol.	#F8BABA	5.74148824367875	1
+Lansoprazole	Ketoconazole	0.102	-1.14	Moderate	10 (6/4)	The serum concentration of Ketoconazole can be decreased when it is combined with Lansoprazole.	#B4D1E6	2.49629923638206	1
+Galantamine	Oxybutynin	0.335	-1.331	Moderate	16 (9/7)	The therapeutic efficacy of Oxybutynin can be decreased when used in combination with Galantamine.	#B2D0E5	3.9940787782113	1
+Terbutaline	Clomipramine	0.095	2.63	Moderate	11 (9/2)	The risk or severity of adverse effects can be increased when Clomipramine is combined with Terbutaline.	#F5B2B2	2.74592916002027	1
+Lamotrigine	Carbamazepine	0.376	-2.737	Moderate	13 (5/8)	The risk or severity of adverse effects can be increased when Lamotrigine is combined with Carbamazepine.	#A9C9E1	3.24518900729668	0.999325272287084
+Maprotiline	Rivastigmine	0.279	5.261	Moderate	10 (9/1)		#EC9F9F	2.49629923638206	1
+Fluvastatin	Gemfibrozil	0.292	-1.198	Major	17 (10/7)	The risk or severity of rhabdomyolysis. myoglobinuria. and elevated creatine kinase (CPK) can be increased when Gemfibrozil is combined with Fluvastatin.	#B4D1E6	4.24370870184951	1
+Dextromethorphan	Selegiline	0.118	-1.222	Major	12 (7/5)	Selegiline may increase the serotonergic activities of Dextromethorphan.	#B4D1E6	2.99555908365848	1
+Atenolol	Ergotamine	0.262	2.63	Moderate	11 (9/2)	Ergotamine may increase the atrioventricular blocking (AV block) activities of Atenolol.	#F5B2B2	2.74592916002027	1
+Phenytoin	Hydrocortisone	0.338	-1.198	Moderate	17 (10/7)	The serum concentration of Hydrocortisone can be decreased when it is combined with Phenytoin.	#B4D1E6	4.24370870184951	1
+Cyclophosphamide	Acenocoumarol	0.251	1.072	None	17 (11/6)		#F9BCBC	4.24370870184951	1
+Digoxin	Hydroxychloroquine	0.301	2.923	Moderate	18 (15/3)	The serum concentration of Digoxin can be increased when it is combined with Hydroxychloroquine.	#F3AFAF	4.49333862548771	1
+Omeprazole	Quazepam	0.276	1.461	Moderate	14 (10/4)	The metabolism of Quazepam can be decreased when combined with Omeprazole.	#F8BABA	3.49481893093489	1
+Haloperidol	Lithium cation	0.266	4.092	Major	8 (7/1)	Lithium may increase the neurotoxic activities of Haloperidol.	#F0A7A7	1.99703938910565	1
+Sotalol	Ibuprofen	0.19	1.072	Moderate	34 (22/12)	Ibuprofen may decrease the antihypertensive activities of Sotalol.	#F9BCBC	8.48741740369902	1
+Rifampicin	Acenocoumarol	0.16	-1.236	None	31 (18/13)	The metabolism of Acenocoumarol can be increased when combined with Rifampicin.	#B2D0E5	7.7385276327844	1
+Rifabutin	Clarithromycin	0.556	-1.711	Moderate	2 (1/1)	The serum concentration of the active metabolites of Clarithromycin can be increased when Clarithromycin is used in combination with Rifabutin.	#AFCEE4	0.499259847276413	1
+Ergotamine	Nitroglycerin	0.229	2.533	Moderate	16 (13/3)	The bioavailability of Ergotamine can be increased when combined with Nitroglycerin.	#F5B2B2	3.9940787782113	1
+Trospium	Quetiapine	0.31	1.242	Moderate	25 (17/8)		#F8BABA	6.24074809095516	1
+Fluconazole	Amitriptyline	0.201	3.069	Moderate	25 (21/4)	Amitriptyline may increase the QTc-prolonging activities of Fluconazole.	#F3AFAF	6.24074809095516	1
+Amitriptyline	Moclobemide	0.722	Inf	None	1 (1/0)	The risk or severity of adverse effects can be increased when Amitriptyline is combined with Moclobemide.	#B32020	0.249629923638206	1
+Verapamil	Phenobarbital	0.352	Inf	Moderate	6 (6/0)	The metabolism of Verapamil can be increased when combined with Phenobarbital.	#B32020	1.49777954182924	1
+Lovastatin	Warfarin	0.306	-1.483	Moderate	28 (15/13)	The metabolism of Warfarin can be decreased when combined with Lovastatin.	#B1CFE5	6.98963786186978	1
+Topiramate	Carbamazepine	0.52	-1.711	Moderate	8 (4/4)	The serum concentration of Topiramate can be decreased when it is combined with Carbamazepine.	#AFCEE4	1.99703938910565	1
+Erythromycin	Moxifloxacin	0.635	5.553	Major	21 (19/2)	Erythromycin may increase the QTc-prolonging activities of Moxifloxacin.	#EB9E9E	5.24222839640233	1
+Chlorpromazine	Donepezil	0.256	-1.925	Moderate	17 (8/9)	The metabolism of Donepezil can be decreased when combined with Chlorpromazine.	#AFCEE4	4.24370870184951	1
+Citalopram	Almotriptan	0.212	1.948	Major	13 (10/3)	The risk or severity of adverse effects can be increased when Citalopram is combined with Almotriptan.	#F6B6B6	3.24518900729668	1
+Diazepam	Itraconazole	0.311	2.338	Moderate	30 (24/6)	The metabolism of Diazepam can be decreased when combined with Itraconazole.	#F5B4B4	7.48889770914619	1
+Fluconazole	Lovastatin	0.079	1.104	Major	26 (17/9)	The serum concentration of Lovastatin can be increased when it is combined with Fluconazole.	#F9BCBC	6.49037801459337	1
+Paroxetine	Rizatriptan	0.166	5.261	Major	10 (9/1)	The risk or severity of adverse effects can be increased when Paroxetine is combined with Rizatriptan.	#EC9F9F	2.49629923638206	1
+Donepezil	Flavoxate	0.191	Inf	Moderate	3 (3/0)		#B32020	0.748889770914619	1
+Sucralfate	Ibandronate	0.375	1.559	Moderate	11 (8/3)		#F7B9B9	2.74592916002027	1
+Trospium	Solifenacin	0.145	1.559	Moderate	11 (8/3)	The risk or severity of adverse effects can be increased when Trospium is combined with Solifenacin.	#F7B9B9	2.74592916002027	1
+Phenytoin	Telithromycin	0.08	Inf	Major	1 (1/0)	The metabolism of Telithromycin can be increased when combined with Phenytoin.	#B32020	0.249629923638206	1
+Sucralfate	Levofloxacin	0.299	-1.711	Moderate	52 (26/26)	The serum concentration of Levofloxacin can be decreased when it is combined with Sucralfate.	#AFCEE4	12.9807560291867	1
+Warfarin	Clarithromycin	0.065	1.228	Major	31 (21/10)	The metabolism of Warfarin can be decreased when combined with Clarithromycin.	#F9BCBC	7.7385276327844	1
+Diazepam	Rifampicin	0.36	1.002	Minor	19 (12/7)	The metabolism of Diazepam can be increased when combined with Rifampicin.	#F9BCBC	4.74296854912592	1
+Nortriptyline	Terbinafine	0.145	Inf	Moderate	2 (2/0)	The metabolism of Nortriptyline can be decreased when combined with Terbinafine.	#B32020	0.499259847276413	1
+Ticlopidine	Carbamazepine	0.321	-1.14	Moderate	5 (3/2)	The metabolism of Ticlopidine can be increased when combined with Carbamazepine.	#B4D1E6	1.24814961819103	1
+Donepezil	Pipotiazine	0.333	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Carvedilol	Insulin glulisine	0.25	-1.14	Moderate	15 (9/6)		#B4D1E6	3.7444488545731	1
+Alprazolam	Ketoconazole	0.151	1.052	Major	14 (9/5)	The serum concentration of Alprazolam can be increased when it is combined with Ketoconazole.	#F9BCBC	3.49481893093489	1
+Verapamil	Triazolam	0.386	Inf	Moderate	3 (3/0)	The metabolism of Triazolam can be decreased when combined with Verapamil.	#B32020	0.748889770914619	1
+Pimozide	Sertraline	0.534	2.338	Major	5 (4/1)	Sertraline may increase the QTc-prolonging activities of Pimozide.	#F5B4B4	1.24814961819103	1
+Metoprolol	Formoterol	0.313	-1.089	Moderate	18 (11/7)	The metabolism of Formoterol can be decreased when combined with Metoprolol.	#B4D1E6	4.49333862548771	1
+Alprazolam	Telithromycin	0.083	2.923	Moderate	6 (5/1)	The serum concentration of Alprazolam can be increased when it is combined with Telithromycin.	#F3AFAF	1.49777954182924	1
+Fludrocortisone	Acenocoumarol	0.262	-1.882	None	21 (10/11)		#AFCEE4	5.24222839640233	1
+Indomethacin	Acenocoumarol	0.113	-2.566	None	105 (42/63)	Indomethacin may increase the anticoagulant activities of Acenocoumarol.	#ABCBE2	26.2111419820117	1
+Ramipril	Lithium cation	0.25	1.169	Moderate	9 (6/3)	The serum concentration of Lithium can be increased when it is combined with Ramipril.	#F9BCBC	2.24666931274386	1
+Ziprasidone	Carbamazepine	0.229	-1.711	Minor	4 (2/2)	The serum concentration of Ziprasidone can be decreased when it is combined with Carbamazepine.	#AFCEE4	0.998519694552825	1
+Diltiazem	Sirolimus	0.481	Inf	Moderate	1 (1/0)	The metabolism of Sirolimus can be decreased when combined with Diltiazem.	#B32020	0.249629923638206	1
+Theophylline	Pentoxifylline	0.292	-4.821	Moderate	42 (11/31)	The serum concentration of Theophylline can be increased when it is combined with Pentoxifylline.	#9CBFDB	10.4844567928047	1
+Amikacin	Furosemide	0.194	2.143	Major	14 (11/3)	The serum concentration of Amikacin can be increased when it is combined with Furosemide.	#F6B6B6	3.49481893093489	1
+Cyclosporine	Allopurinol	0.285	-4.448	Moderate	18 (5/13)		#9FC1DD	4.49333862548771	1
+Meperidine	Galantamine	0.083	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Doxycycline	Acenocoumarol	0.167	-1.639	None	47 (24/23)	The metabolism of Acenocoumarol can be decreased when combined with Doxycycline.	#B1CFE5	11.7326064109957	1
+Atorvastatin	Josamycin	0.111	1.267	None	19 (13/6)	The risk or severity of adverse effects can be increased when Josamycin is combined with Atorvastatin.	#F8BABA	4.74296854912592	1
+Itraconazole	Acenocoumarol	0.108	-1.555	None	63 (33/30)	The serum concentration of Acenocoumarol can be increased when it is combined with Itraconazole.	#B1CFE5	15.726685189207	1
+Sotalol	Repaglinide	0.318	1.023	Moderate	11 (7/4)		#F9BCBC	2.74592916002027	1
+Fluoxetine	Almotriptan	0.147	2.338	Major	5 (4/1)	The metabolism of Almotriptan can be decreased when combined with Fluoxetine.	#F5B4B4	1.24814961819103	1
+Rabeprazole	Itraconazole	0.224	1.002	Moderate	19 (12/7)	The serum concentration of Itraconazole can be decreased when it is combined with Rabeprazole.	#F9BCBC	4.74296854912592	1
+Triamcinolone	Acenocoumarol	0.121	-2.138	None	72 (32/40)		#AECDE3	17.9733545019509	1
+Imipramine	Donepezil	0.214	Inf	Moderate	7 (7/0)	The metabolism of Donepezil can be decreased when combined with Imipramine.	#B32020	1.74740946546744	1
+Sotalol	Gliclazide	0.37	-1.14	None	15 (9/6)	Sotalol may increase the hypoglycemic activities of Gliclazide.	#B4D1E6	3.7444488545731	1
+Doxycycline	Digoxin	0.136	4.969	Moderate	19 (17/2)	The metabolism of Digoxin can be decreased when combined with Doxycycline.	#EDA3A3	4.74296854912592	1
+Digoxin	Cholestyramine	0.158	1.039	Moderate	25 (16/9)	Cholestyramine can cause a decrease in the absorption of Digoxin resulting in a reduced serum concentration and potentially a decrease in efficacy.	#F9BCBC	6.24074809095516	1
+Fluvoxamine	Clomipramine	0.416	1.169	Major	6 (4/2)	The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Clomipramine.	#F9BCBC	1.49777954182924	1
+Allopurinol	Mercaptopurine	0.625	-1.711	Major	4 (2/2)	The serum concentration of Mercaptopurine can be increased when it is combined with Allopurinol.	#AFCEE4	0.998519694552825	1
+Zolmitriptan	Escitalopram	0.229	2.046	Major	9 (7/2)	The risk or severity of adverse effects can be increased when Zolmitriptan is combined with Escitalopram.	#F6B6B6	2.24666931274386	1
+Spironolactone	Quinapril	0.317	-1.901	Major	38 (18/20)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Quinapril.	#AFCEE4	9.48593709825184	1
+Ibuprofen	Oxprenolol	0.068	1.169	None	12 (8/4)	Ibuprofen may decrease the antihypertensive activities of Oxprenolol.	#F9BCBC	2.99555908365848	1
+Rivastigmine	Oxybutynin	0.265	1.607	Moderate	15 (11/4)	The therapeutic efficacy of Oxybutynin can be decreased when used in combination with Rivastigmine.	#F7B9B9	3.7444488545731	1
+Losartan	Lithium cation	0.144	1.607	Moderate	15 (11/4)	The serum concentration of Lithium can be increased when it is combined with Losartan.	#F7B9B9	3.7444488545731	1
+Haloperidol	Ketoconazole	0.386	3.507	Major	7 (6/1)	The metabolism of Haloperidol can be decreased when combined with Ketoconazole.	#F2ACAC	1.74740946546744	1
+Repaglinide	Glipizide	0.279	-1.369	None	18 (10/8)	Repaglinide may increase the hypoglycemic activities of Glipizide.	#B2D0E5	4.49333862548771	1
+Chlorpromazine	Levofloxacin	0.305	-2.138	Moderate	27 (12/15)	Chlorpromazine may increase the QTc-prolonging activities of Levofloxacin.	#AECDE3	6.74000793823157	1
+Itraconazole	Solifenacin	0.088	1.286	Major	16 (11/5)	The metabolism of Solifenacin can be decreased when combined with Itraconazole.	#F8BABA	3.9940787782113	1
+Bisoprolol	Rifampicin	0.215	-1.818	Moderate	33 (16/17)	The metabolism of Bisoprolol can be increased when combined with Rifampicin.	#AFCEE4	8.23778748006081	1
+Fluoxetine	Oxycodone	0.348	2.923	Moderate	18 (15/3)	The metabolism of Oxycodone can be decreased when combined with Fluoxetine.	#F3AFAF	4.49333862548771	1
+Moxifloxacin	Warfarin	0.134	-1.801	Major	39 (19/20)		#AFCEE4	9.73556702189005	1
+Doxycycline	Amoxicillin	0.429	-1.258	Moderate	59 (34/25)	The therapeutic efficacy of Amoxicillin can be decreased when used in combination with Doxycycline.	#B2D0E5	14.7281654946542	1
+Venlafaxine	Propafenone	0.436	3.507	Moderate	14 (12/2)	The serum concentration of Venlafaxine can be increased when it is combined with Propafenone.	#F2ACAC	3.49481893093489	1
+Acitretin	Methotrexate	0.033	Inf	Major	1 (1/0)	Acitretin may increase the hepatotoxic activities of Methotrexate.	#B32020	0.249629923638206	1
+Trospium	Oxybutynin	0.236	-1.711	Moderate	6 (3/3)	The risk or severity of adverse effects can be increased when Trospium is combined with Oxybutynin.	#AFCEE4	1.49777954182924	1
+Warfarin	Gemfibrozil	0.28	1.286	Major	16 (11/5)	The metabolism of Warfarin can be decreased when combined with Gemfibrozil.	#F8BABA	3.9940787782113	1
+Imipramine	Salbutamol	0.179	1.072	Moderate	17 (11/6)	The risk or severity of adverse effects can be increased when Imipramine is combined with Salbutamol.	#F9BCBC	4.24370870184951	1
+Fluvoxamine	Amitriptyline	0.425	1.559	Major	11 (8/3)	The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Amitriptyline.	#F7B9B9	2.74592916002027	1
+Colestipol	Hydrocortisone	0.192	Inf	Moderate	3 (3/0)	Colestipol can cause a decrease in the absorption of Hydrocortisone resulting in a reduced serum concentration and potentially a decrease in efficacy.	#B32020	0.748889770914619	1
+Phenobarbital	Dexamethasone	0.41	2.923	Moderate	6 (5/1)	The serum concentration of Dexamethasone can be decreased when it is combined with Phenobarbital.	#F3AFAF	1.49777954182924	1
+Diclofenac	Rifampicin	0.246	1.169	Moderate	18 (12/6)	The serum concentration of Diclofenac can be decreased when it is combined with Rifampicin.	#F9BCBC	4.49333862548771	1
+Glipizide	Carvedilol	0.335	-2.333	Moderate	26 (11/15)	Carvedilol may increase the hypoglycemic activities of Glipizide.	#ACCCE3	6.49037801459337	1
+Duloxetine	Flecainide	0.238	1.607	Moderate	15 (11/4)	The metabolism of Flecainide can be decreased when combined with Duloxetine.	#F7B9B9	3.7444488545731	1
+Epinephrine	Rasagiline	0.038	Inf	Moderate	2 (2/0)	Rasagiline may increase the hypertensive activities of Epinephrine.	#B32020	0.499259847276413	1
+Glimepiride	Glucosamine	0.238	1.364	None	20 (14/6)		#F8BABA	4.99259847276413	1
+Cyclosporine	Diltiazem	0.342	1.169	Moderate	6 (4/2)	The metabolism of Cyclosporine can be decreased when combined with Diltiazem.	#F9BCBC	1.49777954182924	1
+Propranolol	Verapamil	0.246	1.559	Major	22 (16/6)	The metabolism of Propranolol can be decreased when combined with Verapamil.	#F7B9B9	5.49185832004054	1
+Meloxicam	Acenocoumarol	0.167	1.108	None	55 (36/19)	Meloxicam may increase the anticoagulant activities of Acenocoumarol.	#F9BCBC	13.7296458001014	1
+Midazolam	Clarithromycin	0.153	-1.555	Moderate	21 (11/10)	The serum concentration of Midazolam can be increased when it is combined with Clarithromycin.	#B1CFE5	5.24222839640233	1
+Glyburide	Glucosamine	0.236	-2.071	None	42 (19/23)		#AECDE3	10.4844567928047	1
+Moxifloxacin	Ziprasidone	0.11	1.169	Major	6 (4/2)	Moxifloxacin may increase the QTc-prolonging activities of Ziprasidone.	#F9BCBC	1.49777954182924	1
+Propranolol	Ergotamine	0.429	Inf	Moderate	5 (5/0)	Ergotamine may increase the atrioventricular blocking (AV block) activities of Propranolol.	#B32020	1.24814961819103	1
+Fludrocortisone	Phenobarbital	0.079	Inf	Moderate	1 (1/0)	The serum concentration of Fludrocortisone can be decreased when it is combined with Phenobarbital.	#B32020	0.249629923638206	1
+Erythromycin	Midazolam	0.081	Inf	Moderate	6 (6/0)	The serum concentration of Midazolam can be increased when it is combined with Erythromycin.	#B32020	1.49777954182924	1
+Eplerenone	Tolevamer	0.228	-2.138	None	9 (4/5)		#AECDE3	2.24666931274386	1
+Zolmitriptan	Paroxetine	0.242	1.559	Major	11 (8/3)	The risk or severity of adverse effects can be increased when Zolmitriptan is combined with Paroxetine.	#F7B9B9	2.74592916002027	1
+Ziprasidone	Galantamine	0.321	-3.992	Moderate	10 (3/7)	Galantamine may increase the QTc-prolonging activities of Ziprasidone.	#A2C4DE	2.49629923638206	0.175425287920757
+Warfarin	Azathioprine	0.581	2.338	Moderate	5 (4/1)	Azathioprine may decrease the anticoagulant activities of Warfarin.	#F5B4B4	1.24814961819103	1
+Repaglinide	Nadolol	0.142	-1.283	Moderate	7 (4/3)		#B2D0E5	1.74740946546744	1
+Methotrexate	Cloxacillin	0.121	2.923	Major	12 (10/2)	The serum concentration of Methotrexate can be increased when it is combined with Cloxacillin.	#F3AFAF	2.99555908365848	1
+Atenolol	Prazosin	0.556	Inf	Moderate	3 (3/0)	Atenolol may increase the orthostatic hypotensive activities of Prazosin.	#B32020	0.748889770914619	1
+Valsartan	Lithium cation	0.209	-1.497	Moderate	15 (8/7)	The serum concentration of Lithium can be increased when it is combined with Valsartan.	#B1CFE5	3.7444488545731	1
+Donepezil	Maprotiline	0.37	Inf	Moderate	8 (8/0)		#B32020	1.99703938910565	1
+Trospium	Maprotiline	0.191	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Trospium	Tolterodine	0.298	1.023	Moderate	11 (7/4)	The risk or severity of adverse effects can be increased when Trospium is combined with Tolterodine.	#F9BCBC	2.74592916002027	1
+Rivastigmine	Doxepin	0.185	Inf	Moderate	3 (3/0)		#B32020	0.748889770914619	1
+Losartan	Rifampicin	0.149	-1.222	Moderate	24 (14/10)	The serum concentration of Losartan can be decreased when it is combined with Rifampicin.	#B4D1E6	5.99111816731695	1
+Verapamil	Carvedilol	0.298	1.228	Major	31 (21/10)	The metabolism of Carvedilol can be decreased when combined with Verapamil.	#F9BCBC	7.7385276327844	1
+Nabumetone	Methotrexate	0.149	2.338	Major	5 (4/1)	The serum concentration of Methotrexate can be increased when it is combined with Nabumetone.	#F5B4B4	1.24814961819103	1
+Nabumetone	Warfarin	0.143	Inf	Major	6 (6/0)	Nabumetone may increase the anticoagulant activities of Warfarin.	#B32020	1.49777954182924	1
+Isoniazid	Acenocoumarol	0.183	-1.497	None	15 (8/7)	The metabolism of Acenocoumarol can be decreased when combined with Isoniazid.	#B1CFE5	3.7444488545731	1
+Ramipril	Tizanidine	0.163	1.169	Major	12 (8/4)	The risk or severity of hypotension can be increased when Tizanidine is combined with Ramipril.	#F9BCBC	2.99555908365848	1
+Primidone	Metronidazole	0.271	1.754	Moderate	4 (3/1)	The serum concentration of Metronidazole can be decreased when it is combined with Primidone.	#F7B7B7	0.998519694552825	1
+Moxifloxacin	Sotalol	0.155	-1.14	Major	10 (6/4)	Moxifloxacin may increase the QTc-prolonging activities of Sotalol.	#B4D1E6	2.49629923638206	1
+Almotriptan	Sertraline	0.365	4.092	Major	8 (7/1)	The risk or severity of adverse effects can be increased when Almotriptan is combined with Sertraline.	#F0A7A7	1.99703938910565	1
+Metformin	Cimetidine	0.176	1.169	Moderate	9 (6/3)	The serum concentration of Metformin can be increased when it is combined with Cimetidine.	#F9BCBC	2.24666931274386	1
+Disopyramide	Propranolol	0.105	Inf	Major	1 (1/0)	Disopyramide may increase the bradycardic activities of Propranolol.	#B32020	0.249629923638206	1
+Ergotamine	Isosorbide dinitrate	0.083	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Propranolol	Rifampicin	0.245	-1.026	Moderate	8 (5/3)	The metabolism of Propranolol can be increased when combined with Rifampicin.	#B4D1E6	1.99703938910565	1
+Warfarin	Leflunomide	0.194	Inf	Moderate	3 (3/0)	Leflunomide may increase the anticoagulant activities of Warfarin.	#B32020	0.748889770914619	1
+Sotalol	Clarithromycin	0.094	1.754	Major	8 (6/2)	Clarithromycin may increase the QTc-prolonging activities of Sotalol.	#F7B7B7	1.99703938910565	1
+Metoprolol	Fluoxetine	0.427	1.169	Moderate	9 (6/3)	The serum concentration of Metoprolol can be increased when it is combined with Fluoxetine.	#F9BCBC	2.24666931274386	1
+Enalapril	Lithium cation	0.217	1.253	Moderate	22 (15/7)	The serum concentration of Lithium can be increased when it is combined with Enalapril.	#F8BABA	5.49185832004054	1
+Phenylbutazone	Gliclazide	1	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Metoprolol	Paroxetine	0.273	1.169	Moderate	15 (10/5)	The serum concentration of Metoprolol can be increased when it is combined with Paroxetine.	#F9BCBC	3.7444488545731	1
+Metoprolol	Escitalopram	0.434	1.169	Minor	12 (8/4)	The serum concentration of Metoprolol can be increased when it is combined with Escitalopram.	#F9BCBC	2.99555908365848	1
+Erythromycin	Repaglinide	0.186	1.754	Moderate	20 (15/5)	The serum concentration of Repaglinide can be increased when it is combined with Erythromycin.	#F7B7B7	4.99259847276413	1
+Gemfibrozil	Ursodeoxycholic acid	0.425	-1.069	None	13 (8/5)	The therapeutic efficacy of Ursodeoxycholic acid can be decreased when used in combination with Gemfibrozil.	#B4D1E6	3.24518900729668	1
+Ibuprofen	Nadolol	0.254	2.143	Moderate	14 (11/3)	Ibuprofen may decrease the antihypertensive activities of Nadolol.	#F6B6B6	3.49481893093489	1
+Carbamazepine	Oxybutynin	0.243	2.338	None	5 (4/1)	The metabolism of Oxybutynin can be increased when combined with Carbamazepine.	#F5B4B4	1.24814961819103	1
+Rivastigmine	Pimozide	0.133	-1.711	Moderate	4 (2/2)		#AFCEE4	0.998519694552825	1
+Leflunomide	Acenocoumarol	0.304	-2.177	None	25 (11/14)	Leflunomide may increase the anticoagulant activities of Acenocoumarol.	#AECDE3	6.24074809095516	1
+Fluvoxamine	Tizanidine	0.031	Inf	Major	2 (2/0)	The serum concentration of Tizanidine can be increased when it is combined with Fluvoxamine.	#B32020	0.499259847276413	1
+Trospium	Tiotropium	0.375	-2.2	Moderate	16 (7/9)	Trospium may increase the anticholinergic activities of Tiotropium.	#ACCCE3	3.9940787782113	1
+Fluconazole	Midazolam	0.098	4.092	Major	8 (7/1)	The metabolism of Midazolam can be decreased when combined with Fluconazole.	#F0A7A7	1.99703938910565	1
+Triamcinolone	Phenobarbital	0.171	1.754	Moderate	4 (3/1)	The metabolism of Triamcinolone can be increased when combined with Phenobarbital.	#F7B7B7	0.998519694552825	1
+Ibuprofen	Lithium cation	0.184	2.338	Moderate	15 (12/3)	The serum concentration of Lithium can be increased when it is combined with Ibuprofen.	#F5B4B4	3.7444488545731	1
+Warfarin	Fluvastatin	0.246	-2.138	Minor	18 (8/10)	The metabolism of Warfarin can be decreased when combined with Fluvastatin.	#AECDE3	4.49333862548771	1
+Propranolol	Glipizide	0.244	2.046	Moderate	9 (7/2)	Propranolol may increase the hypoglycemic activities of Glipizide.	#F6B6B6	2.24666931274386	1
+Fenofibrate	Fluvastatin	0.394	-1.955	Major	15 (7/8)	The risk or severity of myopathy and rhabdomyolysis can be increased when Fenofibrate is combined with Fluvastatin.	#AECDE3	3.7444488545731	1
+Tacrolimus	Nifedipine	0.114	-1.711	Moderate	12 (6/6)	The serum concentration of Tacrolimus can be increased when it is combined with Nifedipine.	#AFCEE4	2.99555908365848	1
+Labetalol	Repaglinide	0.123	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Erythromycin	Triazolam	0.306	Inf	Moderate	2 (2/0)	The serum concentration of Triazolam can be increased when it is combined with Erythromycin.	#B32020	0.499259847276413	1
+Trospium	Rivastigmine	0.389	1.559	Moderate	11 (8/3)	The therapeutic efficacy of Trospium can be decreased when used in combination with Rivastigmine.	#F7B9B9	2.74592916002027	1
+Bromocriptine	Methotrimeprazine	0.402	-1.711	Moderate	2 (1/1)	The therapeutic efficacy of Methotrimeprazine can be decreased when used in combination with Bromocriptine.	#AFCEE4	0.499259847276413	1
+Atenolol	Verapamil	0.352	1.754	Major	28 (21/7)	Verapamil may increase the hypotensive activities of Atenolol.	#F7B7B7	6.98963786186978	1
+Cyclosporine	Azithromycin	0.085	2.923	Moderate	6 (5/1)	The metabolism of Cyclosporine can be decreased when combined with Azithromycin.	#F3AFAF	1.49777954182924	1
+Cyclosporine	Nabumetone	0.143	Inf	Moderate	1 (1/0)	Nabumetone may increase the nephrotoxic activities of Cyclosporine.	#B32020	0.249629923638206	1
+Itraconazole	Budesonide	0.288	-1.629	Major	41 (21/20)	The serum concentration of Budesonide can be increased when it is combined with Itraconazole.	#B1CFE5	10.2348268691665	1
+Fluorouracil	Acenocoumarol	0.104	-3.577	None	34 (11/23)	The serum concentration of Acenocoumarol can be increased when it is combined with Fluorouracil.	#A5C6DF	8.48741740369902	1
+Salbutamol	Nadolol	0.123	1.364	Major	10 (7/3)		#F8BABA	2.49629923638206	1
+Nifedipine	Phenobarbital	0.443	-1.026	Major	8 (5/3)	The serum concentration of Nifedipine can be decreased when it is combined with Phenobarbital.	#B4D1E6	1.99703938910565	1
+Felodipine	Itraconazole	0.284	Inf	Major	3 (3/0)	The serum concentration of Felodipine can be increased when it is combined with Itraconazole.	#B32020	0.748889770914619	1
+Ergotamine	Carvedilol	0.224	3.507	Moderate	7 (6/1)	Ergotamine may increase the atrioventricular blocking (AV block) activities of Carvedilol.	#F2ACAC	1.74740946546744	1
+Pregabalin	Pioglitazone	0.285	-2.281	Moderate	21 (9/12)	The risk or severity of heart failure can be increased when Pregabalin is combined with Pioglitazone.	#ACCCE3	5.24222839640233	1
+Rifampicin	Amiodarone	0.251	-1.996	Major	13 (6/7)	The serum concentration of Amiodarone can be decreased when it is combined with Rifampicin.	#AECDE3	3.24518900729668	1
+Prednisone	Rifampicin	0.321	-2.488	Moderate	27 (11/16)	The serum concentration of Prednisone can be decreased when it is combined with Rifampicin.	#ABCBE2	6.74000793823157	1
+Fluconazole	Cilostazol	0.099	-1.369	Major	9 (5/4)	The serum concentration of Cilostazol can be increased when it is combined with Fluconazole.	#B2D0E5	2.24666931274386	1
+Fluconazole	Warfarin	0.079	2.143	Major	14 (11/3)	The serum concentration of Warfarin can be increased when it is combined with Fluconazole.	#F6B6B6	3.49481893093489	1
+Tizanidine	Captopril	0.222	1.461	Major	7 (5/2)	The risk or severity of hypotension can be increased when Tizanidine is combined with Captopril.	#F8BABA	1.74740946546744	1
+Phenytoin	Theophylline	0.282	-3.992	Moderate	10 (3/7)	The serum concentration of Theophylline can be decreased when it is combined with Phenytoin.	#A2C4DE	2.49629923638206	1
+Trospium	Levocabastine	0.111	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Phenytoin	Flurazepam	0.082	Inf	Moderate	2 (2/0)	The serum concentration of Phenytoin can be increased when it is combined with Flurazepam.	#B32020	0.499259847276413	1
+Verapamil	Midazolam	0.271	-1.426	Moderate	11 (6/5)	The metabolism of Midazolam can be decreased when combined with Verapamil.	#B2D0E5	2.74592916002027	1
+Digoxin	Josamycin	0.19	-1.14	None	15 (9/6)	The serum concentration of Digoxin can be increased when it is combined with Josamycin.	#B4D1E6	3.7444488545731	1
+Atorvastatin	Bezafibrate	0.253	-1.283	None	21 (12/9)	Bezafibrate may increase the myopathic rhabdomyolysis activities of Atorvastatin.	#B2D0E5	5.24222839640233	1
+Dihydroergotamine	Atenolol	0.17	4.092	Moderate	8 (7/1)	Dihydroergotamine may increase the atrioventricular blocking (AV block) activities of Atenolol.	#F0A7A7	1.99703938910565	1
+Acetylsalicylic acid	Heparin	0.146	Inf	Moderate	2 (2/0)	Acetylsalicylic acid may increase the anticoagulant activities of Heparin.	#B32020	0.499259847276413	1
+Cyproheptadine	Fluoxetine	0.28	Inf	Moderate	2 (2/0)	The therapeutic efficacy of Fluoxetine can be decreased when used in combination with Cyproheptadine.	#B32020	0.499259847276413	1
+Metoprolol	Terbutaline	0.122	2.338	Moderate	5 (4/1)	Metoprolol may decrease the bronchodilatory activities of Terbutaline.	#F5B4B4	1.24814961819103	1
+Tolterodine	Itraconazole	0.067	-1.711	Moderate	18 (9/9)	The serum concentration of Tolterodine can be increased when it is combined with Itraconazole.	#AFCEE4	4.49333862548771	1
+Paroxetine	Almotriptan	0.185	1.461	Major	7 (5/2)	The metabolism of Almotriptan can be decreased when combined with Paroxetine.	#F8BABA	1.74740946546744	1
+Atenolol	Insulin glulisine	0.218	1.023	Moderate	11 (7/4)		#F9BCBC	2.74592916002027	1
+Carbamazepine	Metronidazole	0.177	1.754	Moderate	8 (6/2)	The metabolism of Metronidazole can be increased when combined with Carbamazepine.	#F7B7B7	1.99703938910565	1
+Zolmitriptan	Ergotamine	0.254	-1.711	Major	2 (1/1)	Ergotamine may increase the vasoconstricting activities of Zolmitriptan.	#AFCEE4	0.499259847276413	1
+Trospium	Amitriptyline	0.482	3.507	Moderate	7 (6/1)		#F2ACAC	1.74740946546744	1
+Ciprofloxacin	Tizanidine	0.125	-1.842	Major	27 (13/14)	Tizanidine may increase the QTc-prolonging activities of Ciprofloxacin.	#AFCEE4	6.74000793823157	1
+Simvastatin	Ketoconazole	0.123	-1.866	Major	23 (11/12)	The serum concentration of Simvastatin can be increased when it is combined with Ketoconazole.	#AFCEE4	5.74148824367875	1
+Doxycycline	Phenobarbital	0.136	Inf	Moderate	2 (2/0)	The serum concentration of Doxycycline can be decreased when it is combined with Phenobarbital.	#B32020	0.499259847276413	1
+Prednisone	Primidone	0.225	-4.752	Moderate	34 (9/25)	The serum concentration of Prednisone can be decreased when it is combined with Primidone.	#9DC0DC	8.48741740369902	1
+Dextromethorphan	Rasagiline	0.113	-1.711	Major	20 (10/10)	Rasagiline may increase the serotonergic activities of Dextromethorphan.	#AFCEE4	4.99259847276413	1
+Metoprolol	Salbutamol	0.198	-1.996	Moderate	26 (12/14)	Metoprolol may decrease the bronchodilatory activities of Salbutamol.	#AECDE3	6.49037801459337	1
+Captopril	Lithium cation	0.134	1.754	Moderate	4 (3/1)	The serum concentration of Lithium can be increased when it is combined with Captopril.	#F7B7B7	0.998519694552825	1
+Bisoprolol	Epinephrine	0.084	-1.14	Moderate	15 (9/6)	Epinephrine may increase the atrioventricular blocking (AV block) activities of Bisoprolol.	#B4D1E6	3.7444488545731	1
+Warfarin	Dexamethasone	0.261	1.052	Moderate	14 (9/5)	Dexamethasone may increase the anticoagulant activities of Warfarin.	#F9BCBC	3.49481893093489	1
+Tobramycin	Furosemide	0.145	-1.331	Major	16 (9/7)	The serum concentration of Tobramycin can be increased when it is combined with Furosemide.	#B2D0E5	3.9940787782113	1
+Atenolol	Chlorpropamide	0.425	Inf	Moderate	2 (2/0)	Atenolol may increase the hypoglycemic activities of Chlorpropamide.	#B32020	0.499259847276413	1
+Clonazepam	Itraconazole	0.088	Inf	None	9 (9/0)	The metabolism of Clonazepam can be decreased when combined with Itraconazole.	#B32020	2.24666931274386	1
+Sertraline	Cilostazol	0.286	-2.799	Moderate	29 (11/18)	The serum concentration of Cilostazol can be increased when it is combined with Sertraline.	#A9C9E1	7.23926778550798	1
+Fluoxetine	Lithium cation	0.221	-1.711	Major	6 (3/3)	Lithium may increase the serotonergic activities of Fluoxetine.	#AFCEE4	1.49777954182924	1
+Warfarin	Metronidazole	0.141	-1.283	Major	14 (8/6)	The serum concentration of Warfarin can be increased when it is combined with Metronidazole.	#B2D0E5	3.49481893093489	1
+Venlafaxine	Naratriptan	0.571	Inf	Major	1 (1/0)	The risk or severity of adverse effects can be increased when Venlafaxine is combined with Naratriptan.	#B32020	0.249629923638206	1
+Paroxetine	Selegiline	0.245	1.169	Major	9 (6/3)	The risk or severity of adverse effects can be increased when Paroxetine is combined with Selegiline.	#F9BCBC	2.24666931274386	1
+Doxycycline	Methotrexate	0.335	1.754	Moderate	4 (3/1)		#F7B7B7	0.998519694552825	1
+Phenytoin	Warfarin	0.364	1.461	Moderate	7 (5/2)	Phenytoin may increase the anticoagulant activities of Warfarin.	#F8BABA	1.74740946546744	1
+Danazol	Acenocoumarol	0.372	-1.283	None	7 (4/3)	Danazol may increase the anticoagulant activities of Acenocoumarol.	#B2D0E5	1.74740946546744	1
+Rifampicin	Propafenone	0.304	-1.711	Moderate	4 (2/2)	The serum concentration of Propafenone can be decreased when it is combined with Rifampicin.	#AFCEE4	0.998519694552825	1
+Dextropropoxyphene	Acenocoumarol	0.124	-1.14	None	5 (3/2)		#B4D1E6	1.24814961819103	1
+Galantamine	Clomipramine	0.358	4.092	Moderate	8 (7/1)	The metabolism of Galantamine can be decreased when combined with Clomipramine.	#F0A7A7	1.99703938910565	1
+Rifampicin	Clarithromycin	0.561	-1.369	Moderate	9 (5/4)	The serum concentration of the active metabolites of Clarithromycin can be increased when Clarithromycin is used in combination with Rifampicin.	#B2D0E5	2.24666931274386	1
+Donepezil	Glycopyrronium	0.411	-3.849	None	26 (8/18)	The therapeutic efficacy of Glycopyrronium can be decreased when used in combination with Donepezil.	#A2C4DE	6.49037801459337	1
+Fentanyl	Rifampicin	0.224	1.559	Major	11 (8/3)	The serum concentration of Fentanyl can be decreased when it is combined with Rifampicin.	#F7B9B9	2.74592916002027	1
+Rifampicin	Atorvastatin	0.212	-1.521	Major	17 (9/8)	The metabolism of Atorvastatin can be increased when combined with Rifampicin.	#B1CFE5	4.24370870184951	1
+Erythromycin	Lincomycin	0.5	Inf	Moderate	1 (1/0)	The therapeutic efficacy of Erythromycin can be decreased when used in combination with Lincomycin.	#B32020	0.249629923638206	1
+Digoxin	Cyclophosphamide	0.237	1.461	Moderate	7 (5/2)	Digoxin may decrease the cardiotoxic activities of Cyclophosphamide.	#F8BABA	1.74740946546744	1
+Clemastine	Galantamine	0.213	1.169	Moderate	3 (2/1)	The metabolism of Galantamine can be decreased when combined with Clemastine.	#F9BCBC	0.748889770914619	1
+Ergotamine	Isosorbide mononitrate	0.241	2.338	Moderate	5 (4/1)		#F5B4B4	1.24814961819103	1
+Sotalol	Formoterol	0.145	1.754	Major	8 (6/2)	Formoterol may increase the QTc-prolonging activities of Sotalol.	#F7B7B7	1.99703938910565	1
+Sotalol	Ergotamine	0.042	Inf	Moderate	1 (1/0)	Ergotamine may increase the atrioventricular blocking (AV block) activities of Sotalol.	#B32020	0.249629923638206	1
+Galantamine	Periciazine	0.029	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Theophylline	Acyclovir	0.179	-1.711	Minor	8 (4/4)		#AFCEE4	1.99703938910565	1
+Phenytoin	Fludrocortisone	0.429	-1.711	Moderate	2 (1/1)	The serum concentration of Fludrocortisone can be decreased when it is combined with Phenytoin.	#AFCEE4	0.499259847276413	1
+Phenytoin	Betamethasone	0.112	1.169	Moderate	3 (2/1)	The serum concentration of Betamethasone can be decreased when it is combined with Phenytoin.	#F9BCBC	0.748889770914619	1
+Lovastatin	Colchicine	0.202	-2.688	Major	18 (7/11)	The serum concentration of Colchicine can be increased when it is combined with Lovastatin.	#A9C9E1	4.49333862548771	1
+Citalopram	Sumatriptan	0.212	1.754	Major	8 (6/2)	The risk or severity of adverse effects can be increased when Citalopram is combined with Sumatriptan.	#F7B7B7	1.99703938910565	1
+Sotalol	Piroxicam	0.333	Inf	Moderate	1 (1/0)	Piroxicam may decrease the antihypertensive activities of Sotalol.	#B32020	0.249629923638206	1
+Metoprolol	Salmeterol	0.218	-2.994	Moderate	22 (8/14)	Metoprolol may decrease the bronchodilatory activities of Salmeterol.	#A8C8E1	5.49185832004054	1
+Ketoconazole	Budesonide	0.287	-1.14	Major	10 (6/4)	The serum concentration of Budesonide can be increased when it is combined with Ketoconazole.	#B4D1E6	2.49629923638206	1
+Fenofibrate	Ursodeoxycholic acid	0.409	-1.14	None	10 (6/4)	The therapeutic efficacy of Ursodeoxycholic acid can be decreased when used in combination with Fenofibrate.	#B4D1E6	2.49629923638206	1
+Cimetidine	Diazepam	0.375	1.754	Moderate	4 (3/1)	The metabolism of Diazepam can be decreased when combined with Cimetidine.	#F7B7B7	0.998519694552825	1
+Estradiol	Ursodeoxycholic acid	0.06	Inf	None	1 (1/0)	The therapeutic efficacy of Ursodeoxycholic acid can be decreased when used in combination with Estradiol.	#B32020	0.249629923638206	1
+Zolmitriptan	Dihydroergotamine	1	Inf	Major	1 (1/0)	Dihydroergotamine may increase the vasoconstricting activities of Zolmitriptan.	#B32020	0.249629923638206	1
+Galantamine	Perphenazine	0.042	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Haloperidol	Itraconazole	0.26	1.002	Moderate	19 (12/7)	The metabolism of Haloperidol can be decreased when combined with Itraconazole.	#F9BCBC	4.74296854912592	1
+Paroxetine	Moclobemide	0.636	Inf	None	1 (1/0)	The risk or severity of adverse effects can be increased when Paroxetine is combined with Moclobemide.	#B32020	0.249629923638206	1
+Cyclosporine	Pravastatin	0.462	1.754	Major	4 (3/1)	The serum concentration of Pravastatin can be increased when it is combined with Cyclosporine.	#F7B7B7	0.998519694552825	1
+Thiethylperazine	Bromocriptine	0.296	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Perphenazine	Levofloxacin	0.196	1.461	Moderate	7 (5/2)		#F8BABA	1.74740946546744	1
+Griseofulvin	Acetylsalicylic acid	0.085	Inf	Minor	3 (3/0)		#B32020	0.748889770914619	1
+Pseudoephedrine	Clomipramine	0.075	1.754	None	4 (3/1)	Clomipramine may decrease the antihypertensive activities of Pseudoephedrine.	#F7B7B7	0.998519694552825	1
+Codeine	Cimetidine	0.089	Inf	Moderate	3 (3/0)	The therapeutic efficacy of Codeine can be decreased when used in combination with Cimetidine.	#B32020	0.748889770914619	1
+Primidone	Nifedipine	0.32	-2.281	Major	7 (3/4)	The serum concentration of Nifedipine can be decreased when it is combined with Primidone.	#ACCCE3	1.74740946546744	1
+Minocycline	Acenocoumarol	0.092	-1.14	None	15 (9/6)	Minocycline may increase the anticoagulant activities of Acenocoumarol.	#B4D1E6	3.7444488545731	1
+Digoxin	Sulfasalazine	0.407	Inf	Moderate	4 (4/0)	The serum concentration of Digoxin can be increased when it is combined with Sulfasalazine.	#B32020	0.998519694552825	1
+Betamethasone	Pyridostigmine	0.091	Inf	Moderate	1 (1/0)	The risk or severity of adverse effects can be increased when Betamethasone is combined with Pyridostigmine.	#B32020	0.249629923638206	1
+Dihydroergotamine	Propranolol	0.305	2.338	Moderate	5 (4/1)	Dihydroergotamine may increase the atrioventricular blocking (AV block) activities of Propranolol.	#F5B4B4	1.24814961819103	1
+Warfarin	Cloxacillin	0.083	1.072	Moderate	17 (11/6)	Cloxacillin may decrease the anticoagulant activities of Warfarin.	#F9BCBC	4.24370870184951	1
+Lovastatin	Fenofibrate	0.365	-1.711	Major	16 (8/8)	The risk or severity of myopathy and rhabdomyolysis can be increased when Fenofibrate is combined with Lovastatin.	#AFCEE4	3.9940787782113	1
+Fluvoxamine	Lithium cation	0.225	Inf	Major	1 (1/0)	Lithium may increase the serotonergic activities of Fluvoxamine.	#B32020	0.249629923638206	1
+Buspirone	Clarithromycin	0.2	Inf	Moderate	1 (1/0)	The metabolism of Buspirone can be decreased when combined with Clarithromycin.	#B32020	0.249629923638206	1
+Tizanidine	Lisinopril	0.203	1.364	Major	10 (7/3)	Tizanidine may increase the hypotensive activities of Lisinopril.	#F8BABA	2.49629923638206	1
+Phenytoin	Triazolam	0.08	Inf	Moderate	1 (1/0)	The serum concentration of Phenytoin can be increased when it is combined with Triazolam.	#B32020	0.249629923638206	1
+Bumetanide	Ibuprofen	0.4	Inf	Moderate	6 (6/0)	The therapeutic efficacy of Bumetanide can be decreased when used in combination with Ibuprofen.	#B32020	1.49777954182924	1
+Verapamil	Rifampicin	0.095	1.754	Moderate	4 (3/1)	The metabolism of Verapamil can be increased when combined with Rifampicin.	#F7B7B7	0.998519694552825	1
+Carbamazepine	Verapamil	0.17	1.754	Major	8 (6/2)	The serum concentration of Carbamazepine can be increased when it is combined with Verapamil.	#F7B7B7	1.99703938910565	1
+Imipramine	Rivastigmine	0.313	2.338	Moderate	5 (4/1)		#F5B4B4	1.24814961819103	1
+Amikacin	Cefonicid	1	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Minocycline	Amoxicillin	0.343	-1.448	Moderate	24 (13/11)	The therapeutic efficacy of Amoxicillin can be decreased when used in combination with Minocycline.	#B2D0E5	5.99111816731695	1
+Naratriptan	Escitalopram	0.333	Inf	Major	1 (1/0)	The risk or severity of adverse effects can be increased when Naratriptan is combined with Escitalopram.	#B32020	0.249629923638206	1
+Methotrexate	Tetracycline	0.048	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Atropine	Donepezil	0.025	-1.711	Moderate	2 (1/1)	The therapeutic efficacy of Atropine can be decreased when used in combination with Donepezil.	#AFCEE4	0.499259847276413	1
+Cyclosporine	Simvastatin	0.631	-2.2	Major	16 (7/9)	The serum concentration of Simvastatin can be increased when it is combined with Cyclosporine.	#ACCCE3	3.9940787782113	1
+Sotalol	Glyburide	0.263	-2.138	Moderate	9 (4/5)	Sotalol may increase the hypoglycemic activities of Glyburide.	#AECDE3	2.24666931274386	1
+Trimethoprim	Methotrexate	0.201	4.092	Major	8 (7/1)	The risk or severity of adverse effects can be increased when Trimethoprim is combined with Methotrexate.	#F0A7A7	1.99703938910565	1
+Moxifloxacin	Sucralfate	0.212	-2.352	Moderate	19 (8/11)		#ACCCE3	4.74296854912592	1
+Carbamazepine	Clarithromycin	0.175	-1.14	Major	15 (9/6)	The serum concentration of the active metabolites of Clarithromycin can be increased when Clarithromycin is used in combination with Carbamazepine.	#B4D1E6	3.7444488545731	1
+Propranolol	Maprotiline	0.301	-1.283	Minor	7 (4/3)		#B2D0E5	1.74740946546744	1
+Medroxyprogesterone acetate	Acenocoumarol	0.188	Inf	None	4 (4/0)	Medroxyprogesterone acetate may decrease the anticoagulant activities of Acenocoumarol.	#B32020	0.998519694552825	1
+Eletriptan	Venlafaxine	0.067	Inf	Major	1 (1/0)	The serum concentration of Eletriptan can be increased when it is combined with Venlafaxine.	#B32020	0.249629923638206	1
+Ketoconazole	Quetiapine	0.093	2.923	Major	6 (5/1)	The serum concentration of Quetiapine can be increased when it is combined with Ketoconazole.	#F3AFAF	1.49777954182924	1
+Fluconazole	Pimozide	0.037	Inf	Major	1 (1/0)	The serum concentration of Pimozide can be increased when it is combined with Fluconazole.	#B32020	0.249629923638206	1
+Cimetidine	Donepezil	0.242	-2.566	Moderate	5 (2/3)	The metabolism of Donepezil can be decreased when combined with Cimetidine.	#ABCBE2	1.24814961819103	1
+Metoprolol	Primidone	0.24	Inf	Moderate	1 (1/0)	The serum concentration of Metoprolol can be decreased when it is combined with Primidone.	#B32020	0.249629923638206	1
+Megestrol acetate	Phenobarbital	0.199	-1.283	Moderate	7 (4/3)		#B2D0E5	1.74740946546744	1
+Methylprednisolone	Rifampicin	0.267	Inf	Moderate	4 (4/0)	The serum concentration of Methylprednisolone can be decreased when it is combined with Rifampicin.	#B32020	0.998519694552825	1
+Spironolactone	Fosinopril	0.368	-1.497	Major	15 (8/7)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Fosinopril.	#B1CFE5	3.7444488545731	1
+Imipramine	Fluoxetine	0.507	-1.14	Major	5 (3/2)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Imipramine.	#B4D1E6	1.24814961819103	1
+Fluconazole	Celecoxib	0.308	3.507	Moderate	14 (12/2)	The metabolism of Celecoxib can be decreased when combined with Fluconazole.	#F2ACAC	3.49481893093489	1
+Trospium	Hydroxyzine	0.324	2.923	Moderate	6 (5/1)		#F3AFAF	1.49777954182924	1
+Cyproheptadine	Rivastigmine	0.17	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Sulindac	Furosemide	0.197	Inf	Moderate	3 (3/0)	The therapeutic efficacy of Furosemide can be decreased when used in combination with Sulindac.	#B32020	0.748889770914619	1
+Atenolol	Piroxicam	0.206	1.461	Moderate	7 (5/2)	Piroxicam may decrease the antihypertensive activities of Atenolol.	#F8BABA	1.74740946546744	1
+Fluoxetine	Selegiline	0.634	1.754	Major	4 (3/1)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Selegiline.	#F7B7B7	0.998519694552825	1
+Propranolol	Rizatriptan	0.622	-1.14	Moderate	5 (3/2)	The serum concentration of Rizatriptan can be increased when it is combined with Propranolol.	#B4D1E6	1.24814961819103	1
+Selegiline	Escitalopram	0.384	-2.566	Major	10 (4/6)	The risk or severity of adverse effects can be increased when Escitalopram is combined with Selegiline.	#ABCBE2	2.49629923638206	1
+Ergotamine	Clarithromycin	0.055	Inf	Major	4 (4/0)	The serum concentration of Ergotamine can be increased when it is combined with Clarithromycin.	#B32020	0.998519694552825	1
+Chlorpromazine	Rivastigmine	0.131	-2.994	Moderate	11 (4/7)		#A8C8E1	2.74592916002027	1
+Fluconazole	Carbamazepine	0.184	1.754	Moderate	8 (6/2)	The serum concentration of Carbamazepine can be increased when it is combined with Fluconazole.	#F7B7B7	1.99703938910565	1
+Sucralfate	Norfloxacin	0.183	1.002	Moderate	19 (12/7)	The serum concentration of Norfloxacin can be decreased when it is combined with Sucralfate.	#F9BCBC	4.74296854912592	1
+Citalopram	Rizatriptan	0.244	1.364	Major	10 (7/3)	The risk or severity of adverse effects can be increased when Citalopram is combined with Rizatriptan.	#F8BABA	2.49629923638206	1
+Hydrocortisone	Phenobarbital	0.148	2.338	Moderate	5 (4/1)	The serum concentration of Hydrocortisone can be decreased when it is combined with Phenobarbital.	#F5B4B4	1.24814961819103	1
+Theophylline	Norfloxacin	0.233	-2.224	Moderate	23 (10/13)	The metabolism of Theophylline can be decreased when combined with Norfloxacin.	#ACCCE3	5.74148824367875	1
+Fluconazole	Flurazepam	0.09	Inf	None	3 (3/0)	The metabolism of Flurazepam can be decreased when combined with Fluconazole.	#B32020	0.748889770914619	1
+Rifampicin	Fluvastatin	0.562	Inf	Moderate	2 (2/0)	The metabolism of Fluvastatin can be increased when combined with Rifampicin.	#B32020	0.499259847276413	1
+Midazolam	Itraconazole	0.209	Inf	Major	3 (3/0)	The serum concentration of Midazolam can be increased when it is combined with Itraconazole.	#B32020	0.748889770914619	1
+Warfarin	Phenobarbital	0.297	-2.281	Major	7 (3/4)	The metabolism of Warfarin can be increased when combined with Phenobarbital.	#ACCCE3	1.74740946546744	1
+Fluvoxamine	Duloxetine	0.225	2.338	Major	5 (4/1)	The serum concentration of Duloxetine can be increased when it is combined with Fluvoxamine.	#F5B4B4	1.24814961819103	1
+Diltiazem	Triazolam	0.328	1.754	Moderate	4 (3/1)	The metabolism of Triazolam can be decreased when combined with Diltiazem.	#F7B7B7	0.998519694552825	1
+Warfarin	Naproxen	0.096	1.169	Major	24 (16/8)	Naproxen may increase the anticoagulant activities of Warfarin.	#F9BCBC	5.99111816731695	1
+Promethazine	Levofloxacin	0.333	Inf	Moderate	1 (1/0)	Promethazine may increase the QTc-prolonging activities of Levofloxacin.	#B32020	0.249629923638206	1
+Itraconazole	Clarithromycin	0.556	1.169	Moderate	12 (8/4)	The metabolism of Clarithromycin can be decreased when combined with Itraconazole.	#F9BCBC	2.99555908365848	1
+Fluconazole	Eplerenone	0.179	-1.711	Moderate	10 (5/5)	The serum concentration of Eplerenone can be increased when it is combined with Fluconazole.	#AFCEE4	2.49629923638206	1
+Carbamazepine	Warfarin	0.506	-1.026	Moderate	8 (5/3)	The serum concentration of Warfarin can be decreased when it is combined with Carbamazepine.	#B4D1E6	1.99703938910565	1
+Labetalol	Ibuprofen	0.23	Inf	Moderate	4 (4/0)	Ibuprofen may decrease the antihypertensive activities of Labetalol.	#B32020	0.998519694552825	1
+Phenytoin	Doxycycline	0.136	Inf	Moderate	2 (2/0)	The serum concentration of Doxycycline can be decreased when it is combined with Phenytoin.	#B32020	0.499259847276413	1
+Gliclazide	Oxprenolol	0.479	-1.711	None	4 (2/2)	Oxprenolol may increase the hypoglycemic activities of Gliclazide.	#AFCEE4	0.998519694552825	1
+Eletriptan	Escitalopram	0.545	-1.711	Major	2 (1/1)	The risk or severity of adverse effects can be increased when Eletriptan is combined with Escitalopram.	#AFCEE4	0.499259847276413	1
+Ticlopidine	Acetylsalicylic acid	0.187	-3.553	Moderate	40 (13/27)	The risk or severity of adverse effects can be increased when Ticlopidine is combined with Acetylsalicylic acid.	#A5C6DF	9.98519694552825	1
+Pregabalin	Rosiglitazone	0.424	2.338	Moderate	5 (4/1)	The risk or severity of heart failure can be increased when Pregabalin is combined with Rosiglitazone.	#F5B4B4	1.24814961819103	1
+Cyclosporine	Nicardipine	0.083	Inf	Moderate	1 (1/0)	The metabolism of Nicardipine can be decreased when combined with Cyclosporine.	#B32020	0.249629923638206	1
+Colestipol	Acenocoumarol	0.287	1.461	None	7 (5/2)	Colestipol can cause a decrease in the absorption of Acenocoumarol resulting in a reduced serum concentration and potentially a decrease in efficacy.	#F8BABA	1.74740946546744	1
+Lorazepam	Clozapine	0.175	Inf	Major	2 (2/0)	The risk or severity of adverse effects can be increased when Lorazepam is combined with Clozapine.	#B32020	0.499259847276413	1
+Sertraline	Moclobemide	0.182	Inf	None	1 (1/0)	The risk or severity of adverse effects can be increased when Sertraline is combined with Moclobemide.	#B32020	0.249629923638206	1
+Losartan	Drospirenone	0.021	Inf	Moderate	1 (1/0)	Losartan may increase the hyperkalemic activities of Drospirenone.	#B32020	0.249629923638206	1
+Fluoxetine	Ergotamine	0.178	-1.14	Major	5 (3/2)	The risk or severity of adverse effects can be increased when Ergotamine is combined with Fluoxetine.	#B4D1E6	1.24814961819103	1
+Cyproheptadine	Donepezil	0.141	-1.711	Moderate	4 (2/2)		#AFCEE4	0.998519694552825	1
+Methylprednisolone	Itraconazole	0.355	-1.222	Major	12 (7/5)	The serum concentration of Methylprednisolone can be increased when it is combined with Itraconazole.	#B4D1E6	2.99555908365848	1
+Fluoxetine	Cilostazol	0.25	-1.283	Moderate	7 (4/3)	The serum concentration of Cilostazol can be increased when it is combined with Fluoxetine.	#B2D0E5	1.74740946546744	1
+Omeprazole	Chlordiazepoxide	0.239	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Fluvoxamine	Rizatriptan	0.273	Inf	Major	1 (1/0)	The metabolism of Rizatriptan can be decreased when combined with Fluvoxamine.	#B32020	0.249629923638206	1
+Repaglinide	Glucosamine	0.163	-1.283	None	21 (12/9)		#B2D0E5	5.24222839640233	1
+Diazepam	Josamycin	0.091	3.507	None	7 (6/1)		#F2ACAC	1.74740946546744	1
+Trazodone	Ketoconazole	0.084	1.169	Moderate	6 (4/2)	The metabolism of Trazodone can be decreased when combined with Ketoconazole.	#F9BCBC	1.49777954182924	1
+Formoterol	Nadolol	0.23	-1.14	Major	5 (3/2)		#B4D1E6	1.24814961819103	1
+Nimodipine	Cimetidine	0.222	Inf	Moderate	1 (1/0)	The serum concentration of Nimodipine can be increased when it is combined with Cimetidine.	#B32020	0.249629923638206	1
+Felodipine	Josamycin	0.026	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Trospium	Clomipramine	0.571	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Dihydroergotamine	Bisoprolol	0.239	2.63	Moderate	11 (9/2)	Dihydroergotamine may increase the atrioventricular blocking (AV block) activities of Bisoprolol.	#F5B2B2	2.74592916002027	1
+Verapamil	Colchicine	0.115	-3.079	Major	14 (5/9)	The serum concentration of Colchicine can be increased when it is combined with Verapamil.	#A8C8E1	3.49481893093489	1
+Trospium	Loratadine	0.264	3.507	None	7 (6/1)		#F2ACAC	1.74740946546744	1
+Ketoconazole	Solifenacin	0.295	-1.711	Major	4 (2/2)	The metabolism of Solifenacin can be decreased when combined with Ketoconazole.	#AFCEE4	0.998519694552825	1
+Cyclobenzaprine	Rivastigmine	0.249	Inf	Moderate	6 (6/0)		#B32020	1.49777954182924	1
+Digoxin	Penicillamine	0.3	Inf	Moderate	1 (1/0)	The serum concentration of Digoxin can be decreased when it is combined with Penicillamine.	#B32020	0.249629923638206	1
+Erythromycin	Sotalol	0.096	Inf	Major	2 (2/0)	Erythromycin may increase the QTc-prolonging activities of Sotalol.	#B32020	0.499259847276413	1
+Erythromycin	Itraconazole	0.567	2.338	Major	5 (4/1)	The metabolism of Erythromycin can be decreased when combined with Itraconazole.	#F5B4B4	1.24814961819103	1
+Salmeterol	Oxprenolol	0.063	Inf	None	2 (2/0)	Oxprenolol may decrease the bronchodilatory activities of Salmeterol.	#B32020	0.499259847276413	1
+Doxycycline	Primidone	0.112	-1.711	Moderate	2 (1/1)	The serum concentration of Doxycycline can be decreased when it is combined with Primidone.	#AFCEE4	0.499259847276413	1
+Methotrexate	Cholestyramine	0.294	1.169	None	3 (2/1)	Cholestyramine can cause a decrease in the absorption of Methotrexate resulting in a reduced serum concentration and potentially a decrease in efficacy.	#F9BCBC	0.748889770914619	1
+Cyclosporine	Erythromycin	0.04	Inf	Major	1 (1/0)	The metabolism of Cyclosporine can be decreased when combined with Erythromycin.	#B32020	0.249629923638206	1
+Cyclosporine	Digoxin	0.323	1.754	Moderate	4 (3/1)	The serum concentration of Digoxin can be increased when it is combined with Cyclosporine.	#F7B7B7	0.998519694552825	1
+Morphine	Cimetidine	0.143	Inf	Moderate	1 (1/0)	The metabolism of Morphine can be decreased when combined with Cimetidine.	#B32020	0.249629923638206	1
+Thiethylperazine	Levofloxacin	0.571	1.01	None	30 (19/11)		#F9BCBC	7.48889770914619	1
+Warfarin	Terbinafine	0.107	1.754	Moderate	4 (3/1)		#F7B7B7	0.998519694552825	1
+Mefenamic acid	Acenocoumarol	0.197	-2.566	None	5 (2/3)	Mefenamic acid may increase the anticoagulant activities of Acenocoumarol.	#ABCBE2	1.24814961819103	1
+Propranolol	Hydralazine	0.244	-1.283	Minor	14 (8/6)	Hydralazine may increase the hypotensive activities of Propranolol.	#B2D0E5	3.49481893093489	1
+Verapamil	Primidone	0.246	Inf	Moderate	2 (2/0)	The metabolism of Verapamil can be increased when combined with Primidone.	#B32020	0.499259847276413	1
+Metoprolol	Diltiazem	0.278	1.461	Major	7 (5/2)	The serum concentration of Metoprolol can be increased when it is combined with Diltiazem.	#F8BABA	1.74740946546744	1
+Cyclosporine	Carvedilol	0.626	-4.277	Moderate	7 (2/5)	The serum concentration of Cyclosporine can be increased when it is combined with Carvedilol.	#A0C3DD	1.74740946546744	1
+Tizanidine	Rivastigmine	0.225	-1.283	Moderate	7 (4/3)	Tizanidine may increase the bradycardic activities of Rivastigmine.	#B2D0E5	1.74740946546744	1
+Glycopyrronium	Rivastigmine	0.235	-5.474	None	21 (5/16)	The therapeutic efficacy of Glycopyrronium can be decreased when used in combination with Rivastigmine.	#99BDDA	5.24222839640233	1
+Methotrexate	Sulfamethoxazole	0.246	2.923	Moderate	6 (5/1)	The risk or severity of adverse effects can be increased when Sulfamethoxazole is combined with Methotrexate.	#F3AFAF	1.49777954182924	1
+Imipramine	Pseudoephedrine	0.049	-1.711	None	2 (1/1)	Imipramine may decrease the antihypertensive activities of Pseudoephedrine.	#AFCEE4	0.499259847276413	1
+Phenytoin	Fluorouracil	0.065	-1.711	Moderate	2 (1/1)	The serum concentration of Phenytoin can be increased when it is combined with Fluorouracil.	#AFCEE4	0.499259847276413	1
+Cyclosporine	Ibuprofen	0.178	-1.369	Moderate	9 (5/4)	Ibuprofen may increase the nephrotoxic activities of Cyclosporine.	#B2D0E5	2.24666931274386	1
+Ampicillin	Methotrexate	0.125	Inf	Major	1 (1/0)	The serum concentration of Methotrexate can be increased when it is combined with Ampicillin.	#B32020	0.249629923638206	1
+Salbutamol	Doxepin	0.15	-1.14	Moderate	5 (3/2)	The risk or severity of adverse effects can be increased when Doxepin is combined with Salbutamol.	#B4D1E6	1.24814961819103	1
+Carbamazepine	Itraconazole	0.061	Inf	Moderate	3 (3/0)	The serum concentration of Itraconazole can be decreased when it is combined with Carbamazepine.	#B32020	0.748889770914619	1
+Propranolol	Propafenone	0.326	2.923	Moderate	6 (5/1)	The serum concentration of Propranolol can be increased when it is combined with Propafenone.	#F3AFAF	1.49777954182924	1
+Piroxicam	Warfarin	0.151	Inf	Major	2 (2/0)	Piroxicam may increase the anticoagulant activities of Warfarin.	#B32020	0.499259847276413	1
+Almotriptan	Itraconazole	0.053	Inf	Moderate	1 (1/0)	The serum concentration of Almotriptan can be increased when it is combined with Itraconazole.	#B32020	0.249629923638206	1
+Doxycycline	Warfarin	0.047	1.754	Moderate	4 (3/1)	The metabolism of Warfarin can be decreased when combined with Doxycycline.	#F7B7B7	0.998519694552825	1
+Metoprolol	Repaglinide	0.408	-2.138	Moderate	9 (4/5)		#AECDE3	2.24666931274386	1
+Theophylline	Primidone	0.324	Inf	Moderate	1 (1/0)	The metabolism of Theophylline can be increased when combined with Primidone.	#B32020	0.249629923638206	1
+Triamcinolone	Warfarin	0.283	2.338	Moderate	5 (4/1)	Triamcinolone may increase the anticoagulant activities of Warfarin.	#F5B4B4	1.24814961819103	1
+Doxycycline	Iron	0.338	-1.711	Moderate	12 (6/6)	Doxycycline can cause a decrease in the absorption of Iron resulting in a reduced serum concentration and potentially a decrease in efficacy.	#AFCEE4	2.99555908365848	1
+Ethinylestradiol	Amoxicillin	0.229	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Cyclosporine	Diclofenac	0.28	1.754	Moderate	4 (3/1)	Diclofenac may increase the nephrotoxic activities of Cyclosporine.	#F7B7B7	0.998519694552825	1
+Betamethasone	Acenocoumarol	0.074	1.315	None	13 (9/4)		#F8BABA	3.24518900729668	1
+Tacrolimus	Itraconazole	0.548	1.169	Major	3 (2/1)	The serum concentration of Tacrolimus can be increased when it is combined with Itraconazole.	#F9BCBC	0.748889770914619	1
+Theophylline	Propafenone	0.779	-1.711	Moderate	4 (2/2)	The serum concentration of Theophylline can be increased when it is combined with Propafenone.	#AFCEE4	0.998519694552825	1
+Epinephrine	Clomipramine	0.05	Inf	Major	1 (1/0)	Clomipramine may decrease the antihypertensive activities of Epinephrine.	#B32020	0.249629923638206	1
+Cyclosporine	Atorvastatin	0.39	-5.702	Major	13 (3/10)	The serum concentration of Atorvastatin can be increased when it is combined with Cyclosporine.	#97BCD9	3.24518900729668	1
+Imatinib	Simvastatin	0.5	Inf	Moderate	1 (1/0)	The serum concentration of Simvastatin can be increased when it is combined with Imatinib.	#B32020	0.249629923638206	1
+Fluconazole	Nortriptyline	0.043	Inf	Moderate	2 (2/0)	The metabolism of Nortriptyline can be decreased when combined with Fluconazole.	#B32020	0.499259847276413	1
+Erythromycin	Warfarin	0.07	1.461	Major	7 (5/2)	The serum concentration of Warfarin can be increased when it is combined with Erythromycin.	#F8BABA	1.74740946546744	1
+Lidocaine	Cimetidine	0.125	Inf	Moderate	1 (1/0)	The metabolism of Lidocaine can be decreased when combined with Cimetidine.	#B32020	0.249629923638206	1
+Fluconazole	Fluvastatin	0.117	-2.053	Moderate	11 (5/6)	The serum concentration of Fluvastatin can be increased when it is combined with Fluconazole.	#AECDE3	2.74592916002027	1
+Galantamine	Biperiden	0.159	-1.711	Moderate	8 (4/4)	The therapeutic efficacy of Biperiden can be decreased when used in combination with Galantamine.	#AFCEE4	1.99703938910565	1
+Labetalol	Glyburide	0.204	-1.711	Moderate	2 (1/1)	Labetalol may increase the hypoglycemic activities of Glyburide.	#AFCEE4	0.499259847276413	1
+Donepezil	Periciazine	0.067	-1.711	None	2 (1/1)		#AFCEE4	0.499259847276413	1
+Piroxicam	Bisoprolol	0.179	4.092	Moderate	8 (7/1)	Piroxicam may decrease the antihypertensive activities of Bisoprolol.	#F0A7A7	1.99703938910565	1
+Diclofenac	Lithium cation	0.198	-1.283	Moderate	7 (4/3)	The serum concentration of Lithium can be increased when it is combined with Diclofenac.	#B2D0E5	1.74740946546744	1
+Spironolactone	Benazepril	0.5	-1.711	Major	4 (2/2)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Benazepril.	#AFCEE4	0.998519694552825	1
+Metoprolol	Lidocaine	0.021	1.754	Moderate	4 (3/1)	The serum concentration of Metoprolol can be increased when it is combined with Lidocaine.	#F7B7B7	0.998519694552825	1
+Galantamine	Zuclopenthixol	0.111	Inf	None	1 (1/0)	Galantamine may increase the QTc-prolonging activities of Zuclopenthixol.	#B32020	0.249629923638206	1
+Capecitabine	Acenocoumarol	0.139	-2.566	None	10 (4/6)	The serum concentration of Acenocoumarol can be increased when it is combined with Capecitabine.	#ABCBE2	2.49629923638206	1
+Amitriptyline	Epinephrine	0.039	Inf	Major	2 (2/0)	Amitriptyline may decrease the antihypertensive activities of Epinephrine.	#B32020	0.499259847276413	1
+Rifampicin	Gliclazide	0.073	-2.566	None	10 (4/6)	The serum concentration of Gliclazide can be decreased when it is combined with Rifampicin.	#ABCBE2	2.49629923638206	1
+Felodipine	Phenobarbital	0.105	Inf	Moderate	1 (1/0)	The metabolism of Felodipine can be increased when combined with Phenobarbital.	#B32020	0.249629923638206	1
+Donepezil	Perphenazine	0.101	-1.711	Moderate	4 (2/2)		#AFCEE4	0.998519694552825	1
+Fluvoxamine	Dihydroergotamine	0.2	Inf	Major	1 (1/0)	The risk or severity of adverse effects can be increased when Dihydroergotamine is combined with Fluvoxamine.	#B32020	0.249629923638206	1
+Pimozide	Clarithromycin	0.045	Inf	Major	1 (1/0)	The risk or severity of ventricular arrhythmias can be increased when Clarithromycin is combined with Pimozide.	#B32020	0.249629923638206	1
+Torasemide	Tobramycin	0.416	-1.14	Major	5 (3/2)	The serum concentration of Tobramycin can be increased when it is combined with Torasemide.	#B4D1E6	1.24814961819103	1
+Methylphenidate	Rasagiline	0.439	-3.421	Moderate	3 (1/2)	Rasagiline may increase the hypertensive activities of Methylphenidate.	#A5C6DF	0.748889770914619	1
+Halazepam	Itraconazole	0.059	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Lovastatin	Tacrolimus	0.159	-2.851	Moderate	8 (3/5)	The serum concentration of Lovastatin can be increased when it is combined with Tacrolimus.	#A9C9E1	1.99703938910565	1
+Metoprolol	Indomethacin	0.072	1.169	Moderate	3 (2/1)	Indomethacin may decrease the antihypertensive activities of Metoprolol.	#F9BCBC	0.748889770914619	1
+Ranolazine	Digoxin	0.289	-2.566	Moderate	15 (6/9)	The serum concentration of Digoxin can be increased when it is combined with Ranolazine.	#ABCBE2	3.7444488545731	1
+Repaglinide	Josamycin	0.363	1.754	None	4 (3/1)	The serum concentration of Repaglinide can be increased when it is combined with Josamycin.	#F7B7B7	0.998519694552825	1
+Moxifloxacin	Josamycin	1	-1.14	None	5 (3/2)		#B4D1E6	1.24814961819103	1
+Trihexyphenidyl	Rivastigmine	0.316	-1.711	Moderate	4 (2/2)	The therapeutic efficacy of Trihexyphenidyl can be decreased when used in combination with Rivastigmine.	#AFCEE4	0.998519694552825	1
+Fluconazole	Tacrolimus	0.467	1.754	Major	4 (3/1)	The serum concentration of Tacrolimus can be increased when it is combined with Fluconazole.	#F7B7B7	0.998519694552825	1
+Ampicillin	Acenocoumarol	0.14	-2.737	None	13 (5/8)	Ampicillin may increase the anticoagulant activities of Acenocoumarol.	#A9C9E1	3.24518900729668	1
+Prednisone	Ketoconazole	0.402	-8.126	Moderate	23 (4/19)	The serum concentration of Prednisone can be increased when it is combined with Ketoconazole.	#86AFD2	5.74148824367875	1
+Colestipol	Levothyroxine	0.226	1.754	Moderate	4 (3/1)	The serum concentration of Levothyroxine can be decreased when it is combined with Colestipol.	#F7B7B7	0.998519694552825	1
+Ezetimibe	Cholestyramine	0.072	-2.566	Moderate	5 (2/3)	Cholestyramine can cause a decrease in the absorption of Ezetimibe resulting in a reduced serum concentration and potentially a decrease in efficacy.	#ABCBE2	1.24814961819103	1
+Theophylline	Sotalol	0.8	Inf	Major	1 (1/0)	Sotalol may decrease the bronchodilatory activities of Theophylline.	#B32020	0.249629923638206	1
+Bupropion	Rasagiline	0.256	-6.843	Major	5 (1/4)	The risk or severity of adverse effects can be increased when Rasagiline is combined with Bupropion.	#90B6D6	1.24814961819103	1
+Trospium	Haloperidol	0.253	-1.026	Moderate	8 (5/3)		#B4D1E6	1.99703938910565	1
+Theophylline	Josamycin	0.5	Inf	None	1 (1/0)	The metabolism of Theophylline can be decreased when combined with Josamycin.	#B32020	0.249629923638206	1
+Imipramine	Rasagiline	0.034	Inf	Major	1 (1/0)	Rasagiline may increase the serotonergic activities of Imipramine.	#B32020	0.249629923638206	1
+Erythromycin	Felodipine	0.033	1.169	Moderate	3 (2/1)	The metabolism of Felodipine can be decreased when combined with Erythromycin.	#F9BCBC	0.748889770914619	1
+Phenytoin	Triamcinolone	0.073	1.169	Moderate	3 (2/1)	The metabolism of Triamcinolone can be increased when combined with Phenytoin.	#F9BCBC	0.748889770914619	1
+Cyproheptadine	Galantamine	0.021	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Nortriptyline	Donepezil	0.414	-1.711	Moderate	6 (3/3)		#AFCEE4	1.49777954182924	1
+Theophylline	Rifampicin	0.18	-3.421	Moderate	3 (1/2)	The metabolism of Theophylline can be increased when combined with Rifampicin.	#A5C6DF	0.748889770914619	1
+Telithromycin	Atorvastatin	0.073	1.169	Major	3 (2/1)	The risk or severity of adverse effects can be increased when Telithromycin is combined with Atorvastatin.	#F9BCBC	0.748889770914619	1
+Clarithromycin	Colchicine	0.232	-1.426	Major	11 (6/5)	The serum concentration of Colchicine can be increased when it is combined with Clarithromycin.	#B2D0E5	2.74592916002027	1
+Phenytoin	Itraconazole	0.111	-2.566	Moderate	5 (2/3)	The serum concentration of Itraconazole can be decreased when it is combined with Phenytoin.	#ABCBE2	1.24814961819103	1
+Galantamine	Glycopyrronium	0.251	-3.992	None	10 (3/7)	The therapeutic efficacy of Glycopyrronium can be decreased when used in combination with Galantamine.	#A2C4DE	2.49629923638206	1
+Hydrocortisone	Primidone	0.053	-1.711	Moderate	4 (2/2)	The serum concentration of Hydrocortisone can be decreased when it is combined with Primidone.	#AFCEE4	0.998519694552825	1
+Alprazolam	Cimetidine	0.238	Inf	Moderate	2 (2/0)		#B32020	0.499259847276413	1
+Phenytoin	Rifampicin	0.394	-1.711	Major	2 (1/1)	The serum concentration of Phenytoin can be decreased when it is combined with Rifampicin.	#AFCEE4	0.499259847276413	1
+Sucralfate	Ofloxacin	0.5	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Haloperidol	Glycopyrronium	0.237	-7.185	Moderate	26 (5/21)	The serum concentration of Haloperidol can be decreased when it is combined with Glycopyrronium.	#8CB4D5	6.49037801459337	1
+Sumatriptan	Escitalopram	0.326	-1.711	Major	4 (2/2)	The risk or severity of adverse effects can be increased when Sumatriptan is combined with Escitalopram.	#AFCEE4	0.998519694552825	1
+Fluconazole	Rifampicin	0.447	1.169	Major	3 (2/1)	The metabolism of Rifampicin can be decreased when combined with Fluconazole.	#F9BCBC	0.748889770914619	1
+Phenytoin	Estriol	0.083	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Pimozide	Escitalopram	0.05	Inf	Major	1 (1/0)	The risk or severity of QTc prolongation can be increased when Pimozide is combined with Escitalopram.	#B32020	0.249629923638206	1
+Trospium	Olanzapine	0.525	1.169	Moderate	3 (2/1)		#F9BCBC	0.748889770914619	1
+Cyclosporine	Fluconazole	1	Inf	Moderate	1 (1/0)	The serum concentration of Cyclosporine can be increased when it is combined with Fluconazole.	#B32020	0.249629923638206	1
+Glyburide	Oxprenolol	0.062	Inf	None	1 (1/0)	Oxprenolol may increase the hypoglycemic activities of Glyburide.	#B32020	0.249629923638206	1
+Clozapine	Ciprofloxacin	0.056	Inf	Major	1 (1/0)	Ciprofloxacin may increase the QTc-prolonging activities of Clozapine.	#B32020	0.249629923638206	1
+Raloxifene	Estriol	0.091	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Warfarin	Fludrocortisone	0.556	Inf	Moderate	1 (1/0)	Fludrocortisone may increase the anticoagulant activities of Warfarin.	#B32020	0.249629923638206	1
+Donepezil	Cyclobenzaprine	0.073	-1.369	Moderate	9 (5/4)		#B2D0E5	2.24666931274386	1
+Hydrocortisone	Cholestyramine	0.597	1.754	Moderate	4 (3/1)	Cholestyramine can cause a decrease in the absorption of Hydrocortisone resulting in a reduced serum concentration and potentially a decrease in efficacy.	#F7B7B7	0.998519694552825	1
+Trihexyphenidyl	Donepezil	0.144	Inf	Moderate	2 (2/0)	The therapeutic efficacy of Trihexyphenidyl can be decreased when used in combination with Donepezil.	#B32020	0.499259847276413	1
+Bisoprolol	Chlorpropamide	0.208	1.169	Moderate	3 (2/1)	Bisoprolol may increase the hypoglycemic activities of Chlorpropamide.	#F9BCBC	0.748889770914619	1
+Ofloxacin	Iron	0.354	-1.14	None	5 (3/2)		#B4D1E6	1.24814961819103	1
+Lovastatin	Gemfibrozil	0.181	-1.026	Major	8 (5/3)	The risk or severity of rhabdomyolysis. myoglobinuria. and elevated creatine kinase (CPK) can be increased when Gemfibrozil is combined with Lovastatin.	#B4D1E6	1.99703938910565	1
+Triamcinolone	Primidone	0.333	Inf	Moderate	1 (1/0)	The metabolism of Triamcinolone can be increased when combined with Primidone.	#B32020	0.249629923638206	1
+Midazolam	Rifampicin	1	Inf	Minor	1 (1/0)	The metabolism of Midazolam can be increased when combined with Rifampicin.	#B32020	0.249629923638206	1
+Pantoprazole	Ketoconazole	0.548	-1.711	Moderate	6 (3/3)	The serum concentration of Ketoconazole can be decreased when it is combined with Pantoprazole.	#AFCEE4	1.49777954182924	1
+Fluconazole	Dihydroergotamine	0.105	Inf	Moderate	2 (2/0)	The metabolism of Dihydroergotamine can be decreased when combined with Fluconazole.	#B32020	0.499259847276413	1
+Carbamazepine	Bupropion	1	Inf	Moderate	1 (1/0)	The metabolism of Bupropion can be increased when combined with Carbamazepine.	#B32020	0.249629923638206	1
+Cyclosporine	Nifedipine	0.338	-5.132	Moderate	4 (1/3)	The metabolism of Nifedipine can be decreased when combined with Cyclosporine.	#9ABEDB	0.998519694552825	1
+Tacrolimus	Felodipine	0.1	-1.711	Moderate	2 (1/1)	The serum concentration of Tacrolimus can be increased when it is combined with Felodipine.	#AFCEE4	0.499259847276413	1
+Cyclophosphamide	Warfarin	0.227	-3.421	Moderate	3 (1/2)		#A5C6DF	0.748889770914619	1
+Pravastatin	Bezafibrate	0.217	-2.138	None	9 (4/5)	Bezafibrate may increase the myopathic rhabdomyolysis activities of Pravastatin.	#AECDE3	2.24666931274386	1
+Levofloxacin	Josamycin	0.48	1.461	None	7 (5/2)		#F8BABA	1.74740946546744	1
+Erythromycin	Colchicine	0.068	Inf	Major	3 (3/0)	The serum concentration of Colchicine can be increased when it is combined with Erythromycin.	#B32020	0.748889770914619	1
+Fluvoxamine	Ropinirole	0.763	Inf	Moderate	1 (1/0)	Fluvoxamine may increase the sedative activities of Ropinirole.	#B32020	0.249629923638206	1
+Erythromycin	Tacrolimus	0.714	1.169	Major	3 (2/1)	The serum concentration of Tacrolimus can be increased when it is combined with Erythromycin.	#F9BCBC	0.748889770914619	1
+Nortriptyline	Carbamazepine	0.189	Inf	Moderate	1 (1/0)	The metabolism of Nortriptyline can be increased when combined with Carbamazepine.	#B32020	0.249629923638206	1
+Piroxicam	Propranolol	0.116	Inf	Moderate	2 (2/0)	Piroxicam may decrease the antihypertensive activities of Propranolol.	#B32020	0.499259847276413	1
+Repaglinide	Oxprenolol	0.417	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Ketoconazole	Acenocoumarol	0.181	-4.277	None	14 (4/10)	The serum concentration of Acenocoumarol can be increased when it is combined with Ketoconazole.	#A0C3DD	3.49481893093489	1
+Cyclosporine	Sulfamethoxazole	0.031	Inf	Major	1 (1/0)	Sulfamethoxazole may increase the nephrotoxic activities of Cyclosporine.	#B32020	0.249629923638206	1
+Trospium	Desloratadine	0.125	Inf	None	2 (2/0)	The risk or severity of adverse effects can be increased when Trospium is combined with Desloratadine.	#B32020	0.499259847276413	1
+Dihydroergotamine	Carvedilol	0.172	Inf	Moderate	3 (3/0)	Dihydroergotamine may increase the atrioventricular blocking (AV block) activities of Carvedilol.	#B32020	0.748889770914619	1
+Rifabutin	Simvastatin	0.111	Inf	None	1 (1/0)	The metabolism of Simvastatin can be increased when combined with Rifabutin.	#B32020	0.249629923638206	1
+Cyclosporine	Norfloxacin	0.023	1.169	Moderate	3 (2/1)	The metabolism of Cyclosporine can be decreased when combined with Norfloxacin.	#F9BCBC	0.748889770914619	1
+Enalapril	Drospirenone	0.143	Inf	Moderate	1 (1/0)	Enalapril may increase the hyperkalemic activities of Drospirenone.	#B32020	0.249629923638206	1
+Prednisone	Estradiol	0.359	-2.566	Moderate	5 (2/3)	The serum concentration of Prednisone can be increased when it is combined with Estradiol.	#ABCBE2	1.24814961819103	1
+Eprosartan	Lithium cation	1	Inf	Moderate	1 (1/0)	The serum concentration of Lithium can be increased when it is combined with Eprosartan.	#B32020	0.249629923638206	1
+Doxycycline	Cloxacillin	0.767	-1.14	Moderate	5 (3/2)	The therapeutic efficacy of Cloxacillin can be decreased when used in combination with Doxycycline.	#B4D1E6	1.24814961819103	1
+Rifampicin	Clomipramine	0.111	Inf	Minor	1 (1/0)	The metabolism of Clomipramine can be increased when combined with Rifampicin.	#B32020	0.249629923638206	1
+Ketoconazole	Atorvastatin	0.058	-2.281	Major	7 (3/4)	The serum concentration of Atorvastatin can be increased when it is combined with Ketoconazole.	#ACCCE3	1.74740946546744	1
+Ergotamine	Itraconazole	0.156	-1.711	Major	2 (1/1)	The serum concentration of Ergotamine can be increased when it is combined with Itraconazole.	#AFCEE4	0.499259847276413	1
+Verapamil	Nadolol	0.383	Inf	Major	1 (1/0)	Verapamil may increase the hypotensive activities of Nadolol.	#B32020	0.249629923638206	1
+Warfarin	Cholestyramine	0.273	-2.566	Moderate	5 (2/3)	Cholestyramine can cause a decrease in the absorption of Warfarin resulting in a reduced serum concentration and potentially a decrease in efficacy.	#ABCBE2	1.24814961819103	1
+Galantamine	Tizanidine	0.047	Inf	Moderate	2 (2/0)	Galantamine may increase the bradycardic activities of Tizanidine.	#B32020	0.499259847276413	1
+Theophylline	Propranolol	0.281	-1.14	Major	5 (3/2)	The metabolism of Propranolol can be decreased when combined with Theophylline.	#B4D1E6	1.24814961819103	1
+Epinephrine	Carvedilol	0.098	1.169	Major	3 (2/1)	Epinephrine may increase the atrioventricular blocking (AV block) activities of Carvedilol.	#F9BCBC	0.748889770914619	1
+Triamcinolone	Rifampicin	0.267	-1.711	Moderate	2 (1/1)	The metabolism of Triamcinolone can be increased when combined with Rifampicin.	#AFCEE4	0.499259847276413	1
+Fluvoxamine	Warfarin	0.208	1.169	Moderate	3 (2/1)	The metabolism of Warfarin can be decreased when combined with Fluvoxamine.	#F9BCBC	0.748889770914619	1
+Tizanidine	Donepezil	0.091	-1.711	Moderate	6 (3/3)	Tizanidine may increase the bradycardic activities of Donepezil.	#AFCEE4	1.49777954182924	1
+Phenytoin	Felodipine	0.167	Inf	Major	1 (1/0)	The metabolism of Felodipine can be increased when combined with Phenytoin.	#B32020	0.249629923638206	1
+Fluconazole	Cyclophosphamide	0.538	-1.711	None	2 (1/1)	The metabolism of Cyclophosphamide can be decreased when combined with Fluconazole.	#AFCEE4	0.499259847276413	1
+Itraconazole	Josamycin	1	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Celecoxib	Rifampicin	0.75	Inf	Moderate	2 (2/0)	The metabolism of Celecoxib can be increased when combined with Rifampicin.	#B32020	0.499259847276413	1
+Eplerenone	Clarithromycin	0.211	-5.132	Major	16 (4/12)	The serum concentration of Eplerenone can be increased when it is combined with Clarithromycin.	#9ABEDB	3.9940787782113	1
+Carbamazepine	Aripiprazole	0.091	Inf	Moderate	1 (1/0)	The serum concentration of Aripiprazole can be decreased when it is combined with Carbamazepine.	#B32020	0.249629923638206	1
+Telithromycin	Acenocoumarol	0.064	-2.566	None	5 (2/3)	The metabolism of Acenocoumarol can be decreased when combined with Telithromycin.	#ABCBE2	1.24814961819103	1
+Labetalol	Gliclazide	0.295	-1.711	None	2 (1/1)	Labetalol may increase the hypoglycemic activities of Gliclazide.	#AFCEE4	0.499259847276413	1
+Piroxicam	Acenocoumarol	0.136	-1.711	None	10 (5/5)	Piroxicam may increase the anticoagulant activities of Acenocoumarol.	#AFCEE4	2.49629923638206	1
+Paroxetine	Pimozide	0.263	Inf	Major	1 (1/0)	The serum concentration of Pimozide can be increased when it is combined with Paroxetine.	#B32020	0.249629923638206	1
+Glimepiride	Ketoconazole	0.048	Inf	None	1 (1/0)	The metabolism of Glimepiride can be decreased when combined with Ketoconazole.	#B32020	0.249629923638206	1
+Prazosin	Bisoprolol	0.646	Inf	Moderate	2 (2/0)	Bisoprolol may increase the orthostatic hypotensive activities of Prazosin.	#B32020	0.499259847276413	1
+Phenytoin	Trimethoprim	0.088	-6.273	Moderate	14 (3/11)	The serum concentration of Phenytoin can be increased when it is combined with Trimethoprim.	#93B8D7	3.49481893093489	1
+Ketoprofen	Acenocoumarol	0.102	2.338	None	5 (4/1)	Ketoprofen may increase the anticoagulant activities of Acenocoumarol.	#F5B4B4	1.24814961819103	1
+Citalopram	Eletriptan	0.028	Inf	Major	1 (1/0)	The risk or severity of adverse effects can be increased when Citalopram is combined with Eletriptan.	#B32020	0.249629923638206	1
+Dihydroergotamine	Isosorbide mononitrate	0.16	Inf	Moderate	2 (2/0)	The metabolism of Isosorbide Mononitrate can be decreased when combined with Dihydroergotamine.	#B32020	0.499259847276413	1
+Digoxin	Minocycline	0.102	-1.14	Moderate	5 (3/2)		#B4D1E6	1.24814961819103	1
+Allopurinol	Azathioprine	0.361	-1.711	Major	6 (3/3)	The serum concentration of the active metabolites of Azathioprine can be increased when Azathioprine is used in combination with Allopurinol.	#AFCEE4	1.49777954182924	1
+Tizanidine	Perindopril	0.042	-3.421	Major	3 (1/2)	The risk or severity of hypotension can be increased when Tizanidine is combined with Perindopril.	#A5C6DF	0.748889770914619	1
+Verapamil	Lithium cation	0.314	-1.711	Moderate	2 (1/1)	Verapamil may increase the neurotoxic activities of Lithium.	#AFCEE4	0.499259847276413	1
+Rosiglitazone	Gemfibrozil	0.215	-5.132	Moderate	4 (1/3)	The metabolism of Rosiglitazone can be decreased when combined with Gemfibrozil.	#9ABEDB	0.998519694552825	1
+Tizanidine	Quinapril	0.033	Inf	Major	1 (1/0)	The risk or severity of hypotension can be increased when Tizanidine is combined with Quinapril.	#B32020	0.249629923638206	1
+Tetracycline	Amoxicillin	0.429	2.338	Moderate	5 (4/1)		#F5B4B4	1.24814961819103	1
+Theophylline	Terbinafine	0.036	Inf	Moderate	1 (1/0)	The metabolism of Theophylline can be decreased when combined with Terbinafine.	#B32020	0.249629923638206	1
+Fluvoxamine	Theophylline	0.386	-1.711	Major	2 (1/1)	The metabolism of Theophylline can be decreased when combined with Fluvoxamine.	#AFCEE4	0.499259847276413	1
+Lovastatin	Ketoconazole	0.1	Inf	Major	1 (1/0)	The serum concentration of Lovastatin can be increased when it is combined with Ketoconazole.	#B32020	0.249629923638206	1
+Trihexyphenidyl	Galantamine	0.23	-1.711	Moderate	2 (1/1)	The therapeutic efficacy of Trihexyphenidyl can be decreased when used in combination with Galantamine.	#AFCEE4	0.499259847276413	1
+Labetalol	Salmeterol	0.389	Inf	Major	1 (1/0)	Labetalol may decrease the vasoconstricting activities of Salmeterol.	#B32020	0.249629923638206	1
+Celecoxib	Warfarin	0.105	-2.053	Moderate	11 (5/6)	Celecoxib may increase the anticoagulant activities of Warfarin.	#AECDE3	2.74592916002027	1
+Lisinopril	Lithium cation	0.204	-1.711	Moderate	4 (2/2)	The serum concentration of Lithium can be increased when it is combined with Lisinopril.	#AFCEE4	0.998519694552825	1
+Fluvoxamine	Phenytoin	0.573	-1.711	Moderate	2 (1/1)	The serum concentration of Phenytoin can be increased when it is combined with Fluvoxamine.	#AFCEE4	0.499259847276413	1
+Phenytoin	Tacrolimus	1	Inf	Major	1 (1/0)	The serum concentration of Tacrolimus can be decreased when it is combined with Phenytoin.	#B32020	0.249629923638206	1
+Repaglinide	Rifampicin	0.257	-1.711	Moderate	4 (2/2)	The serum concentration of Repaglinide can be decreased when it is combined with Rifampicin.	#AFCEE4	0.998519694552825	1
+Fluvastatin	Colchicine	0.121	-5.132	Major	8 (2/6)	Colchicine may increase the myopathic rhabdomyolysis activities of Fluvastatin.	#9ABEDB	1.99703938910565	1
+Indomethacin	Warfarin	0.145	-5.132	Major	12 (3/9)	Indomethacin may increase the anticoagulant activities of Warfarin.	#9ABEDB	2.99555908365848	1
+Warfarin	Etoricoxib	0.098	-2.994	None	11 (4/7)	Etoricoxib may increase the anticoagulant activities of Warfarin.	#A8C8E1	2.74592916002027	1
+Fluorouracil	Warfarin	0.229	-1.711	Major	2 (1/1)	The serum concentration of Warfarin can be increased when it is combined with Fluorouracil.	#AFCEE4	0.499259847276413	1
+Pyridostigmine	Dexamethasone	0.212	-1.711	Moderate	2 (1/1)	The risk or severity of adverse effects can be increased when Dexamethasone is combined with Pyridostigmine.	#AFCEE4	0.499259847276413	1
+Minocycline	Iron	0.244	1.169	Moderate	3 (2/1)	Minocycline can cause a decrease in the absorption of Iron resulting in a reduced serum concentration and potentially a decrease in efficacy.	#F9BCBC	0.748889770914619	1
+Doxycycline	Insulin aspart	0.099	1.169	Moderate	3 (2/1)		#F9BCBC	0.748889770914619	1
+Erythromycin	Ergotamine	0.3	-1.711	Major	2 (1/1)	The risk or severity of adverse effects can be increased when Ergotamine is combined with Erythromycin.	#AFCEE4	0.499259847276413	1
+Dihydroergotamine	Clarithromycin	0.103	Inf	Major	2 (2/0)	The serum concentration of Dihydroergotamine can be increased when it is combined with Clarithromycin.	#B32020	0.499259847276413	1
+Fluoxetine	Sumatriptan	0.149	-3.421	Major	3 (1/2)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Sumatriptan.	#A5C6DF	0.748889770914619	1
+Acetaminophen	Imatinib	0.071	Inf	Moderate	1 (1/0)	Acetaminophen may increase the hepatotoxic activities of Imatinib.	#B32020	0.249629923638206	1
+Warfarin	Primidone	0.18	-3.421	Major	3 (1/2)	The metabolism of Warfarin can be increased when combined with Primidone.	#A5C6DF	0.748889770914619	1
+Diazepam	Ketoconazole	0.197	-2.566	Moderate	5 (2/3)	The metabolism of Diazepam can be decreased when combined with Ketoconazole.	#ABCBE2	1.24814961819103	1
+Carbamazepine	Felodipine	0.043	Inf	Moderate	1 (1/0)	The metabolism of Felodipine can be increased when combined with Carbamazepine.	#B32020	0.249629923638206	1
+Nortriptyline	Terbutaline	0.059	Inf	Moderate	1 (1/0)	The risk or severity of adverse effects can be increased when Nortriptyline is combined with Terbutaline.	#B32020	0.249629923638206	1
+Piroxicam	Carvedilol	0.122	1.169	Moderate	3 (2/1)	Piroxicam may decrease the antihypertensive activities of Carvedilol.	#F9BCBC	0.748889770914619	1
+Cyclosporine	Amiodarone	0.642	-1.711	Moderate	2 (1/1)	The serum concentration of Cyclosporine can be increased when it is combined with Amiodarone.	#AFCEE4	0.499259847276413	1
+Primidone	Dexamethasone	0.267	-1.711	Moderate	2 (1/1)	The serum concentration of Dexamethasone can be decreased when it is combined with Primidone.	#AFCEE4	0.499259847276413	1
+Warfarin	Ofloxacin	0.059	Inf	Major	1 (1/0)		#B32020	0.249629923638206	1
+Cilostazol	Itraconazole	0.184	-5.132	Major	4 (1/3)	The serum concentration of Cilostazol can be increased when it is combined with Itraconazole.	#9ABEDB	0.998519694552825	1
+Erythromycin	Carbamazepine	0.08	Inf	Major	2 (2/0)	The metabolism of Carbamazepine can be decreased when combined with Erythromycin.	#B32020	0.499259847276413	1
+Clemastine	Rivastigmine	0.172	-3.421	Moderate	3 (1/2)		#A5C6DF	0.748889770914619	1
+Disulfiram	Acenocoumarol	0.048	Inf	None	1 (1/0)	The serum concentration of Acenocoumarol can be increased when it is combined with Disulfiram.	#B32020	0.249629923638206	1
+Ketoconazole	Rabeprazole	0.287	-3.421	Moderate	3 (1/2)	The serum concentration of Ketoconazole can be decreased when it is combined with Rabeprazole.	#A5C6DF	0.748889770914619	1
+Ketoconazole	Tolterodine	0.188	-1.711	Moderate	2 (1/1)	The serum concentration of Tolterodine can be increased when it is combined with Ketoconazole.	#AFCEE4	0.499259847276413	1
+Verapamil	Eplerenone	0.214	-3.421	Moderate	6 (2/4)	The serum concentration of Eplerenone can be increased when it is combined with Verapamil.	#A5C6DF	1.49777954182924	1
+Perphenazine	Rivastigmine	0.064	-1.711	Moderate	2 (1/1)		#AFCEE4	0.499259847276413	1
+Erythromycin	Dihydroergotamine	0.125	Inf	Major	1 (1/0)	The risk or severity of adverse effects can be increased when Dihydroergotamine is combined with Erythromycin.	#B32020	0.249629923638206	1
+Ranolazine	Clarithromycin	0.128	-3.421	Major	6 (2/4)	The serum concentration of Ranolazine can be increased when it is combined with Clarithromycin.	#A5C6DF	1.49777954182924	1
+Fluvastatin	Bezafibrate	0.308	Inf	None	1 (1/0)	Bezafibrate may increase the myopathic rhabdomyolysis activities of Fluvastatin.	#B32020	0.249629923638206	1
+Diltiazem	Rifampicin	0.197	-4.277	Major	7 (2/5)	The serum concentration of Diltiazem can be decreased when it is combined with Rifampicin.	#A0C3DD	1.74740946546744	1
+Warfarin	Ceftriaxone	0.062	-1.711	Moderate	2 (1/1)	Ceftriaxone may increase the anticoagulant activities of Warfarin.	#AFCEE4	0.499259847276413	1
+Sotalol	Terbutaline	0.036	-1.711	Major	2 (1/1)	Terbutaline may increase the QTc-prolonging activities of Sotalol.	#AFCEE4	0.499259847276413	1
+Warfarin	Itraconazole	0.073	Inf	Moderate	2 (2/0)	The serum concentration of Warfarin can be increased when it is combined with Itraconazole.	#B32020	0.499259847276413	1
+Flutamide	Acenocoumarol	0.352	-54.744	None	33 (1/32)		#1E61A5	8.23778748006081	1
+Propranolol	Epinephrine	0.045	Inf	Major	1 (1/0)	Epinephrine may increase the atrioventricular blocking (AV block) activities of Propranolol.	#B32020	0.249629923638206	1
+Celecoxib	Lithium cation	0.038	Inf	Major	1 (1/0)	The serum concentration of Lithium can be increased when it is combined with Celecoxib.	#B32020	0.249629923638206	1
+Triazolam	Clarithromycin	0.059	Inf	Moderate	1 (1/0)	The serum concentration of Triazolam can be increased when it is combined with Clarithromycin.	#B32020	0.249629923638206	1
+Rifampicin	Dexamethasone	0.526	Inf	Moderate	1 (1/0)	The serum concentration of Dexamethasone can be decreased when it is combined with Rifampicin.	#B32020	0.249629923638206	1
+Pseudoephedrine	Rasagiline	0.083	-1.711	Moderate	2 (1/1)	Rasagiline may increase the hypertensive activities of Pseudoephedrine.	#AFCEE4	0.499259847276413	1
+Tetracycline	Acenocoumarol	0.107	Inf	None	2 (2/0)		#B32020	0.499259847276413	1
+Digoxin	Telithromycin	0.089	-1.711	Moderate	2 (1/1)	The metabolism of Digoxin can be decreased when combined with Telithromycin.	#AFCEE4	0.499259847276413	1
+Cimetidine	Fentanyl	0.059	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Doxycycline	Carbamazepine	0.155	-1.711	Moderate	2 (1/1)	The serum concentration of Doxycycline can be decreased when it is combined with Carbamazepine.	#AFCEE4	0.499259847276413	1
+Imipramine	Galantamine	0.167	Inf	Moderate	1 (1/0)	The metabolism of Galantamine can be decreased when combined with Imipramine.	#B32020	0.249629923638206	1
+Erythromycin	Ranolazine	0.031	Inf	Major	1 (1/0)	The serum concentration of Ranolazine can be increased when it is combined with Erythromycin.	#B32020	0.249629923638206	1
+Phenytoin	Methotrexate	0.277	-3.421	Moderate	3 (1/2)	The serum concentration of Phenytoin can be decreased when it is combined with Methotrexate.	#A5C6DF	0.748889770914619	1
+Spironolactone	Cilazapril	0.349	-1.711	None	4 (2/2)	The risk or severity of adverse effects can be increased when Spironolactone is combined with Cilazapril.	#AFCEE4	0.998519694552825	1
+Prednisone	Estriol	0.277	Inf	None	3 (3/0)	The serum concentration of Prednisone can be increased when it is combined with Estriol.	#B32020	0.748889770914619	1
+Fluvastatin	Cholestyramine	0.25	Inf	Moderate	1 (1/0)	The serum concentration of Fluvastatin can be decreased when it is combined with Cholestyramine.	#B32020	0.249629923638206	1
+Ziprasidone	Amiodarone	0.091	Inf	Major	1 (1/0)	The risk or severity of QTc prolongation can be increased when Ziprasidone is combined with Amiodarone.	#B32020	0.249629923638206	1
+Nortriptyline	Galantamine	0.131	-3.421	Moderate	3 (1/2)		#A5C6DF	0.748889770914619	1
+Labetalol	Salbutamol	0.6	-1.711	Major	2 (1/1)	Labetalol may decrease the vasoconstricting activities of Salbutamol.	#AFCEE4	0.499259847276413	1
+Amitriptyline	Pseudoephedrine	0.105	-2.566	None	5 (2/3)	Amitriptyline may decrease the antihypertensive activities of Pseudoephedrine.	#ABCBE2	1.24814961819103	1
+Fluconazole	Ergotamine	0.025	Inf	Moderate	1 (1/0)	The metabolism of Ergotamine can be decreased when combined with Fluconazole.	#B32020	0.249629923638206	1
+Pyridostigmine	Hydrocortisone	0.29	-3.421	Moderate	3 (1/2)	The risk or severity of adverse effects can be increased when Hydrocortisone is combined with Pyridostigmine.	#A5C6DF	0.748889770914619	1
+Tetracycline	Iron	0.417	-1.711	Moderate	2 (1/1)		#AFCEE4	0.499259847276413	1
+Flurbiprofen	Acenocoumarol	0.113	-2.566	None	5 (2/3)	Flurbiprofen may increase the anticoagulant activities of Acenocoumarol.	#ABCBE2	1.24814961819103	1
+Indapamide	Lithium cation	0.278	-3.421	Major	3 (1/2)	Indapamide may decrease the excretion rate of Lithium which could result in a higher serum level.	#A5C6DF	0.748889770914619	1
+Lovastatin	Josamycin	0.04	-1.711	None	2 (1/1)	The serum concentration of Lovastatin can be increased when it is combined with Josamycin.	#AFCEE4	0.499259847276413	1
+Tacrolimus	Clarithromycin	0.722	1.169	Major	3 (2/1)	The serum concentration of Tacrolimus can be increased when it is combined with Clarithromycin.	#F9BCBC	0.748889770914619	1
+Lovastatin	Rifampicin	0.206	-3.421	Major	3 (1/2)	The metabolism of Lovastatin can be increased when combined with Rifampicin.	#A5C6DF	0.748889770914619	1
+Irbesartan	Lithium cation	0.313	-1.711	Moderate	2 (1/1)	The serum concentration of Lithium can be increased when it is combined with Irbesartan.	#AFCEE4	0.499259847276413	1
+Minocycline	Cloxacillin	1	Inf	Moderate	1 (1/0)	The therapeutic efficacy of Cloxacillin can be decreased when used in combination with Minocycline.	#B32020	0.249629923638206	1
+Cyclosporine	Naproxen	0.031	Inf	Moderate	1 (1/0)	Naproxen may increase the nephrotoxic activities of Cyclosporine.	#B32020	0.249629923638206	1
+Morphine	Rifampicin	0.194	-3.421	Moderate	3 (1/2)	The serum concentration of Morphine can be decreased when it is combined with Rifampicin.	#A5C6DF	0.748889770914619	1
+Trospium	Potassium chloride	0.667	-1.711	Major	2 (1/1)	Trospium may increase the ulcerogenic activities of Potassium Chloride.	#AFCEE4	0.499259847276413	1
+Rifampicin	Nifedipine	0.069	-3.421	Major	3 (1/2)	The serum concentration of Nifedipine can be decreased when it is combined with Rifampicin.	#A5C6DF	0.748889770914619	1
+Salbutamol	Oxprenolol	0.024	Inf	None	1 (1/0)	Oxprenolol may decrease the bronchodilatory activities of Salbutamol.	#B32020	0.249629923638206	1
+Ceftriaxone	Acenocoumarol	0.134	-3.421	None	9 (3/6)	Ceftriaxone may increase the anticoagulant activities of Acenocoumarol.	#A5C6DF	2.24666931274386	1
+Eplerenone	Itraconazole	0.047	-3.421	Major	3 (1/2)	The serum concentration of Eplerenone can be increased when it is combined with Itraconazole.	#A5C6DF	0.748889770914619	1
+Ranolazine	Verapamil	0.071	-1.711	Major	2 (1/1)	The serum concentration of Ranolazine can be increased when it is combined with Verapamil.	#AFCEE4	0.499259847276413	1
+Tacrolimus	Metronidazole	0.061	-1.711	Moderate	2 (1/1)		#AFCEE4	0.499259847276413	1
+Sucralfate	Itraconazole	0.083	Inf	None	1 (1/0)	Sucralfate can cause a decrease in the absorption of Itraconazole resulting in a reduced serum concentration and potentially a decrease in efficacy.	#B32020	0.249629923638206	1
+Primidone	Methylprednisolone	0.312	-5.132	Moderate	4 (1/3)	The serum concentration of Methylprednisolone can be decreased when it is combined with Primidone.	#9ABEDB	0.998519694552825	1
+Hydrocortisone	Rifampicin	0.524	-3.421	Moderate	3 (1/2)	The serum concentration of Hydrocortisone can be decreased when it is combined with Rifampicin.	#A5C6DF	0.748889770914619	1
+Gliclazide	Nadolol	0.329	-6.843	None	5 (1/4)	Nadolol may increase the hypoglycemic activities of Gliclazide.	#90B6D6	1.24814961819103	1
+Fluoxetine	Josamycin	0.143	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Benzylpenicillin	Acenocoumarol	0.036	Inf	None	1 (1/0)	Benzylpenicillin may increase the anticoagulant activities of Acenocoumarol.	#B32020	0.249629923638206	1
+Fluphenazine	Levofloxacin	0.333	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Fluconazole	Ranolazine	0.069	-3.421	Major	3 (1/2)	The serum concentration of Ranolazine can be increased when it is combined with Fluconazole.	#A5C6DF	0.748889770914619	1
+Torasemide	Amikacin	0.139	-1.711	Major	2 (1/1)	The serum concentration of Amikacin can be increased when it is combined with Torasemide.	#AFCEE4	0.499259847276413	1
+Amitriptyline	Rifampicin	0.25	Inf	Minor	1 (1/0)	The metabolism of Amitriptyline can be increased when combined with Rifampicin.	#B32020	0.249629923638206	1
+Ranitidine	Ketoconazole	0.115	-5.132	Moderate	4 (1/3)	The serum concentration of Ketoconazole can be decreased when it is combined with Ranitidine.	#9ABEDB	0.998519694552825	1
+Atenolol	Ampicillin	0.062	-1.711	Moderate	2 (1/1)	The bioavailability of Atenolol can be decreased when combined with Ampicillin.	#AFCEE4	0.499259847276413	1
+Pioglitazone	Glucosamine	0.336	-3.421	None	3 (1/2)		#A5C6DF	0.748889770914619	1
+Salmeterol	Nadolol	0.213	-5.132	Major	4 (1/3)		#9ABEDB	0.998519694552825	1
+Glyburide	Rifampicin	0.085	-5.132	Moderate	4 (1/3)	The serum concentration of Glyburide can be decreased when it is combined with Rifampicin.	#9ABEDB	0.998519694552825	1
+Colestipol	Digoxin	0.209	-6.843	Moderate	5 (1/4)	Colestipol can cause a decrease in the absorption of Digoxin resulting in a reduced serum concentration and potentially a decrease in efficacy.	#90B6D6	1.24814961819103	1
+Rosuvastatin	Colchicine	0.085	-10.264	Moderate	7 (1/6)	Colchicine may increase the myopathic rhabdomyolysis activities of Rosuvastatin.	#79A5CC	1.74740946546744	1
+Naproxen	Lithium cation	0.286	-1.711	Major	2 (1/1)	The serum concentration of Lithium can be increased when it is combined with Naproxen.	#AFCEE4	0.499259847276413	1
+Fentanyl	Ketoconazole	0.454	-10.264	Major	7 (1/6)	The serum concentration of Fentanyl can be increased when it is combined with Ketoconazole.	#79A5CC	1.74740946546744	1
+Prednisolone	Acenocoumarol	0.028	Inf	None	1 (1/0)		#B32020	0.249629923638206	1
+Simvastatin	Telithromycin	0.091	-5.132	Major	4 (1/3)	The serum concentration of Simvastatin can be increased when it is combined with Telithromycin.	#9ABEDB	0.998519694552825	1
+Galantamine	Cyclobenzaprine	0.05	Inf	Moderate	1 (1/0)		#B32020	0.249629923638206	1
+Tenoxicam	Acenocoumarol	0.203	-1.711	None	2 (1/1)	Tenoxicam may increase the anticoagulant activities of Acenocoumarol.	#AFCEE4	0.499259847276413	1
+Dextromethorphan	Terbinafine	0.222	-1.711	Major	2 (1/1)	The metabolism of Dextromethorphan can be decreased when combined with Terbinafine.	#AFCEE4	0.499259847276413	1
+Mitomycin	Vinblastine	1	-Inf	Moderate	1 (0/1)	The risk or severity of adverse effects can be increased when Vinblastine is combined with Mitomycin.	#1E61A5	0.249629923638206	0.0304049246998759
+Clodronic acid	Estramustine	0.667	-Inf	None	1 (0/1)	The serum concentration of Estramustine can be increased when it is combined with Clodronic Acid.	#1E61A5	0.249629923638206	0.683984439940791
+Phenytoin	Paramethasone	0.037	-Inf	None	1 (0/1)	The metabolism of Paramethasone can be increased when combined with Phenytoin.	#1E61A5	0.249629923638206	1
+Cyclosporine	Sirolimus	0.143	-Inf	Moderate	1 (0/1)	The risk or severity of adverse effects can be increased when Sirolimus is combined with Cyclosporine.	#1E61A5	0.249629923638206	1
+Dapsone	Rifampicin	0.083	-Inf	Moderate	1 (0/1)	The metabolism of Dapsone can be increased when combined with Rifampicin.	#1E61A5	0.249629923638206	1
+Lamotrigine	Norethisterone	0.053	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Ergotamine	Almotriptan	0.031	-Inf	Major	1 (0/1)	Ergotamine may increase the vasoconstricting activities of Almotriptan.	#1E61A5	0.249629923638206	1
+Dihydroergotamine	Sumatriptan	0.5	-Inf	Major	1 (0/1)	Dihydroergotamine may increase the vasoconstricting activities of Sumatriptan.	#1E61A5	0.249629923638206	1
+Tobramycin	Ceftriaxone	1	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Dihydroergotamine	Rizatriptan	0.5	-Inf	Major	1 (0/1)	Dihydroergotamine may increase the vasoconstricting activities of Rizatriptan.	#1E61A5	0.249629923638206	1
+Trospium	Ketotifen	0.214	-Inf	None	1 (0/1)		#1E61A5	0.249629923638206	1
+Trandolapril	Tizanidine	0.159	-Inf	Major	2 (0/2)	The risk or severity of hypotension can be increased when Tizanidine is combined with Trandolapril.	#1E61A5	0.499259847276413	1
+Ergotamine	Ketoconazole	0.5	-Inf	Major	1 (0/1)	The serum concentration of Ergotamine can be increased when it is combined with Ketoconazole.	#1E61A5	0.249629923638206	1
+Fluvoxamine	Nortriptyline	0.059	-Inf	Major	1 (0/1)	The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Nortriptyline.	#1E61A5	0.249629923638206	1
+Cyclosporine	Fluvastatin	0.6	-Inf	Moderate	2 (0/2)	The serum concentration of Fluvastatin can be increased when it is combined with Cyclosporine.	#1E61A5	0.499259847276413	1
+Atropine	Galantamine	1	-Inf	Moderate	1 (0/1)	The therapeutic efficacy of Atropine can be decreased when used in combination with Galantamine.	#1E61A5	0.249629923638206	1
+Phenytoin	Cimetidine	0.222	-Inf	Major	1 (0/1)	The risk or severity of adverse effects can be increased when Cimetidine is combined with Phenytoin.	#1E61A5	0.249629923638206	1
+Erythromycin	Zafirlukast	1	-Inf	Moderate	1 (0/1)	The serum concentration of Zafirlukast can be decreased when it is combined with Erythromycin.	#1E61A5	0.249629923638206	1
+Phenytoin	Mebendazole	0.084	-Inf	Moderate	2 (0/2)	The serum concentration of Mebendazole can be decreased when it is combined with Phenytoin.	#1E61A5	0.499259847276413	1
+Sucralfate	Ketoconazole	0.75	-Inf	Minor	2 (0/2)	Sucralfate can cause a decrease in the absorption of Ketoconazole resulting in a reduced serum concentration and potentially a decrease in efficacy.	#1E61A5	0.499259847276413	1
+Testosterone	Acenocoumarol	0.302	-Inf	None	11 (0/11)	Testosterone may increase the anticoagulant activities of Acenocoumarol.	#1E61A5	2.74592916002027	1
+Clonidine	Carvedilol	0.48	-Inf	Major	1 (0/1)	Clonidine may increase the atrioventricular blocking (AV block) activities of Carvedilol.	#1E61A5	0.249629923638206	1
+Warfarin	Rifampicin	0.273	-Inf	Major	4 (0/4)	The metabolism of Warfarin can be increased when combined with Rifampicin.	#1E61A5	0.998519694552825	1
+Colestipol	Warfarin	0.068	-Inf	Minor	2 (0/2)	Colestipol can cause a decrease in the absorption of Warfarin resulting in a reduced serum concentration and potentially a decrease in efficacy.	#1E61A5	0.499259847276413	1
+Frovatriptan	Sertraline	0.069	-Inf	Major	1 (0/1)	The risk or severity of adverse effects can be increased when Frovatriptan is combined with Sertraline.	#1E61A5	0.249629923638206	1
+Fosinopril	Lithium cation	0.111	-Inf	Moderate	1 (0/1)	The serum concentration of Lithium can be increased when it is combined with Fosinopril.	#1E61A5	0.249629923638206	1
+Methotrexate	Flurbiprofen	0.056	-Inf	Major	1 (0/1)	The serum concentration of Methotrexate can be increased when it is combined with Flurbiprofen.	#1E61A5	0.249629923638206	1
+Imipramine	Terbutaline	0.046	-Inf	Moderate	2 (0/2)	The risk or severity of adverse effects can be increased when Imipramine is combined with Terbutaline.	#1E61A5	0.499259847276413	1
+Galantamine	Pimozide	1	-Inf	Moderate	1 (0/1)	Galantamine may increase the QTc-prolonging activities of Pimozide.	#1E61A5	0.249629923638206	1
+Fluoxetine	Doxepin	0.211	-Inf	Major	1 (0/1)	The risk or severity of adverse effects can be increased when Fluoxetine is combined with Doxepin.	#1E61A5	0.249629923638206	1
+Carbamazepine	Midazolam	0.453	-Inf	Moderate	3 (0/3)	The metabolism of Midazolam can be increased when combined with Carbamazepine.	#1E61A5	0.748889770914619	1
+Alfuzosin	Itraconazole	0.141	-Inf	Major	7 (0/7)	The serum concentration of Alfuzosin can be increased when it is combined with Itraconazole.	#1E61A5	1.74740946546744	1
+Fluvoxamine	Cilostazol	0.348	-Inf	Major	2 (0/2)	The serum concentration of Cilostazol can be increased when it is combined with Fluvoxamine.	#1E61A5	0.499259847276413	1
+Phenytoin	Capecitabine	0.083	-Inf	Moderate	1 (0/1)	The serum concentration of Phenytoin can be increased when it is combined with Capecitabine.	#1E61A5	0.249629923638206	1
+Griseofulvin	Acenocoumarol	0.094	-Inf	None	2 (0/2)	The serum concentration of Acenocoumarol can be decreased when it is combined with Griseofulvin.	#1E61A5	0.499259847276413	1
+Lovastatin	Danazol	1	-Inf	Major	1 (0/1)	The risk or severity of myopathy and rhabdomyolysis can be increased when Danazol is combined with Lovastatin.	#1E61A5	0.249629923638206	1
+Haloperidol	Atropine	1	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Cimetidine	Galantamine	0.1	-Inf	Moderate	1 (0/1)	The metabolism of Galantamine can be decreased when combined with Cimetidine.	#1E61A5	0.249629923638206	1
+Gentamicin	Ceftriaxone	0.5	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Doxycycline	Insulin detemir	0.114	-Inf	Moderate	4 (0/4)		#1E61A5	0.998519694552825	1
+Perindopril	Lithium cation	0.149	-Inf	Moderate	1 (0/1)	The serum concentration of Lithium can be increased when it is combined with Perindopril.	#1E61A5	0.249629923638206	1
+Lovastatin	Bezafibrate	0.528	-Inf	None	2 (0/2)	Bezafibrate may increase the myopathic rhabdomyolysis activities of Lovastatin.	#1E61A5	0.499259847276413	1
+Glyburide	Nadolol	0.247	-Inf	Moderate	2 (0/2)	Nadolol may increase the hypoglycemic activities of Glyburide.	#1E61A5	0.499259847276413	1
+Cimetidine	Nifedipine	0.133	-Inf	Moderate	1 (0/1)	The serum concentration of Nifedipine can be increased when it is combined with Cimetidine.	#1E61A5	0.249629923638206	1
+Indomethacin	Sotalol	0.286	-Inf	Moderate	2 (0/2)	Indomethacin may decrease the antihypertensive activities of Sotalol.	#1E61A5	0.499259847276413	1
+Erythromycin	Cilostazol	0.031	-Inf	Major	3 (0/3)	The serum concentration of Cilostazol can be increased when it is combined with Erythromycin.	#1E61A5	0.748889770914619	1
+Megestrol acetate	Primidone	0.11	-Inf	Moderate	3 (0/3)		#1E61A5	0.748889770914619	1
+Betamethasone	Phenobarbital	0.143	-Inf	Moderate	1 (0/1)	The serum concentration of Betamethasone can be decreased when it is combined with Phenobarbital.	#1E61A5	0.249629923638206	1
+Cyclosporine	Verapamil	0.125	-Inf	Moderate	1 (0/1)	The metabolism of Cyclosporine can be decreased when combined with Verapamil.	#1E61A5	0.249629923638206	1
+Donepezil	Zuclopenthixol	0.292	-Inf	None	1 (0/1)		#1E61A5	0.249629923638206	1
+Methylphenidate	Carbamazepine	0.091	-Inf	None	1 (0/1)		#1E61A5	0.249629923638206	1
+Cyclosporine	Fluoxetine	0.027	-Inf	Moderate	1 (0/1)	The metabolism of Fluoxetine can be decreased when combined with Cyclosporine.	#1E61A5	0.249629923638206	1
+Naltrexone	Fentanyl	0.667	-Inf	Major	1 (0/1)	The therapeutic efficacy of Fentanyl can be decreased when used in combination with Naltrexone.	#1E61A5	0.249629923638206	1
+Cyclosporine	Indomethacin	0.2	-Inf	Moderate	1 (0/1)	Indomethacin may increase the nephrotoxic activities of Cyclosporine.	#1E61A5	0.249629923638206	1
+Lamotrigine	Rifampicin	0.222	-Inf	Moderate	1 (0/1)	The metabolism of Lamotrigine can be increased when combined with Rifampicin.	#1E61A5	0.249629923638206	1
+Flurazepam	Itraconazole	0.03	-Inf	None	1 (0/1)	The metabolism of Flurazepam can be decreased when combined with Itraconazole.	#1E61A5	0.249629923638206	1
+Erythromycin	Eplerenone	0.69	-Inf	Moderate	3 (0/3)	The serum concentration of Eplerenone can be increased when it is combined with Erythromycin.	#1E61A5	0.748889770914619	1
+Cyclosporine	Clindamycin	0.027	-Inf	Moderate	1 (0/1)	The metabolism of Clindamycin can be decreased when combined with Cyclosporine.	#1E61A5	0.249629923638206	1
+Isotretinoin	Acenocoumarol	0.143	-Inf	None	2 (0/2)		#1E61A5	0.499259847276413	1
+Fluvoxamine	Oxycodone	0.778	-Inf	Moderate	1 (0/1)	The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Oxycodone.	#1E61A5	0.249629923638206	1
+Tramadol	Moclobemide	1	-Inf	None	1 (0/1)	Tramadol may increase the neuroexcitatory activities of Moclobemide.	#1E61A5	0.249629923638206	1
+Cyclosporine	Colchicine	0.018	-Inf	Major	1 (0/1)	The serum concentration of Colchicine can be increased when it is combined with Cyclosporine.	#1E61A5	0.249629923638206	1
+Citalopram	Pimozide	0.067	-Inf	Major	1 (0/1)	The risk or severity of QTc prolongation can be increased when Citalopram is combined with Pimozide.	#1E61A5	0.249629923638206	1
+Cimetidine	Acenocoumarol	0.151	-Inf	None	2 (0/2)	Cimetidine may increase the anticoagulant activities of Acenocoumarol.	#1E61A5	0.499259847276413	1
+Itraconazole	Phenobarbital	0.5	-Inf	Moderate	1 (0/1)	The serum concentration of Itraconazole can be decreased when it is combined with Phenobarbital.	#1E61A5	0.249629923638206	1
+Warfarin	Isoniazid	0.467	-Inf	Moderate	1 (0/1)	The metabolism of Warfarin can be decreased when combined with Isoniazid.	#1E61A5	0.249629923638206	1
+Ticlopidine	Theophylline	0.737	-Inf	Moderate	1 (0/1)	The metabolism of Theophylline can be decreased when combined with Ticlopidine.	#1E61A5	0.249629923638206	1
+Amitriptyline	Ketoconazole	0.031	-Inf	Moderate	1 (0/1)	The metabolism of Amitriptyline can be decreased when combined with Ketoconazole.	#1E61A5	0.249629923638206	1
+Digoxin	Prazosin	0.793	-Inf	None	1 (0/1)		#1E61A5	0.249629923638206	1
+Galantamine	Ketoconazole	0.043	-Inf	Moderate	1 (0/1)	The metabolism of Galantamine can be decreased when combined with Ketoconazole.	#1E61A5	0.249629923638206	1
+Trifluoperazine	Levofloxacin	0.111	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Warfarin	Meloxicam	0.154	-Inf	Major	2 (0/2)	Meloxicam may increase the anticoagulant activities of Warfarin.	#1E61A5	0.499259847276413	1
+Theophylline	Phenobarbital	0.429	-Inf	Moderate	1 (0/1)	The metabolism of Theophylline can be increased when combined with Phenobarbital.	#1E61A5	0.249629923638206	1
+Esomeprazole	Ketoconazole	0.5	-Inf	Moderate	1 (0/1)	The serum concentration of Ketoconazole can be decreased when it is combined with Esomeprazole.	#1E61A5	0.249629923638206	1
+Phenytoin	Sucralfate	0.158	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Digoxin	Tetracycline	0.167	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1
+Metoprolol	Verapamil	0.023	-Inf	Major	1 (0/1)	The serum concentration of Metoprolol can be increased when it is combined with Verapamil.	#1E61A5	0.249629923638206	1
+Cyclosporine	Metoclopramide	0.021	-Inf	Moderate	1 (0/1)	Metoclopramide can cause an increase in the absorption of Cyclosporine resulting in an increased serum concentration and potentially a worsening of adverse effects.	#1E61A5	0.249629923638206	1
+Methylprednisolone	Ketoconazole	0.062	-Inf	Major	1 (0/1)	The serum concentration of Methylprednisolone can be increased when it is combined with Ketoconazole.	#1E61A5	0.249629923638206	1
+Chlorpromazine	Propranolol	0.067	-Inf	Moderate	1 (0/1)	The metabolism of Propranolol can be decreased when combined with Chlorpromazine.	#1E61A5	0.249629923638206	1
+Glimepiride	Rifampicin	0.062	-Inf	Moderate	1 (0/1)	The serum concentration of Glimepiride can be decreased when it is combined with Rifampicin.	#1E61A5	0.249629923638206	1
+Metoprolol	Hydralazine	1	-Inf	Minor	1 (0/1)	Hydralazine may increase the hypotensive activities of Metoprolol.	#1E61A5	0.249629923638206	1
+Mercaptopurine	Acenocoumarol	0.05	-Inf	None	1 (0/1)	Mercaptopurine may decrease the anticoagulant activities of Acenocoumarol.	#1E61A5	0.249629923638206	1
+Flutamide	Warfarin	0.111	-Inf	Moderate	1 (0/1)		#1E61A5	0.249629923638206	1

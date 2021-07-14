@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Tetracycline	Insulin glulisine	0
+05-09	Female	Tetracycline	Insulin glulisine	0
+10-14	Female	Tetracycline	Insulin glulisine	0
+15-19	Female	Tetracycline	Insulin glulisine	0
+20-24	Female	Tetracycline	Insulin glulisine	0
+25-29	Female	Tetracycline	Insulin glulisine	0
+30-34	Female	Tetracycline	Insulin glulisine	0
+35-39	Female	Tetracycline	Insulin glulisine	0
+40-44	Female	Tetracycline	Insulin glulisine	0
+45-49	Female	Tetracycline	Insulin glulisine	0
+50-54	Female	Tetracycline	Insulin glulisine	1.98790163067571e-06
+55-59	Female	Tetracycline	Insulin glulisine	2.09988303651487e-06
+60-64	Female	Tetracycline	Insulin glulisine	0
+65-69	Female	Tetracycline	Insulin glulisine	0
+70-74	Female	Tetracycline	Insulin glulisine	0
+75-79	Female	Tetracycline	Insulin glulisine	0
+80-84	Female	Tetracycline	Insulin glulisine	0
+85-89	Female	Tetracycline	Insulin glulisine	0
+>90	Female	Tetracycline	Insulin glulisine	0

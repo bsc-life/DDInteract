@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Fludrocortisone	Acetylsalicylic acid	0
+05-09	Female	Fludrocortisone	Acetylsalicylic acid	0
+10-14	Female	Fludrocortisone	Acetylsalicylic acid	0
+15-19	Female	Fludrocortisone	Acetylsalicylic acid	0
+20-24	Female	Fludrocortisone	Acetylsalicylic acid	0
+25-29	Female	Fludrocortisone	Acetylsalicylic acid	0
+30-34	Female	Fludrocortisone	Acetylsalicylic acid	0.000147242877125819
+35-39	Female	Fludrocortisone	Acetylsalicylic acid	8.50267834367826e-05
+40-44	Female	Fludrocortisone	Acetylsalicylic acid	0
+45-49	Female	Fludrocortisone	Acetylsalicylic acid	0.000195007800312012
+50-54	Female	Fludrocortisone	Acetylsalicylic acid	0.000461723150798781
+55-59	Female	Fludrocortisone	Acetylsalicylic acid	0.000262421273617915
+60-64	Female	Fludrocortisone	Acetylsalicylic acid	0.000555247084952804
+65-69	Female	Fludrocortisone	Acetylsalicylic acid	0.00100806451612903
+70-74	Female	Fludrocortisone	Acetylsalicylic acid	0.000950871632329636
+75-79	Female	Fludrocortisone	Acetylsalicylic acid	0.000661084178052005
+80-84	Female	Fludrocortisone	Acetylsalicylic acid	0.00150920615756112
+85-89	Female	Fludrocortisone	Acetylsalicylic acid	0.00176991150442478
+>90	Female	Fludrocortisone	Acetylsalicylic acid	0

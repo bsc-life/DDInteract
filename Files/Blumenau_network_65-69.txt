@@ -1,0 +1,145 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Tramadol	Fluoxetine	0.292	1.913	Major	35 (26/9)	Increased risk of serotonin syndrome	#EC9F9F	504.759157773291	1
+Tramadol	Carbamazepine	0.261	-1.007	Moderate	10 (6/4)	Reduces the efficacy of tramadol	#B4D1E6	144.21690222094	1
+Fluconazole	Amitriptyline	0.292	1.214	Moderate	17 (11/6)	The imidazole increases the effect and toxicity of the tricyclic	#F6B6B6	245.168733775598	1
+Fluconazole	Imipramine	0.161	3.972	Moderate	7 (6/1)	The imidazole increases the effect and toxicity of the tricyclic	#D06060	100.951831554658	1
+Fluconazole	Nortriptyline	0.151	Inf	Moderate	2 (2/0)	The imidazole increases the effect and toxicity of the tricyclic	#B32020	28.8433804441881	1
+Fluconazole	Carbamazepine	0.221	-1.007	Moderate	5 (3/2)	Increases the effect of carbamazepine	#B4D1E6	72.1084511104701	1
+Fluconazole	Simvastatin	0.338	2.178	Major	133 (102/31)	Increased risk of myopathy/rhabdomyolysis	#E89898	1918.08479953851	1
+Fluconazole	Warfarin	0.267	1.324	Major	3 (2/1)	Increases the anticoagulant effect	#F5B2B2	43.2650706662821	1
+Fluconazole	Diazepam	0.287	-1.133	Moderate	7 (4/3)	Increases the effect of the benzodiazepine	#B1CFE5	100.951831554658	1
+Fluconazole	Clonazepam	0.242	2.979	None	55 (45/10)	Increases the effect of the benzodiazepine	#DD7E7E	793.192962215172	1
+Erythromycin	Simvastatin	0.258	Inf	Major	1 (1/0)	The macrolide possibly increases the statin toxicity	#B32020	14.421690222094	1
+Erythromycin	Aminophylline	0.114	Inf	Moderate	1 (1/0)	The macrolide increases the effect and toxicity of theophylline	#B32020	14.421690222094	1
+Phenytoin	Valproic acid	0.392	-3.021	Moderate	3 (1/2)	Valproate increases the effect of hydantoin	#77A4CB	43.2650706662821	0.214760963140449
+Phenytoin	Omeprazole	0.333	-1.942	Moderate	16 (7/9)	Omeprazole increases the effect of hydantoin	#99BDDA	230.747043553504	1
+Phenytoin	Trimethoprim	0.131	Inf	Moderate	1 (1/0)	Trimethoprim increases the effect of hydantoin	#B32020	14.421690222094	1
+Phenytoin	Fluoxetine	0.642	-1.133	Moderate	7 (4/3)	Fluoxetine increases the effect of phenytoin	#B1CFE5	100.951831554658	1
+Phenytoin	Ciprofloxacin	0.166	-4.531	Moderate	4 (1/3)	Ciprofloxacin decreases the hydantoin effect	#4A82B8	57.6867608883761	1
+Phenytoin	Prednisone	0.118	1.324	Moderate	3 (2/1)	The enzyme inducer decreases the effect of the corticosteroid	#F5B2B2	43.2650706662821	1
+Phenytoin	Furosemide	0.478	-1.51	Minor	4 (2/2)	The hydantoin decreases the effect of furosemide	#A5C6DF	57.6867608883761	1
+Phenytoin	Diazepam	0.336	1.324	Moderate	6 (4/2)	Possible increased levels of the hydantoin, decrease of benzodiazepine	#F5B2B2	86.5301413325642	1
+Phenytoin	Amiodarone	0.403	-1.51	Moderate	2 (1/1)	Amiodarone increases the effect of hydantoin	#A5C6DF	28.8433804441881	1
+Phenytoin	Aminophylline	0.131	Inf	Moderate	1 (1/0)	Decreased effect of both products	#B32020	14.421690222094	1
+Phenytoin	Dexamethasone	0.18	-1.51	Moderate	2 (1/1)	The enzyme inducer decreases the effect of the corticosteroid	#A5C6DF	28.8433804441881	1
+Doxycycline	Warfarin	0.083	Inf	Moderate	1 (1/0)	The tetracycline increases the anticoagulant effect	#B32020	14.421690222094	1
+Lidocaine	Atenolol	0.296	-1.51	Moderate	4 (2/2)	The beta-blocker increases the effect and toxicity of lidocaine	#A5C6DF	57.6867608883761	1
+Lidocaine	Propranolol	0.211	Inf	Moderate	2 (2/0)	The beta-blocker increases the effect and toxicity of lidocaine	#B32020	28.8433804441881	1
+Conjugated estrogens	Prednisone	0.26	Inf	Moderate	3 (3/0)	The estrogenic agent increases the effect of corticosteroid	#B32020	43.2650706662821	1
+Conjugated estrogens	Prednisolone	0.286	Inf	Moderate	2 (2/0)	The estrogenic agent increases the effect of corticosteroid	#B32020	28.8433804441881	0.866955688743203
+Valproic acid	Carbamazepine	0.413	1.986	Moderate	4 (3/1)	Carbamazepine decreases the effect of valproic acid	#EB9E9E	57.6867608883761	0.123031260659545
+Valproic acid	Acetylsalicylic acid	0.324	1.324	Moderate	3 (2/1)	The salicylate increases the effect of valproic acid	#F5B2B2	43.2650706662821	1
+Acetaminophen	Warfarin	0.329	-1.51	Minor	26 (13/13)	Acetaminophen increases the anticoagulant effect	#A5C6DF	374.963945774445	1
+Amitriptyline	Fluoxetine	0.601	2.685	Major	91 (73/18)	Fluoxetine increases the effect and toxicity of tricyclics	#E18888	1312.37381021056	0.188918529365268
+Amitriptyline	Carbamazepine	0.576	-1.762	Moderate	13 (6/7)	The tricyclics increases the effect of carbamazepine	#9DC0DC	187.481972887222	1
+Amitriptyline	Salbutamol	0.346	Inf	Moderate	10 (10/0)	The tricyclic increases the sympathomimetic effect	#B32020	144.21690222094	1
+Amitriptyline	Fenoterol	0.105	Inf	None	5 (5/0)	The tricyclic increases the sympathomimetic effect	#B32020	72.1084511104701	1
+Atenolol	Diltiazem	0.518	-1.007	Major	20 (12/8)	Increased risk of bradycardia	#B4D1E6	288.433804441881	1
+Atenolol	Salbutamol	0.474	1.159	Moderate	22 (14/8)	Antagonism	#F7B7B7	317.277184886069	1
+Atenolol	Glyburide	0.6	-1.096	Moderate	88 (51/37)	The beta-blocker decreases the symptoms of hypoglycemia	#B2D0E5	1269.10873954427	0.99522258922568
+Atenolol	Ibuprofen	0.448	1.665	Moderate	232 (166/66)	Risk of inhibition of renal prostaglandins	#F0A7A7	3345.83213152581	1
+Atenolol	Gliclazide	0.498	-1.712	None	32 (15/17)	The beta-blocker decreases the symptoms of hypoglycemia	#9FC1DD	461.494087107009	1
+Atenolol	Fenoterol	0.318	1.324	None	6 (4/2)	Antagonism	#F5B2B2	86.5301413325642	1
+Omeprazole	Diazepam	0.314	1.81	Moderate	112 (82/30)	Omeprazole increases the effect of benzodiazepine	#EDA3A3	1615.22930487453	1
+Omeprazole	Clonazepam	0.328	1.858	Moderate	632 (466/166)	Omeprazole increases the effect of benzodiazepine	#EDA1A1	9114.50822036343	3.61002050049307e-06
+Diltiazem	Amlodipine	0.406	1.765	Moderate	11 (8/3)	Increases the effect and toxicity of amlodipine	#EEA4A4	158.638592443034	1
+Diltiazem	Propranolol	0.468	Inf	Major	6 (6/0)	Increased risk of bradycardia	#B32020	86.5301413325642	1
+Diltiazem	Simvastatin	0.557	1.123	Major	89 (56/33)	Increases the effect and toxicity of simvastatin	#F7B9B9	1283.53042976637	0.0358877875039278
+Diltiazem	Amiodarone	0.561	Inf	Major	3 (3/0)	Increased risk of cardiotoxicity and arrhythmias	#B32020	43.2650706662821	1
+Digoxin	Spironolactone	0.562	-3.021	Minor	39 (13/26)	Increased digoxin levels and decreased effect in presence of spironolactone	#77A4CB	562.445918661667	3.81502381739643e-28
+Digoxin	Levothyroxine	0.646	Inf	Moderate	10 (10/0)	The thyroid hormones decreases the effect of digoxin	#B32020	144.21690222094	1
+Digoxin	Propylthiouracil	0.323	Inf	Moderate	1 (1/0)	The antithyroid agent increases the effect of digoxin	#B32020	14.421690222094	1
+Digoxin	Verapamil	0.268	Inf	Moderate	1 (1/0)	Verapamil increases the effect of digoxin	#B32020	14.421690222094	1
+Digoxin	Furosemide	0.589	-3.309	Moderate	67 (21/46)	Possible electrolyte variations and arrhythmias	#709EC8	966.2532448803	4.54974361927807e-54
+Digoxin	Diazepam	0.306	-1.51	Moderate	2 (1/1)	The benzodiazepine increases the effect of digoxin	#A5C6DF	28.8433804441881	1
+Digoxin	Hydrochlorothiazide	0.547	-1.373	Moderate	21 (11/10)	Possible electrolyte variations and arrhythmias	#A9C9E1	302.855494663975	1
+Digoxin	Amiodarone	0.488	-1.259	Major	11 (6/5)	Amiodarone increases the effect of digoxin	#ACCCE3	158.638592443034	0.000479205533657028
+Digoxin	Carvedilol	0.519	-3.776	Moderate	35 (10/25)	Carvedilol increases levels/effect of digoxin	#6093C2	504.759157773291	1.09324237261019e-28
+Spironolactone	Enalapril	0.613	-2.069	Major	109 (46/63)	Increased risk of hyperkaliemia	#94B9D8	1571.96423420825	8.20223113325409e-08
+Spironolactone	Losartan	0.575	-1.126	Major	103 (59/44)	Increased risk of hyperkaliemia	#B1CFE5	1485.43409287569	1.39059819303168e-10
+Spironolactone	Captopril	0.634	1.324	Major	12 (8/4)	Increased risk of hyperkaliemia	#F5B2B2	173.060282665128	1
+Levothyroxine	Warfarin	0.525	1.103	Moderate	24 (15/9)	Thyroid hormones increase the anticoagulant effect	#F7B9B9	346.120565330257	1
+Levothyroxine	Iron	0.482	3.31	Moderate	30 (25/5)	Iron decreases absorption of levothyroxine	#D97575	432.650706662821	1
+Imipramine	Fluoxetine	0.535	3.31	Major	12 (10/2)	Fluoxetine increases the effect and toxicity of tricyclics	#D97575	173.060282665128	1
+Imipramine	Carbamazepine	0.668	1.324	Moderate	6 (4/2)	The tricyclic increases the effect of carbamazepine	#F5B2B2	86.5301413325642	0.990411042869817
+Imipramine	Salbutamol	0.15	1.324	Moderate	3 (2/1)	The tricyclic increases the sympathomimetic effect	#F5B2B2	43.2650706662821	1
+Imipramine	Fenoterol	0.033	Inf	None	1 (1/0)	The tricyclic increases the sympathomimetic effect	#B32020	14.421690222094	1
+Fluoxetine	Nortriptyline	0.528	Inf	Major	3 (3/0)	Fluoxetine increases the effect and toxicity of tricyclics	#B32020	43.2650706662821	1
+Fluoxetine	Carbamazepine	0.539	1.135	Moderate	19 (12/7)	Increases the effect of carbamazepine	#F7B9B9	274.012114219787	1
+Fluoxetine	Propranolol	0.368	3.31	Moderate	36 (30/6)	The SSRI increases the effect of the beta-blocker	#D97575	519.180847995385	1
+Fluoxetine	Warfarin	0.336	1.986	Moderate	12 (9/3)	The SSRI increases the effect of anticoagulant	#EB9E9E	173.060282665128	1
+Fluoxetine	Carvedilol	0.372	1.655	Moderate	14 (10/4)	The SSRI increases the effect of the beta-blocker	#F0A9A9	201.903663109316	1
+Fluoxetine	Lithium cation	0.545	1.986	Major	4 (3/1)	The SSRI increases serum levels of lithium	#EB9E9E	57.6867608883761	1
+Chlorpromazine	Propranolol	0.386	Inf	Moderate	2 (2/0)	Increased effect of both drugs	#B32020	28.8433804441881	1
+Haloperidol	Carbamazepine	0.451	Inf	Moderate	2 (2/0)	Carbamazepine decreases the effect of haloperidol	#B32020	28.8433804441881	1
+Haloperidol	Propranolol	0.507	-1.51	Moderate	2 (1/1)	Increased effect of both drugs	#A5C6DF	28.8433804441881	1
+Haloperidol	Biperiden	0.594	1.03	Moderate	23 (14/9)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#F9BCBC	331.698875108163	1.43235848004326e-38
+Haloperidol	Lithium cation	0.257	-2.266	Major	5 (2/3)	Possible extrapyramidal effects and neurotoxicity with this combination	#8EB5D5	72.1084511104701	0.000347072695623894
+Ciprofloxacin	Aminophylline	0.263	-3.021	Major	3 (1/2)	The quinolone increases the effect of theophylline	#77A4CB	43.2650706662821	1
+Ciprofloxacin	Iron	0.249	-2.266	Moderate	5 (2/3)	Formation of non-absorbable complexes	#8EB5D5	72.1084511104701	1
+Nortriptyline	Fenoterol	0.082	Inf	None	1 (1/0)	The tricyclic increases the sympathomimetic effect	#B32020	14.421690222094	1
+Carbamazepine	Simvastatin	0.332	1.412	Moderate	47 (32/15)	Decreases the effect of the statin	#F3AFAF	677.819440438419	1
+Carbamazepine	Warfarin	0.363	Inf	Moderate	3 (3/0)	Decreases the anticoagulant effect	#B32020	43.2650706662821	1
+Carbamazepine	Metronidazole	0.139	Inf	Moderate	2 (2/0)	Metronidazole increases the effect of carbamazepine	#B32020	28.8433804441881	1
+Carbamazepine	Aminophylline	0.373	Inf	Moderate	1 (1/0)	Increases or decreases the effect of theophylline	#B32020	14.421690222094	1
+Propranolol	Methyldopa	0.432	-1.51	Major	2 (1/1)	Possible hypertensive crisis	#A5C6DF	28.8433804441881	1
+Propranolol	Salbutamol	0.392	Inf	Major	8 (8/0)	Antagonism	#B32020	115.373521776752	1
+Propranolol	Glyburide	0.626	1.545	Moderate	20 (14/6)	The beta-blocker decreases the symptoms of hypoglycemia	#F2ACAC	288.433804441881	1
+Propranolol	Ibuprofen	0.402	5.031	Moderate	43 (38/5)	Risk of inhibition of renal prostaglandins	#C13F3F	620.132679550043	1
+Propranolol	Gliclazide	0.499	3.31	None	6 (5/1)	The beta-blocker decreases the symptoms of hypoglycemia	#D97575	86.5301413325642	1
+Propranolol	Phenobarbital	0.333	-4.531	Moderate	4 (1/3)	The barbiturate decreases the effect of metabolized beta-blocker	#4A82B8	57.6867608883761	1
+Propranolol	Aminophylline	0.383	Inf	Major	1 (1/0)	Antagonism of action and increased effect of theophylline	#B32020	14.421690222094	1
+Propranolol	Fenoterol	0.364	Inf	None	2 (2/0)	Antagonism	#B32020	28.8433804441881	1
+Enalapril	Lithium cation	0.499	Inf	Moderate	2 (2/0)	The ACE inhibitor increases serum levels of lithium	#B32020	28.8433804441881	1
+Diclofenac	Alendronic acid	0.141	Inf	Moderate	22 (22/0)	Increased risk of gastric toxicity	#B32020	317.277184886069	1
+Diclofenac	Warfarin	0.072	1.324	Major	3 (2/1)	The NSAID increases the anticoagulant effect	#F5B2B2	43.2650706662821	1
+Diclofenac	Lithium cation	0.041	Inf	Moderate	1 (1/0)	The NSAID increases serum levels of lithium	#B32020	14.421690222094	1
+Medroxyprogesterone acetate	Warfarin	0.099	Inf	None	1 (1/0)	The agent increases the effect of anticoagulant	#B32020	14.421690222094	1
+Alendronic acid	Ibuprofen	0.432	9.158	Moderate	89 (83/6)	Increased risk of gastric toxicity	#B32020	1283.53042976637	1
+Prednisone	Warfarin	0.234	-1.888	Moderate	9 (4/5)	The corticosteroid alters the anticoagulant effect	#9ABEDB	129.795211998846	1
+Prednisone	Acetylsalicylic acid	0.309	-1.768	Moderate	89 (41/48)	The corticosteroid decreases the effect of salicylates	#9DC0DC	1283.53042976637	1
+Prednisone	Phenobarbital	0.066	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of the corticosteroid	#B32020	14.421690222094	1
+Simvastatin	Amiodarone	0.542	-1.51	Major	78 (39/39)	Increased risk of rhabdomyolysis	#A5C6DF	1124.89183732333	1
+Simvastatin	Colchicine	0.516	-4.028	Major	22 (6/16)	Increased risk of rhabdomyolysis with this combination	#598DBE	317.277184886069	1
+Losartan	Lithium cation	0.275	4.634	Moderate	8 (7/1)	Losartan increases serum levels of lithium	#C64A4A	115.373521776752	1
+Warfarin	Ranitidine	0.403	-2.266	Moderate	5 (2/3)	The anti-H2 increases the anticoagulant effect	#8EB5D5	72.1084511104701	1
+Warfarin	Acetylsalicylic acid	0.511	-5.136	Major	22 (5/17)	The salicylate increases the effect of anticoagulant	#3774B0	317.277184886069	1
+Warfarin	Ethinylestradiol	0.345	Inf	Moderate	1 (1/0)	Increased thrombotic risk due to estrogen	#B32020	14.421690222094	1
+Warfarin	Ibuprofen	0.299	-1.51	Major	12 (6/6)	The NSAID increases the anticoagulant effect	#A5C6DF	173.060282665128	1
+Warfarin	Norfloxacin	0.195	-3.021	Major	3 (1/2)	The quinolone increases the anticoagulant effect	#77A4CB	43.2650706662821	1
+Warfarin	Miconazole	0.395	2.648	Major	5 (4/1)	Vaginal miconazole increases the anticoagulant effect	#E28989	72.1084511104701	1
+Warfarin	Amiodarone	0.535	-4.028	Major	11 (3/8)	Increases the anticoagulant effect	#598DBE	158.638592443034	0.00315846888174839
+Warfarin	Phenobarbital	0.267	Inf	Major	1 (1/0)	The barbiturate decreases the anticoagulant effect	#B32020	14.421690222094	1
+Furosemide	Gentamicin	0.384	-1.51	Major	2 (1/1)	Increased ototoxicity	#A5C6DF	28.8433804441881	1
+Furosemide	Ibuprofen	0.391	2.181	Moderate	73 (56/17)	The NSAID decreases the diuretic and antihypertensive effects of the loop diuretic	#E89898	1052.78338621286	1
+Hydrocortisone	Acetylsalicylic acid	0.154	2.979	Moderate	11 (9/2)	The corticosteroid decreases the effect of salicylates	#DD7E7E	158.638592443034	1
+Prednisolone	Acetylsalicylic acid	0.219	-1.51	Moderate	4 (2/2)	The corticosteroid decreases the effect of salicylates	#A5C6DF	57.6867608883761	1
+Metronidazole	Phenobarbital	0.086	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of metronidazole	#B32020	14.421690222094	1
+Acetylsalicylic acid	Glyburide	0.643	-1.497	Moderate	229 (115/114)	The salicylate increases the effect of sulfonylurea	#A6C7E0	3302.56706085953	1.49957984378289e-30
+Acetylsalicylic acid	Ibuprofen	0.424	1.279	Major	346 (228/118)	Ibuprofen reduces ASA cardioprotective effects	#F5B4B4	4989.90481684453	1
+Acetylsalicylic acid	Gliclazide	0.601	-1.732	None	88 (41/47)	The salicylate increases the effect of sulfonylurea	#9FC1DD	1269.10873954427	1.71349610377774e-06
+Acetylsalicylic acid	Dexamethasone	0.178	-1.133	Moderate	28 (16/12)	The corticosteroid decreases the effect of salicylates	#B1CFE5	403.807326218633	1
+Methyldopa	Salbutamol	0.148	Inf	Moderate	1 (1/0)	Increased arterial pressure	#B32020	14.421690222094	1
+Methyldopa	Fenoterol	0.226	Inf	None	1 (1/0)	Increased arterial pressure	#B32020	14.421690222094	1
+Hydrochlorothiazide	Lithium cation	0.322	2.317	Major	9 (7/2)	The thiazide diuretic increases serum levels of lithium	#E69393	129.795211998846	1
+Salbutamol	Carvedilol	0.412	-6.042	Major	5 (1/4)	Antagonism	#1E61A5	72.1084511104701	1
+Glyburide	Carvedilol	0.654	-5.538	Moderate	14 (3/11)	The beta-blocker decreases the symptoms of hypoglycemia	#2B6BAA	201.903663109316	1
+Ibuprofen	Carvedilol	0.45	-2.014	Moderate	14 (6/8)	Risk of inhibition of renal prostaglandins	#96BBD9	201.903663109316	1
+Ibuprofen	Lithium cation	0.24	-1.007	Moderate	5 (3/2)	The NSAID increases serum levels of lithium	#B4D1E6	72.1084511104701	1
+Norfloxacin	Aminophylline	0.258	1.324	Moderate	3 (2/1)	The quinolone increases the effect of theophylline	#F5B2B2	43.2650706662821	1
+Norfloxacin	Iron	0.232	2.648	None	5 (4/1)	Formation of non-absorbable complexes	#E28989	72.1084511104701	1
+Phenobarbital	Dexamethasone	0.213	Inf	Moderate	1 (1/0)	The barbiturate decreases the effect of the corticosteroid	#B32020	14.421690222094	1
+Captopril	Lithium cation	0.153	Inf	Moderate	2 (2/0)	The ACE inhibitor increases serum levels of lithium	#B32020	28.8433804441881	1
+Aminophylline	Lithium cation	0.308	Inf	Moderate	1 (1/0)	Theophylline decreases serum levels of lithium	#B32020	14.421690222094	1
+Metoclopramide	Levodopa	0.634	Inf	Moderate	2 (2/0)	Levodopa decreases the effect of metoclopramide	#B32020	28.8433804441881	1
+Folic acid	Phenobarbital	0.29	-Inf	Moderate	1 (0/1)	Folic acid decreases the effect of anticonvulsant	#1E61A5	14.421690222094	1
+Fluconazole	Haloperidol	0.065	-Inf	Major	1 (0/1)	The imidazole increases the effect and toxicity of haloperidol	#1E61A5	14.421690222094	1
+Azithromycin	Warfarin	0.146	-Inf	Moderate	1 (0/1)	Increases the anticoagulant effect	#1E61A5	14.421690222094	1
+Valproic acid	Phenobarbital	0.344	-Inf	Moderate	1 (0/1)	Valproic acid increases the effect of barbiturate	#1E61A5	14.421690222094	1
+Diltiazem	Carbamazepine	0.371	-Inf	Major	1 (0/1)	Increases the effect of carbamazepine	#1E61A5	14.421690222094	1
+Allopurinol	Warfarin	0.422	-Inf	Moderate	8 (0/8)	Allopurinol increases the anticoagulant effect	#1E61A5	115.373521776752	0.695056461417164
+Nortriptyline	Carbamazepine	0.696	-Inf	Moderate	1 (0/1)	The tricyclic increases the effect of carbamazepine	#1E61A5	14.421690222094	1
+Warfarin	Dexamethasone	0.154	-Inf	Moderate	2 (0/2)	The corticosteroid alters the anticoagulant effect	#1E61A5	28.8433804441881	1
+Gliclazide	Carvedilol	0.502	-Inf	None	1 (0/1)	The beta-blocker decreases the symptoms of hypoglycemia	#1E61A5	14.421690222094	1
+Carvedilol	Fenoterol	0.193	-Inf	None	1 (0/1)	Antagonism	#1E61A5	14.421690222094	1
+Phenobarbital	Aminophylline	0.672	-Inf	Moderate	1 (0/1)	The barbiturate decreases the effect of theophylline	#1E61A5	14.421690222094	1

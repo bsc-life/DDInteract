@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Memantine	Sodium bicarbonate	0
+05-09	Male	Memantine	Sodium bicarbonate	0
+10-14	Male	Memantine	Sodium bicarbonate	0
+15-19	Male	Memantine	Sodium bicarbonate	0
+20-24	Male	Memantine	Sodium bicarbonate	0
+25-29	Male	Memantine	Sodium bicarbonate	0
+30-34	Male	Memantine	Sodium bicarbonate	0
+35-39	Male	Memantine	Sodium bicarbonate	0
+40-44	Male	Memantine	Sodium bicarbonate	0
+45-49	Male	Memantine	Sodium bicarbonate	0
+50-54	Male	Memantine	Sodium bicarbonate	0
+55-59	Male	Memantine	Sodium bicarbonate	0
+60-64	Male	Memantine	Sodium bicarbonate	0
+65-69	Male	Memantine	Sodium bicarbonate	0
+70-74	Male	Memantine	Sodium bicarbonate	0.000213675213675214
+75-79	Male	Memantine	Sodium bicarbonate	0.000313185092389602
+80-84	Male	Memantine	Sodium bicarbonate	0
+85-89	Male	Memantine	Sodium bicarbonate	0.000809061488673139
+>90	Male	Memantine	Sodium bicarbonate	0

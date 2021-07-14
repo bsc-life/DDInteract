@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Carvedilol	Insulin aspart	0
+05-09	Male	Carvedilol	Insulin aspart	0
+10-14	Male	Carvedilol	Insulin aspart	0
+15-19	Male	Carvedilol	Insulin aspart	0
+20-24	Male	Carvedilol	Insulin aspart	0
+25-29	Male	Carvedilol	Insulin aspart	0.00012721027859051
+30-34	Male	Carvedilol	Insulin aspart	0
+35-39	Male	Carvedilol	Insulin aspart	0.000559832050384885
+40-44	Male	Carvedilol	Insulin aspart	0.000148235991698784
+45-49	Male	Carvedilol	Insulin aspart	0.000413280066124811
+50-54	Male	Carvedilol	Insulin aspart	0.00149012790264498
+55-59	Male	Carvedilol	Insulin aspart	0.000902323482968644
+60-64	Male	Carvedilol	Insulin aspart	0.00195050591247105
+65-69	Male	Carvedilol	Insulin aspart	0.00225428313796213
+70-74	Male	Carvedilol	Insulin aspart	0.00384615384615385
+75-79	Male	Carvedilol	Insulin aspart	0.00156592546194801
+80-84	Male	Carvedilol	Insulin aspart	0.00247647350173353
+85-89	Male	Carvedilol	Insulin aspart	0.000809061488673139
+>90	Male	Carvedilol	Insulin aspart	0

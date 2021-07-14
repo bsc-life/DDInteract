@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Aluminum hydroxide	0	0.1115	0.1827	141
+05-09	Male	Aluminum hydroxide	0	0.2296	0.435	773
+10-14	Male	Aluminum hydroxide	0	0.3868	0.7599	1994
+15-19	Male	Aluminum hydroxide	0	0.5988	0.9645	2751
+20-24	Male	Aluminum hydroxide	0	0.9	1.3174	3949
+25-29	Male	Aluminum hydroxide	0	1.2185	1.7278	6428
+30-34	Male	Aluminum hydroxide	0	1.4025	1.9251	9118
+35-39	Male	Aluminum hydroxide	0	1.4518	1.9309	10470
+40-44	Male	Aluminum hydroxide	0	1.5028	1.9296	10335
+45-49	Male	Aluminum hydroxide	0	1.6539	2.0795	10213
+50-54	Male	Aluminum hydroxide	0	1.8279	2.2403	10181
+55-59	Male	Aluminum hydroxide	0	2.1414	2.5644	10923
+60-64	Male	Aluminum hydroxide	0	3.0638	3.5817	14744
+65-69	Male	Aluminum hydroxide	0	4.0559	4.5895	17332
+70-74	Male	Aluminum hydroxide	0	4.421	4.9115	16622
+75-79	Male	Aluminum hydroxide	0	5.1025	5.6025	15965
+80-84	Male	Aluminum hydroxide	0	4.7711	5.1647	11481
+85-89	Male	Aluminum hydroxide	0	3.9369	4.2056	6215
+>90	Male	Aluminum hydroxide	0	3.5191	3.7087	2523

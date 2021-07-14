@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Valproic acid	0.0168	0.3395	0.394	304
+05-09	Male	Valproic acid	0.031	0.4558	0.5476	973
+10-14	Male	Valproic acid	0.0313	0.4928	0.5968	1566
+15-19	Male	Valproic acid	0.0309	0.5231	0.6721	1917
+20-24	Male	Valproic acid	0.0354	0.5644	0.7136	2139
+25-29	Male	Valproic acid	0.0376	0.5965	0.7166	2666
+30-34	Male	Valproic acid	0.0445	0.6032	0.6959	3296
+35-39	Male	Valproic acid	0.0492	0.6276	0.7115	3858
+40-44	Male	Valproic acid	0.0612	0.6396	0.7104	3805
+45-49	Male	Valproic acid	0.0715	0.6477	0.7063	3469
+50-54	Male	Valproic acid	0.0849	0.6304	0.6731	3059
+55-59	Male	Valproic acid	0.1033	0.578	0.6109	2602
+60-64	Male	Valproic acid	0.1161	0.5381	0.5629	2317
+65-69	Male	Valproic acid	0.12	0.4687	0.487	1839
+70-74	Male	Valproic acid	0.1306	0.4429	0.4583	1551
+75-79	Male	Valproic acid	0.1576	0.473	0.486	1385
+80-84	Male	Valproic acid	0.1862	0.4935	0.5065	1126
+85-89	Male	Valproic acid	0.1874	0.4757	0.4811	711
+>90	Male	Valproic acid	0.1617	0.4351	0.4454	303

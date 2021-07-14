@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Insulin lispro	0	0.0272	0.0389	30
+05-09	Male	Insulin lispro	0	0.0557	0.0664	118
+10-14	Male	Insulin lispro	0	0.0934	0.101	265
+15-19	Male	Insulin lispro	0	0.1181	0.1325	378
+20-24	Male	Insulin lispro	0	0.1468	0.1641	492
+25-29	Male	Insulin lispro	0	0.1691	0.1922	715
+30-34	Male	Insulin lispro	0	0.1944	0.2194	1039
+35-39	Male	Insulin lispro	0	0.2064	0.2322	1259
+40-44	Male	Insulin lispro	0	0.2483	0.2739	1467
+45-49	Male	Insulin lispro	0	0.2993	0.3274	1608
+50-54	Male	Insulin lispro	0	0.3802	0.4056	1843
+55-59	Male	Insulin lispro	0	0.4808	0.5092	2169
+60-64	Male	Insulin lispro	0	0.6034	0.6309	2597
+65-69	Male	Insulin lispro	0	0.7277	0.7494	2830
+70-74	Male	Insulin lispro	0	0.7541	0.7753	2624
+75-79	Male	Insulin lispro	0	0.7373	0.7577	2159
+80-84	Male	Insulin lispro	0	0.6752	0.6973	1550
+85-89	Male	Insulin lispro	0	0.519	0.5339	789
+>90	Male	Insulin lispro	0	0.3131	0.3293	224

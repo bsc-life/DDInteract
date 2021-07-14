@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	Male	Methyl aminolevulinate	0	0	4e-04	1
+15-19	Male	Methyl aminolevulinate	0	0	0.0011	3
+20-24	Male	Methyl aminolevulinate	0	3e-04	0.0023	7
+25-29	Male	Methyl aminolevulinate	0	0.0011	0.0016	6
+30-34	Male	Methyl aminolevulinate	0	2e-04	8e-04	4
+35-39	Male	Methyl aminolevulinate	0	4e-04	0.0024	13
+40-44	Male	Methyl aminolevulinate	0	9e-04	0.003	16
+45-49	Male	Methyl aminolevulinate	0	0.0016	0.0031	15
+50-54	Male	Methyl aminolevulinate	0	0.0042	0.0095	43
+55-59	Male	Methyl aminolevulinate	0	0.0068	0.0157	67
+60-64	Male	Methyl aminolevulinate	0	0.0204	0.0316	130
+65-69	Male	Methyl aminolevulinate	0	0.0368	0.0506	191
+70-74	Male	Methyl aminolevulinate	0	0.0573	0.073	247
+75-79	Male	Methyl aminolevulinate	0	0.0839	0.1046	298
+80-84	Male	Methyl aminolevulinate	0	0.0922	0.1102	245
+85-89	Male	Methyl aminolevulinate	0	0.0914	0.1083	160
+>90	Male	Methyl aminolevulinate	0	0.1014	0.1132	77

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Tranexamic acid	0	0.0052	0.0246	19
+05-09	Male	Tranexamic acid	0	0.0231	0.0563	100
+10-14	Male	Tranexamic acid	0	0.0366	0.0854	224
+15-19	Male	Tranexamic acid	0	0.0715	0.1273	363
+20-24	Male	Tranexamic acid	0	0.0801	0.1231	369
+25-29	Male	Tranexamic acid	0	0.0704	0.1102	410
+30-34	Male	Tranexamic acid	0	0.065	0.0975	462
+35-39	Male	Tranexamic acid	0	0.0784	0.1131	613
+40-44	Male	Tranexamic acid	0	0.1087	0.1471	788
+45-49	Male	Tranexamic acid	0	0.1611	0.2063	1013
+50-54	Male	Tranexamic acid	0	0.2467	0.3072	1396
+55-59	Male	Tranexamic acid	0	0.385	0.4526	1928
+60-64	Male	Tranexamic acid	0	0.5983	0.6887	2835
+65-69	Male	Tranexamic acid	0	0.9151	1.034	3905
+70-74	Male	Tranexamic acid	0	1.1805	1.3182	4461
+75-79	Male	Tranexamic acid	0	1.4693	1.6406	4675
+80-84	Male	Tranexamic acid	0	1.7319	1.9056	4236
+85-89	Male	Tranexamic acid	0	1.5888	1.7506	2587
+>90	Male	Tranexamic acid	0	1.8007	1.9212	1307

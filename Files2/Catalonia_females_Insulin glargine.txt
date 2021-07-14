@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Insulin glargine	0	0.0209	0.0237	17
+05-09	Female	Insulin glargine	0	0.1117	0.1277	216
+10-14	Female	Insulin glargine	0	0.2713	0.2979	738
+15-19	Female	Insulin glargine	0	0.3129	0.3406	1020
+20-24	Female	Insulin glargine	0	0.2898	0.3241	1161
+25-29	Female	Insulin glargine	0	0.3215	0.3577	1610
+30-34	Female	Insulin glargine	0	0.3435	0.3877	2110
+35-39	Female	Insulin glargine	0	0.3951	0.446	2623
+40-44	Female	Insulin glargine	0	0.4659	0.5127	2916
+45-49	Female	Insulin glargine	0	0.5843	0.6283	3325
+50-54	Female	Insulin glargine	0	0.8455	0.8993	4524
+55-59	Female	Insulin glargine	0	1.1822	1.2442	5925
+60-64	Female	Insulin glargine	0	1.531	1.5945	7315
+65-69	Female	Insulin glargine	0	2.0705	2.1415	9021
+70-74	Female	Insulin glargine	0	2.6345	2.7127	10617
+75-79	Female	Insulin glargine	0	3.0768	3.1661	11314
+80-84	Female	Insulin glargine	0	3.5314	3.6231	11530
+85-89	Female	Insulin glargine	0	3.5821	3.6834	9312
+>90	Female	Insulin glargine	0	3.4238	3.5304	5365

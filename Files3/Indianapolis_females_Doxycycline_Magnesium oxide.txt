@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Doxycycline	Magnesium oxide	0
+05-09	Female	Doxycycline	Magnesium oxide	0
+10-14	Female	Doxycycline	Magnesium oxide	0
+15-19	Female	Doxycycline	Magnesium oxide	0
+20-24	Female	Doxycycline	Magnesium oxide	7.52162467092892e-05
+25-29	Female	Doxycycline	Magnesium oxide	0.000129794276072425
+30-34	Female	Doxycycline	Magnesium oxide	0.000147242877125819
+35-39	Female	Doxycycline	Magnesium oxide	8.50267834367826e-05
+40-44	Female	Doxycycline	Magnesium oxide	0.000204540805890775
+45-49	Female	Doxycycline	Magnesium oxide	0.000292511700468019
+50-54	Female	Doxycycline	Magnesium oxide	0.000831101671437806
+55-59	Female	Doxycycline	Magnesium oxide	0.000787263820853744
+60-64	Female	Doxycycline	Magnesium oxide	0.000740329446603739
+65-69	Female	Doxycycline	Magnesium oxide	0.00134408602150538
+70-74	Female	Doxycycline	Magnesium oxide	0.00158478605388273
+75-79	Female	Doxycycline	Magnesium oxide	0.00396650506831203
+80-84	Female	Doxycycline	Magnesium oxide	0.00181104738907335
+85-89	Female	Doxycycline	Magnesium oxide	0.00309734513274336
+>90	Female	Doxycycline	Magnesium oxide	0

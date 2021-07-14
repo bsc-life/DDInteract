@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Naproxen	Lithium cation	0
+05-09	Male	Naproxen	Lithium cation	0
+10-14	Male	Naproxen	Lithium cation	3.81101918085954e-06
+15-19	Male	Naproxen	Lithium cation	3.50585653333894e-06
+20-24	Male	Naproxen	Lithium cation	3.33592423448879e-06
+25-29	Male	Naproxen	Lithium cation	4.30079779799153e-05
+30-34	Male	Naproxen	Lithium cation	3.80027446426686e-05
+35-39	Male	Naproxen	Lithium cation	6.27048280873368e-05
+40-44	Male	Naproxen	Lithium cation	7.84145328267506e-05
+45-49	Male	Naproxen	Lithium cation	8.14433388511195e-05
+50-54	Male	Naproxen	Lithium cation	0.000136430451276725
+55-59	Male	Naproxen	Lithium cation	0.000138517162041602
+60-64	Male	Naproxen	Lithium cation	0.00010688639919155
+65-69	Male	Naproxen	Lithium cation	7.14957168769612e-05
+70-74	Male	Naproxen	Lithium cation	4.72774120344652e-05
+75-79	Male	Naproxen	Lithium cation	2.4564851207187e-05
+80-84	Male	Naproxen	Lithium cation	4.49848625937372e-06
+85-89	Male	Naproxen	Lithium cation	6.76681553660847e-06
+>90	Male	Naproxen	Lithium cation	1.46996134001676e-05

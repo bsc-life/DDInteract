@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Calcium acetate	0	6e-04	6e-04	1
+10-14	Female	Calcium acetate	0	0.0032	0.0032	8
+15-19	Female	Calcium acetate	0	0.002	0.002	6
+20-24	Female	Calcium acetate	0	0.0022	0.0028	10
+25-29	Female	Calcium acetate	0	0.0058	0.0058	26
+30-34	Female	Calcium acetate	0	0.011	0.011	60
+35-39	Female	Calcium acetate	0	0.0173	0.0173	102
+40-44	Female	Calcium acetate	0	0.0171	0.0174	99
+45-49	Female	Calcium acetate	0	0.0242	0.0253	134
+50-54	Female	Calcium acetate	0	0.0332	0.034	171
+55-59	Female	Calcium acetate	0	0.0395	0.0409	195
+60-64	Female	Calcium acetate	0	0.0482	0.0506	232
+65-69	Female	Calcium acetate	0	0.062	0.0629	265
+70-74	Female	Calcium acetate	0	0.0774	0.0784	307
+75-79	Female	Calcium acetate	0	0.0943	0.0968	346
+80-84	Female	Calcium acetate	0	0.1087	0.1119	356
+85-89	Female	Calcium acetate	0	0.1111	0.1151	291
+>90	Female	Calcium acetate	0	0.0862	0.0888	135

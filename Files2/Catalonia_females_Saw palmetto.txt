@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Saw palmetto	0	0.0014	0.0014	1
+05-09	Female	Saw palmetto	0	0.0018	0.0018	3
+10-14	Female	Saw palmetto	0	0.0016	0.0016	4
+15-19	Female	Saw palmetto	0	0.0053	0.0073	22
+20-24	Female	Saw palmetto	0	0.0034	0.0067	24
+25-29	Female	Saw palmetto	0	0.0069	0.0091	41
+30-34	Female	Saw palmetto	0	0.0079	0.0094	51
+35-39	Female	Saw palmetto	0	0.0068	0.0095	56
+40-44	Female	Saw palmetto	0	0.0114	0.0156	89
+45-49	Female	Saw palmetto	0	0.0168	0.0219	116
+50-54	Female	Saw palmetto	0	0.0292	0.035	176
+55-59	Female	Saw palmetto	0	0.0546	0.0626	298
+60-64	Female	Saw palmetto	0	0.0772	0.0837	384
+65-69	Female	Saw palmetto	0	0.0864	0.0926	390
+70-74	Female	Saw palmetto	0	0.0933	0.0979	383
+75-79	Female	Saw palmetto	0	0.0929	0.0988	353
+80-84	Female	Saw palmetto	0	0.0814	0.0842	268
+85-89	Female	Saw palmetto	0	0.0621	0.0661	167
+>90	Female	Saw palmetto	0	0.0638	0.0658	100

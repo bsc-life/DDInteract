@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Benzylpenicillin benzathine hydrate	0	0.0335	0.053	38
+05-09	Female	Benzylpenicillin benzathine hydrate	0	0.042	0.0721	122
+10-14	Female	Benzylpenicillin benzathine hydrate	0	0.0396	0.069	171
+15-19	Female	Benzylpenicillin benzathine hydrate	0	0.1329	0.197	590
+20-24	Female	Benzylpenicillin benzathine hydrate	0	0.12	0.2004	718
+25-29	Female	Benzylpenicillin benzathine hydrate	0	0.1062	0.1746	786
+30-34	Female	Benzylpenicillin benzathine hydrate	0	0.1163	0.1974	1074
+35-39	Female	Benzylpenicillin benzathine hydrate	0	0.1003	0.161	947
+40-44	Female	Benzylpenicillin benzathine hydrate	0	0.0631	0.0965	549
+45-49	Female	Benzylpenicillin benzathine hydrate	0	0.0427	0.0652	345
+50-54	Female	Benzylpenicillin benzathine hydrate	0	0.0366	0.0523	263
+55-59	Female	Benzylpenicillin benzathine hydrate	0	0.0359	0.0479	228
+60-64	Female	Benzylpenicillin benzathine hydrate	0	0.0344	0.0449	206
+65-69	Female	Benzylpenicillin benzathine hydrate	0	0.0226	0.028	118
+70-74	Female	Benzylpenicillin benzathine hydrate	0	0.0207	0.0235	92
+75-79	Female	Benzylpenicillin benzathine hydrate	0	0.021	0.0224	80
+80-84	Female	Benzylpenicillin benzathine hydrate	0	0.0207	0.0242	77
+85-89	Female	Benzylpenicillin benzathine hydrate	0	0.0293	0.0312	79
+>90	Female	Benzylpenicillin benzathine hydrate	0	0.0474	0.052	79

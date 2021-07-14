@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Warfarin	Acetylsalicylic acid	0
+05-09	Female	Warfarin	Acetylsalicylic acid	0
+10-14	Female	Warfarin	Acetylsalicylic acid	0
+15-19	Female	Warfarin	Acetylsalicylic acid	0
+20-24	Female	Warfarin	Acetylsalicylic acid	0.000306513409961686
+25-29	Female	Warfarin	Acetylsalicylic acid	0
+30-34	Female	Warfarin	Acetylsalicylic acid	0
+35-39	Female	Warfarin	Acetylsalicylic acid	0
+40-44	Female	Warfarin	Acetylsalicylic acid	0.000464828013634955
+45-49	Female	Warfarin	Acetylsalicylic acid	0.000416956219596942
+50-54	Female	Warfarin	Acetylsalicylic acid	0.000545033383294727
+55-59	Female	Warfarin	Acetylsalicylic acid	0.00156936597614564
+60-64	Female	Warfarin	Acetylsalicylic acid	0.00160886664283161
+65-69	Female	Warfarin	Acetylsalicylic acid	0.00119846596356663
+70-74	Female	Warfarin	Acetylsalicylic acid	0.00390243902439024
+75-79	Female	Warfarin	Acetylsalicylic acid	0.00301204819277108
+80-84	Female	Warfarin	Acetylsalicylic acid	0.00392156862745098
+85-89	Female	Warfarin	Acetylsalicylic acid	0.00481927710843374
+>90	Female	Warfarin	Acetylsalicylic acid	0

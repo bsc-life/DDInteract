@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Aluminum chloride	0	0	0	0
+05-09	Female	Aluminum chloride	0	0	0	0
+10-14	Female	Aluminum chloride	0	0	0.134952766531714	11
+15-19	Female	Aluminum chloride	0	0	0.211416490486258	22
+20-24	Female	Aluminum chloride	0	0	0.090259496051147	12
+25-29	Female	Aluminum chloride	0	0	0.10383542085794	16
+30-34	Female	Aluminum chloride	0	0	0.0662592947066186	9
+35-39	Female	Aluminum chloride	0	0	0.0510160700620696	6
+40-44	Female	Aluminum chloride	0	0	0.0920433626508489	9
+45-49	Female	Aluminum chloride	0	0	0.0585023400936037	6
+50-54	Female	Aluminum chloride	0	0	0.0369378520639025	4
+55-59	Female	Aluminum chloride	0	0	0.0174947515745276	2
+60-64	Female	Aluminum chloride	0	0	0.0370164723301869	4
+65-69	Female	Aluminum chloride	0	0	0.0112007168458781	1
+70-74	Female	Aluminum chloride	0	0	0.0316957210776545	2
+75-79	Female	Aluminum chloride	0	0	0.0220361392684002	1
+80-84	Female	Aluminum chloride	0	0	0	0
+85-89	Female	Aluminum chloride	0	0	0	0
+>90	Female	Aluminum chloride	0	0	0	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Megestrol acetate	0	0.0012	0.003	5
+10-14	Female	Megestrol acetate	0	0.002	0.002	5
+15-19	Female	Megestrol acetate	0	0.0114	0.018	54
+20-24	Female	Megestrol acetate	0	0.0131	0.0209	75
+25-29	Female	Megestrol acetate	0	0.0129	0.0173	78
+30-34	Female	Megestrol acetate	2e-04	0.016	0.0211	115
+35-39	Female	Megestrol acetate	5e-04	0.0252	0.0303	178
+40-44	Female	Megestrol acetate	4e-04	0.0382	0.0461	262
+45-49	Female	Megestrol acetate	9e-04	0.054	0.0599	317
+50-54	Female	Megestrol acetate	0.001	0.0684	0.0755	380
+55-59	Female	Megestrol acetate	8e-04	0.1063	0.1159	552
+60-64	Female	Megestrol acetate	0.0015	0.1386	0.148	679
+65-69	Female	Megestrol acetate	5e-04	0.197	0.2094	882
+70-74	Female	Megestrol acetate	0.0031	0.325	0.3437	1345
+75-79	Female	Megestrol acetate	0.0031	0.5541	0.586	2094
+80-84	Female	Megestrol acetate	0.0066	0.9905	1.0439	3322
+85-89	Female	Megestrol acetate	0.0055	1.3773	1.4505	3667
+>90	Female	Megestrol acetate	0.0105	2.2946	2.4223	3681

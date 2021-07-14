@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Acenocoumarol	0
+05-09	Male	Acetylsalicylic acid	Acenocoumarol	0
+10-14	Male	Acetylsalicylic acid	Acenocoumarol	3.81101918085954e-06
+15-19	Male	Acetylsalicylic acid	Acenocoumarol	1.05175696000168e-05
+20-24	Male	Acetylsalicylic acid	Acenocoumarol	3.66951665793766e-05
+25-29	Male	Acetylsalicylic acid	Acenocoumarol	4.30079779799153e-05
+30-34	Male	Acetylsalicylic acid	Acenocoumarol	6.96716985115592e-05
+35-39	Male	Acetylsalicylic acid	Acenocoumarol	0.000162294849167225
+40-44	Male	Acetylsalicylic acid	Acenocoumarol	0.000274450864893627
+45-49	Male	Acetylsalicylic acid	Acenocoumarol	0.000553814704187613
+50-54	Male	Acetylsalicylic acid	Acenocoumarol	0.00112225048630854
+55-59	Male	Acetylsalicylic acid	Acenocoumarol	0.00206601868807813
+60-64	Male	Acetylsalicylic acid	Acenocoumarol	0.00356854819119062
+65-69	Male	Acetylsalicylic acid	Acenocoumarol	0.00567199353890559
+70-74	Male	Acetylsalicylic acid	Acenocoumarol	0.00772985686763507
+75-79	Male	Acetylsalicylic acid	Acenocoumarol	0.0110647108366086
+80-84	Male	Acetylsalicylic acid	Acenocoumarol	0.0140307786429866
+85-89	Male	Acetylsalicylic acid	Acenocoumarol	0.0132358911896062
+>90	Male	Acetylsalicylic acid	Acenocoumarol	0.0097017448441106

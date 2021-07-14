@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+05-09	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+10-14	Female	Ethinylestradiol	Ursodeoxycholic acid	4.03691353738586e-06
+15-19	Female	Ethinylestradiol	Ursodeoxycholic acid	1.0016861717224e-05
+20-24	Female	Ethinylestradiol	Ursodeoxycholic acid	8.37518599892239e-06
+25-29	Female	Ethinylestradiol	Ursodeoxycholic acid	1.5552099533437e-05
+30-34	Female	Ethinylestradiol	Ursodeoxycholic acid	5.5130134682919e-06
+35-39	Female	Ethinylestradiol	Ursodeoxycholic acid	1.02009935767744e-05
+40-44	Female	Ethinylestradiol	Ursodeoxycholic acid	1.58235359273383e-05
+45-49	Female	Ethinylestradiol	Ursodeoxycholic acid	9.44861653356715e-06
+50-54	Female	Ethinylestradiol	Ursodeoxycholic acid	3.97580326135142e-06
+55-59	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+60-64	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+65-69	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+70-74	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+75-79	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+80-84	Female	Ethinylestradiol	Ursodeoxycholic acid	0
+85-89	Female	Ethinylestradiol	Ursodeoxycholic acid	3.95549279506987e-06
+>90	Female	Ethinylestradiol	Ursodeoxycholic acid	0

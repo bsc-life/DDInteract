@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Doxycycline	Insulin detemir	0
+05-09	Female	Doxycycline	Insulin detemir	0
+10-14	Female	Doxycycline	Insulin detemir	0
+15-19	Female	Doxycycline	Insulin detemir	3.33895390574133e-06
+20-24	Female	Doxycycline	Insulin detemir	5.58345733261493e-06
+25-29	Female	Doxycycline	Insulin detemir	2.22172850477672e-06
+30-34	Female	Doxycycline	Insulin detemir	1.8376711560973e-06
+35-39	Female	Doxycycline	Insulin detemir	5.10049678838719e-06
+40-44	Female	Doxycycline	Insulin detemir	3.51634131718629e-06
+45-49	Female	Doxycycline	Insulin detemir	1.88972330671343e-06
+50-54	Female	Doxycycline	Insulin detemir	0
+55-59	Female	Doxycycline	Insulin detemir	1.04994151825743e-05
+60-64	Female	Doxycycline	Insulin detemir	4.3594259507908e-06
+65-69	Female	Doxycycline	Insulin detemir	1.42433234421365e-05
+70-74	Female	Doxycycline	Insulin detemir	7.66522390119015e-06
+75-79	Female	Doxycycline	Insulin detemir	8.39517780986601e-06
+80-84	Female	Doxycycline	Insulin detemir	1.57117089940107e-05
+85-89	Female	Doxycycline	Insulin detemir	0
+>90	Female	Doxycycline	Insulin detemir	1.97412579129542e-05

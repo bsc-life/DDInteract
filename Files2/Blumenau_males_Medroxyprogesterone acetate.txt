@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Medroxyprogesterone acetate	0	0	0.0181653042688465	1
+05-09	Male	Medroxyprogesterone acetate	0	0	0	0
+10-14	Male	Medroxyprogesterone acetate	0	0	0	0
+15-19	Male	Medroxyprogesterone acetate	0	0.0255819902788437	0.102327961115375	4
+20-24	Male	Medroxyprogesterone acetate	0	0.0226142017186793	0.067842605156038	3
+25-29	Male	Medroxyprogesterone acetate	0	0.0479961603071754	0.0959923206143509	4
+30-34	Male	Medroxyprogesterone acetate	0	0.0252908447142135	0.0252908447142135	1
+35-39	Male	Medroxyprogesterone acetate	0	0.0822143052891203	0.109619073718827	4
+40-44	Male	Medroxyprogesterone acetate	0	0.0509813917919959	0.0764720876879939	3
+45-49	Male	Medroxyprogesterone acetate	0	0.0224416517055655	0.0448833034111311	2
+50-54	Male	Medroxyprogesterone acetate	0	0	0	0
+55-59	Male	Medroxyprogesterone acetate	0	0	0	0
+60-64	Male	Medroxyprogesterone acetate	0	0.0272331154684096	0.0272331154684096	1
+65-69	Male	Medroxyprogesterone acetate	0	0	0	0
+70-74	Male	Medroxyprogesterone acetate	0	0	0	0
+75-79	Male	Medroxyprogesterone acetate	0	0	0	0
+80-84	Male	Medroxyprogesterone acetate	0	0	0	0
+85-89	Male	Medroxyprogesterone acetate	0	0	0	0
+>90	Male	Medroxyprogesterone acetate	0	0	0	0

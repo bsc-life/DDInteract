@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Risedronic acid	0	0	0	0
+05-09	Male	Risedronic acid	0	0	0	0
+10-14	Male	Risedronic acid	0	0	0	0
+15-19	Male	Risedronic acid	0	0	0	0
+20-24	Male	Risedronic acid	0	0	0	0
+25-29	Male	Risedronic acid	0	0	0	0
+30-34	Male	Risedronic acid	0	0	0	0
+35-39	Male	Risedronic acid	0	0	0	0
+40-44	Male	Risedronic acid	0	0	0	0
+45-49	Male	Risedronic acid	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Risedronic acid	0	0.0124177325220415	0.0124177325220415	1
+55-59	Male	Risedronic acid	0	0.0112790435371081	0.0112790435371081	1
+60-64	Male	Risedronic acid	0	0.012190661952944	0.012190661952944	1
+65-69	Male	Risedronic acid	0	0.0300571085061617	0.0300571085061617	2
+70-74	Male	Risedronic acid	0	0.0641025641025641	0.0641025641025641	3
+75-79	Male	Risedronic acid	0	0	0	0
+80-84	Male	Risedronic acid	0	0	0.0495294700346706	1
+85-89	Male	Risedronic acid	0	0.0809061488673139	0.0809061488673139	1
+>90	Male	Risedronic acid	0	0	0	0

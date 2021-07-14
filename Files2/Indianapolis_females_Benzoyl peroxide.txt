@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Benzoyl peroxide	0	0	0	0
+05-09	Female	Benzoyl peroxide	0	0	0.0555864369093941	5
+10-14	Female	Benzoyl peroxide	0	0	1.1532327321801	94
+15-19	Female	Benzoyl peroxide	0	0	1.11474149529118	116
+20-24	Female	Benzoyl peroxide	0	0	0.511470477623167	68
+25-29	Female	Benzoyl peroxide	0	0	0.395872542020897	61
+30-34	Female	Benzoyl peroxide	0	0	0.316572185820511	43
+35-39	Female	Benzoyl peroxide	0	0	0.246577671966669	29
+40-44	Female	Benzoyl peroxide	0	0	0.194313765596236	19
+45-49	Female	Benzoyl peroxide	0	0	0.117004680187207	12
+50-54	Female	Benzoyl peroxide	0	0	0.0554067780958537	6
+55-59	Female	Benzoyl peroxide	0	0	0.0612316305108467	7
+60-64	Female	Benzoyl peroxide	0	0	0.0832870627429206	9
+65-69	Female	Benzoyl peroxide	0	0	0.0224014336917563	2
+70-74	Female	Benzoyl peroxide	0	0	0	0
+75-79	Female	Benzoyl peroxide	0	0	0	0
+80-84	Female	Benzoyl peroxide	0	0	0	0
+85-89	Female	Benzoyl peroxide	0	0	0.0442477876106195	1
+>90	Female	Benzoyl peroxide	0	0	0	0

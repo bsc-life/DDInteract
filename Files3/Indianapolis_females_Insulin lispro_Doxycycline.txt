@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin lispro	Doxycycline	0
+05-09	Female	Insulin lispro	Doxycycline	0
+10-14	Female	Insulin lispro	Doxycycline	0
+15-19	Female	Insulin lispro	Doxycycline	0.000288295214299443
+20-24	Female	Insulin lispro	Doxycycline	0.000225648740127868
+25-29	Female	Insulin lispro	Doxycycline	6.48971380362126e-05
+30-34	Female	Insulin lispro	Doxycycline	0.000515350069940367
+35-39	Female	Insulin lispro	Doxycycline	0.000935294617804609
+40-44	Female	Insulin lispro	Doxycycline	0.00143178564123543
+45-49	Female	Insulin lispro	Doxycycline	0.00175507020280811
+50-54	Female	Insulin lispro	Doxycycline	0.00230861575399391
+55-59	Female	Insulin lispro	Doxycycline	0.004111266620014
+60-64	Female	Insulin lispro	Doxycycline	0.00333148250971682
+65-69	Female	Insulin lispro	Doxycycline	0.00515232974910394
+70-74	Female	Insulin lispro	Doxycycline	0.00427892234548336
+75-79	Female	Insulin lispro	Doxycycline	0.00771264874394006
+80-84	Female	Insulin lispro	Doxycycline	0.00392393600965892
+85-89	Female	Insulin lispro	Doxycycline	0.00353982300884956
+>90	Female	Insulin lispro	Doxycycline	0

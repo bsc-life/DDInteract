@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Medroxyprogesterone acetate	Primidone	0
+05-09	Female	Medroxyprogesterone acetate	Primidone	0
+10-14	Female	Medroxyprogesterone acetate	Primidone	0
+15-19	Female	Medroxyprogesterone acetate	Primidone	0
+20-24	Female	Medroxyprogesterone acetate	Primidone	0
+25-29	Female	Medroxyprogesterone acetate	Primidone	0
+30-34	Female	Medroxyprogesterone acetate	Primidone	1.8376711560973e-06
+35-39	Female	Medroxyprogesterone acetate	Primidone	0
+40-44	Female	Medroxyprogesterone acetate	Primidone	0
+45-49	Female	Medroxyprogesterone acetate	Primidone	0
+50-54	Female	Medroxyprogesterone acetate	Primidone	0
+55-59	Female	Medroxyprogesterone acetate	Primidone	0
+60-64	Female	Medroxyprogesterone acetate	Primidone	0
+65-69	Female	Medroxyprogesterone acetate	Primidone	0
+70-74	Female	Medroxyprogesterone acetate	Primidone	0
+75-79	Female	Medroxyprogesterone acetate	Primidone	0
+80-84	Female	Medroxyprogesterone acetate	Primidone	0
+85-89	Female	Medroxyprogesterone acetate	Primidone	0
+>90	Female	Medroxyprogesterone acetate	Primidone	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Candesartan cilexetil	0	0	0	0
+05-09	Male	Candesartan cilexetil	0	0	0	0
+10-14	Male	Candesartan cilexetil	0	0	0	0
+15-19	Male	Candesartan cilexetil	0	0	0	0
+20-24	Male	Candesartan cilexetil	0	0	0	0
+25-29	Male	Candesartan cilexetil	0	0	0	0
+30-34	Male	Candesartan cilexetil	0	0	0	0
+35-39	Male	Candesartan cilexetil	0	0.0419874037788663	0.0559832050384885	4
+40-44	Male	Candesartan cilexetil	0	0	0	0
+45-49	Male	Candesartan cilexetil	0	0.0964320154291225	0.123984019837443	9
+50-54	Male	Candesartan cilexetil	0.0124177325220415	0.0869241276542903	0.0869241276542903	7
+55-59	Male	Candesartan cilexetil	0.0112790435371081	0.0451161741484322	0.0563952176855403	5
+60-64	Male	Candesartan cilexetil	0	0.0365719858588321	0.0609533097647202	5
+65-69	Male	Candesartan cilexetil	0	0.135256988277728	0.18034265103697	12
+70-74	Male	Candesartan cilexetil	0	0.128205128205128	0.192307692307692	9
+75-79	Male	Candesartan cilexetil	0.0313185092389602	0.125274036955841	0.156592546194801	5
+80-84	Male	Candesartan cilexetil	0	0.0990589400693413	0.0990589400693413	2
+85-89	Male	Candesartan cilexetil	0	0.0809061488673139	0.0809061488673139	1
+>90	Male	Candesartan cilexetil	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Ciprofloxacin	Magnesium oxide	0
+05-09	Female	Ciprofloxacin	Magnesium oxide	0.000111172873818788
+10-14	Female	Ciprofloxacin	Magnesium oxide	0
+15-19	Female	Ciprofloxacin	Magnesium oxide	0
+20-24	Female	Ciprofloxacin	Magnesium oxide	0.000150432493418578
+25-29	Female	Ciprofloxacin	Magnesium oxide	0
+30-34	Female	Ciprofloxacin	Magnesium oxide	0.000147242877125819
+35-39	Female	Ciprofloxacin	Magnesium oxide	0.000255080350310348
+40-44	Female	Ciprofloxacin	Magnesium oxide	0.000204540805890775
+45-49	Female	Ciprofloxacin	Magnesium oxide	0.00078003120124805
+50-54	Female	Ciprofloxacin	Magnesium oxide	0.000369378520639025
+55-59	Female	Ciprofloxacin	Magnesium oxide	0.000612316305108467
+60-64	Female	Ciprofloxacin	Magnesium oxide	0.000925411808254673
+65-69	Female	Ciprofloxacin	Magnesium oxide	0.000672043010752688
+70-74	Female	Ciprofloxacin	Magnesium oxide	0.00110935023771791
+75-79	Female	Ciprofloxacin	Magnesium oxide	0.00132216835610401
+80-84	Female	Ciprofloxacin	Magnesium oxide	0.000301841231512225
+85-89	Female	Ciprofloxacin	Magnesium oxide	0.00132743362831858
+>90	Female	Ciprofloxacin	Magnesium oxide	0

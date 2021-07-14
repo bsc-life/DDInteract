@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Dexamethasone	0.000611246943765281
+05-09	Female	Acetylsalicylic acid	Dexamethasone	0.000111172873818788
+10-14	Female	Acetylsalicylic acid	Dexamethasone	0.000736105999263894
+15-19	Female	Acetylsalicylic acid	Dexamethasone	0.000864885642898328
+20-24	Female	Acetylsalicylic acid	Dexamethasone	0.000676946220383603
+25-29	Female	Acetylsalicylic acid	Dexamethasone	0.00116814848465183
+30-34	Female	Acetylsalicylic acid	Dexamethasone	0.00213502171832438
+35-39	Female	Acetylsalicylic acid	Dexamethasone	0.00272085706997704
+40-44	Female	Acetylsalicylic acid	Dexamethasone	0.00368173450603395
+45-49	Female	Acetylsalicylic acid	Dexamethasone	0.00604524180967239
+50-54	Female	Acetylsalicylic acid	Dexamethasone	0.0114507341398098
+55-59	Female	Acetylsalicylic acid	Dexamethasone	0.015220433869839
+60-64	Female	Acetylsalicylic acid	Dexamethasone	0.0194336479733481
+65-69	Female	Acetylsalicylic acid	Dexamethasone	0.023073476702509
+70-74	Female	Acetylsalicylic acid	Dexamethasone	0.0212361331220285
+75-79	Female	Acetylsalicylic acid	Dexamethasone	0.0202732481269282
+80-84	Female	Acetylsalicylic acid	Dexamethasone	0.0172049501961968
+85-89	Female	Acetylsalicylic acid	Dexamethasone	0.015929203539823
+>90	Female	Acetylsalicylic acid	Dexamethasone	0

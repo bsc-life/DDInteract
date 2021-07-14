@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+05-09	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.84491384102279	76
+10-14	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	18.3167709483499	1493
+15-19	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	6.17912742648472	643
+20-24	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	2.29409552463332	305
+25-29	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.941008501525083	145
+30-34	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.0662592947066186	9
+35-39	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.0595187484057478	7
+40-44	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.0511352014726938	5
+45-49	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.00975039001560062	1
+50-54	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+55-59	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+60-64	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+65-69	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0.0112007168458781	1
+70-74	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+75-79	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+80-84	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+85-89	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0
+>90	Female	Human papillomavirus type 11 L1 capsid protein antigen	0	0	0	0

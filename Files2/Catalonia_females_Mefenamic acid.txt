@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Mefenamic acid	0	0.0012	0.0012	2
+10-14	Female	Mefenamic acid	0	0.0226	0.0585	145
+15-19	Female	Mefenamic acid	0	0.0471	0.1115	334
+20-24	Female	Mefenamic acid	0	0.0257	0.053	190
+25-29	Female	Mefenamic acid	4e-04	0.0191	0.0387	174
+30-34	Female	Mefenamic acid	2e-04	0.0221	0.041	223
+35-39	Female	Mefenamic acid	3e-04	0.0323	0.052	306
+40-44	Female	Mefenamic acid	5e-04	0.0415	0.0645	367
+45-49	Female	Mefenamic acid	4e-04	0.0463	0.0637	337
+50-54	Female	Mefenamic acid	4e-04	0.0268	0.0336	169
+55-59	Female	Mefenamic acid	2e-04	0.0103	0.0126	60
+60-64	Female	Mefenamic acid	7e-04	0.0078	0.0092	42
+65-69	Female	Mefenamic acid	0.0012	0.0093	0.01	42
+70-74	Female	Mefenamic acid	5e-04	0.0107	0.0112	44
+75-79	Female	Mefenamic acid	3e-04	0.0076	0.0081	29
+80-84	Female	Mefenamic acid	0.0013	0.0066	0.0075	24
+85-89	Female	Mefenamic acid	8e-04	0.0063	0.0071	18
+>90	Female	Mefenamic acid	7e-04	0.0059	0.0059	9

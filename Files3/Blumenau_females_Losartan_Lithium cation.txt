@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Losartan	Lithium cation	0
+05-09	Female	Losartan	Lithium cation	0
+10-14	Female	Losartan	Lithium cation	0
+15-19	Female	Losartan	Lithium cation	0
+20-24	Female	Losartan	Lithium cation	0
+25-29	Female	Losartan	Lithium cation	0
+30-34	Female	Losartan	Lithium cation	0
+35-39	Female	Losartan	Lithium cation	0.000167308014053873
+40-44	Female	Losartan	Lithium cation	0.000309885342423303
+45-49	Female	Losartan	Lithium cation	0.000833912439193885
+50-54	Female	Losartan	Lithium cation	0.000545033383294727
+55-59	Female	Losartan	Lithium cation	0.000784682988072819
+60-64	Female	Losartan	Lithium cation	0.00160886664283161
+65-69	Female	Losartan	Lithium cation	0.00167785234899329
+70-74	Female	Losartan	Lithium cation	0.00130081300813008
+75-79	Female	Losartan	Lithium cation	0
+80-84	Female	Losartan	Lithium cation	0
+85-89	Female	Losartan	Lithium cation	0
+>90	Female	Losartan	Lithium cation	0

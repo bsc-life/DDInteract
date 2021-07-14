@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Azelaic acid	0	0	0	0
+05-09	Female	Azelaic acid	0	0	0	0
+10-14	Female	Azelaic acid	0	0	0.0122684333210649	1
+15-19	Female	Azelaic acid	0	0	0.0288295214299443	3
+20-24	Female	Azelaic acid	0	0	0.0451297480255735	6
+25-29	Female	Azelaic acid	0	0	0.0648971380362126	10
+30-34	Female	Azelaic acid	0	0	0.0809835824192005	11
+35-39	Female	Azelaic acid	0	0	0.110534818467817	13
+40-44	Female	Azelaic acid	0	0	0.0511352014726938	5
+45-49	Female	Azelaic acid	0	0	0.0195007800312012	2
+50-54	Female	Azelaic acid	0	0	0.0277033890479269	3
+55-59	Female	Azelaic acid	0	0	0.0174947515745276	2
+60-64	Female	Azelaic acid	0	0	0.0555247084952804	6
+65-69	Female	Azelaic acid	0	0	0.0448028673835125	4
+70-74	Female	Azelaic acid	0	0	0.0158478605388273	1
+75-79	Female	Azelaic acid	0	0	0.0440722785368004	2
+80-84	Female	Azelaic acid	0	0	0	0
+85-89	Female	Azelaic acid	0	0	0	0
+>90	Female	Azelaic acid	0	0	0	0

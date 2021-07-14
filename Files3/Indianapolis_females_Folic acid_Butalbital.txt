@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Folic acid	Butalbital	0
+05-09	Female	Folic acid	Butalbital	0
+10-14	Female	Folic acid	Butalbital	0
+15-19	Female	Folic acid	Butalbital	9.60984047664809e-05
+20-24	Female	Folic acid	Butalbital	0.000150432493418578
+25-29	Female	Folic acid	Butalbital	0.00025958855214485
+30-34	Female	Folic acid	Butalbital	0
+35-39	Female	Folic acid	Butalbital	8.50267834367826e-05
+40-44	Female	Folic acid	Butalbital	0
+45-49	Female	Folic acid	Butalbital	9.75039001560062e-05
+50-54	Female	Folic acid	Butalbital	0.000369378520639025
+55-59	Female	Folic acid	Butalbital	0.000612316305108467
+60-64	Female	Folic acid	Butalbital	0
+65-69	Female	Folic acid	Butalbital	0
+70-74	Female	Folic acid	Butalbital	0.000158478605388273
+75-79	Female	Folic acid	Butalbital	0
+80-84	Female	Folic acid	Butalbital	0
+85-89	Female	Folic acid	Butalbital	0
+>90	Female	Folic acid	Butalbital	0

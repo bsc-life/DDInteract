@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Potassium bicarbonate	0	0.0104	0.0104	8
+05-09	Male	Potassium bicarbonate	0	0.009	0.0124	22
+10-14	Male	Potassium bicarbonate	0	0.0076	0.0114	30
+15-19	Male	Potassium bicarbonate	0	0.0168	0.0242	69
+20-24	Male	Potassium bicarbonate	0	0.0203	0.03	90
+25-29	Male	Potassium bicarbonate	0	0.0239	0.0363	135
+30-34	Male	Potassium bicarbonate	0	0.0302	0.0445	211
+35-39	Male	Potassium bicarbonate	0	0.0522	0.0728	395
+40-44	Male	Potassium bicarbonate	0	0.0962	0.123	659
+45-49	Male	Potassium bicarbonate	0	0.1535	0.1828	898
+50-54	Male	Potassium bicarbonate	0	0.2696	0.3078	1399
+55-59	Male	Potassium bicarbonate	0	0.431	0.4822	2054
+60-64	Male	Potassium bicarbonate	0	0.6816	0.7582	3121
+65-69	Male	Potassium bicarbonate	0	1.0197	1.0984	4148
+70-74	Male	Potassium bicarbonate	0	1.4449	1.5504	5247
+75-79	Male	Potassium bicarbonate	0	2.2021	2.3284	6635
+80-84	Male	Potassium bicarbonate	0	3.0959	3.2295	7179
+85-89	Male	Potassium bicarbonate	0	4.0851	4.2252	6244
+>90	Male	Potassium bicarbonate	0	5.8313	5.971	4062

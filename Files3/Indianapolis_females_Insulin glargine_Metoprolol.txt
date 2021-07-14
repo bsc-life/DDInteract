@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Insulin glargine	Metoprolol	0
+05-09	Female	Insulin glargine	Metoprolol	0
+10-14	Female	Insulin glargine	Metoprolol	0
+15-19	Female	Insulin glargine	Metoprolol	0
+20-24	Female	Insulin glargine	Metoprolol	0.000376081233546446
+25-29	Female	Insulin glargine	Metoprolol	0.000454279966253488
+30-34	Female	Insulin glargine	Metoprolol	0.000515350069940367
+35-39	Female	Insulin glargine	Metoprolol	0.001955616019046
+40-44	Female	Insulin glargine	Metoprolol	0.00276130087952547
+45-49	Female	Insulin glargine	Metoprolol	0.00497269890795632
+50-54	Female	Insulin glargine	Metoprolol	0.00747991504294025
+55-59	Female	Insulin glargine	Metoprolol	0.00918474457662701
+60-64	Female	Insulin glargine	Metoprolol	0.0122154358689617
+65-69	Female	Insulin glargine	Metoprolol	0.0148969534050179
+70-74	Female	Insulin glargine	Metoprolol	0.013946117274168
+75-79	Female	Insulin glargine	Metoprolol	0.0169678272366681
+80-84	Female	Insulin glargine	Metoprolol	0.0141865378810746
+85-89	Female	Insulin glargine	Metoprolol	0.0154867256637168
+>90	Female	Insulin glargine	Metoprolol	0

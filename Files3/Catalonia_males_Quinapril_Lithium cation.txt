@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Quinapril	Lithium cation	0
+05-09	Male	Quinapril	Lithium cation	0
+10-14	Male	Quinapril	Lithium cation	0
+15-19	Male	Quinapril	Lithium cation	0
+20-24	Male	Quinapril	Lithium cation	0
+25-29	Male	Quinapril	Lithium cation	0
+30-34	Male	Quinapril	Lithium cation	0
+35-39	Male	Quinapril	Lithium cation	0
+40-44	Male	Quinapril	Lithium cation	1.8670126863512e-06
+45-49	Male	Quinapril	Lithium cation	0
+50-54	Male	Quinapril	Lithium cation	0
+55-59	Male	Quinapril	Lithium cation	2.3477485091797e-06
+60-64	Male	Quinapril	Lithium cation	0
+65-69	Male	Quinapril	Lithium cation	0
+70-74	Male	Quinapril	Lithium cation	8.86451475646223e-06
+75-79	Male	Quinapril	Lithium cation	7.01852891633914e-06
+80-84	Male	Quinapril	Lithium cation	8.99697251874744e-06
+85-89	Male	Quinapril	Lithium cation	0
+>90	Male	Quinapril	Lithium cation	0

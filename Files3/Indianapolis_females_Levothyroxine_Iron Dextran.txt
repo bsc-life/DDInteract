@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Levothyroxine	Iron Dextran	0
+05-09	Female	Levothyroxine	Iron Dextran	0
+10-14	Female	Levothyroxine	Iron Dextran	0
+15-19	Female	Levothyroxine	Iron Dextran	0
+20-24	Female	Levothyroxine	Iron Dextran	0
+25-29	Female	Levothyroxine	Iron Dextran	0
+30-34	Female	Levothyroxine	Iron Dextran	0
+35-39	Female	Levothyroxine	Iron Dextran	0
+40-44	Female	Levothyroxine	Iron Dextran	0
+45-49	Female	Levothyroxine	Iron Dextran	0
+50-54	Female	Levothyroxine	Iron Dextran	9.23446301597562e-05
+55-59	Female	Levothyroxine	Iron Dextran	8.74737578726382e-05
+60-64	Female	Levothyroxine	Iron Dextran	9.25411808254673e-05
+65-69	Female	Levothyroxine	Iron Dextran	0
+70-74	Female	Levothyroxine	Iron Dextran	0
+75-79	Female	Levothyroxine	Iron Dextran	0
+80-84	Female	Levothyroxine	Iron Dextran	0.000301841231512225
+85-89	Female	Levothyroxine	Iron Dextran	0
+>90	Female	Levothyroxine	Iron Dextran	0

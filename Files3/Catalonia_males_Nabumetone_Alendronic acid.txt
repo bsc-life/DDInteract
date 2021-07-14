@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Nabumetone	Alendronic acid	0
+05-09	Male	Nabumetone	Alendronic acid	0
+10-14	Male	Nabumetone	Alendronic acid	0
+15-19	Male	Nabumetone	Alendronic acid	0
+20-24	Male	Nabumetone	Alendronic acid	0
+25-29	Male	Nabumetone	Alendronic acid	0
+30-34	Male	Nabumetone	Alendronic acid	0
+35-39	Male	Nabumetone	Alendronic acid	0
+40-44	Male	Nabumetone	Alendronic acid	1.8670126863512e-06
+45-49	Male	Nabumetone	Alendronic acid	2.03608347127799e-06
+50-54	Male	Nabumetone	Alendronic acid	2.2004911496246e-06
+55-59	Male	Nabumetone	Alendronic acid	4.69549701835939e-06
+60-64	Male	Nabumetone	Alendronic acid	9.71694538105001e-06
+65-69	Male	Nabumetone	Alendronic acid	2.11839161116922e-05
+70-74	Male	Nabumetone	Alendronic acid	1.77290295129245e-05
+75-79	Male	Nabumetone	Alendronic acid	1.75463222908478e-05
+80-84	Male	Nabumetone	Alendronic acid	1.79939450374949e-05
+85-89	Male	Nabumetone	Alendronic acid	3.38340776830424e-05
+>90	Male	Nabumetone	Alendronic acid	2.93992268003352e-05

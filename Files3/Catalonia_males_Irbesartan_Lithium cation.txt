@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Irbesartan	Lithium cation	0
+05-09	Male	Irbesartan	Lithium cation	0
+10-14	Male	Irbesartan	Lithium cation	0
+15-19	Male	Irbesartan	Lithium cation	0
+20-24	Male	Irbesartan	Lithium cation	0
+25-29	Male	Irbesartan	Lithium cation	0
+30-34	Male	Irbesartan	Lithium cation	0
+35-39	Male	Irbesartan	Lithium cation	0
+40-44	Male	Irbesartan	Lithium cation	1.49361014908096e-05
+45-49	Male	Irbesartan	Lithium cation	1.22165008276679e-05
+50-54	Male	Irbesartan	Lithium cation	1.54034380473722e-05
+55-59	Male	Irbesartan	Lithium cation	1.64342395642579e-05
+60-64	Male	Irbesartan	Lithium cation	2.18631271073625e-05
+65-69	Male	Irbesartan	Lithium cation	1.32399475698076e-05
+70-74	Male	Irbesartan	Lithium cation	1.77290295129245e-05
+75-79	Male	Irbesartan	Lithium cation	1.40370578326783e-05
+80-84	Male	Irbesartan	Lithium cation	8.99697251874744e-06
+85-89	Male	Irbesartan	Lithium cation	6.76681553660847e-06
+>90	Male	Irbesartan	Lithium cation	0

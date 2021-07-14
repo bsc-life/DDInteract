@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Haloperidol	Lithium cation	0
+05-09	Male	Haloperidol	Lithium cation	0
+10-14	Male	Haloperidol	Lithium cation	0.000642880102860816
+15-19	Male	Haloperidol	Lithium cation	0.000767459708365311
+20-24	Male	Haloperidol	Lithium cation	0.00067842605156038
+25-29	Male	Haloperidol	Lithium cation	0.000959923206143509
+30-34	Male	Haloperidol	Lithium cation	0.00227617602427921
+35-39	Male	Haloperidol	Lithium cation	0.00219238147437654
+40-44	Male	Haloperidol	Lithium cation	0.0012745347947999
+45-49	Male	Haloperidol	Lithium cation	0.00179533213644524
+50-54	Male	Haloperidol	Lithium cation	0.00199026979212738
+55-59	Male	Haloperidol	Lithium cation	0.000246669955599408
+60-64	Male	Haloperidol	Lithium cation	0.000272331154684096
+65-69	Male	Haloperidol	Lithium cation	0.00108616944243302
+70-74	Male	Haloperidol	Lithium cation	0
+75-79	Male	Haloperidol	Lithium cation	0
+80-84	Male	Haloperidol	Lithium cation	0
+85-89	Male	Haloperidol	Lithium cation	0
+>90	Male	Haloperidol	Lithium cation	0

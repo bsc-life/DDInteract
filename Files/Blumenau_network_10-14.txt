@@ -1,0 +1,26 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Doxycycline	Benzylpenicillin	0.333	Inf	Moderate	1 (1/0)	Possible antagonism of action	#B32020	16.2972620599739	1
+Valproic acid	Carbamazepine	0.515	-2.917	Moderate	4 (1/3)	Carbamazepine decreases the effect of valproic acid	#1E61A5	65.1890482398957	0.19986547476741
+Fluoxetine	Lithium cation	0.684	2.057	Major	3 (2/1)	The SSRI increases serum levels of lithium	#B32020	48.8917861799218	0.00878353495652181
+Haloperidol	Lithium cation	0.366	-1.945	Major	3 (1/2)	Possible extrapyramidal effects and neurotoxicity with this combination	#2D6CAB	48.8917861799218	6.29464651157352e-07
+Propranolol	Salbutamol	0.263	Inf	Major	1 (1/0)	Antagonism	#B32020	16.2972620599739	1
+Propranolol	Ibuprofen	0.453	Inf	Moderate	3 (3/0)	Risk of inhibition of renal prostaglandins	#B32020	48.8917861799218	1
+Propranolol	Fenoterol	0.146	Inf	None	1 (1/0)	Antagonism	#B32020	16.2972620599739	1
+Prednisone	Ethinylestradiol	0.274	Inf	Moderate	2 (2/0)	The estrogenic agent increases the effect of corticosteroid	#B32020	32.5945241199478	1
+Clavulanic acid	Ethinylestradiol	0.273	Inf	None	1 (1/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	16.2972620599739	1
+Ethinylestradiol	Benzylpenicillin	0.065	Inf	Moderate	1 (1/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	16.2972620599739	1
+Ethinylestradiol	Amoxicillin	0.273	Inf	Moderate	1 (1/0)	This anti-infectious agent could decrease the effect of the oral contraceptive	#B32020	16.2972620599739	1
+Ibuprofen	Lithium cation	0.098	Inf	Moderate	1 (1/0)	The NSAID increases serum levels of lithium	#B32020	16.2972620599739	1
+Valproic acid	Acetylsalicylic acid	1	-Inf	Moderate	1 (0/1)	The salicylate increases the effect of valproic acid	#1E61A5	16.2972620599739	1
+Valproic acid	Phenobarbital	0.51	-Inf	Moderate	1 (0/1)	Valproic acid increases the effect of barbiturate	#1E61A5	16.2972620599739	1
+Amitriptyline	Fluoxetine	0.35	-Inf	Major	2 (0/2)	Fluoxetine increases the effect and toxicity of tricyclics	#1E61A5	32.5945241199478	0.0478587401521528
+Digoxin	Levothyroxine	0.805	-Inf	Moderate	1 (0/1)	The thyroid hormones decreases the effect of digoxin	#1E61A5	16.2972620599739	0.162720258758547
+Digoxin	Furosemide	0.87	-Inf	Moderate	1 (0/1)	Possible electrolyte variations and arrhythmias	#1E61A5	16.2972620599739	0.0407298729477673
+Digoxin	Hydrochlorothiazide	0.44	-Inf	Moderate	1 (0/1)	Possible electrolyte variations and arrhythmias	#1E61A5	16.2972620599739	0.0407298729477673
+Methylphenidate	Carbamazepine	0.421	-Inf	None	5 (0/5)	Carbamazepine could reduce the effect of methylphendiate	#1E61A5	81.4863102998696	1
+Imipramine	Fluoxetine	0.475	-Inf	Major	1 (0/1)	Fluoxetine increases the effect and toxicity of tricyclics	#1E61A5	16.2972620599739	1
+Imipramine	Carbamazepine	0.737	-Inf	Moderate	2 (0/2)	The tricyclic increases the effect of carbamazepine	#1E61A5	32.5945241199478	1
+Imipramine	Salbutamol	0.18	-Inf	Moderate	1 (0/1)	The tricyclic increases the sympathomimetic effect	#1E61A5	16.2972620599739	1
+Carbamazepine	Metronidazole	0.087	-Inf	Moderate	1 (0/1)	Metronidazole increases the effect of carbamazepine	#1E61A5	16.2972620599739	1
+Hydrocortisone	Phenobarbital	0.033	-Inf	Moderate	1 (0/1)	The barbiturate decreases the effect of the corticosteroid	#1E61A5	16.2972620599739	0.34451485153581
+Acetylsalicylic acid	Ibuprofen	0.355	-Inf	Major	1 (0/1)	Ibuprofen reduces ASA cardioprotective effects	#1E61A5	16.2972620599739	1

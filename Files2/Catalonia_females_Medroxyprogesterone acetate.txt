@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Medroxyprogesterone acetate	0	0	0.0028	2
+05-09	Female	Medroxyprogesterone acetate	0	0.003	0.0053	9
+10-14	Female	Medroxyprogesterone acetate	4e-04	0.0852	0.1982	491
+15-19	Female	Medroxyprogesterone acetate	7e-04	0.4047	1.0665	3194
+20-24	Female	Medroxyprogesterone acetate	0.0011	0.4718	1.2563	4500
+25-29	Female	Medroxyprogesterone acetate	0.0016	0.4528	1.1584	5214
+30-34	Female	Medroxyprogesterone acetate	0.0018	0.4442	0.9916	5396
+35-39	Female	Medroxyprogesterone acetate	9e-04	0.4211	0.838	4929
+40-44	Female	Medroxyprogesterone acetate	0.0019	0.5176	0.932	5301
+45-49	Female	Medroxyprogesterone acetate	0.0019	0.5818	0.9328	4936
+50-54	Female	Medroxyprogesterone acetate	0.0012	0.3843	0.5268	2650
+55-59	Female	Medroxyprogesterone acetate	8e-04	0.0928	0.1222	582
+60-64	Female	Medroxyprogesterone acetate	7e-04	0.0248	0.031	142
+65-69	Female	Medroxyprogesterone acetate	7e-04	0.0202	0.0237	100
+70-74	Female	Medroxyprogesterone acetate	0.001	0.0153	0.0181	71
+75-79	Female	Medroxyprogesterone acetate	8e-04	0.0182	0.0201	72
+80-84	Female	Medroxyprogesterone acetate	0.0013	0.0179	0.0195	62
+85-89	Female	Medroxyprogesterone acetate	0.0016	0.0174	0.0178	45
+>90	Female	Medroxyprogesterone acetate	7e-04	0.0257	0.029	44

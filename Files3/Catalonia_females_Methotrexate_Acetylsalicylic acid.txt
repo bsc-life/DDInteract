@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Methotrexate	Acetylsalicylic acid	0
+05-09	Female	Methotrexate	Acetylsalicylic acid	0
+10-14	Female	Methotrexate	Acetylsalicylic acid	8.07382707477171e-06
+15-19	Female	Methotrexate	Acetylsalicylic acid	1.33558156229653e-05
+20-24	Female	Methotrexate	Acetylsalicylic acid	1.39586433315373e-05
+25-29	Female	Methotrexate	Acetylsalicylic acid	3.55476560764275e-05
+30-34	Female	Methotrexate	Acetylsalicylic acid	4.41041077463352e-05
+35-39	Female	Methotrexate	Acetylsalicylic acid	6.12059614606463e-05
+40-44	Female	Methotrexate	Acetylsalicylic acid	7.91176796366916e-05
+45-49	Female	Methotrexate	Acetylsalicylic acid	0.000122832014936373
+50-54	Female	Methotrexate	Acetylsalicylic acid	0.000222644982635679
+55-59	Female	Methotrexate	Acetylsalicylic acid	0.000354880233171012
+60-64	Female	Methotrexate	Acetylsalicylic acid	0.000523131114094896
+65-69	Female	Methotrexate	Acetylsalicylic acid	0.000640949554896142
+70-74	Female	Methotrexate	Acetylsalicylic acid	0.000827844181328537
+75-79	Female	Methotrexate	Acetylsalicylic acid	0.000934663129498416
+80-84	Female	Methotrexate	Acetylsalicylic acid	0.000983552983025069
+85-89	Female	Methotrexate	Acetylsalicylic acid	0.000799009544604114
+>90	Female	Methotrexate	Acetylsalicylic acid	0.000519853125041128

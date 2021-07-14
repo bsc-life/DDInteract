@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Celecoxib	Lithium cation	0
+05-09	Male	Celecoxib	Lithium cation	0
+10-14	Male	Celecoxib	Lithium cation	0
+15-19	Male	Celecoxib	Lithium cation	0
+20-24	Male	Celecoxib	Lithium cation	0
+25-29	Male	Celecoxib	Lithium cation	2.6879986237447e-06
+30-34	Male	Celecoxib	Lithium cation	4.22252718251874e-06
+35-39	Male	Celecoxib	Lithium cation	3.6885192992551e-06
+40-44	Male	Celecoxib	Lithium cation	5.60103805905361e-06
+45-49	Male	Celecoxib	Lithium cation	1.42525842989459e-05
+50-54	Male	Celecoxib	Lithium cation	1.1002455748123e-05
+55-59	Male	Celecoxib	Lithium cation	4.69549701835939e-06
+60-64	Male	Celecoxib	Lithium cation	1.94338907621e-05
+65-69	Male	Celecoxib	Lithium cation	7.94396854188457e-06
+70-74	Male	Celecoxib	Lithium cation	2.95483825215408e-06
+75-79	Male	Celecoxib	Lithium cation	1.05277933745087e-05
+80-84	Male	Celecoxib	Lithium cation	8.99697251874744e-06
+85-89	Male	Celecoxib	Lithium cation	0
+>90	Male	Celecoxib	Lithium cation	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Phenytoin	Valproic acid	0
+05-09	Male	Phenytoin	Valproic acid	0
+10-14	Male	Phenytoin	Valproic acid	0
+15-19	Male	Phenytoin	Valproic acid	0.000255819902788437
+20-24	Male	Phenytoin	Valproic acid	0.000452284034373587
+25-29	Male	Phenytoin	Valproic acid	0.000239980801535877
+30-34	Male	Phenytoin	Valproic acid	0.000252908447142135
+35-39	Male	Phenytoin	Valproic acid	0.000822143052891203
+40-44	Male	Phenytoin	Valproic acid	0.000764720876879939
+45-49	Male	Phenytoin	Valproic acid	0.00112208258527828
+50-54	Male	Phenytoin	Valproic acid	0.00110570544007077
+55-59	Male	Phenytoin	Valproic acid	0.000493339911198816
+60-64	Male	Phenytoin	Valproic acid	0
+65-69	Male	Phenytoin	Valproic acid	0.000724112961622013
+70-74	Male	Phenytoin	Valproic acid	0
+75-79	Male	Phenytoin	Valproic acid	0
+80-84	Male	Phenytoin	Valproic acid	0
+85-89	Male	Phenytoin	Valproic acid	0
+>90	Male	Phenytoin	Valproic acid	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Antithrombin III human	0	0.054333061668025	0.054333061668025	8
+05-09	Female	Antithrombin III human	0	0.0111172873818788	0.0111172873818788	1
+10-14	Female	Antithrombin III human	0	0.0122684333210649	0.0122684333210649	1
+15-19	Female	Antithrombin III human	0	0	0	0
+20-24	Female	Antithrombin III human	0	0	0	0
+25-29	Female	Antithrombin III human	0	0	0	0
+30-34	Female	Antithrombin III human	0	0.0147242877125819	0.0147242877125819	2
+35-39	Female	Antithrombin III human	0	0.00850267834367826	0.00850267834367826	1
+40-44	Female	Antithrombin III human	0	0	0	0
+45-49	Female	Antithrombin III human	0	0.00975039001560062	0.00975039001560062	1
+50-54	Female	Antithrombin III human	0	0	0	0
+55-59	Female	Antithrombin III human	0	0	0	0
+60-64	Female	Antithrombin III human	0	0	0	0
+65-69	Female	Antithrombin III human	0	0	0	0
+70-74	Female	Antithrombin III human	0	0	0	0
+75-79	Female	Antithrombin III human	0	0	0	0
+80-84	Female	Antithrombin III human	0	0	0	0
+85-89	Female	Antithrombin III human	0	0	0	0
+>90	Female	Antithrombin III human	0	0	0	0

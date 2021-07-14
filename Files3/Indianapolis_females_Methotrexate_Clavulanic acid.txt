@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Methotrexate	Clavulanic acid	0
+05-09	Female	Methotrexate	Clavulanic acid	0
+10-14	Female	Methotrexate	Clavulanic acid	0.000122684333210649
+15-19	Female	Methotrexate	Clavulanic acid	0
+20-24	Female	Methotrexate	Clavulanic acid	7.52162467092892e-05
+25-29	Female	Methotrexate	Clavulanic acid	0
+30-34	Female	Methotrexate	Clavulanic acid	0
+35-39	Female	Methotrexate	Clavulanic acid	0
+40-44	Female	Methotrexate	Clavulanic acid	0
+45-49	Female	Methotrexate	Clavulanic acid	0
+50-54	Female	Methotrexate	Clavulanic acid	0
+55-59	Female	Methotrexate	Clavulanic acid	0.000174947515745276
+60-64	Female	Methotrexate	Clavulanic acid	0.000277623542476402
+65-69	Female	Methotrexate	Clavulanic acid	0.000112007168458781
+70-74	Female	Methotrexate	Clavulanic acid	0.00063391442155309
+75-79	Female	Methotrexate	Clavulanic acid	0.000881445570736007
+80-84	Female	Methotrexate	Clavulanic acid	0
+85-89	Female	Methotrexate	Clavulanic acid	0
+>90	Female	Methotrexate	Clavulanic acid	0

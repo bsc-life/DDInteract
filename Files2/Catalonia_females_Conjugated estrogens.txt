@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Conjugated estrogens	0	0	6e-04	1
+10-14	Female	Conjugated estrogens	0	0.0028	0.0036	9
+15-19	Female	Conjugated estrogens	0	0.0063	0.008	24
+20-24	Female	Conjugated estrogens	6e-04	0.0109	0.0128	46
+25-29	Female	Conjugated estrogens	4e-04	0.0136	0.0176	79
+30-34	Female	Conjugated estrogens	4e-04	0.0191	0.0239	130
+35-39	Female	Conjugated estrogens	2e-04	0.0243	0.0298	175
+40-44	Female	Conjugated estrogens	2e-04	0.0366	0.0427	243
+45-49	Female	Conjugated estrogens	0.0013	0.0514	0.0576	305
+50-54	Female	Conjugated estrogens	0.0016	0.0664	0.0734	369
+55-59	Female	Conjugated estrogens	0.0017	0.0466	0.0517	246
+60-64	Female	Conjugated estrogens	7e-04	0.0238	0.0251	115
+65-69	Female	Conjugated estrogens	2e-04	0.0154	0.0159	67
+70-74	Female	Conjugated estrogens	3e-04	0.0046	0.0059	23
+75-79	Female	Conjugated estrogens	0	0.0031	0.0039	14
+80-84	Female	Conjugated estrogens	3e-04	0.0022	0.0028	9
+85-89	Female	Conjugated estrogens	0	0.0012	0.0016	4
+>90	Female	Conjugated estrogens	0	0.0013	0.0013	2

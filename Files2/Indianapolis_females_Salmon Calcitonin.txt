@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Salmon Calcitonin	0	0	0	0
+05-09	Female	Salmon Calcitonin	0	0	0	0
+10-14	Female	Salmon Calcitonin	0	0	0	0
+15-19	Female	Salmon Calcitonin	0	0	0	0
+20-24	Female	Salmon Calcitonin	0	0	0	0
+25-29	Female	Salmon Calcitonin	0	0	0	0
+30-34	Female	Salmon Calcitonin	0	0	0	0
+35-39	Female	Salmon Calcitonin	0	0	0	0
+40-44	Female	Salmon Calcitonin	0	0.0102270402945388	0.0102270402945388	1
+45-49	Female	Salmon Calcitonin	0	0.00975039001560062	0.00975039001560062	1
+50-54	Female	Salmon Calcitonin	0	0.00923446301597562	0.00923446301597562	1
+55-59	Female	Salmon Calcitonin	0	0.0262421273617915	0.0262421273617915	3
+60-64	Female	Salmon Calcitonin	0	0.0647788265778271	0.0647788265778271	7
+65-69	Female	Salmon Calcitonin	0	0.0448028673835125	0.0448028673835125	4
+70-74	Female	Salmon Calcitonin	0	0.0316957210776545	0.0316957210776545	2
+75-79	Female	Salmon Calcitonin	0	0.330542089026003	0.396650506831203	18
+80-84	Female	Salmon Calcitonin	0	0.150920615756112	0.181104738907335	6
+85-89	Female	Salmon Calcitonin	0	0.132743362831858	0.176991150442478	4
+>90	Female	Salmon Calcitonin	0	0.269541778975741	0.269541778975741	4

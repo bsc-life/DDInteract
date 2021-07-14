@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Carboprost tromethamine	0	0	0	0
+05-09	Female	Carboprost tromethamine	0	0	0	0
+10-14	Female	Carboprost tromethamine	0	0	0	0
+15-19	Female	Carboprost tromethamine	0	0.144147607149721	0.144147607149721	15
+20-24	Female	Carboprost tromethamine	0	0.511470477623167	0.518992102294096	69
+25-29	Female	Carboprost tromethamine	0	0.447790252449867	0.447790252449867	69
+30-34	Female	Carboprost tromethamine	0	0.603695796215858	0.603695796215858	82
+35-39	Female	Carboprost tromethamine	0	0.365615168778165	0.365615168778165	43
+40-44	Female	Carboprost tromethamine	0	0.153405604418081	0.153405604418081	15
+45-49	Female	Carboprost tromethamine	0	0	0	0
+50-54	Female	Carboprost tromethamine	0	0	0	0
+55-59	Female	Carboprost tromethamine	0	0	0	0
+60-64	Female	Carboprost tromethamine	0	0	0	0
+65-69	Female	Carboprost tromethamine	0	0	0	0
+70-74	Female	Carboprost tromethamine	0	0	0	0
+75-79	Female	Carboprost tromethamine	0	0	0	0
+80-84	Female	Carboprost tromethamine	0	0	0	0
+85-89	Female	Carboprost tromethamine	0	0	0	0
+>90	Female	Carboprost tromethamine	0	0	0	0

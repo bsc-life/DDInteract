@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Activated charcoal	0	0	0.0059890998382943	1
+05-09	Male	Activated charcoal	0	0.0100532823967025	0.0100532823967025	1
+10-14	Male	Activated charcoal	0	0	0	0
+15-19	Male	Activated charcoal	0	0	0.013933398355859	1
+20-24	Male	Activated charcoal	0	0.0146434324205594	0.0146434324205594	1
+25-29	Male	Activated charcoal	0	0	0	0
+30-34	Male	Activated charcoal	0	0.0130753138075314	0.0130753138075314	1
+35-39	Male	Activated charcoal	0	0	0	0
+40-44	Male	Activated charcoal	0	0.0296471983397569	0.0296471983397569	2
+45-49	Male	Activated charcoal	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Activated charcoal	0	0.0124177325220415	0.0124177325220415	1
+55-59	Male	Activated charcoal	0	0	0	0
+60-64	Male	Activated charcoal	0	0	0	0
+65-69	Male	Activated charcoal	0	0	0	0
+70-74	Male	Activated charcoal	0	0	0	0
+75-79	Male	Activated charcoal	0	0	0	0
+80-84	Male	Activated charcoal	0	0	0	0
+85-89	Male	Activated charcoal	0	0	0	0
+>90	Male	Activated charcoal	0	0	0	0

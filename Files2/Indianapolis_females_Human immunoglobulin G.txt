@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Human immunoglobulin G	0	0	0.149415919587069	22
+05-09	Female	Human immunoglobulin G	0	0	0.100055586436909	9
+10-14	Female	Human immunoglobulin G	0	0	0.159489633173844	13
+15-19	Female	Human immunoglobulin G	0	0	0.0768787238131847	8
+20-24	Female	Human immunoglobulin G	0	0	0.0300864986837157	4
+25-29	Female	Human immunoglobulin G	0	0	0.0194691414108638	3
+30-34	Female	Human immunoglobulin G	0	0	0.0883457262754914	12
+35-39	Female	Human immunoglobulin G	0	0	0.0595187484057478	7
+40-44	Female	Human immunoglobulin G	0	0	0.0102270402945388	1
+45-49	Female	Human immunoglobulin G	0	0	0.0682527301092044	7
+50-54	Female	Human immunoglobulin G	0	0	0.120048019207683	13
+55-59	Female	Human immunoglobulin G	0	0	0.0524842547235829	6
+60-64	Female	Human immunoglobulin G	0	0	0.185082361650935	20
+65-69	Female	Human immunoglobulin G	0	0	0.134408602150538	12
+70-74	Female	Human immunoglobulin G	0	0	0.190174326465927	12
+75-79	Female	Human immunoglobulin G	0	0	0.132216835610401	6
+80-84	Female	Human immunoglobulin G	0	0	0.0301841231512225	1
+85-89	Female	Human immunoglobulin G	0	0	0.0442477876106195	1
+>90	Female	Human immunoglobulin G	0	0	0.202156334231806	3

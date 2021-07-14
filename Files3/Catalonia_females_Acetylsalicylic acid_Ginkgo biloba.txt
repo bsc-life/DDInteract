@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Ginkgo biloba	0
+05-09	Female	Acetylsalicylic acid	Ginkgo biloba	1.18226368026861e-05
+10-14	Female	Acetylsalicylic acid	Ginkgo biloba	0
+15-19	Female	Acetylsalicylic acid	Ginkgo biloba	3.33895390574133e-06
+20-24	Female	Acetylsalicylic acid	Ginkgo biloba	2.79172866630746e-06
+25-29	Female	Acetylsalicylic acid	Ginkgo biloba	6.66518551433015e-06
+30-34	Female	Acetylsalicylic acid	Ginkgo biloba	1.8376711560973e-06
+35-39	Female	Acetylsalicylic acid	Ginkgo biloba	0
+40-44	Female	Acetylsalicylic acid	Ginkgo biloba	1.40653652687452e-05
+45-49	Female	Acetylsalicylic acid	Ginkgo biloba	3.21252962141283e-05
+50-54	Female	Acetylsalicylic acid	Ginkgo biloba	5.96370489202712e-05
+55-59	Female	Acetylsalicylic acid	Ginkgo biloba	0.000178490058103764
+60-64	Female	Acetylsalicylic acid	Ginkgo biloba	0.000414145465325126
+65-69	Female	Acetylsalicylic acid	Ginkgo biloba	0.000740652818991098
+70-74	Female	Acetylsalicylic acid	Ginkgo biloba	0.00126476194369638
+75-79	Female	Acetylsalicylic acid	Ginkgo biloba	0.0023478513941592
+80-84	Female	Acetylsalicylic acid	Ginkgo biloba	0.00330888591413865
+85-89	Female	Acetylsalicylic acid	Ginkgo biloba	0.00390407138873397
+>90	Female	Acetylsalicylic acid	Ginkgo biloba	0.00421804877406788

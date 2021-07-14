@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Theophylline	Lithium cation	0
+05-09	Male	Theophylline	Lithium cation	0
+10-14	Male	Theophylline	Lithium cation	0
+15-19	Male	Theophylline	Lithium cation	0
+20-24	Male	Theophylline	Lithium cation	0
+25-29	Male	Theophylline	Lithium cation	0
+30-34	Male	Theophylline	Lithium cation	0
+35-39	Male	Theophylline	Lithium cation	1.84425964962755e-06
+40-44	Male	Theophylline	Lithium cation	0
+45-49	Male	Theophylline	Lithium cation	0
+50-54	Male	Theophylline	Lithium cation	2.2004911496246e-06
+55-59	Male	Theophylline	Lithium cation	0
+60-64	Male	Theophylline	Lithium cation	2.4292363452625e-06
+65-69	Male	Theophylline	Lithium cation	1.05919580558461e-05
+70-74	Male	Theophylline	Lithium cation	8.86451475646223e-06
+75-79	Male	Theophylline	Lithium cation	1.05277933745087e-05
+80-84	Male	Theophylline	Lithium cation	0
+85-89	Male	Theophylline	Lithium cation	0
+>90	Male	Theophylline	Lithium cation	0

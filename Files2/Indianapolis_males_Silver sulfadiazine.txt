@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Silver sulfadiazine	0	0	0.12577109660418	21
+05-09	Male	Silver sulfadiazine	0	0	0.0904795415703227	9
+10-14	Male	Silver sulfadiazine	0	0	0.140334463805403	12
+15-19	Male	Silver sulfadiazine	0	0	0.13933398355859	10
+20-24	Male	Silver sulfadiazine	0	0	0.0585737296822375	4
+25-29	Male	Silver sulfadiazine	0	0	0.114489250731459	9
+30-34	Male	Silver sulfadiazine	0	0	0.0915271966527197	7
+35-39	Male	Silver sulfadiazine	0	0	0.0979706088173548	7
+40-44	Male	Silver sulfadiazine	0	0	0.0889415950192707	6
+45-49	Male	Silver sulfadiazine	0	0	0.0826560132249621	6
+50-54	Male	Silver sulfadiazine	0	0	0.198683720352664	16
+55-59	Male	Silver sulfadiazine	0	0	0.169185653056621	15
+60-64	Male	Silver sulfadiazine	0	0	0.158478605388273	13
+65-69	Male	Silver sulfadiazine	0	0	0.300571085061617	20
+70-74	Male	Silver sulfadiazine	0	0	0.299145299145299	14
+75-79	Male	Silver sulfadiazine	0	0	0.281866583150642	9
+80-84	Male	Silver sulfadiazine	0	0	0.396235760277365	8
+85-89	Male	Silver sulfadiazine	0	0	0.323624595469256	4
+>90	Male	Silver sulfadiazine	0	0	0.651465798045603	4

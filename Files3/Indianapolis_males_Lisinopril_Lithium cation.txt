@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Lisinopril	Lithium cation	0
+05-09	Male	Lisinopril	Lithium cation	0
+10-14	Male	Lisinopril	Lithium cation	0
+15-19	Male	Lisinopril	Lithium cation	0
+20-24	Male	Lisinopril	Lithium cation	0.000146434324205594
+25-29	Male	Lisinopril	Lithium cation	0
+30-34	Male	Lisinopril	Lithium cation	0
+35-39	Male	Lisinopril	Lithium cation	0.000279916025192442
+40-44	Male	Lisinopril	Lithium cation	0
+45-49	Male	Lisinopril	Lithium cation	0.000413280066124811
+50-54	Male	Lisinopril	Lithium cation	0
+55-59	Male	Lisinopril	Lithium cation	0.000338371306113242
+60-64	Male	Lisinopril	Lithium cation	0.00012190661952944
+65-69	Male	Lisinopril	Lithium cation	0.000150285542530809
+70-74	Male	Lisinopril	Lithium cation	0
+75-79	Male	Lisinopril	Lithium cation	0
+80-84	Male	Lisinopril	Lithium cation	0
+85-89	Male	Lisinopril	Lithium cation	0
+>90	Male	Lisinopril	Lithium cation	0

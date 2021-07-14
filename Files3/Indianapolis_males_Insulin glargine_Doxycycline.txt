@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Doxycycline	0
+05-09	Male	Insulin glargine	Doxycycline	0
+10-14	Male	Insulin glargine	Doxycycline	0
+15-19	Male	Insulin glargine	Doxycycline	0
+20-24	Male	Insulin glargine	Doxycycline	0
+25-29	Male	Insulin glargine	Doxycycline	0.00038163083577153
+30-34	Male	Insulin glargine	Doxycycline	0.000130753138075314
+35-39	Male	Insulin glargine	Doxycycline	0.000559832050384885
+40-44	Male	Insulin glargine	Doxycycline	0.000444707975096353
+45-49	Male	Insulin glargine	Doxycycline	0.00179088028654085
+50-54	Male	Insulin glargine	Doxycycline	0.00310443313051037
+55-59	Male	Insulin glargine	Doxycycline	0.00259418001353485
+60-64	Male	Insulin glargine	Doxycycline	0.00365719858588321
+65-69	Male	Insulin glargine	Doxycycline	0.00285542530808536
+70-74	Male	Insulin glargine	Doxycycline	0.00534188034188034
+75-79	Male	Insulin glargine	Doxycycline	0.00375822110867523
+80-84	Male	Insulin glargine	Doxycycline	0.00544824170381377
+85-89	Male	Insulin glargine	Doxycycline	0.000809061488673139
+>90	Male	Insulin glargine	Doxycycline	0

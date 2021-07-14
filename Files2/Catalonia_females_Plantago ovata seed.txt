@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Plantago ovata seed	0	0.0363	0.053	38
+05-09	Female	Plantago ovata seed	0	0.0491	0.0904	153
+10-14	Female	Plantago ovata seed	0	0.0626	0.1276	316
+15-19	Female	Plantago ovata seed	0	0.5195	0.9232	2765
+20-24	Female	Plantago ovata seed	0	0.9525	1.6022	5739
+25-29	Female	Plantago ovata seed	0	1.1546	1.8447	8303
+30-34	Female	Plantago ovata seed	0	1.3369	2.0216	11001
+35-39	Female	Plantago ovata seed	0	1.2819	1.8447	10850
+40-44	Female	Plantago ovata seed	0	1.3279	1.7921	10193
+45-49	Female	Plantago ovata seed	0	1.6172	2.0553	10876
+50-54	Female	Plantago ovata seed	0	1.9974	2.4137	12142
+55-59	Female	Plantago ovata seed	0	2.4168	2.8027	13347
+60-64	Female	Plantago ovata seed	0	3.122	3.5133	16118
+65-69	Female	Plantago ovata seed	0	3.8103	4.174	17583
+70-74	Female	Plantago ovata seed	0	4.2562	4.6127	18053
+75-79	Female	Plantago ovata seed	0	5.6057	6.0056	21461
+80-84	Female	Plantago ovata seed	0	5.9472	6.307	20071
+85-89	Female	Plantago ovata seed	0	5.7125	5.9906	15145
+>90	Female	Plantago ovata seed	0	5.6552	5.8993	8965

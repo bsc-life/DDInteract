@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Ferric subsulfate	0	0	0	0
+05-09	Male	Ferric subsulfate	0	0	0	0
+10-14	Male	Ferric subsulfate	0	0	0	0
+15-19	Male	Ferric subsulfate	0	0	0	0
+20-24	Male	Ferric subsulfate	0	0	0	0
+25-29	Male	Ferric subsulfate	0	0	0	0
+30-34	Male	Ferric subsulfate	0	0	0	0
+35-39	Male	Ferric subsulfate	0	0	0	0
+40-44	Male	Ferric subsulfate	0	0	0	0
+45-49	Male	Ferric subsulfate	0	0	0	0
+50-54	Male	Ferric subsulfate	0	0	0	0
+55-59	Male	Ferric subsulfate	0	0	0	0
+60-64	Male	Ferric subsulfate	0	0	0	0
+65-69	Male	Ferric subsulfate	0	0	0	0
+70-74	Male	Ferric subsulfate	0	0	0	0
+75-79	Male	Ferric subsulfate	0	0	0	0
+80-84	Male	Ferric subsulfate	0	0	0	0
+85-89	Male	Ferric subsulfate	0	0	0	0
+>90	Male	Ferric subsulfate	0	0	0	0

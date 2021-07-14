@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Dapsone	Magnesium oxide	0
+05-09	Female	Dapsone	Magnesium oxide	0
+10-14	Female	Dapsone	Magnesium oxide	0
+15-19	Female	Dapsone	Magnesium oxide	9.60984047664809e-05
+20-24	Female	Dapsone	Magnesium oxide	7.52162467092892e-05
+25-29	Female	Dapsone	Magnesium oxide	6.48971380362126e-05
+30-34	Female	Dapsone	Magnesium oxide	0
+35-39	Female	Dapsone	Magnesium oxide	0
+40-44	Female	Dapsone	Magnesium oxide	0
+45-49	Female	Dapsone	Magnesium oxide	0
+50-54	Female	Dapsone	Magnesium oxide	0
+55-59	Female	Dapsone	Magnesium oxide	0
+60-64	Female	Dapsone	Magnesium oxide	0
+65-69	Female	Dapsone	Magnesium oxide	0.000112007168458781
+70-74	Female	Dapsone	Magnesium oxide	0.000158478605388273
+75-79	Female	Dapsone	Magnesium oxide	0
+80-84	Female	Dapsone	Magnesium oxide	0.000301841231512225
+85-89	Female	Dapsone	Magnesium oxide	0
+>90	Female	Dapsone	Magnesium oxide	0

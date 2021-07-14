@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Potassium bicarbonate	0	0.0014	0.0028	2
+05-09	Female	Potassium bicarbonate	0	0.0083	0.0089	15
+10-14	Female	Potassium bicarbonate	0	0.0073	0.0105	26
+15-19	Female	Potassium bicarbonate	0	0.021	0.0331	99
+20-24	Female	Potassium bicarbonate	0	0.041	0.0536	192
+25-29	Female	Potassium bicarbonate	0	0.0433	0.0598	269
+30-34	Female	Potassium bicarbonate	0	0.0595	0.075	408
+35-39	Female	Potassium bicarbonate	0	0.0857	0.1061	624
+40-44	Female	Potassium bicarbonate	0	0.1282	0.1521	865
+45-49	Female	Potassium bicarbonate	0	0.2088	0.2419	1280
+50-54	Female	Potassium bicarbonate	0	0.3149	0.3582	1802
+55-59	Female	Potassium bicarbonate	0	0.4777	0.5357	2551
+60-64	Female	Potassium bicarbonate	0	0.7629	0.8337	3825
+65-69	Female	Potassium bicarbonate	0	1.1274	1.2218	5147
+70-74	Female	Potassium bicarbonate	0	1.5895	1.7129	6704
+75-79	Female	Potassium bicarbonate	0	2.438	2.588	9248
+80-84	Female	Potassium bicarbonate	0	3.6555	3.8189	12153
+85-89	Female	Potassium bicarbonate	0	4.959	5.1271	12962
+>90	Female	Potassium bicarbonate	0	7.2194	7.4089	11259

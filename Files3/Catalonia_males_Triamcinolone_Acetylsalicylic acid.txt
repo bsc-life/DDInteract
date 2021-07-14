@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Triamcinolone	Acetylsalicylic acid	0
+05-09	Male	Triamcinolone	Acetylsalicylic acid	0
+10-14	Male	Triamcinolone	Acetylsalicylic acid	3.81101918085954e-06
+15-19	Male	Triamcinolone	Acetylsalicylic acid	3.50585653333894e-06
+20-24	Male	Triamcinolone	Acetylsalicylic acid	1.00077727034664e-05
+25-29	Male	Triamcinolone	Acetylsalicylic acid	8.06399587123411e-06
+30-34	Male	Triamcinolone	Acetylsalicylic acid	1.90013723213343e-05
+35-39	Male	Triamcinolone	Acetylsalicylic acid	2.39753754451582e-05
+40-44	Male	Triamcinolone	Acetylsalicylic acid	3.54732410406729e-05
+45-49	Male	Triamcinolone	Acetylsalicylic acid	0.000111984590920289
+50-54	Male	Triamcinolone	Acetylsalicylic acid	0.000239853535309081
+55-59	Male	Triamcinolone	Acetylsalicylic acid	0.000481288444381838
+60-64	Male	Triamcinolone	Acetylsalicylic acid	0.000716624721852439
+65-69	Male	Triamcinolone	Acetylsalicylic acid	0.000982404109679726
+70-74	Male	Triamcinolone	Acetylsalicylic acid	0.00122330303639179
+75-79	Male	Triamcinolone	Acetylsalicylic acid	0.00124929814710837
+80-84	Male	Triamcinolone	Acetylsalicylic acid	0.00125957615262464
+85-89	Male	Triamcinolone	Acetylsalicylic acid	0.000845851942076059
+>90	Male	Triamcinolone	Acetylsalicylic acid	0.000837877963809552

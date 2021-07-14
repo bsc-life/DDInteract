@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Atorvastatin	Fusidic acid	0
+05-09	Female	Atorvastatin	Fusidic acid	0
+10-14	Female	Atorvastatin	Fusidic acid	0
+15-19	Female	Atorvastatin	Fusidic acid	0
+20-24	Female	Atorvastatin	Fusidic acid	0
+25-29	Female	Atorvastatin	Fusidic acid	0
+30-34	Female	Atorvastatin	Fusidic acid	1.8376711560973e-06
+35-39	Female	Atorvastatin	Fusidic acid	0
+40-44	Female	Atorvastatin	Fusidic acid	3.51634131718629e-06
+45-49	Female	Atorvastatin	Fusidic acid	9.44861653356715e-06
+50-54	Female	Atorvastatin	Fusidic acid	2.78306228294599e-05
+55-59	Female	Atorvastatin	Fusidic acid	3.1498245547723e-05
+60-64	Female	Atorvastatin	Fusidic acid	4.57739724833034e-05
+65-69	Female	Atorvastatin	Fusidic acid	4.51038575667656e-05
+70-74	Female	Atorvastatin	Fusidic acid	6.38768658432513e-05
+75-79	Female	Atorvastatin	Fusidic acid	5.31694594624847e-05
+80-84	Female	Atorvastatin	Fusidic acid	7.22738613724492e-05
+85-89	Female	Atorvastatin	Fusidic acid	8.30653486964673e-05
+>90	Female	Atorvastatin	Fusidic acid	5.26433544345446e-05

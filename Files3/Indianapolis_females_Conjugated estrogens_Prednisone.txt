@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Conjugated estrogens	Prednisone	0
+05-09	Female	Conjugated estrogens	Prednisone	0
+10-14	Female	Conjugated estrogens	Prednisone	0
+15-19	Female	Conjugated estrogens	Prednisone	0
+20-24	Female	Conjugated estrogens	Prednisone	0
+25-29	Female	Conjugated estrogens	Prednisone	0
+30-34	Female	Conjugated estrogens	Prednisone	0
+35-39	Female	Conjugated estrogens	Prednisone	0
+40-44	Female	Conjugated estrogens	Prednisone	0
+45-49	Female	Conjugated estrogens	Prednisone	0.000195007800312012
+50-54	Female	Conjugated estrogens	Prednisone	9.23446301597562e-05
+55-59	Female	Conjugated estrogens	Prednisone	0.000174947515745276
+60-64	Female	Conjugated estrogens	Prednisone	9.25411808254673e-05
+65-69	Female	Conjugated estrogens	Prednisone	0
+70-74	Female	Conjugated estrogens	Prednisone	0.000158478605388273
+75-79	Female	Conjugated estrogens	Prednisone	0
+80-84	Female	Conjugated estrogens	Prednisone	0.000905523694536674
+85-89	Female	Conjugated estrogens	Prednisone	0
+>90	Female	Conjugated estrogens	Prednisone	0

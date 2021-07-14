@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Fluticasone furoate	0	0.0842	0.149	115
+05-09	Male	Fluticasone furoate	0	0.9122	1.3096	2327
+10-14	Male	Fluticasone furoate	0	2.2599	3.0191	7922
+15-19	Male	Fluticasone furoate	0	2.0036	2.6795	7643
+20-24	Male	Fluticasone furoate	0	1.4485	1.9478	5839
+25-29	Male	Fluticasone furoate	0	1.2771	1.7187	6394
+30-34	Male	Fluticasone furoate	0	1.3601	1.807	8559
+35-39	Male	Fluticasone furoate	0	1.5381	2.0195	10950
+40-44	Male	Fluticasone furoate	0	1.5563	2.0035	10731
+45-49	Male	Fluticasone furoate	0	1.503	1.8938	9301
+50-54	Male	Fluticasone furoate	0	1.4891	1.8088	8220
+55-59	Male	Fluticasone furoate	0	1.5195	1.7906	7627
+60-64	Male	Fluticasone furoate	0	1.6757	1.9014	7827
+65-69	Male	Fluticasone furoate	0	1.9346	2.1292	8041
+70-74	Male	Fluticasone furoate	0	1.6819	1.8125	6134
+75-79	Male	Fluticasone furoate	0	1.3728	1.4792	4215
+80-84	Male	Fluticasone furoate	0	1.1795	1.2537	2787
+85-89	Male	Fluticasone furoate	0	0.8763	0.9352	1382
+>90	Male	Fluticasone furoate	0	0.76	0.8114	552

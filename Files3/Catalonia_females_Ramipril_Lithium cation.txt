@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Ramipril	Lithium cation	0
+05-09	Female	Ramipril	Lithium cation	0
+10-14	Female	Ramipril	Lithium cation	0
+15-19	Female	Ramipril	Lithium cation	0
+20-24	Female	Ramipril	Lithium cation	0
+25-29	Female	Ramipril	Lithium cation	0
+30-34	Female	Ramipril	Lithium cation	0
+35-39	Female	Ramipril	Lithium cation	1.70016559612906e-06
+40-44	Female	Ramipril	Lithium cation	3.51634131718629e-06
+45-49	Female	Ramipril	Lithium cation	9.44861653356715e-06
+50-54	Female	Ramipril	Lithium cation	1.19274097840542e-05
+55-59	Female	Ramipril	Lithium cation	1.46991812556041e-05
+60-64	Female	Ramipril	Lithium cation	2.39768427293494e-05
+65-69	Female	Ramipril	Lithium cation	2.61127596439169e-05
+70-74	Female	Ramipril	Lithium cation	3.32159702384907e-05
+75-79	Female	Ramipril	Lithium cation	1.95887482230207e-05
+80-84	Female	Ramipril	Lithium cation	1.25693671952086e-05
+85-89	Female	Ramipril	Lithium cation	2.37329567704192e-05
+>90	Female	Ramipril	Lithium cation	0

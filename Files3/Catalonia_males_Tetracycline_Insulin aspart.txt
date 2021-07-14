@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Tetracycline	Insulin aspart	0
+05-09	Male	Tetracycline	Insulin aspart	0
+10-14	Male	Tetracycline	Insulin aspart	0
+15-19	Male	Tetracycline	Insulin aspart	0
+20-24	Male	Tetracycline	Insulin aspart	0
+25-29	Male	Tetracycline	Insulin aspart	0
+30-34	Male	Tetracycline	Insulin aspart	0
+35-39	Male	Tetracycline	Insulin aspart	1.84425964962755e-06
+40-44	Male	Tetracycline	Insulin aspart	0
+45-49	Male	Tetracycline	Insulin aspart	2.03608347127799e-06
+50-54	Male	Tetracycline	Insulin aspart	8.80196459849838e-06
+55-59	Male	Tetracycline	Insulin aspart	2.3477485091797e-06
+60-64	Male	Tetracycline	Insulin aspart	1.21461817263125e-05
+65-69	Male	Tetracycline	Insulin aspart	2.64798951396152e-06
+70-74	Male	Tetracycline	Insulin aspart	8.86451475646223e-06
+75-79	Male	Tetracycline	Insulin aspart	3.50926445816957e-06
+80-84	Male	Tetracycline	Insulin aspart	4.49848625937372e-06
+85-89	Male	Tetracycline	Insulin aspart	0
+>90	Male	Tetracycline	Insulin aspart	0

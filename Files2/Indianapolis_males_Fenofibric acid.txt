@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Fenofibric acid	0	0	0	0
+05-09	Male	Fenofibric acid	0	0	0	0
+10-14	Male	Fenofibric acid	0	0	0	0
+15-19	Male	Fenofibric acid	0	0	0	0
+20-24	Male	Fenofibric acid	0	0	0	0
+25-29	Male	Fenofibric acid	0	0	0	0
+30-34	Male	Fenofibric acid	0	0	0	0
+35-39	Male	Fenofibric acid	0	0.0139958012596221	0.0279916025192442	2
+40-44	Male	Fenofibric acid	0	0.0296471983397569	0.0592943966795138	4
+45-49	Male	Fenofibric acid	0	0.0551040088166414	0.0551040088166414	4
+50-54	Male	Fenofibric acid	0	0.0869241276542903	0.0869241276542903	7
+55-59	Male	Fenofibric acid	0	0.101511391833972	0.124069478908189	11
+60-64	Male	Fenofibric acid	0	0.0609533097647202	0.0731439717176643	6
+65-69	Male	Fenofibric acid	0	0.165314096783889	0.18034265103697	12
+70-74	Male	Fenofibric acid	0	0.128205128205128	0.128205128205128	6
+75-79	Male	Fenofibric acid	0	0.0313185092389602	0.0626370184779205	2
+80-84	Male	Fenofibric acid	0	0	0	0
+85-89	Male	Fenofibric acid	0	0	0	0
+>90	Male	Fenofibric acid	0	0	0	0

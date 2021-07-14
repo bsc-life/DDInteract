@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Dobesilic acid	0	0	0.0014	1
+05-09	NA	NA	0	0	0	0
+10-14	Female	Dobesilic acid	0	4e-04	8e-04	2
+15-19	Female	Dobesilic acid	0	0.0067	0.0114	34
+20-24	Female	Dobesilic acid	0	0.0179	0.0327	117
+25-29	Female	Dobesilic acid	0	0.0304	0.0507	228
+30-34	Female	Dobesilic acid	0	0.0349	0.0601	327
+35-39	Female	Dobesilic acid	0	0.0564	0.0857	504
+40-44	Female	Dobesilic acid	0	0.0724	0.1106	629
+45-49	Female	Dobesilic acid	0	0.1128	0.1534	812
+50-54	Female	Dobesilic acid	0	0.1692	0.2103	1058
+55-59	Female	Dobesilic acid	0	0.2572	0.3015	1436
+60-64	Female	Dobesilic acid	0	0.4054	0.4549	2087
+65-69	Female	Dobesilic acid	0	0.5923	0.6428	2708
+70-74	Female	Dobesilic acid	0	0.7762	0.8192	3206
+75-79	Female	Dobesilic acid	0	0.9383	0.9876	3529
+80-84	Female	Dobesilic acid	0	1.0231	1.0624	3381
+85-89	Female	Dobesilic acid	0	0.8943	0.9268	2343
+>90	Female	Dobesilic acid	0	0.8199	0.8403	1277

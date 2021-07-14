@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Mycophenolate mofetil	Calcium	0
+05-09	Male	Mycophenolate mofetil	Calcium	0
+10-14	Male	Mycophenolate mofetil	Calcium	0
+15-19	Male	Mycophenolate mofetil	Calcium	0.00027866796711718
+20-24	Male	Mycophenolate mofetil	Calcium	0
+25-29	Male	Mycophenolate mofetil	Calcium	0.00012721027859051
+30-34	Male	Mycophenolate mofetil	Calcium	0
+35-39	Male	Mycophenolate mofetil	Calcium	0.000279916025192442
+40-44	Male	Mycophenolate mofetil	Calcium	0.000148235991698784
+45-49	Male	Mycophenolate mofetil	Calcium	0.000275520044083207
+50-54	Male	Mycophenolate mofetil	Calcium	0.00024835465044083
+55-59	Male	Mycophenolate mofetil	Calcium	0.000225580870742161
+60-64	Male	Mycophenolate mofetil	Calcium	0.000975252956235524
+65-69	Male	Mycophenolate mofetil	Calcium	0.00120228434024647
+70-74	Male	Mycophenolate mofetil	Calcium	0.000854700854700855
+75-79	Male	Mycophenolate mofetil	Calcium	0.000626370184779205
+80-84	Male	Mycophenolate mofetil	Calcium	0.000495294700346706
+85-89	Male	Mycophenolate mofetil	Calcium	0.000809061488673139
+>90	Male	Mycophenolate mofetil	Calcium	0

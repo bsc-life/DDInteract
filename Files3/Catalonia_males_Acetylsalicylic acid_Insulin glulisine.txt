@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Insulin glulisine	0
+05-09	Male	Acetylsalicylic acid	Insulin glulisine	0
+10-14	Male	Acetylsalicylic acid	Insulin glulisine	0
+15-19	Male	Acetylsalicylic acid	Insulin glulisine	3.50585653333894e-06
+20-24	Male	Acetylsalicylic acid	Insulin glulisine	0
+25-29	Male	Acetylsalicylic acid	Insulin glulisine	1.34399931187235e-05
+30-34	Male	Acetylsalicylic acid	Insulin glulisine	1.90013723213343e-05
+35-39	Male	Acetylsalicylic acid	Insulin glulisine	4.05737122918061e-05
+40-44	Male	Acetylsalicylic acid	Insulin glulisine	0.000125089849985531
+45-49	Male	Acetylsalicylic acid	Insulin glulisine	0.00028301560250764
+50-54	Male	Acetylsalicylic acid	Insulin glulisine	0.000431296265326421
+55-59	Male	Acetylsalicylic acid	Insulin glulisine	0.000633892097478518
+60-64	Male	Acetylsalicylic acid	Insulin glulisine	0.000760350976067164
+65-69	Male	Acetylsalicylic acid	Insulin glulisine	0.000709661189741689
+70-74	Male	Acetylsalicylic acid	Insulin glulisine	0.00078303213682083
+75-79	Male	Acetylsalicylic acid	Insulin glulisine	0.00073343627175744
+80-84	Male	Acetylsalicylic acid	Insulin glulisine	0.000571307754940463
+85-89	Male	Acetylsalicylic acid	Insulin glulisine	0.000473677087562593
+>90	Male	Acetylsalicylic acid	Insulin glulisine	0.000382189948404357

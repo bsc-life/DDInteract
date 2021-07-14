@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	NA	NA	0	0	0	0
+20-24	Female	Etidronic acid	0	3e-04	3e-04	1
+25-29	NA	NA	0	0	0	0
+30-34	Female	Etidronic acid	0	4e-04	6e-04	3
+35-39	Female	Etidronic acid	0	9e-04	0.001	6
+40-44	Female	Etidronic acid	0	0.0011	0.0012	7
+45-49	Female	Etidronic acid	0	0.0021	0.0028	15
+50-54	Female	Etidronic acid	0	0.0034	0.0056	28
+55-59	Female	Etidronic acid	0	0.0103	0.013	62
+60-64	Female	Etidronic acid	2e-04	0.0231	0.0272	125
+65-69	Female	Etidronic acid	0	0.0282	0.0318	134
+70-74	Female	Etidronic acid	3e-04	0.0266	0.0294	115
+75-79	Female	Etidronic acid	3e-04	0.0344	0.0372	133
+80-84	Female	Etidronic acid	0	0.0302	0.0314	100
+85-89	Female	Etidronic acid	0	0.0182	0.0198	50
+>90	Female	Etidronic acid	0	0.0132	0.0151	23

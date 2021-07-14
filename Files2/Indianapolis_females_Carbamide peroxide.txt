@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Carbamide peroxide	0	0	0.346373268133659	51
+05-09	Female	Carbamide peroxide	0	0	0.466926070038911	42
+10-14	Female	Carbamide peroxide	0	0	0.294442399705558	24
+15-19	Female	Carbamide peroxide	0	0	0.163367288103017	17
+20-24	Female	Carbamide peroxide	0	0	0.112824370063934	15
+25-29	Female	Carbamide peroxide	0	0	0.129794276072425	20
+30-34	Female	Carbamide peroxide	0	0	0.184053596407274	25
+35-39	Female	Carbamide peroxide	0	0	0.0850267834367826	10
+40-44	Female	Carbamide peroxide	0	0	0.102270402945388	10
+45-49	Female	Carbamide peroxide	0	0	0.136505460218409	14
+50-54	Female	Carbamide peroxide	0	0	0.138516945239634	15
+55-59	Female	Carbamide peroxide	0	0	0.192442267319804	22
+60-64	Female	Carbamide peroxide	0	0	0.231352952063668	25
+65-69	Female	Carbamide peroxide	0	0	0.235215053763441	21
+70-74	Female	Carbamide peroxide	0	0	0.380348652931854	24
+75-79	Female	Carbamide peroxide	0	0	0.462758924636404	21
+80-84	Female	Carbamide peroxide	0	0	0.482945970419559	16
+85-89	Female	Carbamide peroxide	0	0	0.884955752212389	20
+>90	Female	Carbamide peroxide	0	0	1.34770889487871	20

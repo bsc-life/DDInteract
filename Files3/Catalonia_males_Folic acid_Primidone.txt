@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Folic acid	Primidone	0
+05-09	Male	Folic acid	Primidone	0
+10-14	Male	Folic acid	Primidone	0
+15-19	Male	Folic acid	Primidone	0
+20-24	Male	Folic acid	Primidone	0
+25-29	Male	Folic acid	Primidone	0
+30-34	Male	Folic acid	Primidone	0
+35-39	Male	Folic acid	Primidone	1.84425964962755e-06
+40-44	Male	Folic acid	Primidone	1.8670126863512e-06
+45-49	Male	Folic acid	Primidone	4.07216694255598e-06
+50-54	Male	Folic acid	Primidone	8.80196459849838e-06
+55-59	Male	Folic acid	Primidone	4.69549701835939e-06
+60-64	Male	Folic acid	Primidone	2.4292363452625e-05
+65-69	Male	Folic acid	Primidone	1.05919580558461e-05
+70-74	Male	Folic acid	Primidone	2.36387060172326e-05
+75-79	Male	Folic acid	Primidone	3.15833801235261e-05
+80-84	Male	Folic acid	Primidone	5.39818351124846e-05
+85-89	Male	Folic acid	Primidone	0.000108269048585736
+>90	Male	Folic acid	Primidone	0.000132296520601508

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Alendronic acid	Naproxen	0
+05-09	Male	Alendronic acid	Naproxen	0
+10-14	Male	Alendronic acid	Naproxen	0
+15-19	Male	Alendronic acid	Naproxen	3.50585653333894e-06
+20-24	Male	Alendronic acid	Naproxen	0
+25-29	Male	Alendronic acid	Naproxen	2.6879986237447e-06
+30-34	Male	Alendronic acid	Naproxen	1.05563179562968e-05
+35-39	Male	Alendronic acid	Naproxen	3.13524140436684e-05
+40-44	Male	Alendronic acid	Naproxen	4.10742790997265e-05
+45-49	Male	Alendronic acid	Naproxen	7.53350884372856e-05
+50-54	Male	Alendronic acid	Naproxen	0.000127628486678227
+55-59	Male	Alendronic acid	Naproxen	0.000197210874771095
+60-64	Male	Alendronic acid	Naproxen	0.000296366834122025
+65-69	Male	Alendronic acid	Naproxen	0.000415734353691959
+70-74	Male	Alendronic acid	Naproxen	0.00044913541432742
+75-79	Male	Alendronic acid	Naproxen	0.000449185850645705
+80-84	Male	Alendronic acid	Naproxen	0.000557812296162341
+85-89	Male	Alendronic acid	Naproxen	0.000378941670050074
+>90	Male	Alendronic acid	Naproxen	0.000308691881403519

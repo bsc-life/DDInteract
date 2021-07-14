@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Griseofulvin	Acetylsalicylic acid	0
+05-09	Male	Griseofulvin	Acetylsalicylic acid	0
+10-14	Male	Griseofulvin	Acetylsalicylic acid	3.81101918085954e-06
+15-19	Male	Griseofulvin	Acetylsalicylic acid	0
+20-24	Male	Griseofulvin	Acetylsalicylic acid	0
+25-29	Male	Griseofulvin	Acetylsalicylic acid	2.6879986237447e-06
+30-34	Male	Griseofulvin	Acetylsalicylic acid	0
+35-39	Male	Griseofulvin	Acetylsalicylic acid	0
+40-44	Male	Griseofulvin	Acetylsalicylic acid	0
+45-49	Male	Griseofulvin	Acetylsalicylic acid	0
+50-54	Male	Griseofulvin	Acetylsalicylic acid	4.40098229924919e-06
+55-59	Male	Griseofulvin	Acetylsalicylic acid	0
+60-64	Male	Griseofulvin	Acetylsalicylic acid	2.4292363452625e-06
+65-69	Male	Griseofulvin	Acetylsalicylic acid	5.29597902792305e-06
+70-74	Male	Griseofulvin	Acetylsalicylic acid	1.18193530086163e-05
+75-79	Male	Griseofulvin	Acetylsalicylic acid	7.01852891633914e-06
+80-84	Male	Griseofulvin	Acetylsalicylic acid	8.99697251874744e-06
+85-89	Male	Griseofulvin	Acetylsalicylic acid	0
+>90	Male	Griseofulvin	Acetylsalicylic acid	0

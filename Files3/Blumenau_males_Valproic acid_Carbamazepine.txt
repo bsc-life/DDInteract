@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Valproic acid	Carbamazepine	0
+05-09	Male	Valproic acid	Carbamazepine	0.000288267512251369
+10-14	Male	Valproic acid	Carbamazepine	0.000964320154291225
+15-19	Male	Valproic acid	Carbamazepine	0.000511639805576874
+20-24	Male	Valproic acid	Carbamazepine	0.00180913613749435
+25-29	Male	Valproic acid	Carbamazepine	0.00263978881689465
+30-34	Male	Valproic acid	Carbamazepine	0.00202326757713708
+35-39	Male	Valproic acid	Carbamazepine	0.00274047684297068
+40-44	Male	Valproic acid	Carbamazepine	0.00229416263063982
+45-49	Male	Valproic acid	Carbamazepine	0.0020197486535009
+50-54	Male	Valproic acid	Carbamazepine	0.00110570544007077
+55-59	Male	Valproic acid	Carbamazepine	0.000740009866798224
+60-64	Male	Valproic acid	Carbamazepine	0
+65-69	Male	Valproic acid	Carbamazepine	0.000362056480811006
+70-74	Male	Valproic acid	Carbamazepine	0
+75-79	Male	Valproic acid	Carbamazepine	0
+80-84	Male	Valproic acid	Carbamazepine	0
+85-89	Male	Valproic acid	Carbamazepine	0
+>90	Male	Valproic acid	Carbamazepine	0

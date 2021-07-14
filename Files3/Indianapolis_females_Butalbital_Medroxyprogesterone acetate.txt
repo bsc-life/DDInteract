@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Butalbital	Medroxyprogesterone acetate	0
+05-09	Female	Butalbital	Medroxyprogesterone acetate	0
+10-14	Female	Butalbital	Medroxyprogesterone acetate	0
+15-19	Female	Butalbital	Medroxyprogesterone acetate	0.000192196809532962
+20-24	Female	Butalbital	Medroxyprogesterone acetate	7.52162467092892e-05
+25-29	Female	Butalbital	Medroxyprogesterone acetate	0.000194691414108638
+30-34	Female	Butalbital	Medroxyprogesterone acetate	0.000220864315688729
+35-39	Female	Butalbital	Medroxyprogesterone acetate	8.50267834367826e-05
+40-44	Female	Butalbital	Medroxyprogesterone acetate	0
+45-49	Female	Butalbital	Medroxyprogesterone acetate	9.75039001560062e-05
+50-54	Female	Butalbital	Medroxyprogesterone acetate	9.23446301597562e-05
+55-59	Female	Butalbital	Medroxyprogesterone acetate	0
+60-64	Female	Butalbital	Medroxyprogesterone acetate	0
+65-69	Female	Butalbital	Medroxyprogesterone acetate	0
+70-74	Female	Butalbital	Medroxyprogesterone acetate	0
+75-79	Female	Butalbital	Medroxyprogesterone acetate	0
+80-84	Female	Butalbital	Medroxyprogesterone acetate	0
+85-89	Female	Butalbital	Medroxyprogesterone acetate	0
+>90	Female	Butalbital	Medroxyprogesterone acetate	0

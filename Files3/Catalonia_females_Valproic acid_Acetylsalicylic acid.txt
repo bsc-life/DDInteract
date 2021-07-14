@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Valproic acid	Acetylsalicylic acid	0
+05-09	Female	Valproic acid	Acetylsalicylic acid	5.91131840134305e-06
+10-14	Female	Valproic acid	Acetylsalicylic acid	1.21107406121576e-05
+15-19	Female	Valproic acid	Acetylsalicylic acid	2.0033723434448e-05
+20-24	Female	Valproic acid	Acetylsalicylic acid	2.51255579967672e-05
+25-29	Female	Valproic acid	Acetylsalicylic acid	3.77693845812042e-05
+30-34	Female	Valproic acid	Acetylsalicylic acid	4.77794500585298e-05
+35-39	Female	Valproic acid	Acetylsalicylic acid	7.31071206335497e-05
+40-44	Female	Valproic acid	Acetylsalicylic acid	9.66993862226231e-05
+45-49	Female	Valproic acid	Acetylsalicylic acid	0.000160626481070642
+50-54	Female	Valproic acid	Acetylsalicylic acid	0.000230596589158382
+55-59	Female	Valproic acid	Acetylsalicylic acid	0.000312882572440715
+60-64	Female	Valproic acid	Acetylsalicylic acid	0.000453380298882243
+65-69	Female	Valproic acid	Acetylsalicylic acid	0.000567359050445104
+70-74	Female	Valproic acid	Acetylsalicylic acid	0.000789518061822586
+75-79	Female	Valproic acid	Acetylsalicylic acid	0.00105219561883654
+80-84	Female	Valproic acid	Acetylsalicylic acid	0.00142662317665617
+85-89	Female	Valproic acid	Acetylsalicylic acid	0.00157824162523288
+>90	Female	Valproic acid	Acetylsalicylic acid	0.00190174117894792

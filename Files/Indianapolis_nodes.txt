@@ -1,0 +1,413 @@
+id	label	value	color	category
+Alteplase	Alteplase	0.00171600171600172	#E43E22	Coagulation modifiers
+Insulin lispro	Insulin lispro	0.0336559175421735	#A1CE5E	Metabolic agents
+Insulin glargine	Insulin glargine	0.0546409257857921	#A1CE5E	Metabolic agents
+Cyclosporine	Cyclosporine	0.090495867768595	#CED75C	Immunologic agents
+Oxytocin	Oxytocin	0.022148523108551	#FACF63	Genitourinary tract agents
+Folic acid	Folic acid	0.00153030404725149	#DBDFC3	Nutritional products
+Pravastatin	Pravastatin	0.00309689851348871	#A1CE5E	Metabolic agents
+Fluvoxamine	Fluvoxamine	0.0579710144927536	#AEC6CC	Psychotherapeutic agents
+Valsartan	Valsartan	0.00226644555002764	#FFB6AD	Cardiovascular agents
+Ramipril	Ramipril	0.00853560949586556	#FFB6AD	Cardiovascular agents
+Amphetamine	Amphetamine	0.0142105263157895	#F68B69	CNS agents
+Lorazepam	Lorazepam	0.00164621521991617	#F68B69	CNS agents
+Esmolol	Esmolol	0.0751569352480867	#FFB6AD	Cardiovascular agents
+Phentermine	Phentermine	0.0188986640599544	#F68B69	CNS agents
+Tramadol	Tramadol	0.00904065040650407	#F68B69	CNS agents
+Fluconazole	Fluconazole	0.0427484852391388	#EC00BC	Anti-infectives
+Erythromycin	Erythromycin	0.0454723637789102	#EC00BC	Anti-infectives
+Caffeine	Caffeine	0.00153256704980843	#F68B69	CNS agents
+Succinylcholine	Succinylcholine	0.0189155959088268	#F68B69	CNS agents
+Sildenafil	Sildenafil	0.00649764301184864	#FACF63	Genitourinary tract agents
+Dofetilide	Dofetilide	0.00087719298245614	#FFB6AD	Cardiovascular agents
+Azithromycin	Azithromycin	0.00188494045499162	#EC00BC	Anti-infectives
+Trospium	Trospium	0.0613496932515337	#FACF63	Genitourinary tract agents
+Midodrine	Midodrine	0.0594689139767849	#FFB6AD	Cardiovascular agents
+Pantoprazole	Pantoprazole	5.74992558919826e-05	#FBAF5F	Gastrointestinal agents
+Torasemide	Torasemide	0.0017856505124817	#FFB6AD	Cardiovascular agents
+Citalopram	Citalopram	0.0377669460321913	#AEC6CC	Psychotherapeutic agents
+Eletriptan	Eletriptan	0.0432098765432099	#F68B69	CNS agents
+Moxifloxacin	Moxifloxacin	0.0108907320591417	#EC00BC	Anti-infectives
+Glimepiride	Glimepiride	0.00341630063445583	#A1CE5E	Metabolic agents
+Lovastatin	Lovastatin	0.0211676340047798	#A1CE5E	Metabolic agents
+Pregabalin	Pregabalin	0.000746268656716418	#F68B69	CNS agents
+Nevirapine	Nevirapine	0.0256410256410256	#EC00BC	Anti-infectives
+Butalbital	Butalbital	0.0439244344243178	#F68B69	CNS agents
+Ranolazine	Ranolazine	0.0131801284217641	#FFB6AD	Cardiovascular agents
+Mesalazine	Mesalazine	0.00885328836424958	#FBAF5F	Gastrointestinal agents
+Benzatropine	Benzatropine	0.0241691842900302	#F68B69	CNS agents
+Ziprasidone	Ziprasidone	0.00435634937922021	#AEC6CC	Psychotherapeutic agents
+Dapsone	Dapsone	0.0175077239958805	#EC00BC	Anti-infectives
+Phenytoin	Phenytoin	0.118608452019612	#F68B69	CNS agents
+Doxycycline	Doxycycline	0.0563183262631331	#EC00BC	Anti-infectives
+Metoprolol	Metoprolol	0.072242703727634	#FFB6AD	Cardiovascular agents
+Ropinirole	Ropinirole	0.00211442786069652	#F68B69	CNS agents
+Topiramate	Topiramate	0.00630282194528005	#F68B69	CNS agents
+Theophylline	Theophylline	0.00466200466200466	#1A86A8	Respiratory agents
+Liothyronine	Liothyronine	0.00112930547713156	#FFEF6C	Hormones
+Disopyramide	Disopyramide	0.5	#FFB6AD	Cardiovascular agents
+Lidocaine	Lidocaine	0.0176675224789659	#969A52	Miscellaneous agents
+Venlafaxine	Venlafaxine	0.0037403833892974	#AEC6CC	Psychotherapeutic agents
+Conjugated estrogens	Conjugated estrogens	0.00990853658536585	#FFEF6C	Hormones
+Atomoxetine	Atomoxetine	0.0255847953216374	#F68B69	CNS agents
+Morphine	Morphine	0.000107303045260424	#F68B69	CNS agents
+Tenofovir disoproxil	Tenofovir disoproxil	0.00314502038439138	#EC00BC	Anti-infectives
+Desogestrel	Desogestrel	0.000564015792442188	#FFEF6C	Hormones
+Chlorthalidone	Chlorthalidone	0.000322927879440258	#FFB6AD	Cardiovascular agents
+Valproic acid	Valproic acid	0.034296700570578	#F68B69	CNS agents
+Acetaminophen	Acetaminophen	0.00118279628978372	#F68B69	CNS agents
+Piperacillin	Piperacillin	0.0223638626616247	#EC00BC	Anti-infectives
+Dihydroergotamine	Dihydroergotamine	0.039344262295082	#F68B69	CNS agents
+Amitriptyline	Amitriptyline	0.0433656673835755	#AEC6CC	Psychotherapeutic agents
+Hydromorphone	Hydromorphone	4.21240130945504e-05	#F68B69	CNS agents
+Indomethacin	Indomethacin	0.0288933834151979	#F68B69	CNS agents
+Metformin	Metformin	8.40225180348333e-05	#A1CE5E	Metabolic agents
+Ipratropium	Ipratropium	0.00011042606055029	#1A86A8	Respiratory agents
+Methadone	Methadone	0.00145077720207254	#F68B69	CNS agents
+Olanzapine	Olanzapine	0.0029421379535796	#AEC6CC	Psychotherapeutic agents
+Atenolol	Atenolol	0.0608906711692697	#FFB6AD	Cardiovascular agents
+Omeprazole	Omeprazole	0.0155789530086267	#FBAF5F	Gastrointestinal agents
+Diltiazem	Diltiazem	0.0793638357881542	#FFB6AD	Cardiovascular agents
+Protriptyline	Protriptyline	0.0155038759689922	#AEC6CC	Psychotherapeutic agents
+Methylergometrine	Methylergometrine	0.0250238777459408	#FACF63	Genitourinary tract agents
+Aztreonam	Aztreonam	0.00549450549450549	#EC00BC	Anti-infectives
+Sulfadiazine	Sulfadiazine	0.0157068062827225	#EC00BC	Anti-infectives
+Clozapine	Clozapine	0.088780487804878	#AEC6CC	Psychotherapeutic agents
+Sucralfate	Sucralfate	0.0143030513176144	#FBAF5F	Gastrointestinal agents
+Levonorgestrel	Levonorgestrel	0.00101916021198532	#FFEF6C	Hormones
+Norepinephrine	Norepinephrine	0.00465735196274118	#FFB6AD	Cardiovascular agents
+Mirtazapine	Mirtazapine	0.00606919498444191	#AEC6CC	Psychotherapeutic agents
+Timolol	Timolol	0.0399154731157549	#FFB6AD	Cardiovascular agents
+Colestipol	Colestipol	0.014318010550113	#A1CE5E	Metabolic agents
+Trihexyphenidyl	Trihexyphenidyl	0.0100456621004566	#F68B69	CNS agents
+Triamterene	Triamterene	0.0415526898528071	#FFB6AD	Cardiovascular agents
+Phenylephrine	Phenylephrine	0.0073051536280572	#1A86A8	Respiratory agents
+Digoxin	Digoxin	0.0845560805769709	#FFB6AD	Cardiovascular agents
+Griseofulvin	Griseofulvin	0.0062111801242236	#EC00BC	Anti-infectives
+Alprazolam	Alprazolam	0.012989811309139	#F68B69	CNS agents
+Pramipexole	Pramipexole	0.000135906496330525	#F68B69	CNS agents
+Ampicillin	Ampicillin	0.00477586533005485	#EC00BC	Anti-infectives
+Phenoxymethylpenicillin	Phenoxymethylpenicillin	0.00363825363825364	#EC00BC	Anti-infectives
+Spironolactone	Spironolactone	0.0369370811700935	#FFB6AD	Cardiovascular agents
+Methylphenidate	Methylphenidate	0.000902391337043164	#F68B69	CNS agents
+Hyoscyamine	Hyoscyamine	0.00715695952615992	#FBAF5F	Gastrointestinal agents
+Prochlorperazine	Prochlorperazine	0.00115294660210166	#AEC6CC	Psychotherapeutic agents
+Cyproheptadine	Cyproheptadine	0.00574712643678161	#1A86A8	Respiratory agents
+Allopurinol	Allopurinol	0.0045425048669695	#A1CE5E	Metabolic agents
+Ceftazidime	Ceftazidime	0.00919681177191907	#EC00BC	Anti-infectives
+Trimethoprim	Trimethoprim	0.00112650670271488	#EC00BC	Anti-infectives
+Gemcitabine	Gemcitabine	0.0222222222222222	#FAC6CC	Antineoplastics
+Betamethasone	Betamethasone	0.0112410754974935	#FFEF6C	Hormones
+Levothyroxine	Levothyroxine	0.0110327171875714	#FFEF6C	Hormones
+Meperidine	Meperidine	0.000541879547917634	#F68B69	CNS agents
+Loratadine	Loratadine	6.09471182170936e-05	#1A86A8	Respiratory agents
+Prazosin	Prazosin	0.0201663201663202	#FFB6AD	Cardiovascular agents
+Imipramine	Imipramine	0.0397350993377483	#AEC6CC	Psychotherapeutic agents
+Nabumetone	Nabumetone	0.0040709508578075	#F68B69	CNS agents
+Ketorolac	Ketorolac	0.00751585432143504	#F68B69	CNS agents
+Fluoxetine	Fluoxetine	0.0486657832514875	#AEC6CC	Psychotherapeutic agents
+Duloxetine	Duloxetine	0.00669011655976274	#AEC6CC	Psychotherapeutic agents
+Chlorpromazine	Chlorpromazine	0.00825763831544178	#F68B69	CNS agents
+Amikacin	Amikacin	0.0268595041322314	#EC00BC	Anti-infectives
+Raloxifene	Raloxifene	0.0355060943296237	#FFEF6C	Hormones
+Celecoxib	Celecoxib	0.00167837384223286	#F68B69	CNS agents
+Sotalol	Sotalol	0.0130858186244674	#FFB6AD	Cardiovascular agents
+Buspirone	Buspirone	0.00344415038248196	#F68B69	CNS agents
+Cefotaxime	Cefotaxime	0.0142231947483589	#EC00BC	Anti-infectives
+Oxycodone	Oxycodone	0.00739213073637183	#F68B69	CNS agents
+Cimetidine	Cimetidine	0.130019120458891	#FBAF5F	Gastrointestinal agents
+Haloperidol	Haloperidol	0.0168940283675129	#AEC6CC	Psychotherapeutic agents
+Ritonavir	Ritonavir	0.0717761557177616	#EC00BC	Anti-infectives
+Dextromethorphan	Dextromethorphan	0.00524280189084658	#1A86A8	Respiratory agents
+Cisplatin	Cisplatin	0.0105967651979922	#FAC6CC	Antineoplastics
+Ciprofloxacin	Ciprofloxacin	0.0119430120840713	#EC00BC	Anti-infectives
+Nortriptyline	Nortriptyline	0.0410358565737052	#AEC6CC	Psychotherapeutic agents
+Vincristine	Vincristine	0.0225596529284165	#FAC6CC	Antineoplastics
+Benazepril	Benazepril	0.0143061516452074	#FFB6AD	Cardiovascular agents
+Fluorouracil	Fluorouracil	0.000909090909090909	#FAC6CC	Antineoplastics
+Pyridostigmine	Pyridostigmine	0.0348837209302326	#969A52	Miscellaneous agents
+Piroxicam	Piroxicam	0.0223048327137546	#F68B69	CNS agents
+Lamotrigine	Lamotrigine	0.00990319350172471	#F68B69	CNS agents
+Hydroxyzine	Hydroxyzine	0.000469416494887442	#1A86A8	Respiratory agents
+Bosentan	Bosentan	0.0147058823529412	#FFB6AD	Cardiovascular agents
+Methotrexate	Methotrexate	0.091460396039604	#FAC6CC	Antineoplastics
+Carbamazepine	Carbamazepine	0.101778656126482	#F68B69	CNS agents
+Cephalexin	Cephalexin	3.06281840549674e-05	#EC00BC	Anti-infectives
+Propranolol	Propranolol	0.0854462324090018	#FFB6AD	Cardiovascular agents
+Atropine	Atropine	0.0014659449706811	#FBAF5F	Gastrointestinal agents
+Clonidine	Clonidine	0.0375407765968641	#FFB6AD	Cardiovascular agents
+Voriconazole	Voriconazole	0.0353270374256733	#EC00BC	Anti-infectives
+Enalapril	Enalapril	0.0101214574898785	#FFB6AD	Cardiovascular agents
+Diclofenac	Diclofenac	0.00328971962616822	#F68B69	CNS agents
+Amiloride	Amiloride	0.0433006535947712	#FFB6AD	Cardiovascular agents
+Labetalol	Labetalol	0.0607822661033844	#FFB6AD	Cardiovascular agents
+Linezolid	Linezolid	0.0297029702970297	#EC00BC	Anti-infectives
+Medroxyprogesterone acetate	Medroxyprogesterone acetate	0.00226785939271765	#FFEF6C	Hormones
+Sulindac	Sulindac	0.00556586270871985	#F68B69	CNS agents
+Bisoprolol	Bisoprolol	0.0409914204003813	#FFB6AD	Cardiovascular agents
+Rifabutin	Rifabutin	0.0909090909090909	#EC00BC	Anti-infectives
+Demeclocycline	Demeclocycline	0.062124248496994	#EC00BC	Anti-infectives
+Imatinib	Imatinib	0.0627177700348432	#FAC6CC	Antineoplastics
+Triamcinolone	Triamcinolone	0.0193257158978699	#FFEF6C	Hormones
+Efavirenz	Efavirenz	0.0250368188512518	#EC00BC	Anti-infectives
+Alendronic acid	Alendronic acid	0.0314278643900025	#A1CE5E	Metabolic agents
+Prednisone	Prednisone	0.0222406792174234	#FFEF6C	Hormones
+Simvastatin	Simvastatin	0.0111287077858152	#A1CE5E	Metabolic agents
+Magnesium sulfate	Magnesium sulfate	1.58201564613474e-05	#FBAF5F	Gastrointestinal agents
+Trazodone	Trazodone	0.00478517355748538	#AEC6CC	Psychotherapeutic agents
+Verapamil	Verapamil	0.133075942193256	#FFB6AD	Cardiovascular agents
+Trimethobenzamide	Trimethobenzamide	0.0795795795795796	#F68B69	CNS agents
+Epinephrine	Epinephrine	0.0155032794528361	#1A86A8	Respiratory agents
+Sumatriptan	Sumatriptan	0.0221586847748392	#F68B69	CNS agents
+Aprepitant	Aprepitant	0.0679245283018868	#F68B69	CNS agents
+Galantamine	Galantamine	0.0603015075376884	#F68B69	CNS agents
+Losartan	Losartan	0.00902841151061629	#FFB6AD	Cardiovascular agents
+Warfarin	Warfarin	0.134326689217523	#E43E22	Coagulation modifiers
+Midazolam	Midazolam	0.00955259125125793	#F68B69	CNS agents
+Tobramycin	Tobramycin	0.0392156862745098	#EC00BC	Anti-infectives
+Fludrocortisone	Fludrocortisone	0.0377544969361534	#FFEF6C	Hormones
+Mycophenolate mofetil	Mycophenolate mofetil	0.0352981029810298	#CED75C	Immunologic agents
+Furosemide	Furosemide	0.00659864164547591	#FFB6AD	Cardiovascular agents
+Tizanidine	Tizanidine	0.0161761128679154	#F68B69	CNS agents
+Naltrexone	Naltrexone	0.0197368421052632	#969A52	Miscellaneous agents
+Lamivudine	Lamivudine	0.00114810562571757	#EC00BC	Anti-infectives
+Ibandronate	Ibandronate	0.0166320166320166	#A1CE5E	Metabolic agents
+Paroxetine	Paroxetine	0.0439693138229862	#AEC6CC	Psychotherapeutic agents
+Norethisterone	Norethisterone	0.00421762969211303	#FFEF6C	Hormones
+Lisinopril	Lisinopril	0.00779312990649389	#FFB6AD	Cardiovascular agents
+Rocuronium	Rocuronium	0.0103995015453733	#F68B69	CNS agents
+Risperidone	Risperidone	0.0223711228790662	#AEC6CC	Psychotherapeutic agents
+Meclizine	Meclizine	0.00102924779140578	#F68B69	CNS agents
+Hydrocortisone	Hydrocortisone	0.0180273877621772	#FFEF6C	Hormones
+Modafinil	Modafinil	0.000939261114589856	#F68B69	CNS agents
+Scopolamine	Scopolamine	0.00235387398102034	#F68B69	CNS agents
+Tetracycline	Tetracycline	0.127310061601643	#EC00BC	Anti-infectives
+Clavulanic acid	Clavulanic acid	0.00583729012678056	#EC00BC	Anti-infectives
+Oxcarbazepine	Oxcarbazepine	0.00367242012486228	#F68B69	CNS agents
+Estradiol	Estradiol	0.00914861837191934	#FFEF6C	Hormones
+Naproxen	Naproxen	0.00173337311566714	#F68B69	CNS agents
+Primidone	Primidone	0.058174292940906	#F68B69	CNS agents
+Sulfasalazine	Sulfasalazine	0.00448654037886341	#FBAF5F	Gastrointestinal agents
+Gentamicin	Gentamicin	0.044815137557575	#EC00BC	Anti-infectives
+Dicyclomine	Dicyclomine	0.00705443897244776	#FBAF5F	Gastrointestinal agents
+Fentanyl	Fentanyl	0.00220654492802736	#F68B69	CNS agents
+Meloxicam	Meloxicam	0.000883197173769044	#F68B69	CNS agents
+Acetazolamide	Acetazolamide	0.0198191502539329	#FFB6AD	Cardiovascular agents
+Disulfiram	Disulfiram	0.0161290322580645	#F68B69	CNS agents
+Diazepam	Diazepam	0.0046188592096996	#F68B69	CNS agents
+Donepezil	Donepezil	0.0659409859661749	#F68B69	CNS agents
+Pseudoephedrine	Pseudoephedrine	0.00217013888888889	#1A86A8	Respiratory agents
+Prednisolone	Prednisolone	0.0037719298245614	#FFEF6C	Hormones
+Ranitidine	Ranitidine	0.00114371708051166	#FBAF5F	Gastrointestinal agents
+Tacrolimus	Tacrolimus	0.0322315933439708	#CED75C	Immunologic agents
+Terbutaline	Terbutaline	0.00612745098039216	#1A86A8	Respiratory agents
+Sirolimus	Sirolimus	0.00234192037470726	#CED75C	Immunologic agents
+Emtricitabine	Emtricitabine	0.000545950864422202	#EC00BC	Anti-infectives
+Risedronic acid	Risedronic acid	0.00867052023121387	#A1CE5E	Metabolic agents
+Bumetanide	Bumetanide	0.00366108786610879	#FFB6AD	Cardiovascular agents
+Quinidine	Quinidine	0.111716621253406	#FFB6AD	Cardiovascular agents
+Repaglinide	Repaglinide	0.0402476780185759	#A1CE5E	Metabolic agents
+Amantadine	Amantadine	0.0101522842639594	#EC00BC	Anti-infectives
+Metronidazole	Metronidazole	0.0029039889061098	#EC00BC	Anti-infectives
+Almotriptan	Almotriptan	0.025974025974026	#F68B69	CNS agents
+Cyclobenzaprine	Cyclobenzaprine	0.000313823944766986	#F68B69	CNS agents
+Famotidine	Famotidine	6.87154440603427e-05	#FBAF5F	Gastrointestinal agents
+Salmeterol	Salmeterol	0.0183551006000706	#1A86A8	Respiratory agents
+Acetylsalicylic acid	Acetylsalicylic acid	0.0705871588336516	#F68B69	CNS agents
+Naratriptan	Naratriptan	0.019774011299435	#F68B69	CNS agents
+Rizatriptan	Rizatriptan	0.0351373182552504	#F68B69	CNS agents
+Methylprednisolone	Methylprednisolone	0.0160164696438051	#FFEF6C	Hormones
+Pindolol	Pindolol	0.106382978723404	#FFB6AD	Cardiovascular agents
+Methyldopa	Methyldopa	0.0452488687782805	#FFB6AD	Cardiovascular agents
+Ezetimibe	Ezetimibe	0.000358615743231128	#A1CE5E	Metabolic agents
+Ethinylestradiol	Ethinylestradiol	0.0293382503585331	#FFEF6C	Hormones
+Formoterol	Formoterol	0.0174125305126119	#1A86A8	Respiratory agents
+Glycopyrronium	Glycopyrronium	0.000644903446146021	#1A86A8	Respiratory agents
+Dopamine	Dopamine	0.00540995431594133	#FFB6AD	Cardiovascular agents
+Rivastigmine	Rivastigmine	0.0538757559098406	#F68B69	CNS agents
+Azathioprine	Azathioprine	0.00754458161865569	#CED75C	Immunologic agents
+Neomycin	Neomycin	0.00213013168086754	#EC00BC	Anti-infectives
+Gabapentin	Gabapentin	0.000216402286818584	#F68B69	CNS agents
+Hydrochlorothiazide	Hydrochlorothiazide	0.000489672364672365	#FFB6AD	Cardiovascular agents
+Salbutamol	Salbutamol	0.0204437161768828	#1A86A8	Respiratory agents
+Ganciclovir	Ganciclovir	0.00148809523809524	#EC00BC	Anti-infectives
+Edrophonium	Edrophonium	0.0558287532542667	#969A52	Miscellaneous agents
+Glyburide	Glyburide	0.0680051813471503	#A1CE5E	Metabolic agents
+Minocycline	Minocycline	0.0540845070422535	#EC00BC	Anti-infectives
+Mycophenolic acid	Mycophenolic acid	0.00939926440539436	#CED75C	Immunologic agents
+Ketoconazole	Ketoconazole	0.133574007220217	#EC00BC	Anti-infectives
+Probenecid	Probenecid	0.0545454545454545	#A1CE5E	Metabolic agents
+Fenofibrate	Fenofibrate	0.0548387096774194	#A1CE5E	Metabolic agents
+Memantine	Memantine	0.00432549337658827	#F68B69	CNS agents
+Rifampicin	Rifampicin	0.123066104078762	#EC00BC	Anti-infectives
+Abacavir	Abacavir	0.0250556792873051	#EC00BC	Anti-infectives
+Ibuprofen	Ibuprofen	0.01407935456442	#F68B69	CNS agents
+Isoprenaline	Isoprenaline	0.0352941176470588	#FFB6AD	Cardiovascular agents
+Melatonin	Melatonin	0.00053294487573502	#F68B69	CNS agents
+Glipizide	Glipizide	0.0690137691704914	#A1CE5E	Metabolic agents
+Promethazine	Promethazine	0.00142301164126391	#1A86A8	Respiratory agents
+Atazanavir	Atazanavir	0.209549071618037	#EC00BC	Anti-infectives
+Atorvastatin	Atorvastatin	0.0111670387924844	#A1CE5E	Metabolic agents
+Rosuvastatin	Rosuvastatin	0.00753806723955978	#A1CE5E	Metabolic agents
+Sertraline	Sertraline	0.0304343773303505	#AEC6CC	Psychotherapeutic agents
+Atovaquone	Atovaquone	0.00158061116965227	#EC00BC	Anti-infectives
+Amiodarone	Amiodarone	0.0390567210107406	#FFB6AD	Cardiovascular agents
+Carvedilol	Carvedilol	0.0829887743180779	#FFB6AD	Cardiovascular agents
+Levofloxacin	Levofloxacin	0.0164464023494861	#EC00BC	Anti-infectives
+Doxepin	Doxepin	0.0322136563876652	#F68B69	CNS agents
+Itraconazole	Itraconazole	0.125340599455041	#EC00BC	Anti-infectives
+Phenobarbital	Phenobarbital	0.0447665056360709	#F68B69	CNS agents
+Clindamycin	Clindamycin	0.0235034583423178	#EC00BC	Anti-infectives
+Clarithromycin	Clarithromycin	0.0453492221118835	#EC00BC	Anti-infectives
+Metoclopramide	Metoclopramide	0.0143558707258426	#FBAF5F	Gastrointestinal agents
+Dexamethasone	Dexamethasone	0.0202542041713858	#FFEF6C	Hormones
+Tolevamer	Tolevamer	0.0037751249872462	#969A52	Miscellaneous agents
+Lithium cation	Lithium cation	0.0682114882506527	#AEC6CC	Psychotherapeutic agents
+Ephedrine	Ephedrine	0.0012093705837591	#1A86A8	Respiratory agents
+Cholestyramine	Cholestyramine	0.0294684659873313	#A1CE5E	Metabolic agents
+Nelfinavir	Nelfinavir	0.222222222222222	#EC00BC	Anti-infectives
+Acarbose	Acarbose	0.00242718446601942	#A1CE5E	Metabolic agents
+Pentobarbital	Pentobarbital	0.0111111111111111	#F68B69	CNS agents
+Triprolidine	Triprolidine	0.0666666666666667	#1A86A8	Respiratory agents
+Lansoprazole	Lansoprazole	0.0011258725512272	#FBAF5F	Gastrointestinal agents
+Dronabinol	Dronabinol	0.00027708506511499	#F68B69	CNS agents
+Methohexital	Methohexital	0.0458715596330275	#F68B69	CNS agents
+Chlordiazepoxide	Chlordiazepoxide	0.00372896771259664	#F68B69	CNS agents
+Entacapone	Entacapone	0.00520833333333333	#F68B69	CNS agents
+Zidovudine	Zidovudine	0.00421940928270042	#EC00BC	Anti-infectives
+Metolazone	Metolazone	0.00370501058574453	#FFB6AD	Cardiovascular agents
+Cyclophosphamide	Cyclophosphamide	0.00559152442613302	#FAC6CC	Antineoplastics
+Tigecycline	Tigecycline	0.00273224043715847	#EC00BC	Anti-infectives
+Vinblastine	Vinblastine	0.0122699386503067	#FAC6CC	Antineoplastics
+Doxazosin	Doxazosin	0.000965844235665994	#FFB6AD	Cardiovascular agents
+Testosterone	Testosterone	0.0024808299503834	#FFEF6C	Hormones
+Methazolamide	Methazolamide	0.0123456790123457	#FFB6AD	Cardiovascular agents
+Nitroglycerin	Nitroglycerin	0.00061972089607051	#FFB6AD	Cardiovascular agents
+Esomeprazole	Esomeprazole	0.000127656858364716	#FBAF5F	Gastrointestinal agents
+Tadalafil	Tadalafil	0.00798722044728434	#FACF63	Genitourinary tract agents
+Iron Dextran	Iron Dextran	0.00901803607214429	#DBDFC3	Nutritional products
+Felbamate	Felbamate	0.0255591054313099	#F68B69	CNS agents
+Isotretinoin	Isotretinoin	0.0134228187919463	#969A52	Miscellaneous agents
+Cinacalcet	Cinacalcet	0.00032258064516129	#FFEF6C	Hormones
+Vigabatrin	Vigabatrin	0.0155038759689922	#F68B69	CNS agents
+Fluvastatin	Fluvastatin	0.0344827586206897	#A1CE5E	Metabolic agents
+Pioglitazone	Pioglitazone	0.00469867211440245	#A1CE5E	Metabolic agents
+Bupropion	Bupropion	0.000382022471910112	#AEC6CC	Psychotherapeutic agents
+Escitalopram	Escitalopram	0.0348845101011244	#AEC6CC	Psychotherapeutic agents
+Quetiapine	Quetiapine	0.00404135063109497	#AEC6CC	Psychotherapeutic agents
+Levodopa	Levodopa	0.00278921503519724	#F68B69	CNS agents
+Clomipramine	Clomipramine	0.0561224489795918	#AEC6CC	Psychotherapeutic agents
+Insulin aspart	Insulin aspart	0.0384523951028171	#A1CE5E	Metabolic agents
+Acebutolol	Acebutolol	0.0350194552529183	#FFB6AD	Cardiovascular agents
+Bismuth subsalicylate	Bismuth subsalicylate	0.0781057810578106	#FBAF5F	Gastrointestinal agents
+Nadolol	Nadolol	0.0420962199312715	#FFB6AD	Cardiovascular agents
+Sevelamer	Sevelamer	0.00242182874979818	#969A52	Miscellaneous agents
+Amphotericin B	Amphotericin B	0.00046882325363338	#EC00BC	Anti-infectives
+Sulfamethoxazole	Sulfamethoxazole	0.0010941851872904	#EC00BC	Anti-infectives
+Nifedipine	Nifedipine	0.006848337851334	#FFB6AD	Cardiovascular agents
+Colchicine	Colchicine	0.0313547410530868	#A1CE5E	Metabolic agents
+Ursodeoxycholic acid	Ursodeoxycholic acid	0.00362788287121016	#FBAF5F	Gastrointestinal agents
+Fosphenytoin	Fosphenytoin	0.151474530831099	#F68B69	CNS agents
+Gemfibrozil	Gemfibrozil	0.0425531914893617	#A1CE5E	Metabolic agents
+Cilostazol	Cilostazol	0.0158355795148248	#FFB6AD	Cardiovascular agents
+Dextroamphetamine	Dextroamphetamine	0.0142040533518101	#F68B69	CNS agents
+Insulin detemir	Insulin detemir	0.0381044684758213	#A1CE5E	Metabolic agents
+Nefazodone	Nefazodone	0.0317460317460317	#AEC6CC	Psychotherapeutic agents
+Rasagiline	Rasagiline	0.0772058823529412	#F68B69	CNS agents
+Eplerenone	Eplerenone	0.0037359900373599	#FFB6AD	Cardiovascular agents
+Triazolam	Triazolam	0.02088772845953	#F68B69	CNS agents
+Tolterodine	Tolterodine	0.00388175574798447	#FACF63	Genitourinary tract agents
+Clonazepam	Clonazepam	0.0115835112923057	#F68B69	CNS agents
+Potassium chloride	Potassium chloride	5.33107546607711e-05	#DBDFC3	Nutritional products
+Oxybutynin	Oxybutynin	0.00154488517745303	#FACF63	Genitourinary tract agents
+Dobutamine	Dobutamine	0.00337552742616034	#FFB6AD	Cardiovascular agents
+Dasatinib	Dasatinib	0.0266666666666667	#FAC6CC	Antineoplastics
+Calcium	Calcium	0.0209059233449477	#DBDFC3	Nutritional products
+Magnesium oxide	Magnesium oxide	0.00889939162351048	#DBDFC3	Nutritional products
+Iron	Iron	0.0190401413288841	#DBDFC3	Nutritional products
+Niacin	Niacin	0.00117785630153121	#DBDFC3	Nutritional products
+Mercaptopurine	Mercaptopurine	0.010752688172043	#FAC6CC	Antineoplastics
+Chlorpheniramine	Chlorpheniramine	0.000438148094055791	#1A86A8	Respiratory agents
+Benzylpenicillin	Benzylpenicillin	0.000529007229765473	#EC00BC	Anti-infectives
+Amoxicillin	Amoxicillin	0.0056023150353784	#EC00BC	Anti-infectives
+Insulin glulisine	Insulin glulisine	0.0326046683957021	#A1CE5E	Metabolic agents
+Tazobactam	Tazobactam	0.00359845938486116	#EC00BC	Anti-infectives
+Propafenone	Propafenone	0.0588235294117647	#FFB6AD	Cardiovascular agents
+Hydralazine	Hydralazine	0.0203666887563508	#FFB6AD	Cardiovascular agents
+Acyclovir	Acyclovir	4.31778929188256e-05	#EC00BC	Anti-infectives
+Darunavir	Darunavir	0.0209193503991192	#EC00BC	Anti-infectives
+Terbinafine	Terbinafine	0.00443727309398951	#EC00BC	Anti-infectives
+Diphenhydramine	Diphenhydramine	0.000238385708075666	#1A86A8	Respiratory agents
+Valganciclovir	Valganciclovir	0.0254767797350415	#EC00BC	Anti-infectives
+Meropenem	Meropenem	0.00117161870840754	#EC00BC	Anti-infectives
+Isoniazid	Isoniazid	0.0226986128625473	#EC00BC	Anti-infectives
+Mivacurium	Mivacurium	0.0194174757281553	#F68B69	CNS agents
+Vecuronium	Vecuronium	0.00668048836673578	#F68B69	CNS agents
+Amlodipine	Amlodipine	0.000826206852151893	#FFB6AD	Cardiovascular agents
+Trandolapril	Trandolapril	0.0115606936416185	#FFB6AD	Cardiovascular agents
+Quinapril	Quinapril	0.0110253583241455	#FFB6AD	Cardiovascular agents
+Telmisartan	Telmisartan	0.012280701754386	#FFB6AD	Cardiovascular agents
+Irbesartan	Irbesartan	0.0124958895100296	#FFB6AD	Cardiovascular agents
+Captopril	Captopril	0.0162565905096661	#FFB6AD	Cardiovascular agents
+Methimazole	Methimazole	0.00681325487767111	#FFEF6C	Hormones
+Chlorothiazide	Chlorothiazide	0.00502645502645503	#FFB6AD	Cardiovascular agents
+Hydroxychloroquine	Hydroxychloroquine	0.0130404941660947	#EC00BC	Anti-infectives
+Candesartan cilexetil	Candesartan cilexetil	0.0112866817155756	#FFB6AD	Cardiovascular agents
+Phenelzine	Phenelzine	0.0666666666666667	#AEC6CC	Psychotherapeutic agents
+Leucovorin	Leucovorin	0.00370507595405706	#969A52	Miscellaneous agents
+Paclitaxel	Paclitaxel	0.0147270114942529	#FAC6CC	Antineoplastics
+Frovatriptan	Frovatriptan	0.0289855072463768	#F68B69	CNS agents
+Desipramine	Desipramine	0.0279329608938547	#AEC6CC	Psychotherapeutic agents
+Flecainide	Flecainide	0.00727860897695107	#FFB6AD	Cardiovascular agents
+Ceftriaxone	Ceftriaxone	0.00458751466180112	#EC00BC	Anti-infectives
+Hydrocodone	Hydrocodone	5.72348789352231e-05	#F68B69	CNS agents
+Clidinium	Clidinium	0.00628930817610063	#FBAF5F	Gastrointestinal agents
+Orphenadrine	Orphenadrine	0.00176678445229682	#F68B69	CNS agents
+Belladonna	Belladonna	0.00151683688947315	#FBAF5F	Gastrointestinal agents
+Tetracosactide	Tetracosactide	0.000311623558741041	#FFEF6C	Hormones
+Etodolac	Etodolac	0.00870069605568445	#F68B69	CNS agents
+Oxaprozin	Oxaprozin	0.0204081632653061	#F68B69	CNS agents
+Salsalate	Salsalate	0.049645390070922	#F68B69	CNS agents
+Levetiracetam	Levetiracetam	0.00100278323510151	#F68B69	CNS agents
+Aminophylline	Aminophylline	0.00412654745529574	#1A86A8	Respiratory agents
+Aripiprazole	Aripiprazole	0.000721385059313883	#AEC6CC	Psychotherapeutic agents
+Neostigmine	Neostigmine	0.0424270732548182	#FACF63	Genitourinary tract agents
+Tiotropium	Tiotropium	5.16248935236571e-05	#1A86A8	Respiratory agents
+Irinotecan	Irinotecan	0.00367107195301028	#FAC6CC	Antineoplastics
+Etoposide	Etoposide	0.0142032845095428	#FAC6CC	Antineoplastics
+Drospirenone	Drospirenone	0.00228050171037628	#FFEF6C	Hormones
+Pentoxifylline	Pentoxifylline	0.00575657894736842	#E43E22	Coagulation modifiers
+Etacrynic acid	Etacrynic acid	0.00952380952380952	#FFB6AD	Cardiovascular agents
+Leflunomide	Leflunomide	0.0014720314033366	#CED75C	Immunologic agents
+Capecitabine	Capecitabine	0.00175131348511384	#FAC6CC	Antineoplastics
+Cefoxitin	Cefoxitin	0.00255128426133425	#EC00BC	Anti-infectives
+Cefuroxime	Cefuroxime	0.000638421358096344	#EC00BC	Anti-infectives
+Cefazolin	Cefazolin	0.00146201570729696	#EC00BC	Anti-infectives
+Diphenoxylate	Diphenoxylate	0.000784929356357928	#FBAF5F	Gastrointestinal agents
+Solifenacin	Solifenacin	0.00112359550561798	#FACF63	Genitourinary tract agents
+Thiothixene	Thiothixene	0.0105263157894737	#AEC6CC	Psychotherapeutic agents
+Heparin	Heparin	0.0211416097374127	#E43E22	Coagulation modifiers
+Cortisone acetate	Cortisone acetate	0.0434782608695652	#FFEF6C	Hormones
+Budesonide	Budesonide	6.80056217980686e-05	#1A86A8	Respiratory agents
+Cefepime	Cefepime	5.5996266915539e-05	#EC00BC	Anti-infectives
+Ketamine	Ketamine	0.000103575423623483	#F68B69	CNS agents
+Sodium bicarbonate	Sodium bicarbonate	0.000261456136375521	#FBAF5F	Gastrointestinal agents
+Lopinavir	Lopinavir	0.0520833333333333	#EC00BC	Anti-infectives
+Iohexol	Iohexol	0.00086617583369424	#A2D0CF	Radiologic agents
+Octreotide	Octreotide	0.000257997936016512	#FFEF6C	Hormones
+Foscarnet	Foscarnet	0.00454545454545455	#EC00BC	Anti-infectives
+Nicardipine	Nicardipine	0.00017082336863683	#FFB6AD	Cardiovascular agents
+Isosorbide dinitrate	Isosorbide dinitrate	8.44880027036161e-05	#FFB6AD	Cardiovascular agents
+Isosorbide mononitrate	Isosorbide mononitrate	3.32225913621262e-05	#FFB6AD	Cardiovascular agents
+Cetirizine	Cetirizine	2.14721291763291e-05	#1A86A8	Respiratory agents
+Megestrol acetate	Megestrol acetate	0.000325732899022801	#FFEF6C	Hormones
+Nafcillin	Nafcillin	0.000657894736842105	#EC00BC	Anti-infectives
+Pirbuterol	Pirbuterol	0.03125	#1A86A8	Respiratory agents
+Adenosine	Adenosine	9.7570494682408e-05	#FFB6AD	Cardiovascular agents
+Clorazepic acid	Clorazepic acid	0.00578034682080925	#F68B69	CNS agents
+Fosinopril	Fosinopril	0.0125786163522013	#FFB6AD	Cardiovascular agents
+Docetaxel	Docetaxel	0.00186046511627907	#FAC6CC	Antineoplastics
+Clomifene	Clomifene	0.00383141762452107	#FFEF6C	Hormones
+Ifosfamide	Ifosfamide	0.00233100233100233	#FAC6CC	Antineoplastics
+Terazosin	Terazosin	0.0004739336492891	#FFB6AD	Cardiovascular agents
+Cefadroxil	Cefadroxil	0.000101071356377603	#EC00BC	Anti-infectives

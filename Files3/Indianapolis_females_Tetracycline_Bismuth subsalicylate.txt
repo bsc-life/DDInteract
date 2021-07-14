@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Tetracycline	Bismuth subsalicylate	0
+05-09	Female	Tetracycline	Bismuth subsalicylate	0
+10-14	Female	Tetracycline	Bismuth subsalicylate	0
+15-19	Female	Tetracycline	Bismuth subsalicylate	9.60984047664809e-05
+20-24	Female	Tetracycline	Bismuth subsalicylate	7.52162467092892e-05
+25-29	Female	Tetracycline	Bismuth subsalicylate	6.48971380362126e-05
+30-34	Female	Tetracycline	Bismuth subsalicylate	0.000294485754251638
+35-39	Female	Tetracycline	Bismuth subsalicylate	8.50267834367826e-05
+40-44	Female	Tetracycline	Bismuth subsalicylate	0.00040908161178155
+45-49	Female	Tetracycline	Bismuth subsalicylate	0.000487519500780031
+50-54	Female	Tetracycline	Bismuth subsalicylate	0.000554067780958537
+55-59	Female	Tetracycline	Bismuth subsalicylate	8.74737578726382e-05
+60-64	Female	Tetracycline	Bismuth subsalicylate	0.000277623542476402
+65-69	Female	Tetracycline	Bismuth subsalicylate	0.000224014336917563
+70-74	Female	Tetracycline	Bismuth subsalicylate	0.000158478605388273
+75-79	Female	Tetracycline	Bismuth subsalicylate	0.000220361392684002
+80-84	Female	Tetracycline	Bismuth subsalicylate	0.000301841231512225
+85-89	Female	Tetracycline	Bismuth subsalicylate	0
+>90	Female	Tetracycline	Bismuth subsalicylate	0

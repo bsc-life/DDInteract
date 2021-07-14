@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Phenytoin	Valproic acid	0
+05-09	Female	Phenytoin	Valproic acid	0
+10-14	Female	Phenytoin	Valproic acid	0
+15-19	Female	Phenytoin	Valproic acid	0
+20-24	Female	Phenytoin	Valproic acid	0.000306513409961686
+25-29	Female	Phenytoin	Valproic acid	0.000333722676455865
+30-34	Female	Phenytoin	Valproic acid	0.000168236877523553
+35-39	Female	Phenytoin	Valproic acid	0.00050192404216162
+40-44	Female	Phenytoin	Valproic acid	0.000464828013634955
+45-49	Female	Phenytoin	Valproic acid	0.000555941626129256
+50-54	Female	Phenytoin	Valproic acid	0.000545033383294727
+55-59	Female	Phenytoin	Valproic acid	0.000156936597614564
+60-64	Female	Phenytoin	Valproic acid	0
+65-69	Female	Phenytoin	Valproic acid	0.000239693192713327
+70-74	Female	Phenytoin	Valproic acid	0
+75-79	Female	Phenytoin	Valproic acid	0.000430292598967298
+80-84	Female	Phenytoin	Valproic acid	0
+85-89	Female	Phenytoin	Valproic acid	0
+>90	Female	Phenytoin	Valproic acid	0

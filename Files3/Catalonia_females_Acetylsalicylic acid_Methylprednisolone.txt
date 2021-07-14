@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Methylprednisolone	0
+05-09	Female	Acetylsalicylic acid	Methylprednisolone	1.18226368026861e-05
+10-14	Female	Acetylsalicylic acid	Methylprednisolone	4.84429624486303e-05
+15-19	Female	Acetylsalicylic acid	Methylprednisolone	1.33558156229653e-05
+20-24	Female	Acetylsalicylic acid	Methylprednisolone	1.67503719978448e-05
+25-29	Female	Acetylsalicylic acid	Methylprednisolone	4.44345700955343e-05
+30-34	Female	Acetylsalicylic acid	Methylprednisolone	8.82082154926705e-05
+35-39	Female	Acetylsalicylic acid	Methylprednisolone	0.00010881059815226
+40-44	Female	Acetylsalicylic acid	Methylprednisolone	0.000114281092808555
+45-49	Female	Acetylsalicylic acid	Methylprednisolone	0.000100155335255812
+50-54	Female	Acetylsalicylic acid	Methylprednisolone	0.000200778064698246
+55-59	Female	Acetylsalicylic acid	Methylprednisolone	0.000342280934951923
+60-64	Female	Acetylsalicylic acid	Methylprednisolone	0.000501333984340942
+65-69	Female	Acetylsalicylic acid	Methylprednisolone	0.000697922848664688
+70-74	Female	Acetylsalicylic acid	Methylprednisolone	0.00106546612226543
+75-79	Female	Acetylsalicylic acid	Methylprednisolone	0.00168183395457649
+80-84	Female	Acetylsalicylic acid	Methylprednisolone	0.00284696166971474
+85-89	Female	Acetylsalicylic acid	Methylprednisolone	0.00418095588438886
+>90	Female	Acetylsalicylic acid	Methylprednisolone	0.0089559506731769

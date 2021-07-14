@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Tenofovir disoproxil	Atazanavir	0
+05-09	Male	Tenofovir disoproxil	Atazanavir	0
+10-14	Male	Tenofovir disoproxil	Atazanavir	0
+15-19	Male	Tenofovir disoproxil	Atazanavir	0
+20-24	Male	Tenofovir disoproxil	Atazanavir	0
+25-29	Male	Tenofovir disoproxil	Atazanavir	0
+30-34	Male	Tenofovir disoproxil	Atazanavir	0
+35-39	Male	Tenofovir disoproxil	Atazanavir	0.000279916025192442
+40-44	Male	Tenofovir disoproxil	Atazanavir	0.000148235991698784
+45-49	Male	Tenofovir disoproxil	Atazanavir	0.000551040088166414
+50-54	Male	Tenofovir disoproxil	Atazanavir	0.000372531975661244
+55-59	Male	Tenofovir disoproxil	Atazanavir	0.000451161741484322
+60-64	Male	Tenofovir disoproxil	Atazanavir	0.000243813239058881
+65-69	Male	Tenofovir disoproxil	Atazanavir	0.000300571085061617
+70-74	Male	Tenofovir disoproxil	Atazanavir	0
+75-79	Male	Tenofovir disoproxil	Atazanavir	0
+80-84	Male	Tenofovir disoproxil	Atazanavir	0
+85-89	Male	Tenofovir disoproxil	Atazanavir	0
+>90	Male	Tenofovir disoproxil	Atazanavir	0

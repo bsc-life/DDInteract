@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Alendronic acid	Flurbiprofen	0
+05-09	Female	Alendronic acid	Flurbiprofen	0
+10-14	Female	Alendronic acid	Flurbiprofen	0
+15-19	Female	Alendronic acid	Flurbiprofen	0
+20-24	Female	Alendronic acid	Flurbiprofen	0
+25-29	Female	Alendronic acid	Flurbiprofen	0
+30-34	Female	Alendronic acid	Flurbiprofen	0
+35-39	Female	Alendronic acid	Flurbiprofen	0
+40-44	Female	Alendronic acid	Flurbiprofen	0
+45-49	Female	Alendronic acid	Flurbiprofen	0
+50-54	Female	Alendronic acid	Flurbiprofen	5.96370489202712e-06
+55-59	Female	Alendronic acid	Flurbiprofen	4.19976607302973e-06
+60-64	Female	Alendronic acid	Flurbiprofen	1.74377038031632e-05
+65-69	Female	Alendronic acid	Flurbiprofen	3.79821958456973e-05
+70-74	Female	Alendronic acid	Flurbiprofen	4.34362687734109e-05
+75-79	Female	Alendronic acid	Flurbiprofen	3.91774964460414e-05
+80-84	Female	Alendronic acid	Flurbiprofen	2.82810761892193e-05
+85-89	Female	Alendronic acid	Flurbiprofen	3.55994351556289e-05
+>90	Female	Alendronic acid	Flurbiprofen	2.63216772172723e-05

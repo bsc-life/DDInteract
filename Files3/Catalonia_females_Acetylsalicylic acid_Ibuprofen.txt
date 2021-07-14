@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Ibuprofen	0.000195298877031457
+05-09	Female	Acetylsalicylic acid	Ibuprofen	0.000266009328060437
+10-14	Female	Acetylsalicylic acid	Ibuprofen	0.000310842342378711
+15-19	Female	Acetylsalicylic acid	Ibuprofen	0.000644418103808077
+20-24	Female	Acetylsalicylic acid	Ibuprofen	0.00058347129125826
+25-29	Female	Acetylsalicylic acid	Ibuprofen	0.000753165963119307
+30-34	Female	Acetylsalicylic acid	Ibuprofen	0.00104563488781936
+35-39	Female	Acetylsalicylic acid	Ibuprofen	0.00156415234843874
+40-44	Female	Acetylsalicylic acid	Ibuprofen	0.00220474600587581
+45-49	Female	Acetylsalicylic acid	Ibuprofen	0.00389094028852295
+50-54	Female	Acetylsalicylic acid	Ibuprofen	0.00620622889096956
+55-59	Female	Acetylsalicylic acid	Ibuprofen	0.0100647393940158
+60-64	Female	Acetylsalicylic acid	Ibuprofen	0.0157026522747485
+65-69	Female	Acetylsalicylic acid	Ibuprofen	0.0219014836795252
+70-74	Female	Acetylsalicylic acid	Ibuprofen	0.0264986790264144
+75-79	Female	Acetylsalicylic acid	Ibuprofen	0.0323382249236039
+80-84	Female	Acetylsalicylic acid	Ibuprofen	0.0365517198036665
+85-89	Female	Acetylsalicylic acid	Ibuprofen	0.0388271172764059
+>90	Female	Acetylsalicylic acid	Ibuprofen	0.0467670399957885

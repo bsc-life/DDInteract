@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Dexamethasone	0
+05-09	Male	Acetylsalicylic acid	Dexamethasone	0
+10-14	Male	Acetylsalicylic acid	Dexamethasone	0
+15-19	Male	Acetylsalicylic acid	Dexamethasone	0
+20-24	Male	Acetylsalicylic acid	Dexamethasone	0
+25-29	Male	Acetylsalicylic acid	Dexamethasone	0
+30-34	Male	Acetylsalicylic acid	Dexamethasone	0
+35-39	Male	Acetylsalicylic acid	Dexamethasone	0.000274047684297068
+40-44	Male	Acetylsalicylic acid	Dexamethasone	0.000764720876879939
+45-49	Male	Acetylsalicylic acid	Dexamethasone	0.000897666068222621
+50-54	Male	Acetylsalicylic acid	Dexamethasone	0.00176912870411322
+55-59	Male	Acetylsalicylic acid	Dexamethasone	0.000986679822397632
+60-64	Male	Acetylsalicylic acid	Dexamethasone	0.00408496732026144
+65-69	Male	Acetylsalicylic acid	Dexamethasone	0.00434467776973208
+70-74	Male	Acetylsalicylic acid	Dexamethasone	0.00314300680984809
+75-79	Male	Acetylsalicylic acid	Dexamethasone	0.00142450142450142
+80-84	Male	Acetylsalicylic acid	Dexamethasone	0.00136798905608755
+85-89	Male	Acetylsalicylic acid	Dexamethasone	0.00273224043715847
+>90	Male	Acetylsalicylic acid	Dexamethasone	0

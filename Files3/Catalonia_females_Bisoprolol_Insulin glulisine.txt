@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Bisoprolol	Insulin glulisine	0
+05-09	Female	Bisoprolol	Insulin glulisine	0
+10-14	Female	Bisoprolol	Insulin glulisine	0
+15-19	Female	Bisoprolol	Insulin glulisine	0
+20-24	Female	Bisoprolol	Insulin glulisine	0
+25-29	Female	Bisoprolol	Insulin glulisine	0
+30-34	Female	Bisoprolol	Insulin glulisine	0
+35-39	Female	Bisoprolol	Insulin glulisine	1.70016559612906e-06
+40-44	Female	Bisoprolol	Insulin glulisine	3.51634131718629e-06
+45-49	Female	Bisoprolol	Insulin glulisine	1.3228063146994e-05
+50-54	Female	Bisoprolol	Insulin glulisine	2.18669179374328e-05
+55-59	Female	Bisoprolol	Insulin glulisine	5.03971928763568e-05
+60-64	Female	Bisoprolol	Insulin glulisine	8.7188519015816e-05
+65-69	Female	Bisoprolol	Insulin glulisine	9.25816023738872e-05
+70-74	Female	Bisoprolol	Insulin glulisine	0.000140529104855153
+75-79	Female	Bisoprolol	Insulin glulisine	0.000134322844957856
+80-84	Female	Bisoprolol	Insulin glulisine	0.000160259431738909
+85-89	Female	Bisoprolol	Insulin glulisine	0.000142397740622515
+>90	Female	Bisoprolol	Insulin glulisine	0.000111867128173407

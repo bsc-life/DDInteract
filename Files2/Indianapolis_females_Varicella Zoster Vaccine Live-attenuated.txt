@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Varicella Zoster Vaccine Live-attenuated	0	0	5.07334963325183	747
+05-09	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.778210116731518	70
+10-14	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.220831799779168	18
+15-19	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.288295214299443	30
+20-24	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.21060549078601	28
+25-29	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.116814848465183	18
+30-34	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.147242877125819	20
+35-39	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.102032140124139	12
+40-44	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.0511352014726938	5
+45-49	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.0585023400936037	6
+50-54	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.304737279527195	33
+55-59	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.437368789363191	50
+60-64	Female	Varicella Zoster Vaccine Live-attenuated	0	0	2.36905422913196	256
+65-69	Female	Varicella Zoster Vaccine Live-attenuated	0	0	1.13127240143369	101
+70-74	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.681458003169572	43
+75-79	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.550903481710004	25
+80-84	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.181104738907335	6
+85-89	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0.486725663716814	11
+>90	Female	Varicella Zoster Vaccine Live-attenuated	0	0	0	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Insulin lispro	0	0.0293	0.0349	25
+05-09	Female	Insulin lispro	0	0.0638	0.0733	124
+10-14	Female	Insulin lispro	0	0.1025	0.1155	286
+15-19	Female	Insulin lispro	0	0.1092	0.1215	364
+20-24	Female	Insulin lispro	0	0.1106	0.1267	454
+25-29	Female	Insulin lispro	0	0.1413	0.1651	743
+30-34	Female	Insulin lispro	0	0.1738	0.2143	1166
+35-39	Female	Insulin lispro	0	0.1993	0.2499	1470
+40-44	Female	Insulin lispro	0	0.2015	0.2331	1326
+45-49	Female	Insulin lispro	0	0.205	0.2236	1183
+50-54	Female	Insulin lispro	0	0.2415	0.2638	1327
+55-59	Female	Insulin lispro	0	0.3032	0.3196	1522
+60-64	Female	Insulin lispro	0	0.4048	0.4229	1940
+65-69	Female	Insulin lispro	0	0.5431	0.5624	2369
+70-74	Female	Insulin lispro	0	0.6321	0.6492	2541
+75-79	Female	Insulin lispro	0	0.6892	0.7102	2538
+80-84	Female	Insulin lispro	0	0.6483	0.6659	2119
+85-89	Female	Insulin lispro	0	0.5043	0.5194	1313
+>90	Female	Insulin lispro	0	0.3521	0.3672	558

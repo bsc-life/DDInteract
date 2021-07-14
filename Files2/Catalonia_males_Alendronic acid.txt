@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Alendronic acid	0	0.0052	0.0052	4
+05-09	Male	Alendronic acid	0.0017	0.0039	0.0056	10
+10-14	Male	Alendronic acid	0.0038	0.0099	0.0114	30
+15-19	Male	Alendronic acid	0.0032	0.0154	0.0196	56
+20-24	Male	Alendronic acid	0.0037	0.026	0.0304	91
+25-29	Male	Alendronic acid	0.0054	0.0301	0.0363	135
+30-34	Male	Alendronic acid	0.0078	0.0435	0.0502	238
+35-39	Male	Alendronic acid	0.0129	0.0625	0.0714	387
+40-44	Male	Alendronic acid	0.0204	0.0906	0.1047	561
+45-49	Male	Alendronic acid	0.0371	0.1554	0.1718	844
+50-54	Male	Alendronic acid	0.0623	0.2524	0.2718	1235
+55-59	Male	Alendronic acid	0.0963	0.4364	0.4754	2025
+60-64	Male	Alendronic acid	0.1547	0.7103	0.7472	3076
+65-69	Male	Alendronic acid	0.219	1.0221	1.0608	4006
+70-74	Male	Alendronic acid	0.2721	1.2933	1.3368	4524
+75-79	Male	Alendronic acid	0.3176	1.7076	1.7609	5018
+80-84	Male	Alendronic acid	0.35	2.0198	2.0752	4613
+85-89	Male	Alendronic acid	0.2937	2.0449	2.0991	3102
+>90	Male	Alendronic acid	0.2572	1.8183	1.858	1264

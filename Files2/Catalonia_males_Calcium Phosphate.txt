@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Calcium Phosphate	0	0.0259	0.0415	32
+05-09	Male	Calcium Phosphate	0	0.0281	0.0518	92
+10-14	Male	Calcium Phosphate	0	0.0198	0.0347	91
+15-19	Male	Calcium Phosphate	0	0.0049	0.0077	22
+20-24	Male	Calcium Phosphate	0	0.0027	0.003	9
+25-29	Male	Calcium Phosphate	0	0.0022	0.0027	10
+30-34	Male	Calcium Phosphate	0	0.0017	0.0023	11
+35-39	Male	Calcium Phosphate	0	0.0031	0.0033	18
+40-44	Male	Calcium Phosphate	0	0.0056	0.0062	33
+45-49	Male	Calcium Phosphate	0	0.0057	0.0059	29
+50-54	Male	Calcium Phosphate	0	0.0057	0.0062	28
+55-59	Male	Calcium Phosphate	0	0.0077	0.0077	33
+60-64	Male	Calcium Phosphate	0	0.0083	0.0087	36
+65-69	Male	Calcium Phosphate	0	0.0106	0.0111	42
+70-74	Male	Calcium Phosphate	0	0.0095	0.0109	37
+75-79	Male	Calcium Phosphate	0	0.0105	0.0123	35
+80-84	Male	Calcium Phosphate	0	0.0072	0.0081	18
+85-89	Male	Calcium Phosphate	0	0.0088	0.0095	14
+>90	Male	Calcium Phosphate	0	0.0073	0.0103	7

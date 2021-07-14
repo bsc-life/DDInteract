@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Clavulanic acid	Minocycline	0
+05-09	Female	Clavulanic acid	Minocycline	0
+10-14	Female	Clavulanic acid	Minocycline	0
+15-19	Female	Clavulanic acid	Minocycline	0
+20-24	Female	Clavulanic acid	Minocycline	0
+25-29	Female	Clavulanic acid	Minocycline	6.48971380362126e-05
+30-34	Female	Clavulanic acid	Minocycline	0
+35-39	Female	Clavulanic acid	Minocycline	0
+40-44	Female	Clavulanic acid	Minocycline	0
+45-49	Female	Clavulanic acid	Minocycline	0
+50-54	Female	Clavulanic acid	Minocycline	0
+55-59	Female	Clavulanic acid	Minocycline	0
+60-64	Female	Clavulanic acid	Minocycline	0
+65-69	Female	Clavulanic acid	Minocycline	0
+70-74	Female	Clavulanic acid	Minocycline	0
+75-79	Female	Clavulanic acid	Minocycline	0
+80-84	Female	Clavulanic acid	Minocycline	0
+85-89	Female	Clavulanic acid	Minocycline	0
+>90	Female	Clavulanic acid	Minocycline	0

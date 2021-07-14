@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Beclomethasone dipropionate	0	0.312415104591144	0.380331431676175	56
+05-09	Female	Beclomethasone dipropionate	0	0.75597554196776	1.08949416342412	98
+10-14	Female	Beclomethasone dipropionate	0	0.490737332842596	0.65022696601644	53
+15-19	Female	Beclomethasone dipropionate	0	0.326734576206035	0.384393619065924	40
+20-24	Female	Beclomethasone dipropionate	0	0.195562241444152	0.225648740127868	30
+25-29	Female	Beclomethasone dipropionate	0	0.214160555519502	0.285547407359335	44
+30-34	Female	Beclomethasone dipropionate	0	0.331296473533093	0.368107192814548	50
+35-39	Female	Beclomethasone dipropionate	0	0.374117847121843	0.416631238840235	49
+40-44	Female	Beclomethasone dipropionate	0	0.531806095316016	0.644303538555942	63
+45-49	Female	Beclomethasone dipropionate	0	0.487519500780031	0.575273010920437	59
+50-54	Female	Beclomethasone dipropionate	0	0.44325422476683	0.498661002862684	54
+55-59	Female	Beclomethasone dipropionate	0	0.384884534639608	0.446116165150455	51
+60-64	Female	Beclomethasone dipropionate	0	0.45345178604479	0.50897649454007	55
+65-69	Female	Beclomethasone dipropionate	0	0.291218637992832	0.380824372759857	34
+70-74	Female	Beclomethasone dipropionate	0	0.237717908082409	0.301109350237718	19
+75-79	Female	Beclomethasone dipropionate	0	0.286469810489202	0.308505949757602	14
+80-84	Female	Beclomethasone dipropionate	0	0.150920615756112	0.181104738907335	6
+85-89	Female	Beclomethasone dipropionate	0	0.442477876106195	0.486725663716814	11
+>90	Female	Beclomethasone dipropionate	0	0	0	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Topiramate	Lithium cation	0
+05-09	Male	Topiramate	Lithium cation	0
+10-14	Male	Topiramate	Lithium cation	1.52440767234381e-05
+15-19	Male	Topiramate	Lithium cation	3.15527088000505e-05
+20-24	Male	Topiramate	Lithium cation	5.33747877518206e-05
+25-29	Male	Topiramate	Lithium cation	8.87039545835753e-05
+30-34	Male	Topiramate	Lithium cation	8.86730708328935e-05
+35-39	Male	Topiramate	Lithium cation	0.00010512280002877
+40-44	Male	Topiramate	Lithium cation	8.58825835721554e-05
+45-49	Male	Topiramate	Lithium cation	0.000107912423977733
+50-54	Male	Topiramate	Lithium cation	0.000127628486678227
+55-59	Male	Topiramate	Lithium cation	6.10414612386721e-05
+60-64	Male	Topiramate	Lithium cation	3.64385451789375e-05
+65-69	Male	Topiramate	Lithium cation	1.32399475698076e-05
+70-74	Male	Topiramate	Lithium cation	5.90967650430815e-06
+75-79	Male	Topiramate	Lithium cation	7.01852891633914e-06
+80-84	Male	Topiramate	Lithium cation	4.49848625937372e-06
+85-89	Male	Topiramate	Lithium cation	0
+>90	Male	Topiramate	Lithium cation	0

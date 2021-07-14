@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Diclofenac	Alendronic acid	0
+05-09	Male	Diclofenac	Alendronic acid	0
+10-14	Male	Diclofenac	Alendronic acid	3.81101918085954e-06
+15-19	Male	Diclofenac	Alendronic acid	3.50585653333894e-06
+20-24	Male	Diclofenac	Alendronic acid	3.33592423448879e-06
+25-29	Male	Diclofenac	Alendronic acid	1.34399931187235e-05
+30-34	Male	Diclofenac	Alendronic acid	1.90013723213343e-05
+35-39	Male	Diclofenac	Alendronic acid	2.39753754451582e-05
+40-44	Male	Diclofenac	Alendronic acid	4.66753171587801e-05
+45-49	Male	Diclofenac	Alendronic acid	9.16237562075095e-05
+50-54	Male	Diclofenac	Alendronic acid	0.000193643221166964
+55-59	Male	Diclofenac	Alendronic acid	0.000255904587500587
+60-64	Male	Diclofenac	Alendronic acid	0.000434833305801988
+65-69	Male	Diclofenac	Alendronic acid	0.000529597902792305
+70-74	Male	Diclofenac	Alendronic acid	0.000771212783812214
+75-79	Male	Diclofenac	Alendronic acid	0.000908899494665918
+80-84	Male	Diclofenac	Alendronic acid	0.000971673032024724
+85-89	Male	Diclofenac	Alendronic acid	0.000927053728515361
+>90	Male	Diclofenac	Alendronic acid	0.000764379896808714

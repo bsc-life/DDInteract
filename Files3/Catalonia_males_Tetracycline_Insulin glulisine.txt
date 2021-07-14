@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Tetracycline	Insulin glulisine	0
+05-09	Male	Tetracycline	Insulin glulisine	0
+10-14	Male	Tetracycline	Insulin glulisine	0
+15-19	Male	Tetracycline	Insulin glulisine	0
+20-24	Male	Tetracycline	Insulin glulisine	0
+25-29	Male	Tetracycline	Insulin glulisine	0
+30-34	Male	Tetracycline	Insulin glulisine	0
+35-39	Male	Tetracycline	Insulin glulisine	0
+40-44	Male	Tetracycline	Insulin glulisine	1.8670126863512e-06
+45-49	Male	Tetracycline	Insulin glulisine	0
+50-54	Male	Tetracycline	Insulin glulisine	0
+55-59	Male	Tetracycline	Insulin glulisine	0
+60-64	Male	Tetracycline	Insulin glulisine	0
+65-69	Male	Tetracycline	Insulin glulisine	2.64798951396152e-06
+70-74	Male	Tetracycline	Insulin glulisine	0
+75-79	Male	Tetracycline	Insulin glulisine	0
+80-84	Male	Tetracycline	Insulin glulisine	0
+85-89	Male	Tetracycline	Insulin glulisine	0
+>90	Male	Tetracycline	Insulin glulisine	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Folic acid	Primidone	0
+05-09	Female	Folic acid	Primidone	0
+10-14	Female	Folic acid	Primidone	0
+15-19	Female	Folic acid	Primidone	0
+20-24	Female	Folic acid	Primidone	0
+25-29	Female	Folic acid	Primidone	0
+30-34	Female	Folic acid	Primidone	0
+35-39	Female	Folic acid	Primidone	0
+40-44	Female	Folic acid	Primidone	0.000102270402945388
+45-49	Female	Folic acid	Primidone	9.75039001560062e-05
+50-54	Female	Folic acid	Primidone	0
+55-59	Female	Folic acid	Primidone	8.74737578726382e-05
+60-64	Female	Folic acid	Primidone	0
+65-69	Female	Folic acid	Primidone	0.000336021505376344
+70-74	Female	Folic acid	Primidone	0
+75-79	Female	Folic acid	Primidone	0.000440722785368004
+80-84	Female	Folic acid	Primidone	0.000603682463024449
+85-89	Female	Folic acid	Primidone	0
+>90	Female	Folic acid	Primidone	0

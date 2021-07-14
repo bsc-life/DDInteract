@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Alendronic acid	Oxaprozin	0
+05-09	Female	Alendronic acid	Oxaprozin	0
+10-14	Female	Alendronic acid	Oxaprozin	0
+15-19	Female	Alendronic acid	Oxaprozin	0
+20-24	Female	Alendronic acid	Oxaprozin	0
+25-29	Female	Alendronic acid	Oxaprozin	0
+30-34	Female	Alendronic acid	Oxaprozin	0
+35-39	Female	Alendronic acid	Oxaprozin	0
+40-44	Female	Alendronic acid	Oxaprozin	0
+45-49	Female	Alendronic acid	Oxaprozin	0
+50-54	Female	Alendronic acid	Oxaprozin	0
+55-59	Female	Alendronic acid	Oxaprozin	0
+60-64	Female	Alendronic acid	Oxaprozin	0
+65-69	Female	Alendronic acid	Oxaprozin	0.000224014336917563
+70-74	Female	Alendronic acid	Oxaprozin	0
+75-79	Female	Alendronic acid	Oxaprozin	0
+80-84	Female	Alendronic acid	Oxaprozin	0
+85-89	Female	Alendronic acid	Oxaprozin	0
+>90	Female	Alendronic acid	Oxaprozin	0

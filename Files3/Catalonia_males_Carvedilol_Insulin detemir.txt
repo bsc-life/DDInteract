@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Carvedilol	Insulin detemir	0
+05-09	Male	Carvedilol	Insulin detemir	0
+10-14	Male	Carvedilol	Insulin detemir	0
+15-19	Male	Carvedilol	Insulin detemir	0
+20-24	Male	Carvedilol	Insulin detemir	0
+25-29	Male	Carvedilol	Insulin detemir	0
+30-34	Male	Carvedilol	Insulin detemir	0
+35-39	Male	Carvedilol	Insulin detemir	0
+40-44	Male	Carvedilol	Insulin detemir	7.46805074540481e-06
+45-49	Male	Carvedilol	Insulin detemir	3.25773355404478e-05
+50-54	Male	Carvedilol	Insulin detemir	7.92176813864855e-05
+55-59	Male	Carvedilol	Insulin detemir	0.000129126168004883
+60-64	Male	Carvedilol	Insulin detemir	0.000238065161835725
+65-69	Male	Carvedilol	Insulin detemir	0.000383958479524421
+70-74	Male	Carvedilol	Insulin detemir	0.000425496708310187
+75-79	Male	Carvedilol	Insulin detemir	0.000540426726558113
+80-84	Male	Carvedilol	Insulin detemir	0.000647782021349816
+85-89	Male	Carvedilol	Insulin detemir	0.000656381107051022
+>90	Male	Carvedilol	Insulin detemir	0.000338091108203854

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Estradiol	Ursodeoxycholic acid	0
+05-09	Male	Estradiol	Ursodeoxycholic acid	0
+10-14	Male	Estradiol	Ursodeoxycholic acid	0
+15-19	Male	Estradiol	Ursodeoxycholic acid	0
+20-24	Male	Estradiol	Ursodeoxycholic acid	0
+25-29	Male	Estradiol	Ursodeoxycholic acid	0
+30-34	Male	Estradiol	Ursodeoxycholic acid	0
+35-39	Male	Estradiol	Ursodeoxycholic acid	0
+40-44	Male	Estradiol	Ursodeoxycholic acid	0
+45-49	Male	Estradiol	Ursodeoxycholic acid	0
+50-54	Male	Estradiol	Ursodeoxycholic acid	4.40098229924919e-06
+55-59	Male	Estradiol	Ursodeoxycholic acid	0
+60-64	Male	Estradiol	Ursodeoxycholic acid	2.4292363452625e-06
+65-69	Male	Estradiol	Ursodeoxycholic acid	0
+70-74	Male	Estradiol	Ursodeoxycholic acid	2.95483825215408e-06
+75-79	Male	Estradiol	Ursodeoxycholic acid	0
+80-84	Male	Estradiol	Ursodeoxycholic acid	0
+85-89	Male	Estradiol	Ursodeoxycholic acid	0
+>90	Male	Estradiol	Ursodeoxycholic acid	1.46996134001676e-05

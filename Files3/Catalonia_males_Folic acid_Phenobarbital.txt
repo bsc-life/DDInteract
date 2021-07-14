@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Folic acid	Phenobarbital	0
+05-09	Male	Folic acid	Phenobarbital	0
+10-14	Male	Folic acid	Phenobarbital	3.81101918085954e-06
+15-19	Male	Folic acid	Phenobarbital	1.40234261333558e-05
+20-24	Male	Folic acid	Phenobarbital	6.67184846897757e-06
+25-29	Male	Folic acid	Phenobarbital	1.61279917424682e-05
+30-34	Male	Folic acid	Phenobarbital	1.47788451388156e-05
+35-39	Male	Folic acid	Phenobarbital	2.21311157955306e-05
+40-44	Male	Folic acid	Phenobarbital	3.54732410406729e-05
+45-49	Male	Folic acid	Phenobarbital	4.68299198393937e-05
+50-54	Male	Folic acid	Phenobarbital	8.36186636857347e-05
+55-59	Male	Folic acid	Phenobarbital	8.68666948396488e-05
+60-64	Male	Folic acid	Phenobarbital	8.01647993936626e-05
+65-69	Male	Folic acid	Phenobarbital	7.14957168769612e-05
+70-74	Male	Folic acid	Phenobarbital	7.6825794556006e-05
+75-79	Male	Folic acid	Phenobarbital	0.000115805727119596
+80-84	Male	Folic acid	Phenobarbital	0.000116960642743717
+85-89	Male	Folic acid	Phenobarbital	0.000162403572878603
+>90	Male	Folic acid	Phenobarbital	0.000205794587602346

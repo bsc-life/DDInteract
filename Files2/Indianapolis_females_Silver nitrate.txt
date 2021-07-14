@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Silver nitrate	0	0	0.298831839174137	44
+05-09	Female	Silver nitrate	0	0	0.0778210116731518	7
+10-14	Female	Silver nitrate	0	0	0.0981474665685192	8
+15-19	Female	Silver nitrate	0	0	0.172977128579666	18
+20-24	Female	Silver nitrate	0	0	0.240691989469725	32
+25-29	Female	Silver nitrate	0	0	0.402362255824518	62
+30-34	Female	Silver nitrate	0	0	0.46381506294633	63
+35-39	Female	Silver nitrate	0	0	0.450641952214948	53
+40-44	Female	Silver nitrate	0	0	0.572714256494171	56
+45-49	Female	Silver nitrate	0	0	0.702028081123245	72
+50-54	Female	Silver nitrate	0	0	0.507895465878659	55
+55-59	Female	Silver nitrate	0	0	0.341147655703289	39
+60-64	Female	Silver nitrate	0	0	0.370164723301869	40
+65-69	Female	Silver nitrate	0	0	0.414426523297491	37
+70-74	Female	Silver nitrate	0	0	0.253565768621236	16
+75-79	Female	Silver nitrate	0	0	0.308505949757602	14
+80-84	Female	Silver nitrate	0	0	0.332025354663447	11
+85-89	Female	Silver nitrate	0	0	0.132743362831858	3
+>90	Female	Silver nitrate	0	0	0.336927223719677	5

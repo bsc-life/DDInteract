@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Pamidronic acid	0	0	0	0
+05-09	Male	Pamidronic acid	0	0.020106564793405	0.0301598471901076	3
+10-14	Male	Pamidronic acid	0	0.0116945386504502	0.0116945386504502	1
+15-19	Male	Pamidronic acid	0	0	0.027866796711718	2
+20-24	Male	Pamidronic acid	0	0	0	0
+25-29	Male	Pamidronic acid	0	0	0	0
+30-34	Male	Pamidronic acid	0	0	0	0
+35-39	Male	Pamidronic acid	0	0.0139958012596221	0.0139958012596221	1
+40-44	Male	Pamidronic acid	0	0	0	0
+45-49	Male	Pamidronic acid	0	0	0	0
+50-54	Male	Pamidronic acid	0	0	0.0124177325220415	1
+55-59	Male	Pamidronic acid	0	0.0225580870742161	0.0225580870742161	2
+60-64	Male	Pamidronic acid	0	0.0243813239058881	0.0243813239058881	2
+65-69	Male	Pamidronic acid	0	0.0450856627592426	0.0450856627592426	3
+70-74	Male	Pamidronic acid	0	0.0641025641025641	0.0641025641025641	3
+75-79	Male	Pamidronic acid	0	0.125274036955841	0.125274036955841	4
+80-84	Male	Pamidronic acid	0	0.148588410104012	0.148588410104012	3
+85-89	Male	Pamidronic acid	0	0.0809061488673139	0.0809061488673139	1
+>90	Male	Pamidronic acid	0	0	0	0

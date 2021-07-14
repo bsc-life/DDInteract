@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Medroxyprogesterone acetate	Phenobarbital	0
+05-09	Female	Medroxyprogesterone acetate	Phenobarbital	0
+10-14	Female	Medroxyprogesterone acetate	Phenobarbital	4.03691353738586e-06
+15-19	Female	Medroxyprogesterone acetate	Phenobarbital	3.33895390574133e-06
+20-24	Female	Medroxyprogesterone acetate	Phenobarbital	5.58345733261493e-06
+25-29	Female	Medroxyprogesterone acetate	Phenobarbital	6.66518551433015e-06
+30-34	Female	Medroxyprogesterone acetate	Phenobarbital	3.6753423121946e-06
+35-39	Female	Medroxyprogesterone acetate	Phenobarbital	3.40033119225813e-06
+40-44	Female	Medroxyprogesterone acetate	Phenobarbital	7.03268263437259e-06
+45-49	Female	Medroxyprogesterone acetate	Phenobarbital	9.44861653356715e-06
+50-54	Female	Medroxyprogesterone acetate	Phenobarbital	3.97580326135142e-06
+55-59	Female	Medroxyprogesterone acetate	Phenobarbital	2.09988303651487e-06
+60-64	Female	Medroxyprogesterone acetate	Phenobarbital	0
+65-69	Female	Medroxyprogesterone acetate	Phenobarbital	0
+70-74	Female	Medroxyprogesterone acetate	Phenobarbital	0
+75-79	Female	Medroxyprogesterone acetate	Phenobarbital	0
+80-84	Female	Medroxyprogesterone acetate	Phenobarbital	0
+85-89	Female	Medroxyprogesterone acetate	Phenobarbital	0
+>90	Female	Medroxyprogesterone acetate	Phenobarbital	0

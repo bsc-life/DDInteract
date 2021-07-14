@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Insulin degludec	0	6e-04	0.0018	3
+10-14	Female	Insulin degludec	0	0.0254	0.0307	76
+15-19	Female	Insulin degludec	0	0.0424	0.0487	146
+20-24	Female	Insulin degludec	0	0.026	0.0329	118
+25-29	Female	Insulin degludec	0	0.0282	0.0333	150
+30-34	Female	Insulin degludec	0	0.0263	0.0307	167
+35-39	Female	Insulin degludec	0	0.0298	0.0359	211
+40-44	Female	Insulin degludec	0	0.0404	0.0487	277
+45-49	Female	Insulin degludec	0	0.041	0.0476	252
+50-54	Female	Insulin degludec	0	0.0469	0.0553	278
+55-59	Female	Insulin degludec	0	0.0489	0.0561	267
+60-64	Female	Insulin degludec	0	0.0493	0.0541	248
+65-69	Female	Insulin degludec	0	0.0508	0.0558	235
+70-74	Female	Insulin degludec	0	0.0667	0.0708	277
+75-79	Female	Insulin degludec	0	0.0574	0.0607	217
+80-84	Female	Insulin degludec	0	0.0481	0.0509	162
+85-89	Female	Insulin degludec	0	0.0368	0.0376	95
+>90	Female	Insulin degludec	0	0.027	0.029	44

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Plantago ovata seed	0	0.0518	0.0803	62
+05-09	Male	Plantago ovata seed	0	0.0383	0.072	128
+10-14	Male	Plantago ovata seed	0	0.0473	0.0819	215
+15-19	Male	Plantago ovata seed	0	0.2044	0.3646	1040
+20-24	Male	Plantago ovata seed	0	0.379	0.6398	1918
+25-29	Male	Plantago ovata seed	0	0.5295	0.8352	3107
+30-34	Male	Plantago ovata seed	0	0.6617	1.0003	4738
+35-39	Male	Plantago ovata seed	0	0.6988	0.9699	5259
+40-44	Male	Plantago ovata seed	0	0.7315	0.9927	5317
+45-49	Male	Plantago ovata seed	0	0.8586	1.1158	5480
+50-54	Male	Plantago ovata seed	0	1.0221	1.264	5744
+55-59	Male	Plantago ovata seed	0	1.2699	1.5073	6420
+60-64	Male	Plantago ovata seed	0	1.8122	2.0843	8580
+65-69	Male	Plantago ovata seed	0	2.5982	2.8847	10894
+70-74	Male	Plantago ovata seed	0	3.2273	3.5293	11944
+75-79	Male	Plantago ovata seed	0	4.5585	4.8954	13950
+80-84	Male	Plantago ovata seed	0	5.3046	5.6586	12579
+85-89	Male	Plantago ovata seed	0	5.3167	5.6036	8281
+>90	Male	Plantago ovata seed	0	5.3536	5.5947	3806

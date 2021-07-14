@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Clorazepic acid	0	0	0	0
+05-09	Male	Clorazepic acid	0	0	0	0
+10-14	Male	Clorazepic acid	0	0	0	0
+15-19	Male	Clorazepic acid	0	0	0	0
+20-24	Male	Clorazepic acid	0	0	0	0
+25-29	Male	Clorazepic acid	0	0.012721027859051	0.012721027859051	1
+30-34	Male	Clorazepic acid	0	0	0	0
+35-39	Male	Clorazepic acid	0	0.0139958012596221	0.0139958012596221	1
+40-44	Male	Clorazepic acid	0	0	0	0
+45-49	Male	Clorazepic acid	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Clorazepic acid	0.0124177325220415	0.0124177325220415	0.0124177325220415	1
+55-59	Male	Clorazepic acid	0	0	0	0
+60-64	Male	Clorazepic acid	0	0	0.012190661952944	1
+65-69	Male	Clorazepic acid	0	0.0450856627592426	0.0450856627592426	3
+70-74	Male	Clorazepic acid	0	0.0641025641025641	0.0641025641025641	3
+75-79	Male	Clorazepic acid	0	0.0313185092389602	0.0313185092389602	1
+80-84	Male	Clorazepic acid	0	0	0	0
+85-89	Male	Clorazepic acid	0	0	0	0
+>90	Male	Clorazepic acid	0	0	0	0

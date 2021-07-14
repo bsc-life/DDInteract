@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Ticlopidine	Acetylsalicylic acid	0
+05-09	Male	Ticlopidine	Acetylsalicylic acid	0
+10-14	Male	Ticlopidine	Acetylsalicylic acid	3.81101918085954e-06
+15-19	Male	Ticlopidine	Acetylsalicylic acid	3.50585653333894e-06
+20-24	Male	Ticlopidine	Acetylsalicylic acid	0
+25-29	Male	Ticlopidine	Acetylsalicylic acid	0
+30-34	Male	Ticlopidine	Acetylsalicylic acid	0
+35-39	Male	Ticlopidine	Acetylsalicylic acid	0
+40-44	Male	Ticlopidine	Acetylsalicylic acid	1.8670126863512e-06
+45-49	Male	Ticlopidine	Acetylsalicylic acid	8.14433388511195e-06
+50-54	Male	Ticlopidine	Acetylsalicylic acid	8.80196459849838e-06
+55-59	Male	Ticlopidine	Acetylsalicylic acid	3.05207306193361e-05
+60-64	Male	Ticlopidine	Acetylsalicylic acid	3.88677815242e-05
+65-69	Male	Ticlopidine	Acetylsalicylic acid	6.35517483350766e-05
+70-74	Male	Ticlopidine	Acetylsalicylic acid	7.6825794556006e-05
+75-79	Male	Ticlopidine	Acetylsalicylic acid	0.000136861313868613
+80-84	Male	Ticlopidine	Acetylsalicylic acid	0.000103465183965596
+85-89	Male	Ticlopidine	Acetylsalicylic acid	0.000182704019488429
+>90	Male	Ticlopidine	Acetylsalicylic acid	4.40988402005027e-05

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Megestrol acetate	Primidone	0
+05-09	Male	Megestrol acetate	Primidone	0
+10-14	Male	Megestrol acetate	Primidone	0
+15-19	Male	Megestrol acetate	Primidone	0
+20-24	Male	Megestrol acetate	Primidone	0
+25-29	Male	Megestrol acetate	Primidone	0
+30-34	Male	Megestrol acetate	Primidone	0
+35-39	Male	Megestrol acetate	Primidone	0
+40-44	Male	Megestrol acetate	Primidone	0
+45-49	Male	Megestrol acetate	Primidone	0
+50-54	Male	Megestrol acetate	Primidone	0
+55-59	Male	Megestrol acetate	Primidone	0
+60-64	Male	Megestrol acetate	Primidone	2.4292363452625e-06
+65-69	Male	Megestrol acetate	Primidone	2.64798951396152e-06
+70-74	Male	Megestrol acetate	Primidone	0
+75-79	Male	Megestrol acetate	Primidone	7.01852891633914e-06
+80-84	Male	Megestrol acetate	Primidone	8.99697251874744e-06
+85-89	Male	Megestrol acetate	Primidone	2.03004466098254e-05
+>90	Male	Megestrol acetate	Primidone	0

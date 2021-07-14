@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Betamethasone	Acetylsalicylic acid	0
+05-09	Female	Betamethasone	Acetylsalicylic acid	0
+10-14	Female	Betamethasone	Acetylsalicylic acid	0
+15-19	Female	Betamethasone	Acetylsalicylic acid	0.000192196809532962
+20-24	Female	Betamethasone	Acetylsalicylic acid	0.000376081233546446
+25-29	Female	Betamethasone	Acetylsalicylic acid	0.000908559932506976
+30-34	Female	Betamethasone	Acetylsalicylic acid	0.000368107192814548
+35-39	Female	Betamethasone	Acetylsalicylic acid	0.00102032140124139
+40-44	Female	Betamethasone	Acetylsalicylic acid	0.000306811208836163
+45-49	Female	Betamethasone	Acetylsalicylic acid	0
+50-54	Female	Betamethasone	Acetylsalicylic acid	0
+55-59	Female	Betamethasone	Acetylsalicylic acid	0
+60-64	Female	Betamethasone	Acetylsalicylic acid	0
+65-69	Female	Betamethasone	Acetylsalicylic acid	0
+70-74	Female	Betamethasone	Acetylsalicylic acid	0
+75-79	Female	Betamethasone	Acetylsalicylic acid	0.000220361392684002
+80-84	Female	Betamethasone	Acetylsalicylic acid	0
+85-89	Female	Betamethasone	Acetylsalicylic acid	0
+>90	Female	Betamethasone	Acetylsalicylic acid	0

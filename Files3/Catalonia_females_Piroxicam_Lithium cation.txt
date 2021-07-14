@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Piroxicam	Lithium cation	0
+05-09	Female	Piroxicam	Lithium cation	0
+10-14	Female	Piroxicam	Lithium cation	0
+15-19	Female	Piroxicam	Lithium cation	0
+20-24	Female	Piroxicam	Lithium cation	0
+25-29	Female	Piroxicam	Lithium cation	2.22172850477672e-06
+30-34	Female	Piroxicam	Lithium cation	1.8376711560973e-06
+35-39	Female	Piroxicam	Lithium cation	1.70016559612906e-06
+40-44	Female	Piroxicam	Lithium cation	0
+45-49	Female	Piroxicam	Lithium cation	1.88972330671343e-06
+50-54	Female	Piroxicam	Lithium cation	0
+55-59	Female	Piroxicam	Lithium cation	0
+60-64	Female	Piroxicam	Lithium cation	0
+65-69	Female	Piroxicam	Lithium cation	0
+70-74	Female	Piroxicam	Lithium cation	0
+75-79	Female	Piroxicam	Lithium cation	0
+80-84	Female	Piroxicam	Lithium cation	0
+85-89	Female	Piroxicam	Lithium cation	0
+>90	Female	Piroxicam	Lithium cation	0

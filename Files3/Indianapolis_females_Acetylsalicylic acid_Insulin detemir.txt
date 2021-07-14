@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Acetylsalicylic acid	Insulin detemir	0
+05-09	Female	Acetylsalicylic acid	Insulin detemir	0
+10-14	Female	Acetylsalicylic acid	Insulin detemir	0
+15-19	Female	Acetylsalicylic acid	Insulin detemir	9.60984047664809e-05
+20-24	Female	Acetylsalicylic acid	Insulin detemir	0
+25-29	Female	Acetylsalicylic acid	Insulin detemir	6.48971380362126e-05
+30-34	Female	Acetylsalicylic acid	Insulin detemir	0.000220864315688729
+35-39	Female	Acetylsalicylic acid	Insulin detemir	0.000850267834367826
+40-44	Female	Acetylsalicylic acid	Insulin detemir	0.000613622417672326
+45-49	Female	Acetylsalicylic acid	Insulin detemir	0.00165756630265211
+50-54	Female	Acetylsalicylic acid	Insulin detemir	0.00166220334287561
+55-59	Female	Acetylsalicylic acid	Insulin detemir	0.00314905528341498
+60-64	Female	Acetylsalicylic acid	Insulin detemir	0.00333148250971682
+65-69	Female	Acetylsalicylic acid	Insulin detemir	0.00459229390681004
+70-74	Female	Acetylsalicylic acid	Insulin detemir	0.00491283676703645
+75-79	Female	Acetylsalicylic acid	Insulin detemir	0.00727192595857206
+80-84	Female	Acetylsalicylic acid	Insulin detemir	0.00392393600965892
+85-89	Female	Acetylsalicylic acid	Insulin detemir	0.00575221238938053
+>90	Female	Acetylsalicylic acid	Insulin detemir	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Doxycycline	Bismuth subsalicylate	0
+05-09	Female	Doxycycline	Bismuth subsalicylate	0
+10-14	Female	Doxycycline	Bismuth subsalicylate	0
+15-19	Female	Doxycycline	Bismuth subsalicylate	0
+20-24	Female	Doxycycline	Bismuth subsalicylate	0.000150432493418578
+25-29	Female	Doxycycline	Bismuth subsalicylate	6.48971380362126e-05
+30-34	Female	Doxycycline	Bismuth subsalicylate	7.36214385629095e-05
+35-39	Female	Doxycycline	Bismuth subsalicylate	0
+40-44	Female	Doxycycline	Bismuth subsalicylate	0.000306811208836163
+45-49	Female	Doxycycline	Bismuth subsalicylate	9.75039001560062e-05
+50-54	Female	Doxycycline	Bismuth subsalicylate	9.23446301597562e-05
+55-59	Female	Doxycycline	Bismuth subsalicylate	8.74737578726382e-05
+60-64	Female	Doxycycline	Bismuth subsalicylate	0.000370164723301869
+65-69	Female	Doxycycline	Bismuth subsalicylate	0.000224014336917563
+70-74	Female	Doxycycline	Bismuth subsalicylate	0.000316957210776545
+75-79	Female	Doxycycline	Bismuth subsalicylate	0.000220361392684002
+80-84	Female	Doxycycline	Bismuth subsalicylate	0
+85-89	Female	Doxycycline	Bismuth subsalicylate	0.000442477876106195
+>90	Female	Doxycycline	Bismuth subsalicylate	0

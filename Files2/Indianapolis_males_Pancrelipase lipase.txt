@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Pancrelipase lipase	0	0.0119781996765886	0.0119781996765886	2
+05-09	Male	Pancrelipase lipase	0	0.020106564793405	0.020106564793405	2
+10-14	Male	Pancrelipase lipase	0	0.0233890773009005	0.0233890773009005	2
+15-19	Male	Pancrelipase lipase	0	0.013933398355859	0.013933398355859	1
+20-24	Male	Pancrelipase lipase	0	0	0	0
+25-29	Male	Pancrelipase lipase	0	0.012721027859051	0.012721027859051	1
+30-34	Male	Pancrelipase lipase	0	0.0130753138075314	0.0130753138075314	1
+35-39	Male	Pancrelipase lipase	0	0	0	0
+40-44	Male	Pancrelipase lipase	0	0	0	0
+45-49	Male	Pancrelipase lipase	0	0	0	0
+50-54	Male	Pancrelipase lipase	0	0.0124177325220415	0.0124177325220415	1
+55-59	Male	Pancrelipase lipase	0	0	0	0
+60-64	Male	Pancrelipase lipase	0	0	0	0
+65-69	Male	Pancrelipase lipase	0	0.0150285542530809	0.0150285542530809	1
+70-74	Male	Pancrelipase lipase	0	0	0	0
+75-79	Male	Pancrelipase lipase	0	0.0313185092389602	0.0313185092389602	1
+80-84	Male	Pancrelipase lipase	0	0	0	0
+85-89	Male	Pancrelipase lipase	0	0	0	0
+>90	Male	Pancrelipase lipase	0	0	0	0

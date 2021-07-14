@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Edetate calcium disodium anhydrous	0	0	0	0
+05-09	Female	Edetate calcium disodium anhydrous	0	0	0	0
+10-14	Female	Edetate calcium disodium anhydrous	0	0	0	0
+15-19	Female	Edetate calcium disodium anhydrous	0	0	0	0
+20-24	Female	Edetate calcium disodium anhydrous	0	0	0	0
+25-29	Female	Edetate calcium disodium anhydrous	0	0	0	0
+30-34	Female	Edetate calcium disodium anhydrous	0	0	0	0
+35-39	Female	Edetate calcium disodium anhydrous	0	0	0	0
+40-44	Female	Edetate calcium disodium anhydrous	0	0	0	0
+45-49	Female	Edetate calcium disodium anhydrous	0	0	0	0
+50-54	Female	Edetate calcium disodium anhydrous	0	0	0	0
+55-59	Female	Edetate calcium disodium anhydrous	0	0	0	0
+60-64	Female	Edetate calcium disodium anhydrous	0	0	0	0
+65-69	Female	Edetate calcium disodium anhydrous	0	0	0	0
+70-74	Female	Edetate calcium disodium anhydrous	0	0	0	0
+75-79	Female	Edetate calcium disodium anhydrous	0	0	0	0
+80-84	Female	Edetate calcium disodium anhydrous	0	0	0	0
+85-89	Female	Edetate calcium disodium anhydrous	0	0	0	0
+>90	Female	Edetate calcium disodium anhydrous	0	0	0	0

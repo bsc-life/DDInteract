@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Insulin aspart	1.29594111243585e-05
+05-09	Male	Acetylsalicylic acid	Insulin aspart	1.12553674033305e-05
+10-14	Male	Acetylsalicylic acid	Insulin aspart	0
+15-19	Male	Acetylsalicylic acid	Insulin aspart	2.10351392000337e-05
+20-24	Male	Acetylsalicylic acid	Insulin aspart	2.66873938759103e-05
+25-29	Male	Acetylsalicylic acid	Insulin aspart	4.30079779799153e-05
+30-34	Male	Acetylsalicylic acid	Insulin aspart	0.000137232133431859
+35-39	Male	Acetylsalicylic acid	Insulin aspart	0.000309835621137429
+40-44	Male	Acetylsalicylic acid	Insulin aspart	0.00069826274469535
+45-49	Male	Acetylsalicylic acid	Insulin aspart	0.00143747493072226
+50-54	Male	Acetylsalicylic acid	Insulin aspart	0.00261858446805327
+55-59	Male	Acetylsalicylic acid	Insulin aspart	0.00375404986617833
+60-64	Male	Acetylsalicylic acid	Insulin aspart	0.00513540563388493
+65-69	Male	Acetylsalicylic acid	Insulin aspart	0.00613803969336281
+70-74	Male	Acetylsalicylic acid	Insulin aspart	0.00652723769900836
+75-79	Male	Acetylsalicylic acid	Insulin aspart	0.00635176866928692
+80-84	Male	Acetylsalicylic acid	Insulin aspart	0.0056141108516984
+85-89	Male	Acetylsalicylic acid	Insulin aspart	0.00420219244823386
+>90	Male	Acetylsalicylic acid	Insulin aspart	0.00286642461303268

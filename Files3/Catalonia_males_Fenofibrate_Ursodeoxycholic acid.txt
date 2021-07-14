@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Fenofibrate	Ursodeoxycholic acid	0
+05-09	Male	Fenofibrate	Ursodeoxycholic acid	0
+10-14	Male	Fenofibrate	Ursodeoxycholic acid	0
+15-19	Male	Fenofibrate	Ursodeoxycholic acid	0
+20-24	Male	Fenofibrate	Ursodeoxycholic acid	0
+25-29	Male	Fenofibrate	Ursodeoxycholic acid	0
+30-34	Male	Fenofibrate	Ursodeoxycholic acid	4.22252718251874e-06
+35-39	Male	Fenofibrate	Ursodeoxycholic acid	5.53277894888265e-06
+40-44	Male	Fenofibrate	Ursodeoxycholic acid	1.30690888044584e-05
+45-49	Male	Fenofibrate	Ursodeoxycholic acid	4.07216694255598e-05
+50-54	Male	Fenofibrate	Ursodeoxycholic acid	4.84108052917411e-05
+55-59	Male	Fenofibrate	Ursodeoxycholic acid	4.46072216744142e-05
+60-64	Male	Fenofibrate	Ursodeoxycholic acid	6.55893813220876e-05
+65-69	Male	Fenofibrate	Ursodeoxycholic acid	8.47356644467688e-05
+70-74	Male	Fenofibrate	Ursodeoxycholic acid	4.43225737823112e-05
+75-79	Male	Fenofibrate	Ursodeoxycholic acid	3.50926445816957e-05
+80-84	Male	Fenofibrate	Ursodeoxycholic acid	4.49848625937372e-05
+85-89	Male	Fenofibrate	Ursodeoxycholic acid	2.70672621464339e-05
+>90	Male	Fenofibrate	Ursodeoxycholic acid	0

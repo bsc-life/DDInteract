@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Atenolol	Insulin detemir	0
+05-09	Male	Atenolol	Insulin detemir	0
+10-14	Male	Atenolol	Insulin detemir	0
+15-19	Male	Atenolol	Insulin detemir	3.50585653333894e-06
+20-24	Male	Atenolol	Insulin detemir	0
+25-29	Male	Atenolol	Insulin detemir	0
+30-34	Male	Atenolol	Insulin detemir	2.11126359125937e-06
+35-39	Male	Atenolol	Insulin detemir	9.22129824813776e-06
+40-44	Male	Atenolol	Insulin detemir	1.68031141771608e-05
+45-49	Male	Atenolol	Insulin detemir	3.25773355404478e-05
+50-54	Male	Atenolol	Insulin detemir	7.70171902368609e-05
+55-59	Male	Atenolol	Insulin detemir	0.000147908156078321
+60-64	Male	Atenolol	Insulin detemir	0.0002332066891452
+65-69	Male	Atenolol	Insulin detemir	0.000248911014312383
+70-74	Male	Atenolol	Insulin detemir	0.00023934189842448
+75-79	Male	Atenolol	Insulin detemir	0.000273722627737226
+80-84	Male	Atenolol	Insulin detemir	0.000292401606859292
+85-89	Male	Atenolol	Insulin detemir	0.00022330491270808
+>90	Male	Atenolol	Insulin detemir	0.000161695747401843

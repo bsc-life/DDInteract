@@ -1,0 +1,12 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Valproic acid	Carbamazepine	0.193	2.223	Moderate	3 (2/1)	Carbamazepine decreases the effect of valproic acid	#B32020	45.5235204855842	0.0486225141047859
+Valproic acid	Phenobarbital	0.632	Inf	Moderate	1 (1/0)	Valproic acid increases the effect of barbiturate	#B32020	15.1745068285281	0.744647809082126
+Omeprazole	Clonazepam	0.326	Inf	Moderate	1 (1/0)	Omeprazole increases the effect of benzodiazepine	#B32020	15.1745068285281	0.166009705572641
+Imipramine	Salbutamol	0.361	Inf	Moderate	2 (2/0)	The tricyclic increases the sympathomimetic effect	#B32020	30.3490136570561	0.42544929718183
+Haloperidol	Carbamazepine	0.94	Inf	Moderate	1 (1/0)	Carbamazepine decreases the effect of haloperidol	#B32020	15.1745068285281	0.159671278129205
+Haloperidol	Biperiden	1	Inf	Moderate	1 (1/0)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#B32020	15.1745068285281	0.00333839150227666
+Ciprofloxacin	Iron	0.258	Inf	Moderate	1 (1/0)	Formation of non-absorbable complexes	#B32020	15.1745068285281	0.301718848561461
+Propranolol	Ibuprofen	0.512	Inf	Moderate	1 (1/0)	Risk of inhibition of renal prostaglandins	#B32020	15.1745068285281	1
+Erythromycin	Carbamazepine	0.098	-Inf	Major	1 (0/1)	The macrolide increases the effect of carbamazepine	#1E61A5	15.1745068285281	1
+Methylphenidate	Carbamazepine	0.374	-Inf	None	4 (0/4)	Carbamazepine could reduce the effect of methylphendiate	#1E61A5	60.6980273141123	1
+Levothyroxine	Iron	0.185	-Inf	Moderate	1 (0/1)	Iron decreases absorption of levothyroxine	#1E61A5	15.1745068285281	1

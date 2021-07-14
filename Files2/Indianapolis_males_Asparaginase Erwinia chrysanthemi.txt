@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Asparaginase Erwinia chrysanthemi	0	0.0119781996765886	0.0119781996765886	2
+05-09	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+10-14	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+15-19	Male	Asparaginase Erwinia chrysanthemi	0	0.027866796711718	0.027866796711718	2
+20-24	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+25-29	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+30-34	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+35-39	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+40-44	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+45-49	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+50-54	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+55-59	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+60-64	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+65-69	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+70-74	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+75-79	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+80-84	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+85-89	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0
+>90	Male	Asparaginase Erwinia chrysanthemi	0	0	0	0

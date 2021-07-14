@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Indapamide	Lithium cation	0
+05-09	Female	Indapamide	Lithium cation	0
+10-14	Female	Indapamide	Lithium cation	0
+15-19	Female	Indapamide	Lithium cation	0
+20-24	Female	Indapamide	Lithium cation	0
+25-29	Female	Indapamide	Lithium cation	0
+30-34	Female	Indapamide	Lithium cation	0
+35-39	Female	Indapamide	Lithium cation	1.70016559612906e-06
+40-44	Female	Indapamide	Lithium cation	1.75817065859315e-06
+45-49	Female	Indapamide	Lithium cation	3.77944661342686e-06
+50-54	Female	Indapamide	Lithium cation	3.97580326135142e-06
+55-59	Female	Indapamide	Lithium cation	1.04994151825743e-05
+60-64	Female	Indapamide	Lithium cation	1.74377038031632e-05
+65-69	Female	Indapamide	Lithium cation	1.42433234421365e-05
+70-74	Female	Indapamide	Lithium cation	2.55507463373005e-06
+75-79	Female	Indapamide	Lithium cation	8.39517780986601e-06
+80-84	Female	Indapamide	Lithium cation	9.42702539640642e-06
+85-89	Female	Indapamide	Lithium cation	3.95549279506987e-06
+>90	Female	Indapamide	Lithium cation	0

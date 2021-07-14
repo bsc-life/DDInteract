@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Interferon alfa-2b	Theophylline	0
+05-09	Male	Interferon alfa-2b	Theophylline	0
+10-14	Male	Interferon alfa-2b	Theophylline	0
+15-19	Male	Interferon alfa-2b	Theophylline	0
+20-24	Male	Interferon alfa-2b	Theophylline	0
+25-29	Male	Interferon alfa-2b	Theophylline	0
+30-34	Male	Interferon alfa-2b	Theophylline	0
+35-39	Male	Interferon alfa-2b	Theophylline	0
+40-44	Male	Interferon alfa-2b	Theophylline	0
+45-49	Male	Interferon alfa-2b	Theophylline	0
+50-54	Male	Interferon alfa-2b	Theophylline	0
+55-59	Male	Interferon alfa-2b	Theophylline	0
+60-64	Male	Interferon alfa-2b	Theophylline	0
+65-69	Male	Interferon alfa-2b	Theophylline	0
+70-74	Male	Interferon alfa-2b	Theophylline	0
+75-79	Male	Interferon alfa-2b	Theophylline	0
+80-84	Male	Interferon alfa-2b	Theophylline	0
+85-89	Male	Interferon alfa-2b	Theophylline	0
+>90	Male	Interferon alfa-2b	Theophylline	0

@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Indocyanine green acid form	0	0	0	0
+05-09	Male	Indocyanine green acid form	0	0	0	0
+10-14	Male	Indocyanine green acid form	0	0	0	0
+15-19	Male	Indocyanine green acid form	0	0	0	0
+20-24	Male	Indocyanine green acid form	0	0.0146434324205594	0.0146434324205594	1
+25-29	Male	Indocyanine green acid form	0	0	0	0
+30-34	Male	Indocyanine green acid form	0	0	0	0
+35-39	Male	Indocyanine green acid form	0	0.0419874037788663	0.0419874037788663	3
+40-44	Male	Indocyanine green acid form	0	0.0296471983397569	0.0296471983397569	2
+45-49	Male	Indocyanine green acid form	0	0.0137760022041604	0.0137760022041604	1
+50-54	Male	Indocyanine green acid form	0	0.024835465044083	0.024835465044083	2
+55-59	Male	Indocyanine green acid form	0	0.0451161741484322	0.0451161741484322	4
+60-64	Male	Indocyanine green acid form	0	0.012190661952944	0.012190661952944	1
+65-69	Male	Indocyanine green acid form	0	0.0450856627592426	0.0450856627592426	3
+70-74	Male	Indocyanine green acid form	0	0.0427350427350427	0.0427350427350427	2
+75-79	Male	Indocyanine green acid form	0	0	0	0
+80-84	Male	Indocyanine green acid form	0	0	0	0
+85-89	Male	Indocyanine green acid form	0	0.0809061488673139	0.0809061488673139	1
+>90	Male	Indocyanine green acid form	0	0	0	0

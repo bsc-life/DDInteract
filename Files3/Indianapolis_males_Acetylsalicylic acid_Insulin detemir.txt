@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Insulin detemir	0
+05-09	Male	Acetylsalicylic acid	Insulin detemir	0
+10-14	Male	Acetylsalicylic acid	Insulin detemir	0
+15-19	Male	Acetylsalicylic acid	Insulin detemir	0
+20-24	Male	Acetylsalicylic acid	Insulin detemir	0
+25-29	Male	Acetylsalicylic acid	Insulin detemir	0.00025442055718102
+30-34	Male	Acetylsalicylic acid	Insulin detemir	0.000130753138075314
+35-39	Male	Acetylsalicylic acid	Insulin detemir	0.00111966410076977
+40-44	Male	Acetylsalicylic acid	Insulin detemir	0.000444707975096353
+45-49	Male	Acetylsalicylic acid	Insulin detemir	0.00151536024245764
+50-54	Male	Acetylsalicylic acid	Insulin detemir	0.00260772382962871
+55-59	Male	Acetylsalicylic acid	Insulin detemir	0.0034965034965035
+60-64	Male	Acetylsalicylic acid	Insulin detemir	0.00402291844447153
+65-69	Male	Acetylsalicylic acid	Insulin detemir	0.00691313495641719
+70-74	Male	Acetylsalicylic acid	Insulin detemir	0.00641025641025641
+75-79	Male	Acetylsalicylic acid	Insulin detemir	0.00375822110867523
+80-84	Male	Acetylsalicylic acid	Insulin detemir	0.00445765230312036
+85-89	Male	Acetylsalicylic acid	Insulin detemir	0.00485436893203883
+>90	Male	Acetylsalicylic acid	Insulin detemir	0

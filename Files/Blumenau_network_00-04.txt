@@ -1,0 +1,18 @@
+drug1	drug2	strength	RR	severity	patients.fem.mal	description	color	onethousand	fdr
+Valproic acid	Carbamazepine	0.286	Inf	Moderate	1 (1/0)	Carbamazepine decreases the effect of valproic acid	#B32020	9.20640765973117	0.124878955040157
+Valproic acid	Phenobarbital	0.401	2.055	Moderate	3 (2/1)	Valproic acid increases the effect of barbiturate	#B32020	27.6192229791935	0.00178645862821167
+Atenolol	Glyburide	1	Inf	Moderate	1 (1/0)	The beta-blocker decreases the symptoms of hypoglycemia	#B32020	9.20640765973117	0.0422262918638668
+Atenolol	Ibuprofen	0.194	Inf	Moderate	1 (1/0)	Risk of inhibition of renal prostaglandins	#B32020	9.20640765973117	1
+Digoxin	Levothyroxine	0.308	Inf	Moderate	1 (1/0)	The thyroid hormones decreases the effect of digoxin	#B32020	9.20640765973117	0.376694457048103
+Digoxin	Furosemide	0.672	Inf	Moderate	1 (1/0)	Possible electrolyte variations and arrhythmias	#B32020	9.20640765973117	0.112396294837636
+Digoxin	Hydrochlorothiazide	0.443	Inf	Moderate	1 (1/0)	Possible electrolyte variations and arrhythmias	#B32020	9.20640765973117	0.251962487658445
+Spironolactone	Losartan	1	Inf	Major	1 (1/0)	Increased risk of hyperkaliemia	#B32020	9.20640765973117	0.0344161134529176
+Haloperidol	Biperiden	1	Inf	Moderate	1 (1/0)	The anticholinergic increases the risk of psychosis and tardive dyskinesia	#B32020	9.20640765973117	0.00156508930215482
+Prednisolone	Ethinylestradiol	0.276	Inf	Moderate	1 (1/0)	The estrogenic agent increases the effect of the corticosteroid	#B32020	9.20640765973117	1
+Prednisolone	Phenobarbital	0.112	2.055	Moderate	6 (4/2)	The barbiturate decreases the effect of the corticosteroid	#B32020	55.238445958387	1
+Acetylsalicylic acid	Glyburide	0.872	2.055	Moderate	3 (2/1)	The salicylate increases the effect of sulfonylurea	#B32020	27.6192229791935	1.40996812769459e-07
+Acetylsalicylic acid	Ibuprofen	0.839	-1.946	Major	3 (1/2)	Ibuprofen reduces ASA cardioprotective effects	#1E61A5	27.6192229791935	1
+Erythromycin	Valproic acid	0.146	-Inf	Moderate	1 (0/1)	Erythromycin increases the effect of valproic acid	#1E61A5	9.20640765973117	1
+Amitriptyline	Fluoxetine	0.934	-Inf	Major	1 (0/1)	Fluoxetine increases the effect and toxicity of tricyclics	#1E61A5	9.20640765973117	0.0547176306926979
+Levothyroxine	Iron	0.641	-Inf	Moderate	1 (0/1)	Iron decreases absorption of levothyroxine	#1E61A5	9.20640765973117	1
+Imipramine	Fluoxetine	0.934	-Inf	Major	1 (0/1)	Fluoxetine increases the effect and toxicity of tricyclics	#1E61A5	9.20640765973117	0.0109556251150762

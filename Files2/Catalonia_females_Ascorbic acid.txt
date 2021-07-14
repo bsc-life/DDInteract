@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	Female	Ascorbic acid	0	0.0033	0.0033	10
+20-24	Female	Ascorbic acid	0	6e-04	6e-04	2
+25-29	Female	Ascorbic acid	0	9e-04	9e-04	4
+30-34	Female	Ascorbic acid	0	9e-04	0.0011	6
+35-39	Female	Ascorbic acid	0	3e-04	3e-04	2
+40-44	Female	Ascorbic acid	0	0.0014	0.0016	9
+45-49	Female	Ascorbic acid	0	0.0017	0.0017	9
+50-54	Female	Ascorbic acid	0	0.002	0.0022	11
+55-59	Female	Ascorbic acid	0	0.004	0.004	19
+60-64	Female	Ascorbic acid	0	0.0065	0.0065	30
+65-69	Female	Ascorbic acid	0	0.0069	0.0071	30
+70-74	Female	Ascorbic acid	0	0.0079	0.0084	33
+75-79	Female	Ascorbic acid	0	0.0134	0.0143	51
+80-84	Female	Ascorbic acid	0	0.0173	0.0179	57
+85-89	Female	Ascorbic acid	0	0.0111	0.0115	29
+>90	Female	Ascorbic acid	0	0.0079	0.0079	12

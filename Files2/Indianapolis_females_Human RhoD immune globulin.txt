@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Human RhoD immune globulin	0	0	0	0
+05-09	Female	Human RhoD immune globulin	0	0	0	0
+10-14	Female	Human RhoD immune globulin	0	0	0.0122684333210649	1
+15-19	Female	Human RhoD immune globulin	0	0	0.413223140495868	43
+20-24	Female	Human RhoD immune globulin	0	0	0.895073335840541	119
+25-29	Female	Human RhoD immune globulin	0	0	1.20059705366993	185
+30-34	Female	Human RhoD immune globulin	0	0	1.31782375027608	179
+35-39	Female	Human RhoD immune globulin	0	0	0.637700875775869	75
+40-44	Female	Human RhoD immune globulin	0	0	0.173859685007159	17
+45-49	Female	Human RhoD immune globulin	0	0	0.0195007800312012	2
+50-54	Female	Human RhoD immune globulin	0	0	0	0
+55-59	Female	Human RhoD immune globulin	0	0	0	0
+60-64	Female	Human RhoD immune globulin	0	0	0	0
+65-69	Female	Human RhoD immune globulin	0	0	0	0
+70-74	Female	Human RhoD immune globulin	0	0	0	0
+75-79	Female	Human RhoD immune globulin	0	0	0	0
+80-84	Female	Human RhoD immune globulin	0	0	0	0
+85-89	Female	Human RhoD immune globulin	0	0	0	0
+>90	Female	Human RhoD immune globulin	0	0	0	0

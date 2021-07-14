@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Insulin detemir	0	0.0194	0.0246	19
+05-09	Male	Insulin detemir	0	0.0523	0.0675	120
+10-14	Male	Insulin detemir	0	0.0922	0.104	273
+15-19	Male	Insulin detemir	4e-04	0.068	0.074	211
+20-24	Male	Insulin detemir	0.0023	0.0467	0.054	162
+25-29	Male	Insulin detemir	0.0011	0.0478	0.0521	194
+30-34	Male	Insulin detemir	0.0034	0.0614	0.0682	323
+35-39	Male	Insulin detemir	0.0077	0.0758	0.0843	457
+40-44	Male	Insulin detemir	0.0183	0.112	0.1221	654
+45-49	Male	Insulin detemir	0.0499	0.1741	0.1881	924
+50-54	Male	Insulin detemir	0.0918	0.274	0.2918	1326
+55-59	Male	Insulin detemir	0.1535	0.4001	0.4193	1786
+60-64	Male	Insulin detemir	0.2339	0.5449	0.5687	2341
+65-69	Male	Insulin detemir	0.3336	0.733	0.7573	2860
+70-74	Male	Insulin detemir	0.3897	0.8616	0.8844	2993
+75-79	Male	Insulin detemir	0.4801	1.0535	1.077	3069
+80-84	Male	Insulin detemir	0.5551	1.2231	1.2551	2790
+85-89	Male	Insulin detemir	0.5589	1.2018	1.237	1828
+>90	Male	Insulin detemir	0.4395	1.0143	1.0378	706

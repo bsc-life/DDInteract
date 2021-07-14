@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Sodium fluoride	0	0	0	0
+05-09	Female	Sodium fluoride	0	0	0.0111172873818788	1
+10-14	Female	Sodium fluoride	0	0	0.0368052999631947	3
+15-19	Female	Sodium fluoride	0	0	0.0192196809532962	2
+20-24	Female	Sodium fluoride	0	0	0.0225648740127868	3
+25-29	Female	Sodium fluoride	0	0	0.00648971380362126	1
+30-34	Female	Sodium fluoride	0	0	0.0147242877125819	2
+35-39	Female	Sodium fluoride	0	0	0.0170053566873565	2
+40-44	Female	Sodium fluoride	0	0	0.0102270402945388	1
+45-49	Female	Sodium fluoride	0	0	0.0292511700468019	3
+50-54	Female	Sodium fluoride	0	0	0.0646412411118293	7
+55-59	Female	Sodium fluoride	0	0	0.0349895031490553	4
+60-64	Female	Sodium fluoride	0	0	0.0555247084952804	6
+65-69	Female	Sodium fluoride	0	0	0.0896057347670251	8
+70-74	Female	Sodium fluoride	0	0	0.0792393026941363	5
+75-79	Female	Sodium fluoride	0	0	0.132216835610401	6
+80-84	Female	Sodium fluoride	0	0	0.12073649260489	4
+85-89	Female	Sodium fluoride	0	0	0.176991150442478	4
+>90	Female	Sodium fluoride	0	0	0	0

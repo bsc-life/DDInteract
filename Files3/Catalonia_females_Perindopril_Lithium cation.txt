@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Perindopril	Lithium cation	0
+05-09	Female	Perindopril	Lithium cation	0
+10-14	Female	Perindopril	Lithium cation	0
+15-19	Female	Perindopril	Lithium cation	0
+20-24	Female	Perindopril	Lithium cation	0
+25-29	Female	Perindopril	Lithium cation	0
+30-34	Female	Perindopril	Lithium cation	0
+35-39	Female	Perindopril	Lithium cation	0
+40-44	Female	Perindopril	Lithium cation	0
+45-49	Female	Perindopril	Lithium cation	0
+50-54	Female	Perindopril	Lithium cation	0
+55-59	Female	Perindopril	Lithium cation	2.09988303651487e-06
+60-64	Female	Perindopril	Lithium cation	0
+65-69	Female	Perindopril	Lithium cation	2.37388724035608e-06
+70-74	Female	Perindopril	Lithium cation	2.55507463373005e-06
+75-79	Female	Perindopril	Lithium cation	2.79839260328867e-06
+80-84	Female	Perindopril	Lithium cation	3.14234179880214e-06
+85-89	Female	Perindopril	Lithium cation	0
+>90	Female	Perindopril	Lithium cation	0

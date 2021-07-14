@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Lithium cation	0	0.0013	0.0013	1
+05-09	Male	Lithium cation	0.0011	0.0023	0.0028	5
+10-14	Male	Lithium cation	0.008	0.0191	0.0194	51
+15-19	Male	Lithium cation	0.0144	0.0536	0.0596	170
+20-24	Male	Lithium cation	0.029	0.0951	0.1067	320
+25-29	Male	Lithium cation	0.0427	0.1271	0.1411	525
+30-34	Male	Lithium cation	0.0555	0.1647	0.1795	850
+35-39	Male	Lithium cation	0.0754	0.2032	0.2173	1178
+40-44	Male	Lithium cation	0.0965	0.2464	0.264	1414
+45-49	Male	Lithium cation	0.1087	0.2767	0.2948	1448
+50-54	Male	Lithium cation	0.1221	0.2836	0.3001	1364
+55-59	Male	Lithium cation	0.1251	0.2719	0.2843	1211
+60-64	Male	Lithium cation	0.1134	0.2475	0.2568	1057
+65-69	Male	Lithium cation	0.0953	0.1949	0.2023	764
+70-74	Male	Lithium cation	0.0694	0.1445	0.1495	506
+75-79	Male	Lithium cation	0.0509	0.1063	0.1091	311
+80-84	Male	Lithium cation	0.036	0.0765	0.0796	177
+85-89	Male	Lithium cation	0.0223	0.0487	0.0508	75
+>90	Male	Lithium cation	0.0132	0.0235	0.0265	18

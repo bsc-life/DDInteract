@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Ibuprofen	0.000207350577989736
+05-09	Male	Acetylsalicylic acid	Ibuprofen	0.000326405654696583
+10-14	Male	Acetylsalicylic acid	Ibuprofen	0.000339180707096499
+15-19	Male	Acetylsalicylic acid	Ibuprofen	0.000539901906134197
+20-24	Male	Acetylsalicylic acid	Ibuprofen	0.00057711489256656
+25-29	Male	Acetylsalicylic acid	Ibuprofen	0.00058867169860009
+30-34	Male	Acetylsalicylic acid	Ibuprofen	0.000857173018051304
+35-39	Male	Acetylsalicylic acid	Ibuprofen	0.00143483400741024
+40-44	Male	Acetylsalicylic acid	Ibuprofen	0.00276504578848613
+45-49	Male	Acetylsalicylic acid	Ibuprofen	0.00572750280470498
+50-54	Male	Acetylsalicylic acid	Ibuprofen	0.0109628469074297
+55-59	Male	Acetylsalicylic acid	Ibuprofen	0.0169225712541673
+60-64	Male	Acetylsalicylic acid	Ibuprofen	0.0258422162409025
+65-69	Male	Acetylsalicylic acid	Ibuprofen	0.0346224628950469
+70-74	Male	Acetylsalicylic acid	Ibuprofen	0.0369088846076566
+75-79	Male	Acetylsalicylic acid	Ibuprofen	0.0407179955081415
+80-84	Male	Acetylsalicylic acid	Ibuprofen	0.0424297223984129
+85-89	Male	Acetylsalicylic acid	Ibuprofen	0.0384490458790093
+>90	Male	Acetylsalicylic acid	Ibuprofen	0.0417028032162754

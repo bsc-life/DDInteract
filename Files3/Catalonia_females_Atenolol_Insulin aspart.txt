@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Atenolol	Insulin aspart	0
+05-09	Female	Atenolol	Insulin aspart	0
+10-14	Female	Atenolol	Insulin aspart	4.03691353738586e-06
+15-19	Female	Atenolol	Insulin aspart	0
+20-24	Female	Atenolol	Insulin aspart	0
+25-29	Female	Atenolol	Insulin aspart	0
+30-34	Female	Atenolol	Insulin aspart	7.3506846243892e-06
+35-39	Female	Atenolol	Insulin aspart	5.10049678838719e-06
+40-44	Female	Atenolol	Insulin aspart	1.2307194610152e-05
+45-49	Female	Atenolol	Insulin aspart	3.21252962141283e-05
+50-54	Female	Atenolol	Insulin aspart	5.56612456589198e-05
+55-59	Female	Atenolol	Insulin aspart	0.000144891929519526
+60-64	Female	Atenolol	Insulin aspart	0.000265924982998239
+65-69	Female	Atenolol	Insulin aspart	0.000344213649851632
+70-74	Female	Atenolol	Insulin aspart	0.000424142389199189
+75-79	Female	Atenolol	Insulin aspart	0.000422557283096589
+80-84	Female	Atenolol	Insulin aspart	0.000292237787288599
+85-89	Female	Atenolol	Insulin aspart	0.000193819146958424
+>90	Female	Atenolol	Insulin aspart	7.23846123474988e-05

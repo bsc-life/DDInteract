@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Male	Fusidic acid	0	0.0091	0.0104	8
+05-09	Male	Fusidic acid	0	0.0051	0.0158	28
+10-14	Male	Fusidic acid	0	0.0171	0.0408	107
+15-19	Male	Fusidic acid	0	0.0656	0.2054	586
+20-24	Male	Fusidic acid	3e-04	0.0701	0.1841	552
+25-29	Male	Fusidic acid	5e-04	0.078	0.1806	672
+30-34	Male	Fusidic acid	6e-04	0.0707	0.1607	761
+35-39	Male	Fusidic acid	0.0017	0.0666	0.1435	778
+40-44	Male	Fusidic acid	0.0021	0.0736	0.1434	768
+45-49	Male	Fusidic acid	0.0053	0.078	0.1334	655
+50-54	Male	Fusidic acid	0.0095	0.086	0.1309	595
+55-59	Male	Fusidic acid	0.0171	0.096	0.1334	568
+60-64	Male	Fusidic acid	0.0253	0.113	0.1431	589
+65-69	Male	Fusidic acid	0.0289	0.1165	0.1393	526
+70-74	Male	Fusidic acid	0.0266	0.1114	0.1271	430
+75-79	Male	Fusidic acid	0.0333	0.1421	0.1593	454
+80-84	Male	Fusidic acid	0.0324	0.1583	0.1777	395
+85-89	Male	Fusidic acid	0.0237	0.1462	0.1638	242
+>90	Male	Fusidic acid	0.0191	0.1735	0.1808	123

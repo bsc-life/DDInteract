@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Acetylsalicylic acid	0.0237	0.0697	0.0865	62
+05-09	Female	Acetylsalicylic acid	0.0313	0.0804	0.1052	178
+10-14	Female	Acetylsalicylic acid	0.0379	0.157	0.1885	467
+15-19	Female	Acetylsalicylic acid	0.0778	0.5152	0.5816	1742
+20-24	Female	Acetylsalicylic acid	0.0796	0.5536	0.648	2321
+25-29	Female	Acetylsalicylic acid	0.1149	0.7121	0.8489	3821
+30-34	Female	Acetylsalicylic acid	0.1738	1.003	1.1939	6497
+35-39	Female	Acetylsalicylic acid	0.2673	1.3571	1.5771	9276
+40-44	Female	Acetylsalicylic acid	0.3699	1.56	1.7545	9979
+45-49	Female	Acetylsalicylic acid	0.6183	2.1794	2.3727	12556
+50-54	Female	Acetylsalicylic acid	1.0252	3.5611	3.8098	19165
+55-59	Female	Acetylsalicylic acid	1.6971	5.7197	6.0437	28781
+60-64	Female	Acetylsalicylic acid	2.6919	8.898	9.2699	42528
+65-69	Female	Acetylsalicylic acid	3.929	12.992	13.4182	56524
+70-74	Female	Acetylsalicylic acid	5.09	17.4366	17.8965	70043
+75-79	Female	Acetylsalicylic acid	6.6048	22.9465	23.4631	83845
+80-84	Female	Acetylsalicylic acid	7.8615	28.1601	28.7047	91348
+85-89	Female	Acetylsalicylic acid	8.5716	32.403	32.9489	83299
+>90	Female	Acetylsalicylic acid	10.374	38.9127	39.4838	60002

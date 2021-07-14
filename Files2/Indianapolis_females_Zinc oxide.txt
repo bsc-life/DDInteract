@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Zinc oxide	0	0	0.97799511002445	144
+05-09	Female	Zinc oxide	0	0	0.177876598110061	16
+10-14	Female	Zinc oxide	0	0	0.0613421666053245	5
+15-19	Female	Zinc oxide	0	0	0.0384393619065923	4
+20-24	Female	Zinc oxide	0	0	0.090259496051147	12
+25-29	Female	Zinc oxide	0	0	0.0973457070543189	15
+30-34	Female	Zinc oxide	0	0	0.117794301700655	16
+35-39	Female	Zinc oxide	0	0	0.102032140124139	12
+40-44	Female	Zinc oxide	0	0	0.102270402945388	10
+45-49	Female	Zinc oxide	0	0	0.273010920436817	28
+50-54	Female	Zinc oxide	0	0	0.230861575399391	25
+55-59	Female	Zinc oxide	0	0	0.218684394681596	25
+60-64	Female	Zinc oxide	0	0	0.268369424393855	29
+65-69	Female	Zinc oxide	0	0	0.347222222222222	31
+70-74	Female	Zinc oxide	0	0	0.412044374009509	26
+75-79	Female	Zinc oxide	0	0	0.705156456588806	32
+80-84	Female	Zinc oxide	0	0	0.996076063990341	33
+85-89	Female	Zinc oxide	0	0	1.5929203539823	36
+>90	Female	Zinc oxide	0	0	1.68463611859838	25

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Carvedilol	Insulin detemir	0
+05-09	Female	Carvedilol	Insulin detemir	0
+10-14	Female	Carvedilol	Insulin detemir	0
+15-19	Female	Carvedilol	Insulin detemir	0
+20-24	Female	Carvedilol	Insulin detemir	0
+25-29	Female	Carvedilol	Insulin detemir	0
+30-34	Female	Carvedilol	Insulin detemir	0.000147242877125819
+35-39	Female	Carvedilol	Insulin detemir	0.000170053566873565
+40-44	Female	Carvedilol	Insulin detemir	0.000613622417672326
+45-49	Female	Carvedilol	Insulin detemir	0.000487519500780031
+50-54	Female	Carvedilol	Insulin detemir	0.000184689260319512
+55-59	Female	Carvedilol	Insulin detemir	0.0011371588523443
+60-64	Female	Carvedilol	Insulin detemir	0.00138811771238201
+65-69	Female	Carvedilol	Insulin detemir	0.00257616487455197
+70-74	Female	Carvedilol	Insulin detemir	0.00190174326465927
+75-79	Female	Carvedilol	Insulin detemir	0.00220361392684002
+80-84	Female	Carvedilol	Insulin detemir	0.00271657108361002
+85-89	Female	Carvedilol	Insulin detemir	0.00176991150442478
+>90	Female	Carvedilol	Insulin detemir	0

@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Eprosartan	Lithium cation	0
+05-09	Male	Eprosartan	Lithium cation	0
+10-14	Male	Eprosartan	Lithium cation	0
+15-19	Male	Eprosartan	Lithium cation	0
+20-24	Male	Eprosartan	Lithium cation	0
+25-29	Male	Eprosartan	Lithium cation	0
+30-34	Male	Eprosartan	Lithium cation	0
+35-39	Male	Eprosartan	Lithium cation	0
+40-44	Male	Eprosartan	Lithium cation	3.73402537270241e-06
+45-49	Male	Eprosartan	Lithium cation	2.03608347127799e-06
+50-54	Male	Eprosartan	Lithium cation	2.2004911496246e-06
+55-59	Male	Eprosartan	Lithium cation	4.69549701835939e-06
+60-64	Male	Eprosartan	Lithium cation	9.71694538105001e-06
+65-69	Male	Eprosartan	Lithium cation	1.05919580558461e-05
+70-74	Male	Eprosartan	Lithium cation	8.86451475646223e-06
+75-79	Male	Eprosartan	Lithium cation	0
+80-84	Male	Eprosartan	Lithium cation	0
+85-89	Male	Eprosartan	Lithium cation	0
+>90	Male	Eprosartan	Lithium cation	0

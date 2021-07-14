@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Indomethacin	Lithium cation	0
+05-09	Male	Indomethacin	Lithium cation	0
+10-14	Male	Indomethacin	Lithium cation	3.81101918085954e-06
+15-19	Male	Indomethacin	Lithium cation	3.50585653333894e-06
+20-24	Male	Indomethacin	Lithium cation	0
+25-29	Male	Indomethacin	Lithium cation	2.6879986237447e-06
+30-34	Male	Indomethacin	Lithium cation	2.11126359125937e-06
+35-39	Male	Indomethacin	Lithium cation	1.84425964962755e-06
+40-44	Male	Indomethacin	Lithium cation	5.60103805905361e-06
+45-49	Male	Indomethacin	Lithium cation	1.22165008276679e-05
+50-54	Male	Indomethacin	Lithium cation	1.1002455748123e-05
+55-59	Male	Indomethacin	Lithium cation	1.17387425458985e-05
+60-64	Male	Indomethacin	Lithium cation	1.4575418071575e-05
+65-69	Male	Indomethacin	Lithium cation	5.29597902792305e-06
+70-74	Male	Indomethacin	Lithium cation	5.90967650430815e-06
+75-79	Male	Indomethacin	Lithium cation	3.50926445816957e-06
+80-84	Male	Indomethacin	Lithium cation	4.49848625937372e-06
+85-89	Male	Indomethacin	Lithium cation	0
+>90	Male	Indomethacin	Lithium cation	0

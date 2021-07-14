@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	Female	Tetanus immune globulin	0	6e-04	0.0012	2
+10-14	NA	NA	0	0	0	0
+15-19	Female	Tetanus immune globulin	0	3e-04	7e-04	2
+20-24	Female	Tetanus immune globulin	0	0.0011	0.0017	6
+25-29	Female	Tetanus immune globulin	0	0.0011	0.0011	5
+30-34	Female	Tetanus immune globulin	0	0.0015	0.0028	15
+35-39	Female	Tetanus immune globulin	0	0.002	0.0027	16
+40-44	Female	Tetanus immune globulin	0	9e-04	0.0021	12
+45-49	Female	Tetanus immune globulin	0	0.0025	0.0036	19
+50-54	Female	Tetanus immune globulin	0	0.0012	0.003	15
+55-59	Female	Tetanus immune globulin	0	0.0023	0.0031	15
+60-64	Female	Tetanus immune globulin	0	0.0031	0.0041	19
+65-69	Female	Tetanus immune globulin	0	0.0017	0.0017	7
+70-74	Female	Tetanus immune globulin	0	0.0018	0.0023	9
+75-79	Female	Tetanus immune globulin	0	8e-04	0.0011	4
+80-84	Female	Tetanus immune globulin	0	0.0013	0.0019	6
+85-89	Female	Tetanus immune globulin	0	0.0024	0.0024	6
+>90	Female	Tetanus immune globulin	0	0.0039	0.0053	8

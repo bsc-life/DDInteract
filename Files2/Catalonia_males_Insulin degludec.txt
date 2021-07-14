@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	Male	Insulin degludec	0	0.0236	0.0278	73
+15-19	Male	Insulin degludec	0	0.0501	0.054	154
+20-24	Male	Insulin degludec	0	0.0377	0.0414	124
+25-29	Male	Insulin degludec	0	0.0339	0.0382	142
+30-34	Male	Insulin degludec	0	0.0372	0.0433	205
+35-39	Male	Insulin degludec	0	0.0476	0.0524	284
+40-44	Male	Insulin degludec	0	0.0596	0.0653	350
+45-49	Male	Insulin degludec	0	0.056	0.0631	310
+50-54	Male	Insulin degludec	0	0.0559	0.0607	276
+55-59	Male	Insulin degludec	0	0.0578	0.0622	265
+60-64	Male	Insulin degludec	0	0.0656	0.0704	290
+65-69	Male	Insulin degludec	0	0.0633	0.0696	263
+70-74	Male	Insulin degludec	0	0.057	0.0629	213
+75-79	Male	Insulin degludec	0	0.0576	0.0607	173
+80-84	Male	Insulin degludec	0	0.0373	0.0396	88
+85-89	Male	Insulin degludec	0	0.0352	0.0365	54
+>90	Male	Insulin degludec	0	0.0191	0.0191	13

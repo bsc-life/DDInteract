@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Cholestyramine	Ursodeoxycholic acid	0
+05-09	Female	Cholestyramine	Ursodeoxycholic acid	0
+10-14	Female	Cholestyramine	Ursodeoxycholic acid	0
+15-19	Female	Cholestyramine	Ursodeoxycholic acid	3.33895390574133e-06
+20-24	Female	Cholestyramine	Ursodeoxycholic acid	2.79172866630746e-06
+25-29	Female	Cholestyramine	Ursodeoxycholic acid	6.66518551433015e-06
+30-34	Female	Cholestyramine	Ursodeoxycholic acid	5.5130134682919e-06
+35-39	Female	Cholestyramine	Ursodeoxycholic acid	3.57034775187103e-05
+40-44	Female	Cholestyramine	Ursodeoxycholic acid	6.32941437093533e-05
+45-49	Female	Cholestyramine	Ursodeoxycholic acid	6.04711458148298e-05
+50-54	Female	Cholestyramine	Ursodeoxycholic acid	7.55402619656769e-05
+55-59	Female	Cholestyramine	Ursodeoxycholic acid	7.55957893145352e-05
+60-64	Female	Cholestyramine	Ursodeoxycholic acid	0.000106805935794375
+65-69	Female	Cholestyramine	Ursodeoxycholic acid	0.000111572700296736
+70-74	Female	Cholestyramine	Ursodeoxycholic acid	0.000107313134616662
+75-79	Female	Cholestyramine	Ursodeoxycholic acid	0.000106338918924969
+80-84	Female	Cholestyramine	Ursodeoxycholic acid	7.22738613724492e-05
+85-89	Female	Cholestyramine	Ursodeoxycholic acid	6.72433775161879e-05
+>90	Female	Cholestyramine	Ursodeoxycholic acid	5.26433544345446e-05

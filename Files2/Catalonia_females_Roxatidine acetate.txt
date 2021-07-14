@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	NA	NA	0	0	0	0
+05-09	NA	NA	0	0	0	0
+10-14	NA	NA	0	0	0	0
+15-19	NA	NA	0	0	0	0
+20-24	NA	NA	0	0	0	0
+25-29	NA	NA	0	0	0	0
+30-34	NA	NA	0	0	0	0
+35-39	NA	NA	0	0	0	0
+40-44	NA	NA	0	0	0	0
+45-49	Female	Roxatidine acetate	0	0	2e-04	1
+50-54	Female	Roxatidine acetate	0	4e-04	4e-04	2
+55-59	NA	NA	0	0	0	0
+60-64	Female	Roxatidine acetate	0	9e-04	0.0011	5
+65-69	Female	Roxatidine acetate	0	0.0012	0.0014	6
+70-74	Female	Roxatidine acetate	0	5e-04	5e-04	2
+75-79	Female	Roxatidine acetate	0	3e-04	3e-04	1
+80-84	Female	Roxatidine acetate	0	9e-04	9e-04	3
+85-89	Female	Roxatidine acetate	0	4e-04	4e-04	1
+>90	Female	Roxatidine acetate	0	7e-04	7e-04	1

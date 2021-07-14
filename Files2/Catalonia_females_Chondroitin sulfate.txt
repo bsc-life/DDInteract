@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Chondroitin sulfate	0	0.0056	0.0112	8
+05-09	Female	Chondroitin sulfate	0	0.01	0.0142	24
+10-14	Female	Chondroitin sulfate	0	0.0569	0.1425	353
+15-19	Female	Chondroitin sulfate	0	0.2498	0.5847	1751
+20-24	Female	Chondroitin sulfate	0	0.3009	0.6119	2192
+25-29	Female	Chondroitin sulfate	0	0.3588	0.7074	3184
+30-34	Female	Chondroitin sulfate	0	0.4743	0.8317	4526
+35-39	Female	Chondroitin sulfate	0	0.6847	1.1061	6506
+40-44	Female	Chondroitin sulfate	0	1.1553	1.7274	9825
+45-49	Female	Chondroitin sulfate	0	2.0473	2.7943	14787
+50-54	Female	Chondroitin sulfate	0	3.6176	4.6012	23146
+55-59	Female	Chondroitin sulfate	0	5.0645	6.0764	28937
+60-64	Female	Chondroitin sulfate	0	6.0692	6.9154	31726
+65-69	Female	Chondroitin sulfate	0	6.4731	7.1426	30088
+70-74	Female	Chondroitin sulfate	0	5.4755	5.9283	23202
+75-79	Female	Chondroitin sulfate	0	4.6224	4.9512	17693
+80-84	Female	Chondroitin sulfate	0	3.1731	3.3969	10810
+85-89	Female	Chondroitin sulfate	0	1.8789	2.0098	5081
+>90	Female	Chondroitin sulfate	0	1.0706	1.1285	1715

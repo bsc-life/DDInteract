@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Mycophenolate mofetil	Valganciclovir	0.000119781996765886
+05-09	Male	Mycophenolate mofetil	Valganciclovir	0.000100532823967025
+10-14	Male	Mycophenolate mofetil	Valganciclovir	0
+15-19	Male	Mycophenolate mofetil	Valganciclovir	0
+20-24	Male	Mycophenolate mofetil	Valganciclovir	0.000146434324205594
+25-29	Male	Mycophenolate mofetil	Valganciclovir	0.00050884111436204
+30-34	Male	Mycophenolate mofetil	Valganciclovir	0.000130753138075314
+35-39	Male	Mycophenolate mofetil	Valganciclovir	0.000279916025192442
+40-44	Male	Mycophenolate mofetil	Valganciclovir	0.000148235991698784
+45-49	Male	Mycophenolate mofetil	Valganciclovir	0.000551040088166414
+50-54	Male	Mycophenolate mofetil	Valganciclovir	0.000745063951322488
+55-59	Male	Mycophenolate mofetil	Valganciclovir	0.00101511391833972
+60-64	Male	Mycophenolate mofetil	Valganciclovir	0.00109715957576496
+65-69	Male	Mycophenolate mofetil	Valganciclovir	0.000901713255184851
+70-74	Male	Mycophenolate mofetil	Valganciclovir	0.000427350427350427
+75-79	Male	Mycophenolate mofetil	Valganciclovir	0.000313185092389602
+80-84	Male	Mycophenolate mofetil	Valganciclovir	0
+85-89	Male	Mycophenolate mofetil	Valganciclovir	0
+>90	Male	Mycophenolate mofetil	Valganciclovir	0

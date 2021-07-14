@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetazolamide	Acetylsalicylic acid	0.000479127987063544
+05-09	Male	Acetazolamide	Acetylsalicylic acid	0
+10-14	Male	Acetazolamide	Acetylsalicylic acid	0
+15-19	Male	Acetazolamide	Acetylsalicylic acid	0
+20-24	Male	Acetazolamide	Acetylsalicylic acid	0
+25-29	Male	Acetazolamide	Acetylsalicylic acid	0
+30-34	Male	Acetazolamide	Acetylsalicylic acid	0.000130753138075314
+35-39	Male	Acetazolamide	Acetylsalicylic acid	0.000139958012596221
+40-44	Male	Acetazolamide	Acetylsalicylic acid	0.000296471983397569
+45-49	Male	Acetazolamide	Acetylsalicylic acid	0.000688800110208018
+50-54	Male	Acetazolamide	Acetylsalicylic acid	0.000496709300881659
+55-59	Male	Acetazolamide	Acetylsalicylic acid	0.000676742612226483
+60-64	Male	Acetazolamide	Acetylsalicylic acid	0.00134097281482384
+65-69	Male	Acetazolamide	Acetylsalicylic acid	0.00135256988277728
+70-74	Male	Acetazolamide	Acetylsalicylic acid	0.00256410256410256
+75-79	Male	Acetazolamide	Acetylsalicylic acid	0.00313185092389602
+80-84	Male	Acetazolamide	Acetylsalicylic acid	0.00396235760277365
+85-89	Male	Acetazolamide	Acetylsalicylic acid	0.00242718446601942
+>90	Male	Acetazolamide	Acetylsalicylic acid	0

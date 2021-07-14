@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Metoprolol	0
+05-09	Male	Insulin glargine	Metoprolol	0
+10-14	Male	Insulin glargine	Metoprolol	0
+15-19	Male	Insulin glargine	Metoprolol	0
+20-24	Male	Insulin glargine	Metoprolol	0
+25-29	Male	Insulin glargine	Metoprolol	0.000636051392952551
+30-34	Male	Insulin glargine	Metoprolol	0.000915271966527197
+35-39	Male	Insulin glargine	Metoprolol	0.00167949615115465
+40-44	Male	Insulin glargine	Metoprolol	0.0038541357841684
+45-49	Male	Insulin glargine	Metoprolol	0.00812784130045461
+50-54	Male	Insulin glargine	Metoprolol	0.0119210232211598
+55-59	Male	Insulin glargine	Metoprolol	0.0118429957139635
+60-64	Male	Insulin glargine	Metoprolol	0.0162135803974156
+65-69	Male	Insulin glargine	Metoprolol	0.0186354072738203
+70-74	Male	Insulin glargine	Metoprolol	0.0217948717948718
+75-79	Male	Insulin glargine	Metoprolol	0.0231756968368306
+80-84	Male	Insulin glargine	Metoprolol	0.0247647350173353
+85-89	Male	Insulin glargine	Metoprolol	0.0113268608414239
+>90	Male	Insulin glargine	Metoprolol	0

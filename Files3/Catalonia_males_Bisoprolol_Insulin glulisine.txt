@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Bisoprolol	Insulin glulisine	0
+05-09	Male	Bisoprolol	Insulin glulisine	0
+10-14	Male	Bisoprolol	Insulin glulisine	0
+15-19	Male	Bisoprolol	Insulin glulisine	0
+20-24	Male	Bisoprolol	Insulin glulisine	0
+25-29	Male	Bisoprolol	Insulin glulisine	5.37599724748941e-06
+30-34	Male	Bisoprolol	Insulin glulisine	2.11126359125937e-06
+35-39	Male	Bisoprolol	Insulin glulisine	7.37703859851021e-06
+40-44	Male	Bisoprolol	Insulin glulisine	1.49361014908096e-05
+45-49	Male	Bisoprolol	Insulin glulisine	5.29381702532277e-05
+50-54	Male	Bisoprolol	Insulin glulisine	8.14181725361101e-05
+55-59	Male	Bisoprolol	Insulin glulisine	0.000140864910550782
+60-64	Male	Bisoprolol	Insulin glulisine	0.000172475780513638
+65-69	Male	Bisoprolol	Insulin glulisine	0.00020919117160296
+70-74	Male	Bisoprolol	Insulin glulisine	0.000245251574928788
+75-79	Male	Bisoprolol	Insulin glulisine	0.000221083660864683
+80-84	Male	Bisoprolol	Insulin glulisine	0.000179939450374949
+85-89	Male	Bisoprolol	Insulin glulisine	0.000162403572878603
+>90	Male	Bisoprolol	Insulin glulisine	0.000117596907201341

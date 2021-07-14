@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Insulin glargine	Labetalol	0
+05-09	Male	Insulin glargine	Labetalol	0
+10-14	Male	Insulin glargine	Labetalol	0
+15-19	Male	Insulin glargine	Labetalol	0
+20-24	Male	Insulin glargine	Labetalol	0
+25-29	Male	Insulin glargine	Labetalol	0
+30-34	Male	Insulin glargine	Labetalol	0.000261506276150628
+35-39	Male	Insulin glargine	Labetalol	0.000279916025192442
+40-44	Male	Insulin glargine	Labetalol	0.00118588793359028
+45-49	Male	Insulin glargine	Labetalol	0.00110208017633283
+50-54	Male	Insulin glargine	Labetalol	0.00136595057742456
+55-59	Male	Insulin glargine	Labetalol	0.00135348522445297
+60-64	Male	Insulin glargine	Labetalol	0.00146287943435329
+65-69	Male	Insulin glargine	Labetalol	0.00120228434024647
+70-74	Male	Insulin glargine	Labetalol	0.00192307692307692
+75-79	Male	Insulin glargine	Labetalol	0.00125274036955841
+80-84	Male	Insulin glargine	Labetalol	0.00247647350173353
+85-89	Male	Insulin glargine	Labetalol	0
+>90	Male	Insulin glargine	Labetalol	0

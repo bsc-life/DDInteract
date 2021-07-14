@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Female	Mycophenolate mofetil	Valganciclovir	6.79163270850312e-05
+05-09	Female	Mycophenolate mofetil	Valganciclovir	0.000222345747637576
+10-14	Female	Mycophenolate mofetil	Valganciclovir	0
+15-19	Female	Mycophenolate mofetil	Valganciclovir	9.60984047664809e-05
+20-24	Female	Mycophenolate mofetil	Valganciclovir	0.000150432493418578
+25-29	Female	Mycophenolate mofetil	Valganciclovir	0
+30-34	Female	Mycophenolate mofetil	Valganciclovir	0.000220864315688729
+35-39	Female	Mycophenolate mofetil	Valganciclovir	8.50267834367826e-05
+40-44	Female	Mycophenolate mofetil	Valganciclovir	0.000102270402945388
+45-49	Female	Mycophenolate mofetil	Valganciclovir	0.000292511700468019
+50-54	Female	Mycophenolate mofetil	Valganciclovir	0.000461723150798781
+55-59	Female	Mycophenolate mofetil	Valganciclovir	0.000349895031490553
+60-64	Female	Mycophenolate mofetil	Valganciclovir	0.000462705904127337
+65-69	Female	Mycophenolate mofetil	Valganciclovir	0.000896057347670251
+70-74	Female	Mycophenolate mofetil	Valganciclovir	0.00063391442155309
+75-79	Female	Mycophenolate mofetil	Valganciclovir	0
+80-84	Female	Mycophenolate mofetil	Valganciclovir	0
+85-89	Female	Mycophenolate mofetil	Valganciclovir	0
+>90	Female	Mycophenolate mofetil	Valganciclovir	0

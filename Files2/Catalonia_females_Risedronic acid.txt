@@ -1,0 +1,20 @@
+edades	gender	name_drug	pat_inter	pat_coad	patient	pat_tot
+00-04	Female	Risedronic acid	0	0.0056	0.007	5
+05-09	Female	Risedronic acid	0	0.0024	0.0035	6
+10-14	Female	Risedronic acid	0	0.0036	0.0044	11
+15-19	Female	Risedronic acid	0	0.0093	0.013	39
+20-24	Female	Risedronic acid	0	0.0137	0.0176	63
+25-29	Female	Risedronic acid	0	0.0176	0.0229	103
+30-34	Female	Risedronic acid	0	0.0259	0.0314	171
+35-39	Female	Risedronic acid	0	0.0425	0.05	294
+40-44	Female	Risedronic acid	0	0.0682	0.0818	465
+45-49	Female	Risedronic acid	0	0.1858	0.2326	1231
+50-54	Female	Risedronic acid	0	0.6669	0.8073	4061
+55-59	Female	Risedronic acid	0	1.5113	1.7542	8354
+60-64	Female	Risedronic acid	0	2.4258	2.6797	12294
+65-69	Female	Risedronic acid	0	3.0419	3.2615	13739
+70-74	Female	Risedronic acid	0	3.202	3.3809	13232
+75-79	Female	Risedronic acid	0	3.5677	3.7255	13313
+80-84	Female	Risedronic acid	0	3.1379	3.253	10352
+85-89	Female	Risedronic acid	0	2.261	2.3357	5905
+>90	Female	Risedronic acid	0	1.5286	1.5813	2403

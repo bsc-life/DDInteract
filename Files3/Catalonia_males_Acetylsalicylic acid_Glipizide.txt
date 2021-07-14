@@ -1,0 +1,20 @@
+age_group	gender	name_i	name_j	patient
+00-04	Male	Acetylsalicylic acid	Glipizide	0
+05-09	Male	Acetylsalicylic acid	Glipizide	0
+10-14	Male	Acetylsalicylic acid	Glipizide	0
+15-19	Male	Acetylsalicylic acid	Glipizide	0
+20-24	Male	Acetylsalicylic acid	Glipizide	0
+25-29	Male	Acetylsalicylic acid	Glipizide	0
+30-34	Male	Acetylsalicylic acid	Glipizide	4.22252718251874e-06
+35-39	Male	Acetylsalicylic acid	Glipizide	0
+40-44	Male	Acetylsalicylic acid	Glipizide	1.49361014908096e-05
+45-49	Male	Acetylsalicylic acid	Glipizide	4.07216694255598e-05
+50-54	Male	Acetylsalicylic acid	Glipizide	8.80196459849838e-05
+55-59	Male	Acetylsalicylic acid	Glipizide	0.000194863126261915
+60-64	Male	Acetylsalicylic acid	Glipizide	0.000391107051587263
+65-69	Male	Acetylsalicylic acid	Glipizide	0.000609037588211151
+70-74	Male	Acetylsalicylic acid	Glipizide	0.000862812769628991
+75-79	Male	Acetylsalicylic acid	Glipizide	0.00097206625491297
+80-84	Male	Acetylsalicylic acid	Glipizide	0.0011291200511028
+85-89	Male	Acetylsalicylic acid	Glipizide	0.00116389227229666
+>90	Male	Acetylsalicylic acid	Glipizide	0.0011318702318129
