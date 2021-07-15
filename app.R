@@ -323,7 +323,7 @@ server <- function(input, output) {
     ## Round the FDR and the number of patients
     df$fdr<-round(as.numeric(df$fdr),3)
     df$onethousand<-round(as.numeric(df$onethousand))
-    if(is.null(input$net_plot_selected)){
+    if(is.null(input$net_plot_selected) | input$net_plot_selected == ''){
       colnames(df) <- c("drug1", "drug2","strength", "RR","severity","patients(fem/mal)","description","color","pats/100,000","fdr")
       df
     }else{
