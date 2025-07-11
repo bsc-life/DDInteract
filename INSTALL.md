@@ -61,8 +61,8 @@ in order to install the app and its dependencies:
 
 ```bash
 cd "${HOME}"/SHINY_ROOT
-git clone https://github.com/bsc-life/neurodegenerative_diseases-cancer_comorbidities.git
-cd neurodegenerative_diseases-cancer_comorbidities
+git clone https://github.com/bsc-life/DDInteract.git ddinteract
+cd ddinteract
 R -f create_r_user.R
 R -f bootstrap.R
 ```
@@ -73,10 +73,11 @@ In case the dependencies versions have to be updated, or [regen_bootstrap.R](reg
 these are the steps to regenerate the renv profiles:
 
 ```bash
-cd "${HOME}"/SHINY_ROOT/neurodegenerative_diseases-cancer_comorbidities
+cd "${HOME}"/SHINY_ROOT/ddinteract
 rm -rf renv renv.lock .Rprofile
 R -f create_r_user.R
 R -f regen_bootstrap.R
+R -f bootstrap.R
 ```
 
 ## Apache setup
@@ -107,11 +108,11 @@ applying either the generic setup or the specific one.
         RedirectMatch permanent ^/ddinteract$ /ddinteract/
 
         RewriteCond %{HTTP:Upgrade} =websocket
-        RewriteRule /ddinteract/(.*) ws://localhost:3838/drug-drug_interactions/$1 [P,L]
+        RewriteRule /ddinteract/(.*) ws://localhost:3838/ddinteract/$1 [P,L]
         RewriteCond %{HTTP:Upgrade} !=websocket
-        RewriteRule /ddinteract/(.*) http://localhost:3838/drug-drug_interactions/$1 [P,L]
-        ProxyPass /ddinteract/ http://localhost:3838/drug-drug_interactions/
-        ProxyPassReverse /ddinteract/ http://localhost:3838/drug-drug_interactions/
+        RewriteRule /ddinteract/(.*) http://localhost:3838/ddinteract/$1 [P,L]
+        ProxyPass /ddinteract/ http://localhost:3838/ddinteract/
+        ProxyPassReverse /ddinteract/ http://localhost:3838/ddinteract/
 
 	ProxyRequests Off
 ```
